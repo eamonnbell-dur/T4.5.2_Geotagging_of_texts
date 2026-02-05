@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::150 /TEI[1]/text[1]/body[1]/p[1]::156" xml:id="UID-FAKE-6535">
+        <rs ana="https://topostext.org/place/490070RKel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::176 /TEI[1]/text[1]/body[1]/p[1]::186" xml:id="UID-FAKE-6536">
+        <rs ana="https://topostext.org/place/130350REth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::272 /TEI[1]/text[1]/body[1]/p[1]::281" xml:id="UID-FAKE-6537">
+        <rs ana="https://topostext.org/place/130350REth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::181 /TEI[1]/text[1]/body[1]/p[3]::188" xml:id="UID-FAKE-6538">
+        <rs ana="https://topostext.org/place/384226SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::192 /TEI[1]/text[1]/body[1]/p[3]::200" xml:id="UID-FAKE-6539">
+        <rs ana="https://topostext.org/place/411146RCam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::244 /TEI[1]/text[1]/body[1]/p[3]::249" xml:id="UID-FAKE-6540">
+        <rs ana="https://topostext.org/place/411143PCap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::275 /TEI[1]/text[1]/body[1]/p[3]::283" xml:id="UID-FAKE-6541">
+        <rs ana="https://topostext.org/place/411146RCam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::418 /TEI[1]/text[1]/body[1]/p[3]::424" xml:id="UID-FAKE-6542">
+        <rs ana="https://topostext.org/place/377214SArA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::536 /TEI[1]/text[1]/body[1]/p[3]::541" xml:id="UID-FAKE-6543">
+        <rs ana="https://topostext.org/place/300740RInd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::546 /TEI[1]/text[1]/body[1]/p[3]::555" xml:id="UID-FAKE-6544">
+        <rs ana="https://topostext.org/place/130350REth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::3 /TEI[1]/text[1]/body[1]/p[4]::10" xml:id="UID-FAKE-6545">
+        <rs ana="https://topostext.org/place/376216SOPe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::52 /TEI[1]/text[1]/body[1]/p[4]::62" xml:id="UID-FAKE-6546">
+        <rs ana="https://topostext.org/place/363432UNin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::75 /TEI[1]/text[1]/body[1]/p[4]::85" xml:id="UID-FAKE-6547">
+        <rs ana="https://topostext.org/place/335354RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::215 /TEI[1]/text[1]/body[1]/p[4]::221" xml:id="UID-FAKE-6548">
+        <rs ana="https://topostext.org/place/380237AThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::308 /TEI[1]/text[1]/body[1]/p[4]::315" xml:id="UID-FAKE-6549">
+        <rs ana="https://topostext.org/place/379273PEph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::89 /TEI[1]/text[1]/body[1]/p[5]::100" xml:id="UID-FAKE-6550">
+        <rs ana="https://topostext.org/place/430105RTyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::160 /TEI[1]/text[1]/body[1]/p[5]::167" xml:id="UID-FAKE-6551">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::217 /TEI[1]/text[1]/body[1]/p[5]::224" xml:id="UID-FAKE-6552">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::43 /TEI[1]/text[1]/body[1]/p[6]::49" xml:id="UID-FAKE-6553">
+        <rs ana="https://topostext.org/place/371252QLyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::88 /TEI[1]/text[1]/body[1]/p[6]::95" xml:id="UID-FAKE-6554">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::142 /TEI[1]/text[1]/body[1]/p[6]::148" xml:id="UID-FAKE-6555">
+        <rs ana="https://topostext.org/place/380237BRPs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::175 /TEI[1]/text[1]/body[1]/p[6]::180" xml:id="UID-FAKE-6556">
+        <rs ana="https://topostext.org/place/445250RDac"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::188 /TEI[1]/text[1]/body[1]/p[6]::194" xml:id="UID-FAKE-6557">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::256 /TEI[1]/text[1]/body[1]/p[6]::265" xml:id="UID-FAKE-6558">
+        <rs ana="https://topostext.org/place/370585RPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::445 /TEI[1]/text[1]/body[1]/p[6]::450" xml:id="UID-FAKE-6559">
+        <rs ana="https://topostext.org/place/419125SFRo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::454 /TEI[1]/text[1]/body[1]/p[6]::458" xml:id="UID-FAKE-6560">
+        <rs ana="https://topostext.org/place/419125SFRo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::84 /TEI[1]/text[1]/body[1]/p[7]::89" xml:id="UID-FAKE-6561">
+        <rs ana="https://topostext.org/place/404297PNic"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::163 /TEI[1]/text[1]/body[1]/p[7]::171" xml:id="UID-FAKE-6562">
+        <rs ana="https://topostext.org/place/405295RBit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::204 /TEI[1]/text[1]/body[1]/p[7]::212" xml:id="UID-FAKE-6563">
+        <rs ana="https://topostext.org/place/405295RBit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::225 /TEI[1]/text[1]/body[1]/p[7]::235" xml:id="UID-FAKE-6564">
+        <rs ana="https://topostext.org/place/408299PNik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::262 /TEI[1]/text[1]/body[1]/p[7]::269" xml:id="UID-FAKE-6565">
+        <rs ana="https://topostext.org/place/408299PNik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::309 /TEI[1]/text[1]/body[1]/p[7]::317" xml:id="UID-FAKE-6566">
+        <rs ana="https://topostext.org/place/413287UPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::440 /TEI[1]/text[1]/body[1]/p[7]::448" xml:id="UID-FAKE-6567">
+        <rs ana="https://topostext.org/place/380237WEri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::17 /TEI[1]/text[1]/body[1]/p[8]::24" xml:id="UID-FAKE-6568">
+        <rs ana="https://topostext.org/place/376216SOZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::308 /TEI[1]/text[1]/body[1]/p[8]::314" xml:id="UID-FAKE-6569">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::322 /TEI[1]/text[1]/body[1]/p[8]::331" xml:id="UID-FAKE-6570">
+        <rs ana="https://topostext.org/place/379237ALth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::337 /TEI[1]/text[1]/body[1]/p[8]::344" xml:id="UID-FAKE-6571">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::353 /TEI[1]/text[1]/body[1]/p[8]::363" xml:id="UID-FAKE-6572">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 5, Chapter 12</head>
+      <p>Those who think that the projections from the mouth of an elephant are not horns but teeth of the animal should consider both the elk, a beast of the Celtic land, and also the Aethiopian bull. Male elks have horns on their brows, but the female does not grow them at all. Ethiopian bulls grow their horns on their noses. Who therefore would be greatly surprised at horns growing out of an animal"s mouth?</p>
+      <p>They may also correct their error from the following considerations. Horns drop off animals each year and grow again; the deer and the antelope undergo this experience, and so likewise does the elephant. But a tooth will never be found to grow again, at least after the animal is full-grown. So if the projections through the mouth were teeth and not horns, how could they grow up again? Again, a tooth refuses to yield to fire; but fire turns the horns of oxen and elephants from round to flat, and also into other shapes. However, the hippopotamus and the boar have tusks growing out of the lower jaw, but we do not see horns growing out of jaws.</p>
+      <p>So be assured that an elephant"s horns descend through the temples from above, and so bend outwards. My statement is not hearsay; I once saw an elephant"s skull in the sanctuary of Artemis in Campania. The sanctuary is about thirty stades from Capua, which is the capital of Campania. So the elephant differs from all other animals in the way its horns grow, just as its size and shape are peculiar to itself. And the Greeks in my opinion showed an unsurpassed zeal and generosity in honoring the gods, in that they imported ivory from India and Aethiopia to make images.</p>
+      <p>In Olympia there is a woollen curtain, adorned with AssyrianYY weaving and Phoenician purple, which was dedicated by Antiochus, who also gave as offerings the golden aegis with the Gorgon on it above the theater at Athens. This curtain is not drawn upwards to the roof as is that in the temple of Artemis at Ephesus, but it is let down to the ground by cords.</p>
+      <p>The offerings inside, or in the fore-temple include: a throne of Arimnestus, king of the Tyrrhenians, who was the first foreigner to present an offering to the Olympic Zeus, and bronze horses of Cynisca, tokens of an Olympic victory. These are not as large as real horses, and stand in the fore-temple on the right as you enter. There is also a tripod, plated with bronze, upon which, before the table was made, were displayed the crowns for the victors.</p>
+      <p>There are statues of emperors: Hadrian, of Parian marble dedicated by the cities of the Achaean confederacy, and Trajan, dedicated by all the Greeks. This emperor subdued the Getae beyond Thrace, and made war on Osroes the descendant of Arsaces and on the Parthians. Of his architectural achievements the most remarkable are baths called after him, a large circular theater, a building for horse-races which is actually two stades long, and the Forum at Rome, worth seeing not only for its general beauty but especially for its roof made of bronze.</p>
+      <p>Of the statues set up in the round buildings, the amber one represents Augustus the Roman emperor, the ivory one they told me was a portrait of Nicomedes, king of Bithynia. After him the greatest city in Bithynia was renamed Nicomedeia; before him it was called Astacus, and its first founder was Zypoetes, a Thracian by birth to judge from his name. This amber of which the statue of Augustus is made, when found native in the sand of the Eridanus, is very rare and precious to men for many reasons; the other “amber” is an alloy of gold and silver.</p>
+      <p>In the temple at Olympia are four offerings of Nero — three crowns representing wild-olive leaves, and one representing oak leaves. Here too are laid twenty-five bronze shields, which are for the armed men to carry in the race. Tablets too are set up, including one on which is written the oath sworn by the Eleans to the Athenians, the Argives and the Mantineans, that they would be their allies for a hundred years.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::108 /TEI[1]/text[1]/body[1]/p[1]::113" xml:id="UID-FAKE-6711">
+        <rs ana="https://topostext.org/place/376216SOHe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::153 /TEI[1]/text[1]/body[1]/p[1]::160" xml:id="UID-FAKE-6712">
+        <rs ana="https://topostext.org/place/374217UPyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::183 /TEI[1]/text[1]/body[1]/p[1]::192" xml:id="UID-FAKE-6713">
+        <rs ana="https://topostext.org/place/375217RTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::301 /TEI[1]/text[1]/body[1]/p[1]::306" xml:id="UID-FAKE-6714">
+        <rs ana="https://topostext.org/place/376216SOHe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::107 /TEI[1]/text[1]/body[1]/p[2]::113" xml:id="UID-FAKE-6715">
+        <rs ana="https://topostext.org/place/376219PHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::141 /TEI[1]/text[1]/body[1]/p[3]::148" xml:id="UID-FAKE-6716">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::460 /TEI[1]/text[1]/body[1]/p[3]::467" xml:id="UID-FAKE-6717">
+        <rs ana="https://topostext.org/place/380237BKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::159 /TEI[1]/text[1]/body[1]/p[4]::166" xml:id="UID-FAKE-6718">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::204 /TEI[1]/text[1]/body[1]/p[4]::210" xml:id="UID-FAKE-6719">
+        <rs ana="https://topostext.org/place/376216SHpd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::393 /TEI[1]/text[1]/body[1]/p[4]::398" xml:id="UID-FAKE-6720">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::476 /TEI[1]/text[1]/body[1]/p[4]::481" xml:id="UID-FAKE-6721">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::68 /TEI[1]/text[1]/body[1]/p[5]::75" xml:id="UID-FAKE-6722">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::131 /TEI[1]/text[1]/body[1]/p[5]::135" xml:id="UID-FAKE-6723">
+        <rs ana="https://topostext.org/place/376217PPis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::166 /TEI[1]/text[1]/body[1]/p[5]::172" xml:id="UID-FAKE-6724">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::212 /TEI[1]/text[1]/body[1]/p[5]::216" xml:id="UID-FAKE-6725">
+        <rs ana="https://topostext.org/place/376217PPis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::284 /TEI[1]/text[1]/body[1]/p[5]::290" xml:id="UID-FAKE-6726">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::399 /TEI[1]/text[1]/body[1]/p[5]::403" xml:id="UID-FAKE-6727">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::48 /TEI[1]/text[1]/body[1]/p[6]::52" xml:id="UID-FAKE-6728">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::107 /TEI[1]/text[1]/body[1]/p[6]::111" xml:id="UID-FAKE-6729">
+        <rs ana="https://topostext.org/place/376217PPis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::116 /TEI[1]/text[1]/body[1]/p[6]::120" xml:id="UID-FAKE-6730">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::178 /TEI[1]/text[1]/body[1]/p[6]::185" xml:id="UID-FAKE-6731">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::240 /TEI[1]/text[1]/body[1]/p[6]::253" xml:id="UID-FAKE-6732">
+        <rs ana="https://topostext.org/place/376216BOPr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::305 /TEI[1]/text[1]/body[1]/p[6]::312" xml:id="UID-FAKE-6733">
+        <rs ana="https://topostext.org/place/379214SThy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::335 /TEI[1]/text[1]/body[1]/p[6]::346" xml:id="UID-FAKE-6734">
+        <rs ana="https://topostext.org/place/376216SHpd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::353 /TEI[1]/text[1]/body[1]/p[6]::360" xml:id="UID-FAKE-6735">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::445 /TEI[1]/text[1]/body[1]/p[6]::453" xml:id="UID-FAKE-6736">
+        <rs ana="https://topostext.org/place/379214SThy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::188 /TEI[1]/text[1]/body[1]/p[7]::194" xml:id="UID-FAKE-6737">
+        <rs ana="https://topostext.org/place/379214SEAt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::204 /TEI[1]/text[1]/body[1]/p[7]::211" xml:id="UID-FAKE-6738">
+        <rs ana="https://topostext.org/place/379214SEAt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::406 /TEI[1]/text[1]/body[1]/p[7]::413" xml:id="UID-FAKE-6739">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::425 /TEI[1]/text[1]/body[1]/p[7]::431" xml:id="UID-FAKE-6740">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::66 /TEI[1]/text[1]/body[1]/p[8]::71" xml:id="UID-FAKE-6741">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::243 /TEI[1]/text[1]/body[1]/p[8]::248" xml:id="UID-FAKE-6742">
+        <rs ana="https://topostext.org/place/402225RPie"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::307 /TEI[1]/text[1]/body[1]/p[8]::314" xml:id="UID-FAKE-6743">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::318 /TEI[1]/text[1]/body[1]/p[8]::322" xml:id="UID-FAKE-6744">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 5, Chapter 16</head>
+      <p>It remains after this for me to describe the temple of Hera and the noteworthy objects contained in it. The Elean account says that it was the people of Scillus, one of the cities in Triphylia, who built the temple about eight years after Oxylus came to the throne of Elis. The style of the temple is Doric, and pillars stand all round it. In the rear chamber one of the two pillars is of oak. The length of the temple is one hundred and sixty-nine feet, the breadth sixty-three feet, the height not short of fifty feet. Who the architect was they do not relate.</p>
+      <p>Every fourth year there is woven for Hera a robe by the Sixteen women, and the same also hold games called Heraea. The games consist of foot-races for maidens. These are not all of the same age. The first to run are the youngest; after them come the next in age, and the last to run are the oldest of the maidens. They run in the following way:</p>
+      <p>their hair hangs down, a tunic reaches to a little above the knee, and they bare the right shoulder as far as the breast. These too have the Olympic stadium reserved for their games, but the course of the stadium is shortened for them by about one-sixth of its length. To the winning maidens they give crowns of olive and a portion of the cow sacrificed to Hera. They may also dedicate statues with their names inscribed upon them. Those who administer to the Sixteen are, like the presidents of the games, married women.</p>
+      <p>The games of the maidens too are traced back to ancient times; they say that, out of gratitude to Hera for her marriage with Pelops, Hippodameia assembled the Sixteen Women, and with them inaugurated the Heraea. They relate too that a victory was won by Chloris, the only surviving daughter of the house of Amphion, though with her they say survived one of her brothers. As to the children of Niobe, what I myself chanced to learn about them I have set forth in my account of Argos.</p>
+      <p>Besides the account already given they tell another story about the Sixteen Women as follows. Damophon, it is said, when tyrant of Pisa did much grievous harm to the Eleans. But when he died, since the people of Pisa refused to participate as a people in their tyrant"s sins, and the Eleans too became quite ready to lay aside their grievances, they chose a woman from each of the sixteen cities of Elis still inhabited at that time to settle their differences, this woman to be the oldest, the most noble, and the most esteemed of all the women.</p>
+      <p>The cities from which they chose the women were Elis, . . . The women from these cities made peace between Pisa and Elis. Later on they were entrusted with the management of the Heraean games, and with the weaving of the robe for Hera. The Sixteen Women also arrange two choral dances, one called that of Physcoa and the other that of Hippodameia. This Physcoa they say came from Elis in the Hollow, and the name of the deme where she lived was OrthiaYY.</p>
+      <p>She mated they say with Dionysus, and bore him a son called Narcaeus. When he grew up he made war against the neighboring folk, and rose to great power, setting up moreover a sanctuary of Athena surnamed Narcaea. They say too that Narcaeus and Physcoa were the first to pay worship to Dionysus. So various honors are paid to Physcoa, especially that of the choral dance, named after her and managed by the Sixteen Women. The Eleans still adhere to the other ancient customs, even though some of the cities have been destroyed. For they are now divided into eight tribes, and they choose two women from each.</p>
+      <p>Whatever ritual it is the duty of either the Sixteen Women or the Elean umpires to perform, they do not perform before they have purified themselves with a pig meet for purification and with water. Their purification takes place at the spring Piera. You reach this spring as you go along the flat road from Olympia to Elis.</p>
+    </body>
+  </text>
+</TEI>

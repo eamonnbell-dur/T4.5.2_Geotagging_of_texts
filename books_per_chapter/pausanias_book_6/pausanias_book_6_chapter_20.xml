@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::0 /TEI[1]/text[1]/body[1]/p[1]::13" xml:id="UID-FAKE-8223">
+        <rs ana="https://topostext.org/place/368228LKro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::132 /TEI[1]/text[1]/body[1]/p[1]::139" xml:id="UID-FAKE-8224">
+        <rs ana="https://topostext.org/place/368228LKro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::243 /TEI[1]/text[1]/body[1]/p[1]::249" xml:id="UID-FAKE-8225">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::15 /TEI[1]/text[1]/body[1]/p[2]::28" xml:id="UID-FAKE-8226">
+        <rs ana="https://topostext.org/place/368228LKro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::152 /TEI[1]/text[1]/body[1]/p[2]::157" xml:id="UID-FAKE-8227">
+        <rs ana="https://topostext.org/place/376216SEil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::209 /TEI[1]/text[1]/body[1]/p[2]::217" xml:id="UID-FAKE-8228">
+        <rs ana="https://topostext.org/place/376216SEil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::322 /TEI[1]/text[1]/body[1]/p[2]::327" xml:id="UID-FAKE-8229">
+        <rs ana="https://topostext.org/place/379214SThy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::78 /TEI[1]/text[1]/body[1]/p[3]::88" xml:id="UID-FAKE-8230">
+        <rs ana="https://topostext.org/place/376216SEil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::27 /TEI[1]/text[1]/body[1]/p[4]::36" xml:id="UID-FAKE-8231">
+        <rs ana="https://topostext.org/place/374227RKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::61 /TEI[1]/text[1]/body[1]/p[4]::65" xml:id="UID-FAKE-8232">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::75 /TEI[1]/text[1]/body[1]/p[4]::81" xml:id="UID-FAKE-8233">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::134 /TEI[1]/text[1]/body[1]/p[4]::139" xml:id="UID-FAKE-8234">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::285 /TEI[1]/text[1]/body[1]/p[4]::291" xml:id="UID-FAKE-8235">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::297 /TEI[1]/text[1]/body[1]/p[4]::302" xml:id="UID-FAKE-8236">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::9 /TEI[1]/text[1]/body[1]/p[5]::18" xml:id="UID-FAKE-8237">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::106 /TEI[1]/text[1]/body[1]/p[5]::115" xml:id="UID-FAKE-8238">
+        <rs ana="https://topostext.org/place/374227RKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::158 /TEI[1]/text[1]/body[1]/p[5]::164" xml:id="UID-FAKE-8239">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::348 /TEI[1]/text[1]/body[1]/p[5]::354" xml:id="UID-FAKE-8240">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::16 /TEI[1]/text[1]/body[1]/p[6]::25" xml:id="UID-FAKE-8241">
+        <rs ana="https://topostext.org/place/380237GLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::82 /TEI[1]/text[1]/body[1]/p[6]::89" xml:id="UID-FAKE-8242">
+        <rs ana="https://topostext.org/place/378218WKla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::128 /TEI[1]/text[1]/body[1]/p[6]::138" xml:id="UID-FAKE-8243">
+        <rs ana="https://topostext.org/place/376216SApO"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::175 /TEI[1]/text[1]/body[1]/p[6]::193" xml:id="UID-FAKE-8244">
+        <rs ana="https://topostext.org/place/376216SApO"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::20 /TEI[1]/text[1]/body[1]/p[7]::25" xml:id="UID-FAKE-8245">
+        <rs ana="https://topostext.org/place/376216SHpd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::59 /TEI[1]/text[1]/body[1]/p[7]::71" xml:id="UID-FAKE-8246">
+        <rs ana="https://topostext.org/place/376216SHpd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::298 /TEI[1]/text[1]/body[1]/p[7]::303" xml:id="UID-FAKE-8247">
+        <rs ana="https://topostext.org/place/376229UMid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::307 /TEI[1]/text[1]/body[1]/p[7]::314" xml:id="UID-FAKE-8248">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::389 /TEI[1]/text[1]/body[1]/p[7]::395" xml:id="UID-FAKE-8249">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::486 /TEI[1]/text[1]/body[1]/p[7]::493" xml:id="UID-FAKE-8250">
+        <rs ana="https://topostext.org/place/376216SHpd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::110 /TEI[1]/text[1]/body[1]/p[8]::116" xml:id="UID-FAKE-8251">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::147 /TEI[1]/text[1]/body[1]/p[8]::159" xml:id="UID-FAKE-8252">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::316 /TEI[1]/text[1]/body[1]/p[8]::328" xml:id="UID-FAKE-8253">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::45 /TEI[1]/text[1]/body[1]/p[9]::52" xml:id="UID-FAKE-8254">
+        <rs ana="https://topostext.org/place/376216SDCh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::111 /TEI[1]/text[1]/body[1]/p[9]::117" xml:id="UID-FAKE-8255">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::304 /TEI[1]/text[1]/body[1]/p[9]::310" xml:id="UID-FAKE-8256">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::64 /TEI[1]/text[1]/body[1]/p[10]::76" xml:id="UID-FAKE-8257">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::309 /TEI[1]/text[1]/body[1]/p[10]::325" xml:id="UID-FAKE-8258">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::315 /TEI[1]/text[1]/body[1]/p[11]::323" xml:id="UID-FAKE-8259">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::64 /TEI[1]/text[1]/body[1]/p[13]::72" xml:id="UID-FAKE-8260">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::135 /TEI[1]/text[1]/body[1]/p[14]::141" xml:id="UID-FAKE-8261">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::225 /TEI[1]/text[1]/body[1]/p[14]::232" xml:id="UID-FAKE-8262">
+        <rs ana="https://topostext.org/place/376216BOHi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[16]::4 /TEI[1]/text[1]/body[1]/p[16]::10" xml:id="UID-FAKE-8263">
+        <rs ana="https://topostext.org/place/376216STar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[16]::35 /TEI[1]/text[1]/body[1]/p[16]::45" xml:id="UID-FAKE-8264">
+        <rs ana="https://topostext.org/place/376216STar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[16]::196 /TEI[1]/text[1]/body[1]/p[16]::203" xml:id="UID-FAKE-8265">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[16]::224 /TEI[1]/text[1]/body[1]/p[16]::228" xml:id="UID-FAKE-8266">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[16]::336 /TEI[1]/text[1]/body[1]/p[16]::342" xml:id="UID-FAKE-8267">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[18]::9 /TEI[1]/text[1]/body[1]/p[18]::14" xml:id="UID-FAKE-8268">
+        <rs ana="https://topostext.org/place/376216STar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[18]::113 /TEI[1]/text[1]/body[1]/p[18]::123" xml:id="UID-FAKE-8269">
+        <rs ana="https://topostext.org/place/376216STar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[18]::191 /TEI[1]/text[1]/body[1]/p[18]::199" xml:id="UID-FAKE-8270">
+        <rs ana="https://topostext.org/place/376216STar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[18]::250 /TEI[1]/text[1]/body[1]/p[18]::258" xml:id="UID-FAKE-8271">
+        <rs ana="https://topostext.org/place/376216STar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[18]::288 /TEI[1]/text[1]/body[1]/p[18]::296" xml:id="UID-FAKE-8272">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[19]::35 /TEI[1]/text[1]/body[1]/p[19]::42" xml:id="UID-FAKE-8273">
+        <rs ana="https://topostext.org/place/379230LIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[19]::182 /TEI[1]/text[1]/body[1]/p[19]::187" xml:id="UID-FAKE-8274">
+        <rs ana="https://topostext.org/place/378227SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[19]::195 /TEI[1]/text[1]/body[1]/p[19]::202" xml:id="UID-FAKE-8275">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[19]::414 /TEI[1]/text[1]/body[1]/p[19]::421" xml:id="UID-FAKE-8276">
+        <rs ana="https://topostext.org/place/376216BOHi"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 6, Chapter 20</head>
+      <p>Mount Cronios, as I have already said, extends parallel to the terrace with the treasuries on it. On the summit of the mountain the Basilae, as they are called, sacrifice to Cronus at the spring equinox, in the month called Elaphius among the Eleans.</p>
+      <p>At the foot of Mount Cronios, on the north . . . , between the treasuries and the mountain, is a sanctuary of Eileithyia, and in it Sosipolis, a native Elean daimon, is worshipped. Now they surname Eileithyia Olympian, and choose a priestess for the goddess every year. The old woman who tends Sosipolis herself too by an Elean custom lives in chastity, bringing water for the god"s bath and setting before him barley cakes kneaded with honey.</p>
+      <p>In the front part of the temple, for it is built in two parts, is an altar of Eileithyia and an entrance for the public; in the inner part Sosipolis is worshipped, and no one may enter it except the woman who tends the god, and she must wrap her head and face in a white veil. Maidens and matrons wait in the sanctuary of Eileithyia chanting a hymn; they burn all manner of incense to the god, but it is not the custom to pour libations of wine. An oath is taken by Sosipolis on the most important occasions.</p>
+      <p>The story is that when the Arcadians had invaded the land of Elis, and the Eleans were set in array against them, a woman came to the Elean generals, holding a baby to her breast, who said that she was the mother of the child but that she gave him, because of dreams, to fight for the Eleans. The Elean officers believed that the woman was to be trusted, and placed the child before the army naked.</p>
+      <p>When the Arcadians came on, the child turned at once into a snake. Thrown into disorder at the sight, the Arcadians turned and fled, and were attacked by the Eleans, who won a very famous victory, and so call the god Sosipolis. On the spot where after the battle the snake seemed to them to go into the ground they made the sanctuary. With him the Eleans resolved to worship Eileithyia also, because this goddess to help them brought her son forth unto men.</p>
+      <p>The tomb of the Arcadians who were killed in the battle is on the hill across the Cladeus to the west. Near to the sanctuary of Eileithyia are the remains of the sanctuary of Heavenly Aphrodite, and there too they sacrifice upon the altars.</p>
+      <p>There is within the Altis by the processional entrance the Hippodameion, as it is called, about a quarter of an acre of ground surrounded by a wall. Into it once every year the women may enter, who sacrifice to Hippodameia, and do her honor in other ways. The story is that Hippodameia withdrew to Midea in Argolis, because Pelops was very angry with her over the death of Chrysippus. The Eleans declare that subsequently, because of an oracle, they brought the bones of Hippodameia to Olympia.</p>
+      <p>At the end of the statues which they made from the fines levied on athletes, there is the entrance called the Krypte (Hidden) Entrance. Through it Hellanodikai and competitors are wont to enter the stadium. Now the stadium is an embankment of earth, and on it is a seat for the presidents of the games. Opposite the Hellanodikai is an altar of white marble;</p>
+      <p>seated on this altar a woman looks on at the Olympic games, the priestess of Demeter Chamyne, which office the Eleans bestow from time to time on different women. Maidens are not debarred from looking on at the games. At the end of the stadium, where is the starting-place for the runners, there is, the Eleans say, the tomb of Endymion.</p>
+      <p>When you have passed beyond the stadium, at the point where the Hellanodikai sit, is a place set apart for the horse-races, and also the starting-place for the horses. The starting-place is in the shape of the prow of a ship, and its prow is turned towards the course. At the point where the prow adjoins the Stoa of Agnaptus it broadens and a bronze dolphin on a rod has been made at the very point of the ram.</p>
+      <p>Each side of the starting-place is more than four hundred feet in length, and in the sides are built stalls. These stalls are assigned by lot to those who enter for the races. Before the chariots or race-horses is stretched a cord as a barrier. An altar of unburnt brick, plastered on the outside, is made at every Olympiad as near as possible to the center of the prow,</p>
+      <p>and a bronze eagle stands on the altar with his wings stretched out to the fullest extent. The man appointed to start the racing sets in motion the mechanism in the altar, and then the eagle has been made to jump upwards, so as to become visible to the spectators, while the dolphin falls to the ground.</p>
+      <p>First on either side the barriers are withdrawn by the porch of Agnaptus, and the horses standing thereby run off first. As they run they reach those to whom the second station has been allotted, and then are withdrawn the barriers at the second station. The same thing happens to all the horses in turn, until at the ram of the prow they are all abreast. After this it is left to the charioteers to display their skill and the horses their speed.</p>
+      <p>It was Cleoetas who originally devised the method of starting, and he appears to have been proud of the discovery, as on the statue at Athens he wrote the inscription: “Who first invented the method of starting the horses at Olympia, He made me, Cleoetas the son of Aristocles.” It is said that after Cleoetas some further device was added to the mechanism by AristeideYY.</p>
+      <p>The race-course has one side longer than the other, and on the longer side, which is a bank, there stands, at the passage through the bank, Taraxippus, the terror of the horses. It has the shape of a round altar, and as they run along the horses are seized, as soon as they reach this point, by a great fear without any apparent reason. The fear leads to disorder; the chariots generally crash and the charioteers are injured. Consequently the charioteers offer sacrifice, and pray that Taraxippus may show himself propitious to them.</p>
+      <p>The Greeks differ in their view of Taraxippus. Some hold that it is the tomb of an original inhabitant who was skilled in horsemanship; they call him Olenius, and say that after him was named the Olenian rock in the land of Elis. Others say that Dameon, son of Phlius, who took part in the expedition of Heracles against Augeas and the Eleans, was killed along with his charger by Cteatus the son of Actor, and that man and horse were buried in the same tomb.</p>
+      <p>There is also a story that Pelops made here an empty mound in honor of Myrtilus, and sacrificed to him in an effort to calm the anger of the murdered man, naming the mound Taraxippus (Frightener of horses) because the mares of Oenomaus were frightened by the trick of Myrtilus. Some say that it is Oenomaus himself who harms the racers in the course. I have also heard some attach the blame to Alcathus, the son of Porthaon. Killed by Oenomaus because he wooed Hippodameia, Alcathus, they say, here got his portion of earth; having been unsuccessful on the course, he is a spiteful and hostile deity to chariot-drivers.</p>
+      <p>A man of Egypt said that Pelops received something from Amphion the Theban and buried it where is what they call Taraxippus, adding that it was the buried thing which frightened the mares of Oenomaus, as well as those of every charioteer since. This Egyptian thought that Amphion and the Thracian Orpheus were clever magicians, and that it was through their enchantments that the beasts came to Orpheus, and the stones came to Amphion for the building of the wall. The most probable of the stories in my opinion makes Taraxippus a surname of  Poseidon Hippios.</p>
+      <p>There is another Taraxippus at the Isthmus, namely Glaucus, the son of Sisyphus. They say that he was killed by his horses, when Acastus held his contests in honor of his father. At Nemea of the Argives there was no hero who harmed the horses, but above the turning-point of the chariots rose a rock, red in color, and the flash from it terrified the horses, just as though it had been fire. But the Taraxippus at Olympia is much worse for terrifying the horses. On one turning-post is a bronze statue of Hippodameia carrying a ribbon, and about to crown Pelops with it for his victory.</p>
+    </body>
+  </text>
+</TEI>

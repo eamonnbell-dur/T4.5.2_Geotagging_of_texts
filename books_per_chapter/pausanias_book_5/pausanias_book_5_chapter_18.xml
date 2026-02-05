@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::144 /TEI[1]/text[1]/body[1]/p[3]::149" xml:id="UID-FAKE-6768">
+        <rs ana="https://topostext.org/place/374220BStL"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::342 /TEI[1]/text[1]/body[1]/p[4]::352" xml:id="UID-FAKE-6769">
+        <rs ana="https://topostext.org/place/377216SNIo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::361 /TEI[1]/text[1]/body[1]/p[6]::370" xml:id="UID-FAKE-6770">
+        <rs ana="https://topostext.org/place/385218ROph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::399 /TEI[1]/text[1]/body[1]/p[6]::405" xml:id="UID-FAKE-6771">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::589 /TEI[1]/text[1]/body[1]/p[6]::596" xml:id="UID-FAKE-6772">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::601 /TEI[1]/text[1]/body[1]/p[6]::610" xml:id="UID-FAKE-6773">
+        <rs ana="https://topostext.org/place/374221UMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::638 /TEI[1]/text[1]/body[1]/p[6]::643" xml:id="UID-FAKE-6774">
+        <rs ana="https://topostext.org/place/377213UPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::658 /TEI[1]/text[1]/body[1]/p[6]::662" xml:id="UID-FAKE-6775">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::72 /TEI[1]/text[1]/body[1]/p[7]::82" xml:id="UID-FAKE-6776">
+        <rs ana="https://topostext.org/place/382226WCor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::169 /TEI[1]/text[1]/body[1]/p[7]::179" xml:id="UID-FAKE-6777">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::354 /TEI[1]/text[1]/body[1]/p[7]::361" xml:id="UID-FAKE-6778">
+        <rs ana="https://topostext.org/place/379226FGon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::368 /TEI[1]/text[1]/body[1]/p[7]::374" xml:id="UID-FAKE-6779">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::48 /TEI[1]/text[1]/body[1]/p[8]::55" xml:id="UID-FAKE-6780">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 5, Chapter 18</head>
+      <p>Now I come to the second space on the chest, and in going round it I had better begin from the left. There is a figure of a woman holding on her right arm a white child asleep, and on her left she has a black child like one who is asleep. Each has his feet turned different ways. The inscriptions declare, as one could infer without inscriptions, that the figures are Death and Sleep, with Night the nurse of both.</p>
+      <p>A beautiful woman is punishing an ugly one, choking her with one hand and with the other striking her with a staff. It is Justice who thus treats Injustice. Two other women are pounding in mortars with pestles; they are supposed to be wise in medicine-lore, though there is no inscription to them. Who the man is who is followed by a woman is made plain by the hexameter verses, which run thus: “Idas brings back, not against her will, Fair-ankled Marpessa, daughter of Evenus, whom Apollo carried off.”</p>
+      <p>A man wearing a tunic is holding in his right hand a cup, and in his left a necklace; Alcmena is taking hold of them. This scene represents the Greek story how Zeus in the likeness of Amphitryon had intercourse with Alcmena. Menelaus, wearing a breastplate and carrying a sword, is advancing to kill Helen, so it is plain that Troy has been captured. Medeia is seated upon a throne, while Jason stands on her right and Aphrodite on her left. On them is an inscription: “Jason weds Medeia, as Aphrodite bids.</p>
+      <p>There are also figures of Muses singing, with Apollo leading the song; these too have an inscription: “This is Leto"s son, prince Apollo, far-shooting; Around him are the Muses, a graceful choir, whom he is leading. Atlas too is supporting, just as the story has it, heaven and earth upon his shoulders; he is also carrying the apples of the Hesperides. A man holding a sword is coming towards Atlas. This everybody can see is Heracles, though he is not mentioned specially in the inscription, which reads: “Here is Atlas holding heaven, but he will let go the apples.</p>
+      <p>There is also Ares clad in armour and leading Aphrodite. The inscription by him is “Enyalius.” There is also a figure of Thetis as a maid; Peleus is taking hold of her, and from the hand of Thetis a snake is darting at Peleus. The sisters of Medusa, with wings, are chasing Perseus, who is flying. Only Perseus has his name inscribed on him.</p>
+      <p>On the third space of the chest are military scenes. The greater number of the figures are on foot, though there are some knights in two-horse chariots. About the soldiers one may infer that they are advancing to battle, but that they will recognize and greet each other. Two different accounts of them are given by the guides. Some have said that they are the Aetolians with Oxylus and the ancient Eleans, and that they are meeting in remembrance of their original descent and as a sign of their mutual good will. Others declare that the soldiers are meeting in battle, and that they are Pylians and Arcadians about to fight by the city Pheia and the river A923.</p>
+      <p>But it cannot for a moment be admitted that the ancestor of Cypselus, a Corinthian, having the chest made as a possession for himself, of his own accord passed over all Corinthian story, and had carved on the chest foreign events which were not famous. The following interpretation suggested itself to me. Cypselus and his ancestors came originally from Gonussa above Sicyon, and one of their ancestors was Melas, the son of Antasus.</p>
+      <p>But, as I have already related in my account of Corinth, Aletes refused to admit as settlers Melas and the host with him, being nervous about an oracle which had been given him from Delphi; but at last Melas, using every art of winning favours, and returning with entreaties every time he was driven away, persuaded Aletes however reluctantly to receive them. One might infer that this army is represented by the figures wrought upon the chest.</p>
+    </body>
+  </text>
+</TEI>

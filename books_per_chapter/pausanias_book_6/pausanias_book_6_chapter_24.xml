@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::85 /TEI[1]/text[1]/body[1]/p[1]::99" xml:id="UID-FAKE-8426">
+        <rs ana="https://topostext.org/place/379214BHld"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::150 /TEI[1]/text[1]/body[1]/p[1]::162" xml:id="UID-FAKE-8427">
+        <rs ana="https://topostext.org/place/379214BHld"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::13 /TEI[1]/text[1]/body[1]/p[2]::17" xml:id="UID-FAKE-8428">
+        <rs ana="https://topostext.org/place/379214XEAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::60 /TEI[1]/text[1]/body[1]/p[2]::65" xml:id="UID-FAKE-8429">
+        <rs ana="https://topostext.org/place/379214XEAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::77 /TEI[1]/text[1]/body[1]/p[2]::82" xml:id="UID-FAKE-8430">
+        <rs ana="https://topostext.org/place/379214XEAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::95 /TEI[1]/text[1]/body[1]/p[2]::100" xml:id="UID-FAKE-8431">
+        <rs ana="https://topostext.org/place/388283RMai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::239 /TEI[1]/text[1]/body[1]/p[2]::250" xml:id="UID-FAKE-8432">
+        <rs ana="https://topostext.org/place/379214BHld"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::334 /TEI[1]/text[1]/body[1]/p[2]::339" xml:id="UID-FAKE-8433">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::408 /TEI[1]/text[1]/body[1]/p[2]::420" xml:id="UID-FAKE-8434">
+        <rs ana="https://topostext.org/place/379214BHld"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::246 /TEI[1]/text[1]/body[1]/p[3]::260" xml:id="UID-FAKE-8435">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::368 /TEI[1]/text[1]/body[1]/p[3]::382" xml:id="UID-FAKE-8436">
+        <rs ana="https://topostext.org/place/380237BSqp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::420 /TEI[1]/text[1]/body[1]/p[3]::432" xml:id="UID-FAKE-8437">
+        <rs ana="https://topostext.org/place/376216BOPr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::466 /TEI[1]/text[1]/body[1]/p[3]::478" xml:id="UID-FAKE-8438">
+        <rs ana="https://topostext.org/place/380237BSqp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::26 /TEI[1]/text[1]/body[1]/p[4]::40" xml:id="UID-FAKE-8439">
+        <rs ana="https://topostext.org/place/379214BHld"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::96 /TEI[1]/text[1]/body[1]/p[4]::102" xml:id="UID-FAKE-8440">
+        <rs ana="https://topostext.org/place/379214BKes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::115 /TEI[1]/text[1]/body[1]/p[4]::124" xml:id="UID-FAKE-8441">
+        <rs ana="https://topostext.org/place/379214BKes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::149 /TEI[1]/text[1]/body[1]/p[4]::159" xml:id="UID-FAKE-8442">
+        <rs ana="https://topostext.org/place/379214BKes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::290 /TEI[1]/text[1]/body[1]/p[4]::300" xml:id="UID-FAKE-8443">
+        <rs ana="https://topostext.org/place/396199PKer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::19 /TEI[1]/text[1]/body[1]/p[5]::24" xml:id="UID-FAKE-8444">
+        <rs ana="https://topostext.org/place/379214GPyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::487 /TEI[1]/text[1]/body[1]/p[5]::493" xml:id="UID-FAKE-8445">
+        <rs ana="https://topostext.org/place/379214GPyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::520 /TEI[1]/text[1]/body[1]/p[5]::525" xml:id="UID-FAKE-8446">
+        <rs ana="https://topostext.org/place/379214GPyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::547 /TEI[1]/text[1]/body[1]/p[5]::552" xml:id="UID-FAKE-8447">
+        <rs ana="https://topostext.org/place/379214GPyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::33 /TEI[1]/text[1]/body[1]/p[6]::39" xml:id="UID-FAKE-8448">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::254 /TEI[1]/text[1]/body[1]/p[6]::263" xml:id="UID-FAKE-8449">
+        <rs ana="https://topostext.org/place/380237SHAl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::167 /TEI[1]/text[1]/body[1]/p[7]::173" xml:id="UID-FAKE-8450">
+        <rs ana="https://topostext.org/place/376216SApO"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::359 /TEI[1]/text[1]/body[1]/p[7]::365" xml:id="UID-FAKE-8451">
+        <rs ana="https://topostext.org/place/379214SCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::174 /TEI[1]/text[1]/body[1]/p[8]::183" xml:id="UID-FAKE-8452">
+        <rs ana="https://topostext.org/place/379214STSi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::298 /TEI[1]/text[1]/body[1]/p[8]::305" xml:id="UID-FAKE-8453">
+        <rs ana="https://topostext.org/place/316353UIud"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::325 /TEI[1]/text[1]/body[1]/p[8]::333" xml:id="UID-FAKE-8454">
+        <rs ana="https://topostext.org/place/379214STSi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::16 /TEI[1]/text[1]/body[1]/p[9]::20" xml:id="UID-FAKE-8455">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::63 /TEI[1]/text[1]/body[1]/p[10]::70" xml:id="UID-FAKE-8456">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::253 /TEI[1]/text[1]/body[1]/p[10]::258" xml:id="UID-FAKE-8457">
+        <rs ana="https://topostext.org/place/380237XRAg"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 6, Chapter 24</head>
+      <p>One of the two ways from the gymnasium leads to the agora, and to what is called the Hellanodikaion; it is above the grave of Achilles, and by it the Hellanodikai are wont to go to the gymnasium. They enter before sunrise to match the runners, and at midday for the pentathlum and for such contests as are called heavy.</p>
+      <p>The agora of Elis is not after the fashion of the cities of Ionia and of the Greek cities near Ionia; it is built in the older manner, with porticoes separated from each other and with streets through them. The modern name of the agora is Hippodromus, and the natives train their horses there. Of the porticoes the southern is in the Doric style, and it is divided by the pillars into three parts. In it the Hellanodikai generally spend the day.</p>
+      <p>At the pillars they also cause altars to be made to Zeus, and in the open agora are the altars, in number not many; for, their construction being improvised, they are without difficulty taken to pieces. As you enter the agora at this portico the Hellanodikaion is on your left, parallel to the end of the portico. What separates it from the agora is a street. In this Hellanodikaion dwell for ten consecutive months the Hellanodikai elect, who are instructed by the Nomophylakes (Guardians of the Law) as to their duties at the festival.</p>
+      <p>Near to the stoa with the Hellanodikaion is another stoa, between the two being one street. The Eleans call it the Corcyrean, because, they say, the Corcyreans landed in their country and carried off part of the booty, but they themselves took many times as much booty from the land of the Corcyreans, and built the stoa from the tithe of the spoils.</p>
+      <p>The stoa is in the Doric style and double, having its pillars both on the side towards the agora and on the side away from it. Down the center of it the roof is supported, not by pillars, but by a wall, beside which on either side have been dedicated statues. On the side of the stoa towards the agora stands a statue of Pyrrhon, son of Pistocrates, a sophist who never brought himself to make a definite admission on any matter. The tomb also of Pyrrhon is not far from the town of the Eleans. The name of the place is Petra, and it is said that Petra was a deme in ancient times.</p>
+      <p>The most notable things that the Eleans have in the open part of the agora are a temple and image of Apollo Akesios (Healer). The meaning of the name would appear to be exactly the same as that of Alexikakos (Averter of Evil), the name current among the Athenians. In another part are the stone images of Helios and Selene (sun and moon); from the head of the moon project horns, from the head of the sun, his rays. There is also a sanctuary to the Graces; the images are of wood, with their clothes gilded, while their faces, hands and feet are of white marble. One of them holds a rose, the middle one a knucklebone (or die), and the third a small branch of myrtle.</p>
+      <p>The reason for their holding these things may be guessed to be this. The rose and the myrtle are sacred to Aphrodite and connected with the story of Adonis, while the Graces are of all deities the nearest related to Aphrodite. As for the knucklebone, it is the plaything of youths and maidens, who have nothing of the ugliness of old age. On the right of the Graces is an image of Eros, standing on the same pedestal.</p>
+      <p>Here there is also a temple of Silenus, which is sacred to Silenus alone, and not to him in common with Dionysus. Methe (Drunkenness) is offering him wine in a cup. That the Silenuses are a mortal race you may infer especially from their graves, for there is a tomb of a Silenus in the land of the Hebrews, and of another at Pergamus.</p>
+      <p>In the agora of Elis I saw something else, a low structure in the form of a temple. It has no walls, the roof being supported by pillars made of oak. The natives agree that it is a tomb, but they do not remember whose it is. If the old man I asked spoke the truth, it would be the tomb of Oxylus.</p>
+      <p>There is also in the agora a building for the women called the Sixteen, where they weave the robe for Hera. Adjoining the agora is an old temple surrounded by pillars; the roof has fallen down, and I found no image in the temple. It is dedicated to the Roman emperors.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::299 /TEI[1]/text[1]/body[1]/p[1]::305" xml:id="UID-FAKE-6787">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::322 /TEI[1]/text[1]/body[1]/p[1]::329" xml:id="UID-FAKE-6788">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::106 /TEI[1]/text[1]/body[1]/p[2]::115" xml:id="UID-FAKE-6789">
+        <rs ana="https://topostext.org/place/386272PHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::184 /TEI[1]/text[1]/body[1]/p[2]::190" xml:id="UID-FAKE-6790">
+        <rs ana="https://topostext.org/place/371252PPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::247 /TEI[1]/text[1]/body[1]/p[3]::252" xml:id="UID-FAKE-6791">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::74 /TEI[1]/text[1]/body[1]/p[4]::81" xml:id="UID-FAKE-6792">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::123 /TEI[1]/text[1]/body[1]/p[4]::130" xml:id="UID-FAKE-6793">
+        <rs ana="https://topostext.org/place/376216SOHe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::163 /TEI[1]/text[1]/body[1]/p[4]::169" xml:id="UID-FAKE-6794">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::355 /TEI[1]/text[1]/body[1]/p[4]::360" xml:id="UID-FAKE-6795">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::373 /TEI[1]/text[1]/body[1]/p[4]::379" xml:id="UID-FAKE-6796">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::388 /TEI[1]/text[1]/body[1]/p[4]::401" xml:id="UID-FAKE-6797">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::4 /TEI[1]/text[1]/body[1]/p[5]::10" xml:id="UID-FAKE-6798">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::423 /TEI[1]/text[1]/body[1]/p[5]::428" xml:id="UID-FAKE-6799">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::9 /TEI[1]/text[1]/body[1]/p[6]::15" xml:id="UID-FAKE-6800">
+        <rs ana="https://topostext.org/place/376216GOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::2 /TEI[1]/text[1]/body[1]/p[8]::7" xml:id="UID-FAKE-6801">
+        <rs ana="https://topostext.org/place/380237XRAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::23 /TEI[1]/text[1]/body[1]/p[8]::30" xml:id="UID-FAKE-6802">
+        <rs ana="https://topostext.org/place/376216GOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::234 /TEI[1]/text[1]/body[1]/p[8]::242" xml:id="UID-FAKE-6803">
+        <rs ana="https://topostext.org/place/376216GOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::80 /TEI[1]/text[1]/body[1]/p[9]::85" xml:id="UID-FAKE-6804">
+        <rs ana="https://topostext.org/place/376216SOMe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::133 /TEI[1]/text[1]/body[1]/p[9]::140" xml:id="UID-FAKE-6805">
+        <rs ana="https://topostext.org/place/376216SOMe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::248 /TEI[1]/text[1]/body[1]/p[9]::253" xml:id="UID-FAKE-6806">
+        <rs ana="https://topostext.org/place/376216SOMe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::268 /TEI[1]/text[1]/body[1]/p[9]::275" xml:id="UID-FAKE-6807">
+        <rs ana="https://topostext.org/place/376216SOMe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::290 /TEI[1]/text[1]/body[1]/p[9]::295" xml:id="UID-FAKE-6808">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::335 /TEI[1]/text[1]/body[1]/p[9]::345" xml:id="UID-FAKE-6809">
+        <rs ana="https://topostext.org/place/376216BOPl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::366 /TEI[1]/text[1]/body[1]/p[9]::376" xml:id="UID-FAKE-6810">
+        <rs ana="https://topostext.org/place/376216BOPl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::58 /TEI[1]/text[1]/body[1]/p[10]::67" xml:id="UID-FAKE-6811">
+        <rs ana="https://topostext.org/place/380237BPry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::166 /TEI[1]/text[1]/body[1]/p[10]::172" xml:id="UID-FAKE-6812">
+        <rs ana="https://topostext.org/place/376216BOPl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::176 /TEI[1]/text[1]/body[1]/p[10]::186" xml:id="UID-FAKE-6813">
+        <rs ana="https://topostext.org/place/376216BOPl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::360 /TEI[1]/text[1]/body[1]/p[10]::368" xml:id="UID-FAKE-6814">
+        <rs ana="https://topostext.org/place/376216BOPl"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 5, Chapter 20</head>
+      <p>There are here other offerings also: a couch of no great size and for the most part adorned with ivory; the quoit of Iphitus; a table on which are set out the crowns for the victors. The couch is said to have been a toy of Hippodameia. The quoit of Iphitus has inscribed upon it the truce which the Eleans proclaim at the Olympic festivals; the inscription is not written in a straight line, but the letters run in a circle round the quoit.</p>
+      <p>The table is made of ivory and gold, and is the work of Colotes. Colotes is said to have been a native of Heracleia, but specialists in the history of sculpture maintain that he was a Parian, a pupil of Pasiteles, who himself was a pupil of . . . There are figures of Hera, Zeus, the Mother of the gods, Hermes, and Apollo with Artemis. Behind is the disposition of the games.</p>
+      <p>On one side are Asclepius and Health, one of his daughters; Ares too and Contest by his side; on the other are Plouton, Dionysus, Persephone and Nymphs, one of them carrying a ball. As to the key (Plouton holds a key) they say that what is called Hades has been locked up by Plouton, and that nobody will return back again therefrom.</p>
+      <p>I must not omit the story told by Aristarchus, the guide to the sights at Olympia. He said that in his day the roof of the Heraeum had fallen into decay. When the Eleans were repairing it, the corpse of a foot-soldier with wounds was discovered between the roof supporting the tiles and the ornamented ceiling. This soldier took part in the battle in the Altis between the Eleans and the Lacedemonians.</p>
+      <p>The Eleans in fact climbed to defend themselves on to all high places alike, including the sanctuaries of the gods. At any rate this soldier seemed to us to have crept under here after growing faint with his wounds, and so died. Lying in a completely sheltered spot the corpse would suffer harm neither from the heat of summer nor from the frost of winter. Aristarchus said further that they carried the corpse outside the Altis and buried him in the earth along with his armour.</p>
+      <p>What the Eleans call the pillar of Oenomaus is in the direction of the sanctuary of Zeus as you go from the great altar. On the left are four pillars with a roof on them, the whole constructed to protect a wooden pillar which has decayed through age, being for the most part held together by bands. This pillar, so runs the tale, stood in the house of Oenomaus. Struck by lightning the rest of the house was destroyed by the fire; of all the building only this pillar was left.</p>
+      <p>A bronze tablet in front of it has the following elegiac inscription: “Stranger, I am a remnant of a famous house, I, who once was a pillar in the house of Oenomaus; Now by Cronus"son I lie with these bands upon me, A precious thing, and the baleful flame of fire consumed me not.” In my time another incident took place, which I will relate.</p>
+      <p>A Roman senator won an Olympic victory. Wishing to leave behind, as a memorial of his victory, a bronze statue with an inscription, he proceeded to dig, so as to make a foundation. When his excavation came very close to the pillar of Oenomaus, the diggers found there fragments of armour, bridles and curbs.</p>
+      <p>These I saw myself as they were being dug out. A temple of no great size in the Doric style they have called down to the present day Metroum, keeping its ancient name. No image lies in it of the Mother of the gods, but there stand in it statues of Roman emperors. The Metroum is within the Altis, and so is a round building called the Philippeum. On the roof of the Philippeum is a bronze poppy which binds the beams together.</p>
+      <p>This building is on the left of the exit over against the Prytaneum. It is made of burnt brick and is surrounded by columns. It was built by Philip after the fall of Greece at Chaeroneia. Here are set statues of Philip and Alexander, and with them is Amyntas, Philip"s father. These works too are by Leochares, and are of ivory and gold, as are the statues of Olympias and Eurydice.</p>
+    </body>
+  </text>
+</TEI>

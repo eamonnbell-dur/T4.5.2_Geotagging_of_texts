@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::67 /TEI[1]/text[1]/body[1]/p[1]::71" xml:id="UID-FAKE-6100">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::117 /TEI[1]/text[1]/body[1]/p[1]::124" xml:id="UID-FAKE-6101">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::126 /TEI[1]/text[1]/body[1]/p[1]::133" xml:id="UID-FAKE-6102">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::138 /TEI[1]/text[1]/body[1]/p[1]::147" xml:id="UID-FAKE-6103">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::153 /TEI[1]/text[1]/body[1]/p[1]::159" xml:id="UID-FAKE-6104">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::185 /TEI[1]/text[1]/body[1]/p[1]::189" xml:id="UID-FAKE-6105">
+        <rs ana="https://topostext.org/place/376217PPis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::206 /TEI[1]/text[1]/body[1]/p[1]::210" xml:id="UID-FAKE-6106">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::283 /TEI[1]/text[1]/body[1]/p[1]::287" xml:id="UID-FAKE-6107">
+        <rs ana="https://topostext.org/place/376217PPis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::361 /TEI[1]/text[1]/body[1]/p[1]::365" xml:id="UID-FAKE-6108">
+        <rs ana="https://topostext.org/place/376217PPis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::395 /TEI[1]/text[1]/body[1]/p[1]::400" xml:id="UID-FAKE-6109">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::439 /TEI[1]/text[1]/body[1]/p[1]::443" xml:id="UID-FAKE-6110">
+        <rs ana="https://topostext.org/place/376217PPis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::485 /TEI[1]/text[1]/body[1]/p[1]::489" xml:id="UID-FAKE-6111">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::13 /TEI[1]/text[1]/body[1]/p[2]::17" xml:id="UID-FAKE-6112">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::376 /TEI[1]/text[1]/body[1]/p[2]::380" xml:id="UID-FAKE-6113">
+        <rs ana="https://topostext.org/place/379214SThy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::422 /TEI[1]/text[1]/body[1]/p[2]::432" xml:id="UID-FAKE-6114">
+        <rs ana="https://topostext.org/place/378218WPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::29 /TEI[1]/text[1]/body[1]/p[3]::38" xml:id="UID-FAKE-6115">
+        <rs ana="https://topostext.org/place/383213IDol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::296 /TEI[1]/text[1]/body[1]/p[3]::302" xml:id="UID-FAKE-6116">
+        <rs ana="https://topostext.org/place/382216POle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::134 /TEI[1]/text[1]/body[1]/p[4]::140" xml:id="UID-FAKE-6117">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::411 /TEI[1]/text[1]/body[1]/p[4]::415" xml:id="UID-FAKE-6118">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::563 /TEI[1]/text[1]/body[1]/p[4]::567" xml:id="UID-FAKE-6119">
+        <rs ana="https://topostext.org/place/400262UIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::62 /TEI[1]/text[1]/body[1]/p[5]::66" xml:id="UID-FAKE-6120">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::92 /TEI[1]/text[1]/body[1]/p[5]::98" xml:id="UID-FAKE-6121">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::179 /TEI[1]/text[1]/body[1]/p[5]::191" xml:id="UID-FAKE-6122">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::79 /TEI[1]/text[1]/body[1]/p[6]::86" xml:id="UID-FAKE-6123">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::149 /TEI[1]/text[1]/body[1]/p[6]::161" xml:id="UID-FAKE-6124">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::208 /TEI[1]/text[1]/body[1]/p[6]::215" xml:id="UID-FAKE-6125">
+        <rs ana="https://topostext.org/place/379230LIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::307 /TEI[1]/text[1]/body[1]/p[6]::316" xml:id="UID-FAKE-6126">
+        <rs ana="https://topostext.org/place/384218UNau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::320 /TEI[1]/text[1]/body[1]/p[6]::329" xml:id="UID-FAKE-6127">
+        <rs ana="https://topostext.org/place/384218PMol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::392 /TEI[1]/text[1]/body[1]/p[6]::396" xml:id="UID-FAKE-6128">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::444 /TEI[1]/text[1]/body[1]/p[6]::449" xml:id="UID-FAKE-6129">
+        <rs ana="https://topostext.org/place/385218ROph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::68 /TEI[1]/text[1]/body[1]/p[7]::75" xml:id="UID-FAKE-6130">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::235 /TEI[1]/text[1]/body[1]/p[7]::242" xml:id="UID-FAKE-6131">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 5, Chapter 3</head>
+      <p>Enough of my discussion of this question. Heracles afterwards took Elis and sacked it, with an army he had raised of Argives, Thebans and Arcadians. The Eleans were aided by the men of Pisa and of Pylus in Elis. The men of Pylus were punished by Heracles, but his expedition against Pisa was stopped by an oracle from Delphi to this effect “My father cares for Pisa, but to me in the hollows of Pytho.” This oracle proved the salvation of Pisa. To Phyleus Heracles gave up the land of Elis and all the rest, more out of respect for Phyleus than because he wanted to do so: he allowed him to keep the prisoners, and Augeas to escape punishment.</p>
+      <p>The women of Elis, it is said, seeing that their land had been deprived of its vigorous manhood, prayed to Athena that they might conceive at their first union with their husbands. Their prayer was answered, and they set up a sanctuary of Athena surnamed Mother. Both wives and husbands were so delighted at their union that they named the place itself, where they first met, Bady (sweet), and the river that runs thereby Bady Water, this being a word of their native dialect.</p>
+      <p>When Phyleus had returned to Dulichium after organizing the affairs of Elis, Augeas died at an advanced age, and the kingdom of Elis devolved on Agasthenes, the son of Augeas, and on Amphimachus and Thalpius. For the sons of Actor married twin sisters, the daughters of Dexamenus who was king at Olenus; Amphimachus was born to one son and Theronice, Thalpius to her sister Theraephone and Eurytus.</p>
+      <p>However, neither Amarynceus himself nor his son Diores remained common people. Incidentally this is shown by Homer in his list of the Eleans; he makes their whole fleet to consist of forty ships, half of them under the command of Amphimachus and Thalpius, and of the remaining twenty he puts ten under Diores, the son of Amarynceus, and ten under Polyxenus, the son of Agasthenes. Polyxenus came back safe from Troy and begat a son, Amphimachus. This name I think Polyxenus gave his son because of his friendship with Amphimachus, the son of Cteatus, who died at Troy.</p>
+      <p>Amphimachus begat Eleius, and it was while Eleius was king in Elis that the assembly of the Dorian army under the sons of Aristomachus took place, with a view to returning to the Peloponnesus. To their kings was delivered this oracle, that they were to choose the “one with three eyes” to lead them on their return. When they were at a loss as to the meaning of the oracle, they were met by a man driving a mule, which was blind of one eye.</p>
+      <p>Cresphontes inferred that this was the man indicated by the oracle, and so the Dorians made him one of themselves. He urged them to descend upon the Peloponnesus in ships, and not to attempt to go across the Isthmus with a land army. Such was his advice, and at the same time he led them on the voyage from Naupactus to Molycrium. In return they agreed to give him at his request the land of Elis. The man was Oxylus, son of Haemon, the son of Thoas. This was the Thoas who helped the sons of Atreus to destroy the empire of Priam, and from Thoas to Aetolus the son of Endymion are six generations.</p>
+      <p>There were ties of kindred between the Heracleidae and the kings of Aetolia; in particular the mothers of Thoas, the son of Andraemon, and of Hyllus, the son of Heracles, were sisters. It fell to the lot of Oxylus to be an outlaw from Aetolia. The story goes that as he was throwing the quoit he missed the mark and committed unintentional homicide. The man killed by the quoit, according to one account, was Thermius, the brother of Oxylus; according to another it was Alcidocus, the son of Scopius.</p>
+    </body>
+  </text>
+</TEI>

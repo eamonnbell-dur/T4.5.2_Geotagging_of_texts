@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::41 /TEI[1]/text[1]/body[1]/p[1]::48" xml:id="UID-FAKE-8458">
+        <rs ana="https://topostext.org/place/396199PKer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::54 /TEI[1]/text[1]/body[1]/p[2]::60" xml:id="UID-FAKE-8459">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::240 /TEI[1]/text[1]/body[1]/p[2]::246" xml:id="UID-FAKE-8460">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::379 /TEI[1]/text[1]/body[1]/p[2]::383" xml:id="UID-FAKE-8461">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::468 /TEI[1]/text[1]/body[1]/p[2]::475" xml:id="UID-FAKE-8462">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::57 /TEI[1]/text[1]/body[1]/p[3]::62" xml:id="UID-FAKE-8463">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::189 /TEI[1]/text[1]/body[1]/p[3]::194" xml:id="UID-FAKE-8464">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::347 /TEI[1]/text[1]/body[1]/p[3]::353" xml:id="UID-FAKE-8465">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::426 /TEI[1]/text[1]/body[1]/p[3]::433" xml:id="UID-FAKE-8466">
+        <rs ana="https://topostext.org/place/368228UOic"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::533 /TEI[1]/text[1]/body[1]/p[3]::539" xml:id="UID-FAKE-8467">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::680 /TEI[1]/text[1]/body[1]/p[3]::685" xml:id="UID-FAKE-8468">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::4 /TEI[1]/text[1]/body[1]/p[4]::10" xml:id="UID-FAKE-8469">
+        <rs ana="https://topostext.org/place/379214STty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::426 /TEI[1]/text[1]/body[1]/p[4]::435" xml:id="UID-FAKE-8470">
+        <rs ana="https://topostext.org/place/379214SEAt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::38 /TEI[1]/text[1]/body[1]/p[5]::42" xml:id="UID-FAKE-8471">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::87 /TEI[1]/text[1]/body[1]/p[6]::94" xml:id="UID-FAKE-8472">
+        <rs ana="https://topostext.org/place/375216USam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::98 /TEI[1]/text[1]/body[1]/p[6]::107" xml:id="UID-FAKE-8473">
+        <rs ana="https://topostext.org/place/375217RTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::124 /TEI[1]/text[1]/body[1]/p[6]::128" xml:id="UID-FAKE-8474">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::170 /TEI[1]/text[1]/body[1]/p[6]::176" xml:id="UID-FAKE-8475">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::185 /TEI[1]/text[1]/body[1]/p[6]::191" xml:id="UID-FAKE-8476">
+        <rs ana="https://topostext.org/place/375216USam"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 6, Chapter 25</head>
+      <p>Behind the stoa built from the spoils of Corcyra is a temple of Aphrodite, the precinct being in the open, not far from the temple. The goddess in the temple they call Heavenly; she is of ivory and gold, the work of Pheidias, and she stands with one foot upon a tortoise. The precinct of the other Aphrodite is surrounded by a wall, and within the precinct has been made a basement, upon which sits a bronze image of Aphrodite upon a bronze he-goat. It is a work of Scopas, and the Aphrodite is named Common. The meaning of the tortoise and of the he-goat I leave to those who care to guess.</p>
+      <p>The sacred enclosure of Hades and its temple (for the Eleans have these among their possessions) are opened once every year, but not even on this occasion is anybody permitted to enter except the priest. The following is the reason why the Eleans worship Hades; they are the only men we know of so to do. It is said that, when Heracles was leading an expedition against Pylus in Elis, Athena was one of his allies. Now among those who came to fight on the side of the Pylians was Hades, because of his enmity toward Heracles and being held in honor at Pylus.</p>
+      <p>Homer is quoted in support of the story, who says in the Iliad: “And among them huge Hades suffered a wound from a swift arrow, When the same man, the son of aegis-bearing Zeus, Hit him in Pylus among the dead, and gave him over to pains.” If in the expedition of Agamemnon and Menelaus against Troy Poseidon was according to Homer an ally of the Greeks, it cannot be unnatural for the same poet to hold that Hades helped the Pylians. At any rate it was in the belief that the god was their friend but the enemy of Heracles that the Eleans made the sanctuary for him. The reason why they are wont to open it only once each year is, I suppose, because men too go down only once to Hades.</p>
+      <p>The Eleans have also a sanctuary of Fortune. In a portico of the sanctuary has been dedicated a colossal image, made of gilded wood except the face, hands and feet, which are of white marble. Here Sosipolis too is worshipped in a small shrine on the left of the sanctuary of Fortune. The god is painted according to his appearance in a dream: in age a boy, wrapped in a star-spangled robe, and in one hand holding the horn of Amaltheia.</p>
+      <p>In the most thickly-populated part of Elis is a statue of bronze no taller than a tall man; it represents a beardless youth with his legs crossed, leaning with both hands upon a spear. They cast about it a garment of wool, one of flax and one of fine linen.</p>
+      <p>This image was said to be of Poseidon, and to have been worshipped in ancient times at Samicum in Triphylia. Transferred to Elis it received still greater honor, but the Eleans call it Satrap and not Poseidon, having learned the name Satrap, which is a surname of Corybas, after the enlargement of Patrae.</p>
+    </body>
+  </text>
+</TEI>

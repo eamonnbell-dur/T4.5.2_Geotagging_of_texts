@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::13 /TEI[1]/text[1]/body[1]/p[1]::21" xml:id="UID-FAKE-7964">
+        <rs ana="https://topostext.org/place/392261ILes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::198 /TEI[1]/text[1]/body[1]/p[1]::205" xml:id="UID-FAKE-7965">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::210 /TEI[1]/text[1]/body[1]/p[1]::215" xml:id="UID-FAKE-7966">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::220 /TEI[1]/text[1]/body[1]/p[1]::225" xml:id="UID-FAKE-7967">
+        <rs ana="https://topostext.org/place/378227SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::237 /TEI[1]/text[1]/body[1]/p[1]::244" xml:id="UID-FAKE-7968">
+        <rs ana="https://topostext.org/place/379230LIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::306 /TEI[1]/text[1]/body[1]/p[1]::313" xml:id="UID-FAKE-7969">
+        <rs ana="https://topostext.org/place/374217UPyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::317 /TEI[1]/text[1]/body[1]/p[1]::326" xml:id="UID-FAKE-7970">
+        <rs ana="https://topostext.org/place/375217RTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::405 /TEI[1]/text[1]/body[1]/p[1]::409" xml:id="UID-FAKE-7971">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::46 /TEI[1]/text[1]/body[1]/p[2]::50" xml:id="UID-FAKE-7972">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::83 /TEI[1]/text[1]/body[1]/p[2]::91" xml:id="UID-FAKE-7973">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::136 /TEI[1]/text[1]/body[1]/p[2]::142" xml:id="UID-FAKE-7974">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::336 /TEI[1]/text[1]/body[1]/p[2]::343" xml:id="UID-FAKE-7975">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::370 /TEI[1]/text[1]/body[1]/p[2]::374" xml:id="UID-FAKE-7976">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::397 /TEI[1]/text[1]/body[1]/p[2]::405" xml:id="UID-FAKE-7977">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::430 /TEI[1]/text[1]/body[1]/p[2]::434" xml:id="UID-FAKE-7978">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::557 /TEI[1]/text[1]/body[1]/p[2]::562" xml:id="UID-FAKE-7979">
+        <rs ana="https://topostext.org/place/384261PChi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::30 /TEI[1]/text[1]/body[1]/p[3]::36" xml:id="UID-FAKE-7980">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::117 /TEI[1]/text[1]/body[1]/p[3]::124" xml:id="UID-FAKE-7981">
+        <rs ana="https://topostext.org/place/379230LIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::267 /TEI[1]/text[1]/body[1]/p[3]::272" xml:id="UID-FAKE-7982">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::321 /TEI[1]/text[1]/body[1]/p[3]::328" xml:id="UID-FAKE-7983">
+        <rs ana="https://topostext.org/place/376216BOGy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::380 /TEI[1]/text[1]/body[1]/p[3]::386" xml:id="UID-FAKE-7984">
+        <rs ana="https://topostext.org/place/408247XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::68 /TEI[1]/text[1]/body[1]/p[4]::76" xml:id="UID-FAKE-7985">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::82 /TEI[1]/text[1]/body[1]/p[4]::85" xml:id="UID-FAKE-7986">
+        <rs ana="https://topostext.org/place/376216BOPr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::97 /TEI[1]/text[1]/body[1]/p[4]::105" xml:id="UID-FAKE-7987">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::111 /TEI[1]/text[1]/body[1]/p[4]::114" xml:id="UID-FAKE-7988">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::200 /TEI[1]/text[1]/body[1]/p[4]::204" xml:id="UID-FAKE-7989">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::72 /TEI[1]/text[1]/body[1]/p[5]::84" xml:id="UID-FAKE-7990">
+        <rs ana="https://topostext.org/place/379214BHld"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::4 /TEI[1]/text[1]/body[1]/p[6]::11" xml:id="UID-FAKE-7991">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::15 /TEI[1]/text[1]/body[1]/p[6]::23" xml:id="UID-FAKE-7992">
+        <rs ana="https://topostext.org/place/382265UEry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::107 /TEI[1]/text[1]/body[1]/p[6]::114" xml:id="UID-FAKE-7993">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::123 /TEI[1]/text[1]/body[1]/p[6]::128" xml:id="UID-FAKE-7994">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::152 /TEI[1]/text[1]/body[1]/p[6]::157" xml:id="UID-FAKE-7995">
+        <rs ana="https://topostext.org/place/378227SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::166 /TEI[1]/text[1]/body[1]/p[6]::173" xml:id="UID-FAKE-7996">
+        <rs ana="https://topostext.org/place/379230LIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::179 /TEI[1]/text[1]/body[1]/p[6]::189" xml:id="UID-FAKE-7997">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::407 /TEI[1]/text[1]/body[1]/p[6]::415" xml:id="UID-FAKE-7998">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::4 /TEI[1]/text[1]/body[1]/p[7]::11" xml:id="UID-FAKE-7999">
+        <rs ana="https://topostext.org/place/382204UPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::55 /TEI[1]/text[1]/body[1]/p[7]::68" xml:id="UID-FAKE-8000">
+        <rs ana="https://topostext.org/place/383207PSam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::107 /TEI[1]/text[1]/body[1]/p[7]::112" xml:id="UID-FAKE-8001">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::141 /TEI[1]/text[1]/body[1]/p[7]::148" xml:id="UID-FAKE-8002">
+        <rs ana="https://topostext.org/place/382204UPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::168 /TEI[1]/text[1]/body[1]/p[7]::178" xml:id="UID-FAKE-8003">
+        <rs ana="https://topostext.org/place/382204UPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::491 /TEI[1]/text[1]/body[1]/p[7]::501" xml:id="UID-FAKE-8004">
+        <rs ana="https://topostext.org/place/410290UByz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::21 /TEI[1]/text[1]/body[1]/p[8]::29" xml:id="UID-FAKE-8005">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::35 /TEI[1]/text[1]/body[1]/p[8]::38" xml:id="UID-FAKE-8006">
+        <rs ana="https://topostext.org/place/376216BOPl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::47 /TEI[1]/text[1]/body[1]/p[9]::59" xml:id="UID-FAKE-8007">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::182 /TEI[1]/text[1]/body[1]/p[9]::189" xml:id="UID-FAKE-8008">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::429 /TEI[1]/text[1]/body[1]/p[10]::437" xml:id="UID-FAKE-8009">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::484 /TEI[1]/text[1]/body[1]/p[10]::497" xml:id="UID-FAKE-8010">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 6, Chapter 15</head>
+      <p>Archippus of Mitylene overcame his competitors in the men"s boxing-match, and his fellow-townsmen hold that he added to his fame by winning the crown, when he was not more than twenty years old, at Olympia, at Pytho, at Nemea and at the Isthmus. The statue of the boy runner Xenon, son of CalliteleYY from Lepreus in Triphylia, was made by Pyrilampes the Messenian; who made the statue of Cleinomachus of Elis I do not know, but Cleinomachus was proclaimed victor in the pentathlum.</p>
+      <p>The inscription on the statue of Pantarces of Elis states that it was dedicated by Achaeans, because he made peace between them and the Eleans, and procured the release of those who had been made prisoners by both sides during the war. This Pantarces also won a victory with a race-horse, and there is a memorial of his victory also at Olympia. The statue of Olidas, of Elis, was dedicated by the Aetolian nation, and Charinus of Elis is represented in a statue dedicated for a victory in the double race and in the race in armour. By his side is Ageles of Chios, victorious in the boys"boxing-match, the artist being Theomnestus of Sardes.</p>
+      <p>The statue of Cleitomachus of Thebes was dedicated by his father Hermocrates, and his famous deeds are these. At the Isthmus he won the men"s wrestling-match, and on the same day he overcame all competitors in the boxing-match and in the pancratium. His victories at Pytho were all in the pancratium, three in number. At Olympia this Cleitomachus was the first after Theagenes of Thasos to be proclaimed victor in both boxing and the pancratium.</p>
+      <p>He won his victory in the pancratium at the hundred and forty-first Olympiad [216 BCE]. The next Olympiad [212 BCE] saw this Cleitomachus a competitor in the pancratium and in boxing, while Caprus of Elis was minded both to wrestle and to compete in the pancratium on the same day.</p>
+      <p>After Caprus had won in the wrestling-match, Cleitomachus put it to the Hellanodikai that it would be fair if they were to bring in the pancratium before he received wounds in the boxing. His request seemed reasonable, and so the pancratium was brought in. Although Cleitomachus was defeated by Caprus he tackled the boxers with sturdy spirit and unwearied vigor.</p>
+      <p>The Ionians of Erythrae dedicated a statue of Epitherses, son of MetrodoruYY, who won two boxing prizes at Olympia, two at Pytho, and also victories at Nemea and the Isthmus; the Syracusans dedicated two statues of Hiero at the public charge, while a third is the gift of Hiero"s sons. I pointed out in a recent chapter on this Hiero had the same name as the son of Deinomenes, and, like him, was despot of Syracuse.</p>
+      <p>The Paleans, who form one of the four divisions of the Cephallenians, dedicated a statue of Timoptolis, an Elean, the son of LampisYY. These Paleans were of old called Dulichians. There is also a statue set up of Archidamus the son of Agesilaus, and of some man or other representing a hunter. There is a statue of Demetrius, who made an expedition against Seleucus and was taken prisoner in the battle, and one of Antigonus the son of Demetrius; they are offerings, you may be sure, of the Byzantines.</p>
+      <p>At the thirty-eighth Olympiad [628 BCE] Eutelidas the Spartan won two victories among the boys, one for wrestling and one for the pentathlum, this being the first and last occasion when boys were allowed to enter for the pentathlum. The statue of Eutelidas is old, and the letters on the pedestal are worn dim with age.</p>
+      <p>After Eutelidas is another statue of Areus the Lacedemonian king, and beside it is a statue of Gorgus the Elean. Gorgus is the only man down to my time who has won four victories at Olympia for the pentathlum, beside a victory in the double race and a victory in the race in armour.</p>
+      <p>The man with the boys standing beside him they say is Ptolemy, son of Lagus. Beside him are two statues of the Elean Caprus, the son of PythagoraYY, who received on the same day a crown for wrestling and a crown for the pancratium. This Caprus was the first man to win the two victories. His victim overcome in the pancratium I have already mentioned; in wrestling the man he overcame was the Elean Paeanius, who at the previous Olympiad had won a victory for wrestling, while at the Pythian games he won a crown in the boys"boxing-match, and again in the men"s wrestling-match and in the men"s boxing-match on one and the same day.</p>
+    </body>
+  </text>
+</TEI>

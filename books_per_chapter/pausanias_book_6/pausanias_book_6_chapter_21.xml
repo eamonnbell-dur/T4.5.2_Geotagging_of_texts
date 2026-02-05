@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::139 /TEI[1]/text[1]/body[1]/p[1]::146" xml:id="UID-FAKE-8277">
+        <rs ana="https://topostext.org/place/376216SDCh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::320 /TEI[1]/text[1]/body[1]/p[1]::324" xml:id="UID-FAKE-8278">
+        <rs ana="https://topostext.org/place/376217PPis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::383 /TEI[1]/text[1]/body[1]/p[1]::387" xml:id="UID-FAKE-8279">
+        <rs ana="https://topostext.org/place/376217PPis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::62 /TEI[1]/text[1]/body[1]/p[2]::70" xml:id="UID-FAKE-8280">
+        <rs ana="https://topostext.org/place/381239LPen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::138 /TEI[1]/text[1]/body[1]/p[2]::145" xml:id="UID-FAKE-8281">
+        <rs ana="https://topostext.org/place/376216BOGy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::337 /TEI[1]/text[1]/body[1]/p[2]::346" xml:id="UID-FAKE-8282">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::25 /TEI[1]/text[1]/body[1]/p[3]::32" xml:id="UID-FAKE-8283">
+        <rs ana="https://topostext.org/place/376216GOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::238 /TEI[1]/text[1]/body[1]/p[3]::245" xml:id="UID-FAKE-8284">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::250 /TEI[1]/text[1]/body[1]/p[3]::254" xml:id="UID-FAKE-8285">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::276 /TEI[1]/text[1]/body[1]/p[3]::283" xml:id="UID-FAKE-8286">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::289 /TEI[1]/text[1]/body[1]/p[3]::293" xml:id="UID-FAKE-8287">
+        <rs ana="https://topostext.org/place/376217PPis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::340 /TEI[1]/text[1]/body[1]/p[3]::350" xml:id="UID-FAKE-8288">
+        <rs ana="https://topostext.org/place/378218WEry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::382 /TEI[1]/text[1]/body[1]/p[3]::388" xml:id="UID-FAKE-8289">
+        <rs ana="https://topostext.org/place/376218GSau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::79 /TEI[1]/text[1]/body[1]/p[4]::87" xml:id="UID-FAKE-8290">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::122 /TEI[1]/text[1]/body[1]/p[4]::132" xml:id="UID-FAKE-8291">
+        <rs ana="https://topostext.org/place/380218LEry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::170 /TEI[1]/text[1]/body[1]/p[4]::174" xml:id="UID-FAKE-8292">
+        <rs ana="https://topostext.org/place/376217PPis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::179 /TEI[1]/text[1]/body[1]/p[4]::186" xml:id="UID-FAKE-8293">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::205 /TEI[1]/text[1]/body[1]/p[4]::211" xml:id="UID-FAKE-8294">
+        <rs ana="https://topostext.org/place/378218WDia"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::246 /TEI[1]/text[1]/body[1]/p[4]::252" xml:id="UID-FAKE-8295">
+        <rs ana="https://topostext.org/place/376218SAsD"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::288 /TEI[1]/text[1]/body[1]/p[4]::299" xml:id="UID-FAKE-8296">
+        <rs ana="https://topostext.org/place/376218SAsD"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::377 /TEI[1]/text[1]/body[1]/p[4]::385" xml:id="UID-FAKE-8297">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::78 /TEI[1]/text[1]/body[1]/p[5]::88" xml:id="UID-FAKE-8298">
+        <rs ana="https://topostext.org/place/378218WLeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::127 /TEI[1]/text[1]/body[1]/p[5]::135" xml:id="UID-FAKE-8299">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::154 /TEI[1]/text[1]/body[1]/p[5]::166" xml:id="UID-FAKE-8300">
+        <rs ana="https://topostext.org/place/378218LPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::181 /TEI[1]/text[1]/body[1]/p[5]::189" xml:id="UID-FAKE-8301">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::230 /TEI[1]/text[1]/body[1]/p[5]::234" xml:id="UID-FAKE-8302">
+        <rs ana="https://topostext.org/place/376217PPis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::89 /TEI[1]/text[1]/body[1]/p[6]::95" xml:id="UID-FAKE-8303">
+        <rs ana="https://topostext.org/place/376218SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::136 /TEI[1]/text[1]/body[1]/p[6]::144" xml:id="UID-FAKE-8304">
+        <rs ana="https://topostext.org/place/379214SEAt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::319 /TEI[1]/text[1]/body[1]/p[6]::326" xml:id="UID-FAKE-8305">
+        <rs ana="https://topostext.org/place/355240PKyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::330 /TEI[1]/text[1]/body[1]/p[6]::335" xml:id="UID-FAKE-8306">
+        <rs ana="https://topostext.org/place/355240PKyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::355 /TEI[1]/text[1]/body[1]/p[6]::359" xml:id="UID-FAKE-8307">
+        <rs ana="https://topostext.org/place/371224WEur"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::365 /TEI[1]/text[1]/body[1]/p[6]::371" xml:id="UID-FAKE-8308">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::406 /TEI[1]/text[1]/body[1]/p[6]::414" xml:id="UID-FAKE-8309">
+        <rs ana="https://topostext.org/place/376217SAKy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::50 /TEI[1]/text[1]/body[1]/p[7]::59" xml:id="UID-FAKE-8310">
+        <rs ana="https://topostext.org/place/378218WPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::283 /TEI[1]/text[1]/body[1]/p[7]::294" xml:id="UID-FAKE-8311">
+        <rs ana="https://topostext.org/place/378218WPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::299 /TEI[1]/text[1]/body[1]/p[7]::305" xml:id="UID-FAKE-8312">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::420 /TEI[1]/text[1]/body[1]/p[7]::429" xml:id="UID-FAKE-8313">
+        <rs ana="https://topostext.org/place/378218WPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::30 /TEI[1]/text[1]/body[1]/p[8]::40" xml:id="UID-FAKE-8314">
+        <rs ana="https://topostext.org/place/376217WHar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::106 /TEI[1]/text[1]/body[1]/p[8]::113" xml:id="UID-FAKE-8315">
+        <rs ana="https://topostext.org/place/376217WHar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::34 /TEI[1]/text[1]/body[1]/p[10]::49" xml:id="UID-FAKE-8316">
+        <rs ana="https://topostext.org/place/376216GOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::327 /TEI[1]/text[1]/body[1]/p[10]::339" xml:id="UID-FAKE-8317">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::359 /TEI[1]/text[1]/body[1]/p[10]::365" xml:id="UID-FAKE-8318">
+        <rs ana="https://topostext.org/place/368228UAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::483 /TEI[1]/text[1]/body[1]/p[10]::492" xml:id="UID-FAKE-8319">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::219 /TEI[1]/text[1]/body[1]/p[11]::226" xml:id="UID-FAKE-8320">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::418 /TEI[1]/text[1]/body[1]/p[11]::422" xml:id="UID-FAKE-8321">
+        <rs ana="https://topostext.org/place/376217PPis"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 6, Chapter 21</head>
+      <p>The other side of the course is not a bank of earth but a low hill. At the foot of the hill has been built a sanctuary to Demeter surnamed Chamyne. Some are of opinion that the name is old, signifying that here the earth gaped for the chariot of Hades and then closed up once more. Others say that Chamynus was a man of Pisa who opposed Pantaleon, the son of Omphalion and despot at Pisa, when he plotted to revolt from Elis; Pantaleon, they say, put him to death, and from his property was built the sanctuary to Demeter.</p>
+      <p>In place of the old images of Kore and of Demeter new ones of Pentelic marble were dedicated by Herodes the Athenian. In the gymnasium at Olympia it is customary for pentathletes and runners to practise, and in the open has been made a basement of stone. Originally there stood on the basement a trophy to commemorate a victory over the Arcadians. There is also another enclosure, less than this, to the left of the entrance to the gymnasium, and the athletes have their wrestling-schools here. Adjoining the wall of the eastern porch of the gymnasium are the dwellings of the athletes, turned towards the southwest.</p>
+      <p>On the other side of the Cladeus is the tomb of Oenomaus, a mound of earth with a stone wall built round it, and above the tomb are ruins of buildings in which Oenomaus is said to have stabled his mares. The boundaries which now separate Arcadia and Elis originally separated Arcadia from Pisa, and are thus situated. On crossing the river Erymanthus at what is called the ridge of Saurus are the tomb of Saurus and a sanctuary of Heracles, now in ruins. The story is that Saurus used to do mischief to travellers and to dwellers in the neighborhood until he received his punishment at the hands of Heracles.</p>
+      <p>At this ridge which has the same name as the robber, a river, falling into the Alpheius from the south, just opposite the Erymanthus, is the boundary between the land of Pisa and Arcadia; it is called the Diagon. Forty stades beyond the ridge of Saurus is a temple of Asclepius, surnamed Demaenetus1 after the founder. It too is in ruins. It was built on the height beside the Alpheius.</p>
+      <p>Not far from it is a sanctuary of Dionysus Leucyanites, whereby flows a river Leucyanias. This river too is a tributary of the Alpheius; it descends from Mount Pholoe. Crossing the Alpheius after it you will be within the land of Pisa.</p>
+      <p>In this district is a hill rising to a sharp peak, on which are the ruins of the city of Phrixa, as well as a temple of Athena surnamed Cydonian. This temple is not entire, but the altar is still there. The sanctuary was founded for the goddess, they say, by Clymenus, a descendant of Idaean Heracles, and he came from Cydonia in Crete and from the river A923. The Eleans say that Pelops too sacrificed to Cydonian Athena before he set about his contest with Oenomaus.</p>
+      <p>Going on from this point you come to the water of Parthenia, and by the river is the grave of the mares of Marmax. The story has it that this Marmax was the first suitor of Hippodameia to arrive, and that he was killed by Oenomaus before the others; that the names of his mares were PartheniaYY and Eripha; that Oenomaus slew the mares after Marmax, but granted burial to them also, and that the river received the name Parthenia from the mare of Marmax.</p>
+      <p>There is another river called Harpinates, and not far from the river are, among the other ruins of a city Harpina, its altars. The city was founded, they say, by Oenomaus, who named it after his mother Harpina.</p>
+      <p>A little farther on is a high mound of earth, the grave of the suitors of Hippodameia. Now Oenomaus, they say, laid them in the ground near one another with no token of respect. But afterwards Pelops raised a high monument to them all, to honor them and to please Hippodameia. I think too that Pelops wanted a memorial to tell posterity the number and character of the men vanquished by Oenomaus before Pelops himself conquered him.</p>
+      <p>According to the epic poem called the Great Eoeae the next after Marmax to be killed by Oenomaus was Alcathus, son of Porthaon; after Alcathus came Euryalus, Eurymachus and Crotalus. Now the parents and fatherlands of these I was unable to discover, but Acrias, the next after them to be killed, one might guess to have been a Lacedemonian and the founder of Acriae. After Acrias they say that Oenomaus slew Capetus, Lycurgus, Lasius, Chalcodon and Tricolonus, who, according to the Arcadians, was the descendant and namesake of Tricolonus, the son of Lycaon.</p>
+      <p>After Tricolonus there met their fate in the race Aristomachus and Prias, and then A1678, Aeolius and Cronius. Some add to the aforesaid Erythras, the son of Leucon, the son of Athamas, after whom was named Erythrae in Boeotia, and Eioneus, the son of Magnes the son of Aeolus. These are the men whose monument is here, and Pelops, they say, sacrificed every year to them as heroes, when he had won the sovereignty of Pisa.</p>
+    </body>
+  </text>
+</TEI>

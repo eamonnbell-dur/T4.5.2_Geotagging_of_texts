@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::13 /TEI[1]/text[1]/body[1]/p[1]::20" xml:id="UID-FAKE-6611">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::171 /TEI[1]/text[1]/body[1]/p[1]::178" xml:id="UID-FAKE-6612">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::372 /TEI[1]/text[1]/body[1]/p[1]::379" xml:id="UID-FAKE-6613">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::583 /TEI[1]/text[1]/body[1]/p[1]::591" xml:id="UID-FAKE-6614">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::629 /TEI[1]/text[1]/body[1]/p[1]::635" xml:id="UID-FAKE-6615">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::694 /TEI[1]/text[1]/body[1]/p[1]::701" xml:id="UID-FAKE-6616">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::4 /TEI[1]/text[1]/body[1]/p[2]::10" xml:id="UID-FAKE-6617">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::194 /TEI[1]/text[1]/body[1]/p[2]::200" xml:id="UID-FAKE-6618">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::206 /TEI[1]/text[1]/body[1]/p[2]::216" xml:id="UID-FAKE-6619">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::280 /TEI[1]/text[1]/body[1]/p[2]::287" xml:id="UID-FAKE-6620">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::428 /TEI[1]/text[1]/body[1]/p[2]::435" xml:id="UID-FAKE-6621">
+        <rs ana="https://topostext.org/place/392205WAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::450 /TEI[1]/text[1]/body[1]/p[2]::460" xml:id="UID-FAKE-6622">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::498 /TEI[1]/text[1]/body[1]/p[2]::506" xml:id="UID-FAKE-6623">
+        <rs ana="https://topostext.org/place/392205WAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::169 /TEI[1]/text[1]/body[1]/p[3]::177" xml:id="UID-FAKE-6624">
+        <rs ana="https://topostext.org/place/376275WMae"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::183 /TEI[1]/text[1]/body[1]/p[3]::191" xml:id="UID-FAKE-6625">
+        <rs ana="https://topostext.org/place/383233WAso"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::192 /TEI[1]/text[1]/body[1]/p[3]::198" xml:id="UID-FAKE-6626">
+        <rs ana="https://topostext.org/place/383233WAso"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::282 /TEI[1]/text[1]/body[1]/p[3]::286" xml:id="UID-FAKE-6627">
+        <rs ana="https://topostext.org/place/312301WNil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::347 /TEI[1]/text[1]/body[1]/p[3]::354" xml:id="UID-FAKE-6628">
+        <rs ana="https://topostext.org/place/392205WAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::381 /TEI[1]/text[1]/body[1]/p[3]::389" xml:id="UID-FAKE-6629">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::437 /TEI[1]/text[1]/body[1]/p[3]::443" xml:id="UID-FAKE-6630">
+        <rs ana="https://topostext.org/place/450120WEri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::456 /TEI[1]/text[1]/body[1]/p[3]::462" xml:id="UID-FAKE-6631">
+        <rs ana="https://topostext.org/place/380237WEri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::463 /TEI[1]/text[1]/body[1]/p[3]::471" xml:id="UID-FAKE-6632">
+        <rs ana="https://topostext.org/place/442277WIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::104 /TEI[1]/text[1]/body[1]/p[4]::111" xml:id="UID-FAKE-6633">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::182 /TEI[1]/text[1]/body[1]/p[4]::188" xml:id="UID-FAKE-6634">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::270 /TEI[1]/text[1]/body[1]/p[4]::277" xml:id="UID-FAKE-6635">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::192 /TEI[1]/text[1]/body[1]/p[5]::198" xml:id="UID-FAKE-6636">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::124 /TEI[1]/text[1]/body[1]/p[6]::130" xml:id="UID-FAKE-6637">
+        <rs ana="https://topostext.org/place/379214SThy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::193 /TEI[1]/text[1]/body[1]/p[6]::200" xml:id="UID-FAKE-6638">
+        <rs ana="https://topostext.org/place/377216SNIo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::269 /TEI[1]/text[1]/body[1]/p[6]::279" xml:id="UID-FAKE-6639">
+        <rs ana="https://topostext.org/place/376216SHpd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::311 /TEI[1]/text[1]/body[1]/p[6]::317" xml:id="UID-FAKE-6640">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::370 /TEI[1]/text[1]/body[1]/p[6]::376" xml:id="UID-FAKE-6641">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::520 /TEI[1]/text[1]/body[1]/p[6]::531" xml:id="UID-FAKE-6642">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::48 /TEI[1]/text[1]/body[1]/p[7]::58" xml:id="UID-FAKE-6643">
+        <rs ana="https://topostext.org/place/369273SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::60 /TEI[1]/text[1]/body[1]/p[7]::69" xml:id="UID-FAKE-6644">
+        <rs ana="https://topostext.org/place/369273SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::79 /TEI[1]/text[1]/body[1]/p[8]::95" xml:id="UID-FAKE-6645">
+        <rs ana="https://topostext.org/place/380237SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::241 /TEI[1]/text[1]/body[1]/p[8]::250" xml:id="UID-FAKE-6646">
+        <rs ana="https://topostext.org/place/380237SZPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::308 /TEI[1]/text[1]/body[1]/p[8]::316" xml:id="UID-FAKE-6647">
+        <rs ana="https://topostext.org/place/376216SOHe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::462 /TEI[1]/text[1]/body[1]/p[8]::468" xml:id="UID-FAKE-6648">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::22 /TEI[1]/text[1]/body[1]/p[9]::30" xml:id="UID-FAKE-6649">
+        <rs ana="https://topostext.org/place/380237SATG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::53 /TEI[1]/text[1]/body[1]/p[9]::59" xml:id="UID-FAKE-6650">
+        <rs ana="https://topostext.org/place/380237SAA2"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::213 /TEI[1]/text[1]/body[1]/p[9]::218" xml:id="UID-FAKE-6651">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::422 /TEI[1]/text[1]/body[1]/p[9]::432" xml:id="UID-FAKE-6652">
+        <rs ana="https://topostext.org/place/376216BSiT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::476 /TEI[1]/text[1]/body[1]/p[9]::483" xml:id="UID-FAKE-6653">
+        <rs ana="https://topostext.org/place/376218GSau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::22 /TEI[1]/text[1]/body[1]/p[10]::27" xml:id="UID-FAKE-6654">
+        <rs ana="https://topostext.org/place/376216SDCh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::42 /TEI[1]/text[1]/body[1]/p[10]::47" xml:id="UID-FAKE-6655">
+        <rs ana="https://topostext.org/place/419125STel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::64 /TEI[1]/text[1]/body[1]/p[10]::69" xml:id="UID-FAKE-6656">
+        <rs ana="https://topostext.org/place/419125STel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::154 /TEI[1]/text[1]/body[1]/p[10]::159" xml:id="UID-FAKE-6657">
+        <rs ana="https://topostext.org/place/419125STel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::197 /TEI[1]/text[1]/body[1]/p[10]::204" xml:id="UID-FAKE-6658">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::518 /TEI[1]/text[1]/body[1]/p[10]::524" xml:id="UID-FAKE-6659">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 5, Chapter 14</head>
+      <p>The altar at Olympia shows another strange peculiarity, which is this. The kite, the bird of prey with the most rapacious nature, never harms those who are sacrificing at Olympia. Should ever a kite seize the entrails or some of the flesh, it is regarded as an unfavorable sign for the sacrificer. There is a story that when Heracles the son of Alcmena was sacrificing at Olympia he was much worried by the flies. So either on his own initiative or at somebody"s suggestion he sacrificed to Zeus Apomyius (averter of flies), and thus the flies were diverted to the other side of the Alpheius. It is said that in the same way the Eleans too sacrifice to Zeus Apomyius, to drive the flies out of Olympia.</p>
+      <p>The Eleans are wont to use for the sacrifices to Zeus the wood of the white poplar and of no other tree, preferring the white poplar, I think, simply and solely because Heracles brought it into Greece from Thesprotia. And it is my opinion that when Heracles sacrificed to Zeus at Olympia he himself burned the thigh bones of the victims upon wood of the white poplar. Heracles found the white poplar growing on the banks of the Acheron, the river in Thesprotia, and for this reason Homer calls it “Acheroid.”</p>
+      <p>So from the first down to the present all rivers have not been equally suited for the growth of plants and trees. Tamarisks grow best and in the greatest numbers by the Maeander; the Boeotian Asopus can produce the tallest reeds; the persea tree flourishes only in the water of the Nile. So it is no wonder that the white poplar grew first by the Acheron and the wild olive by the Alpheius, and that the dark poplar is a nursling of the Celtic land of the Celtic Eridanus.</p>
+      <p>Now that I have finished my account of the greatest altar, let me proceed to describe all the altars in Olympia. My narrative will follow in dealing with them the order in which the Eleans are wont to sacrifice on the altars. They sacrifice to Hestia first, secondly to Olympic Zeus, going to the altar within the temple, thirdly to Zeus Laoetas and to Poseidon Laoetas. This sacrifice too it is usual to offer on one altar.</p>
+      <p>Fourthly and fifthly they sacrifice to Artemis and to Athena Leitis (of Booty), sixthly to Ergane (Worker). The descendants of Pheidias, called Cleansers (Phaidryntai), have received from the Eleans the privilege of cleaning the image of Zeus from the dirt that settles on it, and they sacrifice to this Ergane before they begin to polish the image. There is another altar of Athena near the temple, and by it a square altar of Artemis rising gently to a height.</p>
+      <p>After the altars I have enumerated there is one on which they sacrifice to Alpheius and Artemis together. The cause of this Pindar, I think, intimates in an ode, and I give it in my account of Letrini. Not far from it stands another altar of Alpheius, and by it one of Hephaestus. This altar of Hephaestus some Eleans call the altar of Areios (warlike) Zeus. These same Eleans also say that Oenomaus used to sacrifice to Zeus Areios on this altar whenever he was about to begin a chariot-race with one of the suitors of Hippodameia.</p>
+      <p>After this stands an altar of Heracles surnamed Parastates (Assistant); there are also altars of the brothers of Heracles — Epimedes, Idas, Paeonaeus, and Iasus; I am aware, however, that the altar of Idas is called by others the altar of Acesidas. At the place where are the foundations of the house of Oenomaus stand two altars: one is of Zeus Herkeios, which Oenomaus appears to have had built himself, and the other of Zeus Keraunios (of the Thunderbolt), which I believe they built later, when the thunderbolt had struck the house of Oenomaus.</p>
+      <p>An account of the great altar I gave a little way back; it is called the altar of Olympian Zeus. By it is an altar of Unknown Gods, and after this an altar of Zeus Katharsios (purifier), one of Nike, and another of Zeus — this time surnamed Chthonian. There are also altars of all gods, and of Hera surnamed Olympian, this too being made of ashes. They say that it was dedicated by Clymenus. After this comes an altar of Apollo and Hermes in common, because the Greeks have a story about them that Hermes invented the lyre and Apollo the lute.</p>
+      <p>Next come an altar of Homonoia (concord), another of Athena, and the altar of the Mother of the gods. Quite close to the entrance to the stadium are two altars; one they call the altar of Hermes Enagonios (of the Games), the other the altar of Kairos (opportunity). I know that a hymn to Kairos is one of the poems of Ion of Chios; in the hymn Kairos is made out to be the youngest child of Zeus. Near the treasury of the Sicyonians is an altar of Heracles, either one of the Curetes or the son of Alcmena, for both accounts are given.</p>
+      <p>On what is called the Gaeum (sanctuary of Earth) is an altar of Earth; it too is of ashes. In more ancient days they say that there was an oracle also of Earth in this place. On what is called the Stomium (Mouth) the altar to Themis has been built. All round the altar of Zeus Descender runs a fence; this altar is near the great altar made of the ashes. The reader must remember that the altars have not been enumerated in the order in which they stand, but the order followed by my narrative is that followed by the Eleans in their sacrifices. By the sacred enclosure of Pelops is an altar of Dionysus and the Graces in common; between them is an altar of the Muses, and next to these an altar of the Nymphs.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::32 /TEI[1]/text[1]/body[1]/p[1]::36" xml:id="UID-FAKE-8396">
+        <rs ana="https://topostext.org/place/376216BOGy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::170 /TEI[1]/text[1]/body[1]/p[1]::177" xml:id="UID-FAKE-8397">
+        <rs ana="https://topostext.org/place/376216BOGy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::273 /TEI[1]/text[1]/body[1]/p[1]::279" xml:id="UID-FAKE-8398">
+        <rs ana="https://topostext.org/place/379214BElG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::59 /TEI[1]/text[1]/body[1]/p[2]::75" xml:id="UID-FAKE-8399">
+        <rs ana="https://topostext.org/place/376216BOHi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::184 /TEI[1]/text[1]/body[1]/p[2]::193" xml:id="UID-FAKE-8400">
+        <rs ana="https://topostext.org/place/376216BOGy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::205 /TEI[1]/text[1]/body[1]/p[2]::217" xml:id="UID-FAKE-8401">
+        <rs ana="https://topostext.org/place/376216BOGy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::55 /TEI[1]/text[1]/body[1]/p[3]::61" xml:id="UID-FAKE-8402">
+        <rs ana="https://topostext.org/place/376218GSau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::62 /TEI[1]/text[1]/body[1]/p[3]::70" xml:id="UID-FAKE-8403">
+        <rs ana="https://topostext.org/place/369273SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::139 /TEI[1]/text[1]/body[1]/p[3]::145" xml:id="UID-FAKE-8404">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::150 /TEI[1]/text[1]/body[1]/p[3]::159" xml:id="UID-FAKE-8405">
+        <rs ana="https://topostext.org/place/380237BKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::412 /TEI[1]/text[1]/body[1]/p[3]::417" xml:id="UID-FAKE-8406">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::86 /TEI[1]/text[1]/body[1]/p[4]::92" xml:id="UID-FAKE-8407">
+        <rs ana="https://topostext.org/place/380237BSPe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::395 /TEI[1]/text[1]/body[1]/p[4]::399" xml:id="UID-FAKE-8408">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::49 /TEI[1]/text[1]/body[1]/p[5]::55" xml:id="UID-FAKE-8409">
+        <rs ana="https://topostext.org/place/379214BElG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::171 /TEI[1]/text[1]/body[1]/p[5]::177" xml:id="UID-FAKE-8410">
+        <rs ana="https://topostext.org/place/379214BElG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::36 /TEI[1]/text[1]/body[1]/p[6]::42" xml:id="UID-FAKE-8411">
+        <rs ana="https://topostext.org/place/379214BElG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::123 /TEI[1]/text[1]/body[1]/p[6]::127" xml:id="UID-FAKE-8412">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::142 /TEI[1]/text[1]/body[1]/p[6]::152" xml:id="UID-FAKE-8413">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::171 /TEI[1]/text[1]/body[1]/p[6]::177" xml:id="UID-FAKE-8414">
+        <rs ana="https://topostext.org/place/312299IPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::218 /TEI[1]/text[1]/body[1]/p[6]::222" xml:id="UID-FAKE-8415">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::371 /TEI[1]/text[1]/body[1]/p[6]::378" xml:id="UID-FAKE-8416">
+        <rs ana="https://topostext.org/place/376216BOLe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::409 /TEI[1]/text[1]/body[1]/p[6]::415" xml:id="UID-FAKE-8417">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::452 /TEI[1]/text[1]/body[1]/p[6]::460" xml:id="UID-FAKE-8418">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::465 /TEI[1]/text[1]/body[1]/p[6]::467" xml:id="UID-FAKE-8419">
+        <rs ana="https://topostext.org/place/376216BOLe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::30 /TEI[1]/text[1]/body[1]/p[7]::48" xml:id="UID-FAKE-8420">
+        <rs ana="https://topostext.org/place/379214XEAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::177 /TEI[1]/text[1]/body[1]/p[7]::187" xml:id="UID-FAKE-8421">
+        <rs ana="https://topostext.org/place/379214BElG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::59 /TEI[1]/text[1]/body[1]/p[8]::76" xml:id="UID-FAKE-8422">
+        <rs ana="https://topostext.org/place/376216BOGy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::238 /TEI[1]/text[1]/body[1]/p[8]::245" xml:id="UID-FAKE-8423">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::341 /TEI[1]/text[1]/body[1]/p[8]::345" xml:id="UID-FAKE-8424">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::663 /TEI[1]/text[1]/body[1]/p[8]::672" xml:id="UID-FAKE-8425">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 6, Chapter 23</head>
+      <p>One of the noteworthy things in Elis is an old gymnasium. In this gymnasium the athletes are wont to go through the training through which they must pass before going to Olympia. High plane-trees grow between the tracks inside a wall. The whole of this enclosure is called Xystus, because an exercise of Heracles, the son of Amphitryon, was to scrape up (anaxuein) each day all the thistles that grew there.</p>
+      <p>The track for the competing runners, called by the natives the Sacred Track, is separate from that on which the runners and pentathletes practise. In the gymnasium is the place called Plethrium. In it the Hellanodikai match the competitors according to age and skill; it is for wrestling that they match them.</p>
+      <p>There are also in the gymnasium altars of the gods, of Idaean Heracles, surnamed Parastates (Standing By), of Eros, of the deity called by Eleans and Athenians alike Anteros (love returned), of Demeter and of her daughter. Achilles has no altar, only a cenotaph raised to him because of an oracle. On an appointed day at the beginning of the festival, when the course of the sun is sinking towards the west, the Elean women do honor to Achilles, especially by bewailing him.</p>
+      <p>There is another enclosed gymnasium, but smaller, adjoining the larger one and called Square because of its shape. Here the athletes practise wrestling, and here, when they have no more wrestling to do, they are matched in contests with the softer gloves. There is also dedicated here one of the images made in honor of Zeus out of the fines imposed upon Sosander of Smyrna and upon Polyctor of Elis.</p>
+      <p>There is also a third enclosed gymnasium, called Maltho from the softness of its floor, and reserved for the youths for the whole time of the festival. In a corner of the Maltho is a bust of Heracles as far as the shoulders, and in one of the wrestling-schools is a relief showing Eros and Anteros, as he is called. Eros holds a palm-branch, and Anteros is trying to take the palm from him.</p>
+      <p>On each side of the entrance to the Maltho stands an image of a boy boxer. He was by birth, so the Guardian of the Laws at Elis told me, from Alexandria beyond the island Pharos, and his name was Sarapion; arriving at Elis when the townsfolk were suffering from famine he supplied them with food. For this reason these honors were paid him here. The time of his crown at Olympia and of his benefaction to the Eleans was the two hundred and seventeenth Olympiad [89 CE].</p>
+      <p>In this gymnasium is also the Elean bouleuterion (council house), where take place exhibitions of extempore speeches and recitations of written works of all kinds. It is called Lalichmium, after the man who dedicated it. About it are dedicated shields, which are for show and not made to be used in war.</p>
+      <p>The way from the gymnasium to the baths passes through the Street of Silence and beside the sanctuary of Artemis Philomeirax. The goddess is so surnamed because she is neighbor to the gymnasium; the street received, they say, the name of Silence for the following reason. Men of the army of Oxylus were sent to spy out what was happening in Elis. On the way they exhorted each other, when they should be near the wall, themselves to keep a strict silence, but to listen attentively if perchance they might learn aught from the people in the town. These men by this street reached the town unobserved, and after hearing all they wished they went back again to the Aetolians. So the street received its name from the silence of the spies.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::108 /TEI[1]/text[1]/body[1]/p[1]::115" xml:id="UID-FAKE-7040">
+        <rs ana="https://topostext.org/place/379229SApT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::196 /TEI[1]/text[1]/body[1]/p[1]::208" xml:id="UID-FAKE-7041">
+        <rs ana="https://topostext.org/place/380227BBoS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::380 /TEI[1]/text[1]/body[1]/p[1]::386" xml:id="UID-FAKE-7042">
+        <rs ana="https://topostext.org/place/383233GAaZ"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::411 /TEI[1]/text[1]/body[1]/p[1]::417" xml:id="UID-FAKE-7043">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::7 /TEI[1]/text[1]/body[1]/p[2]::18" xml:id="UID-FAKE-7044">
+        <rs ana="https://topostext.org/place/398232RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::75 /TEI[1]/text[1]/body[1]/p[2]::82" xml:id="UID-FAKE-7045">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::132 /TEI[1]/text[1]/body[1]/p[2]::142" xml:id="UID-FAKE-7046">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::221 /TEI[1]/text[1]/body[1]/p[2]::227" xml:id="UID-FAKE-7047">
+        <rs ana="https://topostext.org/place/386228PPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::235 /TEI[1]/text[1]/body[1]/p[2]::243" xml:id="UID-FAKE-7048">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::285 /TEI[1]/text[1]/body[1]/p[2]::289" xml:id="UID-FAKE-7049">
+        <rs ana="https://topostext.org/place/380237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::364 /TEI[1]/text[1]/body[1]/p[2]::375" xml:id="UID-FAKE-7050">
+        <rs ana="https://topostext.org/place/385228SAVa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::122 /TEI[1]/text[1]/body[1]/p[3]::135" xml:id="UID-FAKE-7051">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::173 /TEI[1]/text[1]/body[1]/p[3]::183" xml:id="UID-FAKE-7052">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::270 /TEI[1]/text[1]/body[1]/p[3]::278" xml:id="UID-FAKE-7053">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::336 /TEI[1]/text[1]/body[1]/p[3]::349" xml:id="UID-FAKE-7054">
+        <rs ana="https://topostext.org/place/376216SOZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::14 /TEI[1]/text[1]/body[1]/p[4]::19" xml:id="UID-FAKE-7055">
+        <rs ana="https://topostext.org/place/380237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::81 /TEI[1]/text[1]/body[1]/p[4]::86" xml:id="UID-FAKE-7056">
+        <rs ana="https://topostext.org/place/384227SDik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::133 /TEI[1]/text[1]/body[1]/p[4]::140" xml:id="UID-FAKE-7057">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::174 /TEI[1]/text[1]/body[1]/p[4]::180" xml:id="UID-FAKE-7058">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::349 /TEI[1]/text[1]/body[1]/p[4]::354" xml:id="UID-FAKE-7059">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::407 /TEI[1]/text[1]/body[1]/p[4]::413" xml:id="UID-FAKE-7060">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::462 /TEI[1]/text[1]/body[1]/p[4]::471" xml:id="UID-FAKE-7061">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::11 /TEI[1]/text[1]/body[1]/p[5]::19" xml:id="UID-FAKE-7062">
+        <rs ana="https://topostext.org/place/376216SOPe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::376 /TEI[1]/text[1]/body[1]/p[5]::386" xml:id="UID-FAKE-7063">
+        <rs ana="https://topostext.org/place/393221SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::178 /TEI[1]/text[1]/body[1]/p[6]::185" xml:id="UID-FAKE-7064">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::367 /TEI[1]/text[1]/body[1]/p[6]::372" xml:id="UID-FAKE-7065">
+        <rs ana="https://topostext.org/place/389271UEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::404 /TEI[1]/text[1]/body[1]/p[6]::410" xml:id="UID-FAKE-7066">
+        <rs ana="https://topostext.org/place/390271RAio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::457 /TEI[1]/text[1]/body[1]/p[6]::463" xml:id="UID-FAKE-7067">
+        <rs ana="https://topostext.org/place/389270WKai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::98 /TEI[1]/text[1]/body[1]/p[7]::111" xml:id="UID-FAKE-7068">
+        <rs ana="https://topostext.org/place/367274PKni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::115 /TEI[1]/text[1]/body[1]/p[7]::121" xml:id="UID-FAKE-7069">
+        <rs ana="https://topostext.org/place/367274PKni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::231 /TEI[1]/text[1]/body[1]/p[7]::239" xml:id="UID-FAKE-7070">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::286 /TEI[1]/text[1]/body[1]/p[7]::292" xml:id="UID-FAKE-7071">
+        <rs ana="https://topostext.org/place/367274PKni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::309 /TEI[1]/text[1]/body[1]/p[7]::315" xml:id="UID-FAKE-7072">
+        <rs ana="https://topostext.org/place/370287RKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::390 /TEI[1]/text[1]/body[1]/p[7]::402" xml:id="UID-FAKE-7073">
+        <rs ana="https://topostext.org/place/368281LChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::77 /TEI[1]/text[1]/body[1]/p[8]::84" xml:id="UID-FAKE-7074">
+        <rs ana="https://topostext.org/place/376216SOPe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::97 /TEI[1]/text[1]/body[1]/p[8]::106" xml:id="UID-FAKE-7075">
+        <rs ana="https://topostext.org/place/379273PEph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::132 /TEI[1]/text[1]/body[1]/p[8]::139" xml:id="UID-FAKE-7076">
+        <rs ana="https://topostext.org/place/380274LCor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::209 /TEI[1]/text[1]/body[1]/p[8]::218" xml:id="UID-FAKE-7077">
+        <rs ana="https://topostext.org/place/379273PEph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::263 /TEI[1]/text[1]/body[1]/p[8]::268" xml:id="UID-FAKE-7078">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::415 /TEI[1]/text[1]/body[1]/p[8]::422" xml:id="UID-FAKE-7079">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::20 /TEI[1]/text[1]/body[1]/p[9]::35" xml:id="UID-FAKE-7080">
+        <rs ana="https://topostext.org/place/380227BBoS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::403 /TEI[1]/text[1]/body[1]/p[9]::410" xml:id="UID-FAKE-7081">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 5, Chapter 24</head>
+      <p>By the side of the altar of Zeus Laoetas and Poseidon Laoetas is a Zeus on a bronze pedestal. The people of Corinth gave it and Musus made it, whoever this Musus may have been. As you go from the Bouleuterion to the great temple there stands on the left an image of Zeus, crowned as it were with flowers, and with a thunderbolt set in his right hand. It is the work of Ascarus of Thebes, a pupil of Canachus of Sicyon. The inscription on it says that it is a tithe from the war between Phocis and Thessaly.</p>
+      <p>If the Thessalians went to war with Phocis and dedicated the offering from Phocian plunder, this could not have been the so-called “Sacred War,” but must have been a war between the two states previous to the invasion of Greece by the Persians under their king. Not far from this is a Zeus, which, as is declared by the verse inscribed on it, was dedicated by the Psophidians for a success in war.</p>
+      <p>On the right of the great temple is a Zeus facing the rising of the sun, twelve feet high and dedicated, they say, by the Lacedemonians, when they entered on a war with the Messenians after their second revolt. On it is an elegiac couplet: “Accept, king, son of Cronus, Olympian Zeus, a lovely image, And have a heart propitious to the Lacedemonians.</p>
+      <p>We know of no Roman, either commoner or senator, who gave a votive offering to a Greek sanctuary before Mummius, and he dedicated at Olympia a bronze Zeus from the spoils of Achaia. It stands on the left of the offering of the Lacedemonians by the side of the first pillar on this side of the temple. The largest of the bronze images of Zeus in the Altis is twenty-seven feet high, and was dedicated by the Eleans themselves from the plunder of the war with the Arcadians.</p>
+      <p>Beside the Pelopium is a pillar of no great height with a small image of Zeus on it; one hand is outstretched. Opposite this are other offerings in a row, and likewise images of Zeus and Ganymedes. Homer"s poem tells how Ganymedes was carried off by the gods to be wine-bearer to Zeus, and how horses were given to Tros in exchange for him. This offering was dedicated by the Thessalian Gnathis and made by Aristocles, pupil and son of Cleoetas.</p>
+      <p>There is also another Zeus represented as a beardless youth, which is among offerings of Micythus. The history of Micythus, his family, and why he dedicated so many offerings at Olympia, my narrative will presently set forth. A little farther on in a straight line from the image I have mentioned is another beardless image of Zeus. It was dedicated by the people of Elaea, who live in the first city of Aeolis you reach on descending from the plain of the Caicus to the sea.</p>
+      <p>Yet another image of Zeus comes next, and the inscription on it says that it was dedicated by the Chersonesians of Cnidus from enemy spoils. On either side of the image of Zeus they have dedicated images of Pelops and of the river Alpheius respectively. The greater part of the city of Cnidus is built on the Carian mainland, where are their most noteworthy possessions, but what is called Chersonnesus is an island lying near the mainland, to which it is joined by a bridge.</p>
+      <p>It is the inhabitants of this quarter who dedicated to Zeus the offerings at Olympia, just as if Ephesians living in what is called Coresus were to say that they had dedicated an offering independently of the Ephesians as a body. There is also by the wall of the Altis a Zeus turned towards the setting of the sun; it bears no inscription, but is said to be another offering of Mummius made from the plunder of the Achaean war.</p>
+      <p>But the Zeus in the Council Chamber is of all the images of Zeus the one most likely to strike terror into the hearts of sinners. He is surnamed Horcius (oath-god), and in each hand he holds a thunderbolt. Beside this image it is the custom for athletes, their fathers and their brothers, as well as their trainers, to swear an oath upon slices of boar"s flesh that in nothing will they sin against the Olympic games. The athletes take this further oath also, that for ten successive months they have strictly followed the regulations for training.</p>
+      <p>An oath is also taken by those who examine the boys, or the foals entering for races, that they will decide fairly and without taking bribes, and that they will keep secret what they learn about a candidate, whether accepted or not. I forgot to inquire what it is customary to do with the boar after the oath of the athletes, though the ancient custom about victims was that no human being might eat of that on which an oath had been sworn.</p>
+      <p>Homer proves this point clearly. For the boar, on the slices of which Agamemnon swore that verily Briseis had not lain with him, Homer says was thrown by the herald into the sea. “He spake, and cut the boar"s throat with ruthless bronze; And the boar Talthybius swung and cast into the great depth Of the grey sea, to feed the fishes.” Such was the ancient custom. Before the feet of the Oath-god is a bronze plate, with elegiac verses inscribed upon it, the object of which is to strike fear into those who forswear themselves.</p>
+    </body>
+  </text>
+</TEI>

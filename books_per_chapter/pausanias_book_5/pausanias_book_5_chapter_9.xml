@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::44 /TEI[1]/text[1]/body[1]/p[1]::51" xml:id="UID-FAKE-6421">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::57 /TEI[1]/text[1]/body[1]/p[1]::63" xml:id="UID-FAKE-6422">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::155 /TEI[1]/text[1]/body[1]/p[1]::163" xml:id="UID-FAKE-6423">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::169 /TEI[1]/text[1]/body[1]/p[1]::172" xml:id="UID-FAKE-6424">
+        <rs ana="https://topostext.org/place/376216BOLe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::198 /TEI[1]/text[1]/body[1]/p[1]::208" xml:id="UID-FAKE-6425">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::249 /TEI[1]/text[1]/body[1]/p[1]::255" xml:id="UID-FAKE-6426">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::403 /TEI[1]/text[1]/body[1]/p[1]::411" xml:id="UID-FAKE-6427">
+        <rs ana="https://topostext.org/place/376216GOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::542 /TEI[1]/text[1]/body[1]/p[1]::550" xml:id="UID-FAKE-6428">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::599 /TEI[1]/text[1]/body[1]/p[1]::606" xml:id="UID-FAKE-6429">
+        <rs ana="https://topostext.org/place/381216PDym"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::612 /TEI[1]/text[1]/body[1]/p[1]::616" xml:id="UID-FAKE-6430">
+        <rs ana="https://topostext.org/place/381216PDym"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::519 /TEI[1]/text[1]/body[1]/p[2]::525" xml:id="UID-FAKE-6431">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::557 /TEI[1]/text[1]/body[1]/p[2]::561" xml:id="UID-FAKE-6432">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::200 /TEI[1]/text[1]/body[1]/p[3]::208" xml:id="UID-FAKE-6433">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::295 /TEI[1]/text[1]/body[1]/p[3]::303" xml:id="UID-FAKE-6434">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::526 /TEI[1]/text[1]/body[1]/p[3]::532" xml:id="UID-FAKE-6435">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::228 /TEI[1]/text[1]/body[1]/p[4]::236" xml:id="UID-FAKE-6436">
+        <rs ana="https://topostext.org/place/376216BOPr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::276 /TEI[1]/text[1]/body[1]/p[4]::282" xml:id="UID-FAKE-6437">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::326 /TEI[1]/text[1]/body[1]/p[4]::333" xml:id="UID-FAKE-6438">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::24 /TEI[1]/text[1]/body[1]/p[5]::32" xml:id="UID-FAKE-6439">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::38 /TEI[1]/text[1]/body[1]/p[5]::41" xml:id="UID-FAKE-6440">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::232 /TEI[1]/text[1]/body[1]/p[5]::240" xml:id="UID-FAKE-6441">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::305 /TEI[1]/text[1]/body[1]/p[5]::313" xml:id="UID-FAKE-6442">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::319 /TEI[1]/text[1]/body[1]/p[5]::322" xml:id="UID-FAKE-6443">
+        <rs ana="https://topostext.org/place/376216GOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::329 /TEI[1]/text[1]/body[1]/p[5]::335" xml:id="UID-FAKE-6444">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::45 /TEI[1]/text[1]/body[1]/p[6]::54" xml:id="UID-FAKE-6445">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::232 /TEI[1]/text[1]/body[1]/p[6]::240" xml:id="UID-FAKE-6446">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::246 /TEI[1]/text[1]/body[1]/p[6]::249" xml:id="UID-FAKE-6447">
+        <rs ana="https://topostext.org/place/380237ALys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::339 /TEI[1]/text[1]/body[1]/p[6]::347" xml:id="UID-FAKE-6448">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::353 /TEI[1]/text[1]/body[1]/p[6]::356" xml:id="UID-FAKE-6449">
+        <rs ana="https://topostext.org/place/376216BOPr"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 5, Chapter 9</head>
+      <p>Certain contests, too, have been dropped at Olympia, the Eleans resolving to discontinue them. The pentathlum for boys was instituted at the thirty-eighth Olympiad [628 BCE]; but after Eutelidas of Lacedaemon had received the wild olive for it, the Eleans disapproved of boys entering for this competition. The races for mule-carts, and the trotting-race, were instituted respectively at the seventieth Olympiad and the seventy-first, but were both abolished by proclamation at the eighty-fourth. When they were first instituted, Thersius of Thessaly won the race for mule-carts, while Pataecus, an Achaean from Dyme, won the trotting-race.</p>
+      <p>The trotting-race was for mares, and in the last part of the course the riders jumped off and ran beside the mares, holding on to the bridle, just as at the present day those do who are called “mounters.” The mounters, however, differ from the riders in the trotting-race by having different badges, and by riding horses instead of mares. The cart-race was neither of venerable antiquity nor yet a graceful performance. Moreover, each cart was drawn by a pair of mules, not horses, and there is an ancient curse on the Eleans if this animal is even born in Elis.</p>
+      <p>The order of the games in our own day, which places the sacrifices to the god for the pentathlum and chariot-races second, and those for the other competitions first, was fixed at the seventy-seventh Olympiad. Previously the contests for men and for horses were held on the same day. But at the Olympiad I mentioned the pancratiasts prolonged their contests till night-fall, because they were not summoned to the arena soon enough. The cause of the delay was partly the chariot-race, but still more the pentathlum. Callias of Athens was champion of the pancratiasts on this occasion, but never afterwards was the pancratium to be interfered with by the pentathlum or the chariots.</p>
+      <p>The rules for the presidents of the games are not the same now as they were at the first institution of the festival. Iphitus acted as sole president, as likewise did the descendants of Oxylus after Iphitus. But at the fiftieth Olympiad two men, appointed by lot from all the Eleans, were entrusted with the management of the Olympic games, and for a long time after this the number of the presidents continued to be two.</p>
+      <p>But at the ninety-fifth Olympiad [400 BCE] nine umpires were appointed. To three of them were entrusted the chariot-races, another three were to supervise the pentathlum, the rest superintended the remaining contests. At the second Olympiad after this the tenth umpire was added. At the hundred and third Olympiad [368 BCE], the Eleans having twelve tribes, one umpire was chosen from each.</p>
+      <p>But they were hard pressed in a war with the Arcadians and lost a portion of their territory, along with all the demes included in the surrendered district, and so the number of tribes was reduced to eight in the hundred and fourth Olympiad [364 BCE]. Thereupon were chosen umpires equal in number to the tribes. At the hundred and eighth Olympiad [354 BCE] they returned again to the number of ten umpires, which has continued unchanged down to the present day.</p>
+    </body>
+  </text>
+</TEI>

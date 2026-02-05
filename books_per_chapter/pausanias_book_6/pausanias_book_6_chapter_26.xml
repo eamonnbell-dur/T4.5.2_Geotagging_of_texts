@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::26 /TEI[1]/text[1]/body[1]/p[1]::32" xml:id="UID-FAKE-8477">
+        <rs ana="https://topostext.org/place/379214SThy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::130 /TEI[1]/text[1]/body[1]/p[1]::136" xml:id="UID-FAKE-8478">
+        <rs ana="https://topostext.org/place/379214SThy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::240 /TEI[1]/text[1]/body[1]/p[1]::245" xml:id="UID-FAKE-8479">
+        <rs ana="https://topostext.org/place/379214SThy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::300 /TEI[1]/text[1]/body[1]/p[1]::305" xml:id="UID-FAKE-8480">
+        <rs ana="https://topostext.org/place/379214SThy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::197 /TEI[1]/text[1]/body[1]/p[2]::202" xml:id="UID-FAKE-8481">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::289 /TEI[1]/text[1]/body[1]/p[2]::297" xml:id="UID-FAKE-8482">
+        <rs ana="https://topostext.org/place/378248PAnd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::414 /TEI[1]/text[1]/body[1]/p[2]::420" xml:id="UID-FAKE-8483">
+        <rs ana="https://topostext.org/place/379214SThy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::502 /TEI[1]/text[1]/body[1]/p[2]::512" xml:id="UID-FAKE-8484">
+        <rs ana="https://topostext.org/place/130350REth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::519 /TEI[1]/text[1]/body[1]/p[2]::524" xml:id="UID-FAKE-8485">
+        <rs ana="https://topostext.org/place/241329USye"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::24 /TEI[1]/text[1]/body[1]/p[3]::30" xml:id="UID-FAKE-8486">
+        <rs ana="https://topostext.org/place/379214SEAt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::0 /TEI[1]/text[1]/body[1]/p[4]::7" xml:id="UID-FAKE-8487">
+        <rs ana="https://topostext.org/place/379211PKyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::54 /TEI[1]/text[1]/body[1]/p[4]::58" xml:id="UID-FAKE-8488">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::69 /TEI[1]/text[1]/body[1]/p[4]::75" xml:id="UID-FAKE-8489">
+        <rs ana="https://topostext.org/place/376145RSic"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::134 /TEI[1]/text[1]/body[1]/p[4]::138" xml:id="UID-FAKE-8490">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::176 /TEI[1]/text[1]/body[1]/p[4]::183" xml:id="UID-FAKE-8491">
+        <rs ana="https://topostext.org/place/379211PKyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::208 /TEI[1]/text[1]/body[1]/p[4]::215" xml:id="UID-FAKE-8492">
+        <rs ana="https://topostext.org/place/379211PKyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::235 /TEI[1]/text[1]/body[1]/p[4]::241" xml:id="UID-FAKE-8493">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::293 /TEI[1]/text[1]/body[1]/p[4]::300" xml:id="UID-FAKE-8494">
+        <rs ana="https://topostext.org/place/379211PKyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::28 /TEI[1]/text[1]/body[1]/p[5]::35" xml:id="UID-FAKE-8495">
+        <rs ana="https://topostext.org/place/379211SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::111 /TEI[1]/text[1]/body[1]/p[5]::117" xml:id="UID-FAKE-8496">
+        <rs ana="https://topostext.org/place/376221REut"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::123 /TEI[1]/text[1]/body[1]/p[5]::130" xml:id="UID-FAKE-8497">
+        <rs ana="https://topostext.org/place/379211SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::225 /TEI[1]/text[1]/body[1]/p[6]::230" xml:id="UID-FAKE-8498">
+        <rs ana="https://topostext.org/place/370111RSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::338 /TEI[1]/text[1]/body[1]/p[6]::343" xml:id="UID-FAKE-8499">
+        <rs ana="https://topostext.org/place/370111RSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::364 /TEI[1]/text[1]/body[1]/p[6]::370" xml:id="UID-FAKE-8500">
+        <rs ana="https://topostext.org/place/370111RSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::392 /TEI[1]/text[1]/body[1]/p[6]::397" xml:id="UID-FAKE-8501">
+        <rs ana="https://topostext.org/place/370111RSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::201 /TEI[1]/text[1]/body[1]/p[7]::206" xml:id="UID-FAKE-8502">
+        <rs ana="https://topostext.org/place/370111RSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::339 /TEI[1]/text[1]/body[1]/p[8]::344" xml:id="UID-FAKE-8503">
+        <rs ana="https://topostext.org/place/247352IAph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::395 /TEI[1]/text[1]/body[1]/p[8]::402" xml:id="UID-FAKE-8504">
+        <rs ana="https://topostext.org/place/195390WEry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::36 /TEI[1]/text[1]/body[1]/p[9]::43" xml:id="UID-FAKE-8505">
+        <rs ana="https://topostext.org/place/195390WEry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::64 /TEI[1]/text[1]/body[1]/p[9]::67" xml:id="UID-FAKE-8506">
+        <rs ana="https://topostext.org/place/370111RSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::104 /TEI[1]/text[1]/body[1]/p[9]::109" xml:id="UID-FAKE-8507">
+        <rs ana="https://topostext.org/place/271307REgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::114 /TEI[1]/text[1]/body[1]/p[9]::119" xml:id="UID-FAKE-8508">
+        <rs ana="https://topostext.org/place/311301UKan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::141 /TEI[1]/text[1]/body[1]/p[9]::145" xml:id="UID-FAKE-8509">
+        <rs ana="https://topostext.org/place/312301WNil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::184 /TEI[1]/text[1]/body[1]/p[9]::189" xml:id="UID-FAKE-8510">
+        <rs ana="https://topostext.org/place/383000USer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::208 /TEI[1]/text[1]/body[1]/p[9]::213" xml:id="UID-FAKE-8511">
+        <rs ana="https://topostext.org/place/370111RSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::232 /TEI[1]/text[1]/body[1]/p[9]::242" xml:id="UID-FAKE-8512">
+        <rs ana="https://topostext.org/place/130350REth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::300 /TEI[1]/text[1]/body[1]/p[9]::305" xml:id="UID-FAKE-8513">
+        <rs ana="https://topostext.org/place/247352IAph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::310 /TEI[1]/text[1]/body[1]/p[9]::316" xml:id="UID-FAKE-8514">
+        <rs ana="https://topostext.org/place/195372RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::355 /TEI[1]/text[1]/body[1]/p[9]::365" xml:id="UID-FAKE-8515">
+        <rs ana="https://topostext.org/place/130350REth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::388 /TEI[1]/text[1]/body[1]/p[9]::397" xml:id="UID-FAKE-8516">
+        <rs ana="https://topostext.org/place/475310RSky"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::402 /TEI[1]/text[1]/body[1]/p[9]::409" xml:id="UID-FAKE-8517">
+        <rs ana="https://topostext.org/place/370111RSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::53 /TEI[1]/text[1]/body[1]/p[10]::57" xml:id="UID-FAKE-8518">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::61 /TEI[1]/text[1]/body[1]/p[10]::67" xml:id="UID-FAKE-8519">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::131 /TEI[1]/text[1]/body[1]/p[10]::138" xml:id="UID-FAKE-8520">
+        <rs ana="https://topostext.org/place/381214WLar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::197 /TEI[1]/text[1]/body[1]/p[10]::201" xml:id="UID-FAKE-8521">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::206 /TEI[1]/text[1]/body[1]/p[10]::212" xml:id="UID-FAKE-8522">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::245 /TEI[1]/text[1]/body[1]/p[10]::256" xml:id="UID-FAKE-8523">
+        <rs ana="https://topostext.org/place/382214LAra"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 6, Chapter 26</head>
+      <p>Between the agora and the Menius is an old theater and a shrine of Dionysus. The image is the work of Praxiteles. Of the gods the Eleans worship Dionysus with the greatest reverence, and they assert that the god attends their festival, the Thyia. The place where they hold the festival they name the Thyia is about eight stades from the city. Three pots are brought into the building by the priests and set down empty in the presence of the citizens and of any strangers who may chance to be in the country. The doors of the building are sealed by the priests themselves and by any others who may be so inclined.</p>
+      <p>On the morrow they are allowed to examine the seals, and on going into the building they find the pots filled with wine. I did not myself arrive at the time of the festival, but the most respected Elean citizens, and with them strangers also, swore that what I have said is the truth. The Andrians too assert that every other year at their feast of Dionysus wine flows of its own accord from the sanctuary. If the Greeks are to be believed in these matters, one might with equal reason accept what the Ethiopians above Syene say about the table of the sun.</p>
+      <p>On the acropolis of the Eleans is a sanctuary of Athena. The image is of ivory and gold. They say that the goddess is the work of Pheidias. On her helmet is an image of a cock, this bird being very ready to fight. The bird might also be considered as sacred to Athena Ergane (the worker).</p>
+      <p>Cyllene is one hundred and twenty stades distant from Elis; it faces Sicily and affords ships a suitable anchorage. It is the port of Elis, and received its name from a man of Arcadia. Homer does not mention Cyllene in the list of the Eleans, but in a later part of the poem he has shown that Cyllene was one of the towns he knew.</p>
+      <p>“Polydamas stripped Otus of Cyllene, Comrade of Phyleides (Meges son of Phyleus) and ruler of the great-souled Epeans.” In Cyllene is a sanctuary of Asclepius, and one of Aphrodite. But the image of Hermes, most devoutly worshipped by the inhabitants, is the male member upright on the pedestal.</p>
+      <p>The land of Elis is fruitful, being especially suited to the growth of fine flax. Now while hemp and flax, both the ordinary and the fine variety, are sown by those whose soil is suited to grow it, the threads from which the Seres make the dresses are produced from no bark, but in a different way as follows. There is in the land of the Seres an insect which the Greeks call ser, though the Seres themselves give it another name.</p>
+      <p>Its size is twice that of the largest beetle, but in other respects it is like the spiders that spin under trees, and furthermore it has, like the spider, eight feet. These creatures are reared by the Seres, who build them houses adapted for winter and for summer. The product of the creatures, a clue of fine thread, is found rolled round their feet.</p>
+      <p>They keep them for four years, feeding them on millet, but in the fifth year, knowing that they have no longer to live, they give them green reed to eat. This of all foods the creature likes best; so it stuffs itself with the reed till it bursts with surfeit, and after it has thus died they find inside it the greater part of the thread. Seria is known to be an island lying in a recess of the Red Sea.</p>
+      <p>But I have heard that it is not the Red Sea, but a river called Ser, that makes this island, just as in Egypt the Delta is surrounded by the Nile and by no sea. Such another island is Seria said to be. These Seres themselves are of Aethiopian race, as are the inhabitants of the neighboring islands, Abasa and Sacaea. Some say, however, that they are not Ethiopians but a mongrel race of Scythians and Indians.</p>
+      <p>Such are the accounts that are given. As you go from Elis to Achaia you come after one hundred and fifty-seven stades to the river Larisus, and in modern days this river forms the boundary between Elis and Achaia, though of old the boundary was Cape Araxus on the coast.</p>
+    </body>
+  </text>
+</TEI>

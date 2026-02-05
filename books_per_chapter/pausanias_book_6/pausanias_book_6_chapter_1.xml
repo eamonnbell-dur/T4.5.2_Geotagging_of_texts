@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::164 /TEI[1]/text[1]/body[1]/p[1]::171" xml:id="UID-FAKE-7259">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::97 /TEI[1]/text[1]/body[1]/p[2]::104" xml:id="UID-FAKE-7260">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::108 /TEI[1]/text[1]/body[1]/p[3]::113" xml:id="UID-FAKE-7261">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::173 /TEI[1]/text[1]/body[1]/p[3]::180" xml:id="UID-FAKE-7262">
+        <rs ana="https://topostext.org/place/379223PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::184 /TEI[1]/text[1]/body[1]/p[3]::191" xml:id="UID-FAKE-7263">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::285 /TEI[1]/text[1]/body[1]/p[3]::290" xml:id="UID-FAKE-7264">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::461 /TEI[1]/text[1]/body[1]/p[3]::466" xml:id="UID-FAKE-7265">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::263 /TEI[1]/text[1]/body[1]/p[4]::269" xml:id="UID-FAKE-7266">
+        <rs ana="https://topostext.org/place/379214BHld"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::562 /TEI[1]/text[1]/body[1]/p[4]::570" xml:id="UID-FAKE-7267">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::576 /TEI[1]/text[1]/body[1]/p[4]::579" xml:id="UID-FAKE-7268">
+        <rs ana="https://topostext.org/place/376216GOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::15 /TEI[1]/text[1]/body[1]/p[5]::21" xml:id="UID-FAKE-7269">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::53 /TEI[1]/text[1]/body[1]/p[5]::65" xml:id="UID-FAKE-7270">
+        <rs ana="https://topostext.org/place/379214BHld"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::379 /TEI[1]/text[1]/body[1]/p[5]::385" xml:id="UID-FAKE-7271">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::57 /TEI[1]/text[1]/body[1]/p[6]::64" xml:id="UID-FAKE-7272">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::129 /TEI[1]/text[1]/body[1]/p[6]::141" xml:id="UID-FAKE-7273">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::189 /TEI[1]/text[1]/body[1]/p[6]::196" xml:id="UID-FAKE-7274">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::8 /TEI[1]/text[1]/body[1]/p[7]::15" xml:id="UID-FAKE-7275">
+        <rs ana="https://topostext.org/place/376216BOHi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::50 /TEI[1]/text[1]/body[1]/p[7]::63" xml:id="UID-FAKE-7276">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::158 /TEI[1]/text[1]/body[1]/p[8]::163" xml:id="UID-FAKE-7277">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::169 /TEI[1]/text[1]/body[1]/p[8]::176" xml:id="UID-FAKE-7278">
+        <rs ana="https://topostext.org/place/379230LIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::181 /TEI[1]/text[1]/body[1]/p[8]::186" xml:id="UID-FAKE-7279">
+        <rs ana="https://topostext.org/place/378227SNem"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 6, Chapter 1</head>
+      <p>After my description of the votive offerings I must now go on to mention the statues of racehorses and those of men, whether athletes or ordinary folk. Not all the Olympic victors have had their statues erected; some, in fact, who have distinguished themselves, either at the games or by other exploits, have had no statue.</p>
+      <p>These I am forced to omit by the nature of my work, which is not a list of athletes who have won Olympic victories, but an account of statues and of votive offerings generally. I shall not even record all those whose statues have been set up, as I know how many have before now won the crown of wild olive not by strength but by the chance of the lot. Those only will be mentioned who themselves gained some distinction, or whose statues happened to be better made than others.</p>
+      <p>On the right of the temple of Hera is the statue of a wrestler, Symmachus the son of AeschylusYY. He was an Elean by birth. Beside him is Neolaidas, son of ProxenusYY, from Pheneus in Arcadia, who won a victory in the boys"boxing-match. Next comes Archedamus, son of XeniosYY, another Elean by birth, who like Symmachus overthrew wrestlers in the contest for boys. The statues of the athletes mentioned above were made by Alypus of Sicyon, pupil of Naucydes of Argos.</p>
+      <p>The inscription on Cleogenes the son of A1916 declares that he was a native, and that he won a prize with a riding-horse from his own private stable. Hard by Cleogenes are set up Deinolochus, son of PyrrhusYY, and Troilus, son of AlcinousYY. These also were both Eleans by birth, though their victories were not the same. Troilus, at the time that he was Hellanodikes, succeeded in winning victories in the chariot-races, one for a chariot drawn by a full-grown pair and another for a chariot drawn by foals. The date of his victories was the hundred and second Olympiad [372 BCE].</p>
+      <p>After this the Eleans passed a law that in future no Hellanodikes was to compete in the chariot-races. The statue of Troilus was made by Lysippus. The mother of Deinolochus had a dream, in which she thought that the son she clasped in her bosom had a crown on his head. For this reason Deinolochus was trained to compete in the games and outran the boys. The artist was Cleon of Sicyon.</p>
+      <p>As for Cynisca, daughter of Archidamus, her ancestry and Olympic victories, I have given an account thereof in my history of the Lacedemonian kings. By the side of the statue of Troilus at Olympia has been made a basement of stone, whereon are a chariot and horses, a charioteer, and a statue of Cynisca herself, made by Apelles; there are also inscriptions relating to Cynisca.</p>
+      <p>Next to Cynisca also have been erected statues of Lacedemonians. They gained victories in chariot-races. Anaxander was the first of his family to be proclaimed victor with a chariot, but the inscription on him declares that previously his paternal grandfather received the crown for the pentathlum. Anaxander is represented in an attitude of prayer to the god, while Polycles, who gained the surname of Polychalcus, likewise won a victory with a four-horse chariot, and his statue holds a ribbon in the right hand.</p>
+      <p>Beside him are two children; one holds a wheel and the other is asking for the ribbon. Polycles, as the inscription on him says, also won the chariot-race at Pytho, the Isthmus and Nemea.</p>
+    </body>
+  </text>
+</TEI>

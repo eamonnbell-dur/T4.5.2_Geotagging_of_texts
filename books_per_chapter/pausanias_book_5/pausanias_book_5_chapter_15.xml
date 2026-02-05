@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::12 /TEI[1]/text[1]/body[1]/p[1]::17" xml:id="UID-FAKE-6660">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::206 /TEI[1]/text[1]/body[1]/p[1]::211" xml:id="UID-FAKE-6661">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::225 /TEI[1]/text[1]/body[1]/p[1]::235" xml:id="UID-FAKE-6662">
+        <rs ana="https://topostext.org/place/376216BOLe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::4 /TEI[1]/text[1]/body[1]/p[2]::14" xml:id="UID-FAKE-6663">
+        <rs ana="https://topostext.org/place/376216BOLe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::88 /TEI[1]/text[1]/body[1]/p[2]::93" xml:id="UID-FAKE-6664">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::224 /TEI[1]/text[1]/body[1]/p[2]::229" xml:id="UID-FAKE-6665">
+        <rs ana="https://topostext.org/place/376216BOLe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::243 /TEI[1]/text[1]/body[1]/p[2]::249" xml:id="UID-FAKE-6666">
+        <rs ana="https://topostext.org/place/376216BOLe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::318 /TEI[1]/text[1]/body[1]/p[2]::328" xml:id="UID-FAKE-6667">
+        <rs ana="https://topostext.org/place/376216BOLe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::350 /TEI[1]/text[1]/body[1]/p[2]::356" xml:id="UID-FAKE-6668">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::379 /TEI[1]/text[1]/body[1]/p[2]::388" xml:id="UID-FAKE-6669">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::22 /TEI[1]/text[1]/body[1]/p[3]::27" xml:id="UID-FAKE-6670">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::75 /TEI[1]/text[1]/body[1]/p[3]::85" xml:id="UID-FAKE-6671">
+        <rs ana="https://topostext.org/place/376216BOLe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::99 /TEI[1]/text[1]/body[1]/p[3]::108" xml:id="UID-FAKE-6672">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::344 /TEI[1]/text[1]/body[1]/p[3]::351" xml:id="UID-FAKE-6673">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::455 /TEI[1]/text[1]/body[1]/p[3]::461" xml:id="UID-FAKE-6674">
+        <rs ana="https://topostext.org/place/376216BOLe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::12 /TEI[1]/text[1]/body[1]/p[4]::17" xml:id="UID-FAKE-6675">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::43 /TEI[1]/text[1]/body[1]/p[4]::53" xml:id="UID-FAKE-6676">
+        <rs ana="https://topostext.org/place/376216BOLe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::152 /TEI[1]/text[1]/body[1]/p[4]::159" xml:id="UID-FAKE-6677">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::38 /TEI[1]/text[1]/body[1]/p[6]::43" xml:id="UID-FAKE-6678">
+        <rs ana="https://topostext.org/place/376216SApO"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::149 /TEI[1]/text[1]/body[1]/p[6]::154" xml:id="UID-FAKE-6679">
+        <rs ana="https://topostext.org/place/380237STrP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::257 /TEI[1]/text[1]/body[1]/p[6]::262" xml:id="UID-FAKE-6680">
+        <rs ana="https://topostext.org/place/380237STrP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::390 /TEI[1]/text[1]/body[1]/p[6]::396" xml:id="UID-FAKE-6681">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::402 /TEI[1]/text[1]/body[1]/p[6]::422" xml:id="UID-FAKE-6682">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::22 /TEI[1]/text[1]/body[1]/p[7]::27" xml:id="UID-FAKE-6683">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::74 /TEI[1]/text[1]/body[1]/p[7]::81" xml:id="UID-FAKE-6684">
+        <rs ana="https://topostext.org/place/376216SOHe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::102 /TEI[1]/text[1]/body[1]/p[7]::109" xml:id="UID-FAKE-6685">
+        <rs ana="https://topostext.org/place/376216GOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::192 /TEI[1]/text[1]/body[1]/p[7]::199" xml:id="UID-FAKE-6686">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::248 /TEI[1]/text[1]/body[1]/p[7]::253" xml:id="UID-FAKE-6687">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::314 /TEI[1]/text[1]/body[1]/p[7]::319" xml:id="UID-FAKE-6688">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::392 /TEI[1]/text[1]/body[1]/p[7]::399" xml:id="UID-FAKE-6689">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::26 /TEI[1]/text[1]/body[1]/p[8]::36" xml:id="UID-FAKE-6690">
+        <rs ana="https://topostext.org/place/376216BOES"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::110 /TEI[1]/text[1]/body[1]/p[8]::133" xml:id="UID-FAKE-6691">
+        <rs ana="https://topostext.org/place/376216BOPr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::148 /TEI[1]/text[1]/body[1]/p[8]::153" xml:id="UID-FAKE-6692">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::328 /TEI[1]/text[1]/body[1]/p[8]::337" xml:id="UID-FAKE-6693">
+        <rs ana="https://topostext.org/place/376216BOPr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::7 /TEI[1]/text[1]/body[1]/p[9]::16" xml:id="UID-FAKE-6694">
+        <rs ana="https://topostext.org/place/380237BPry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::15 /TEI[1]/text[1]/body[1]/p[10]::21" xml:id="UID-FAKE-6695">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::44 /TEI[1]/text[1]/body[1]/p[11]::53" xml:id="UID-FAKE-6696">
+        <rs ana="https://topostext.org/place/376216BOPr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::197 /TEI[1]/text[1]/body[1]/p[11]::202" xml:id="UID-FAKE-6697">
+        <rs ana="https://topostext.org/place/376216BOPr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::232 /TEI[1]/text[1]/body[1]/p[11]::237" xml:id="UID-FAKE-6698">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::365 /TEI[1]/text[1]/body[1]/p[11]::370" xml:id="UID-FAKE-6699">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::420 /TEI[1]/text[1]/body[1]/p[11]::426" xml:id="UID-FAKE-6700">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::480 /TEI[1]/text[1]/body[1]/p[11]::486" xml:id="UID-FAKE-6701">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::560 /TEI[1]/text[1]/body[1]/p[11]::564" xml:id="UID-FAKE-6702">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::4 /TEI[1]/text[1]/body[1]/p[12]::10" xml:id="UID-FAKE-6703">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::91 /TEI[1]/text[1]/body[1]/p[12]::95" xml:id="UID-FAKE-6704">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::109 /TEI[1]/text[1]/body[1]/p[12]::118" xml:id="UID-FAKE-6705">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::142 /TEI[1]/text[1]/body[1]/p[12]::151" xml:id="UID-FAKE-6706">
+        <rs ana="https://topostext.org/place/376216BOPr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::163 /TEI[1]/text[1]/body[1]/p[12]::168" xml:id="UID-FAKE-6707">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::233 /TEI[1]/text[1]/body[1]/p[12]::239" xml:id="UID-FAKE-6708">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::288 /TEI[1]/text[1]/body[1]/p[12]::297" xml:id="UID-FAKE-6709">
+        <rs ana="https://topostext.org/place/376216BOPr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::392 /TEI[1]/text[1]/body[1]/p[12]::399" xml:id="UID-FAKE-6710">
+        <rs ana="https://topostext.org/place/376216BOPr"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 5, Chapter 15</head>
+      <p>Outside the Altis there is a building called the workshop of Pheidias, where he wrought the image of Zeus piece by piece. In the building is an altar to all the gods in common. Now return back again to the Altis opposite the Leonidaeum.</p>
+      <p>The Leonidaeum is outside the sacred enclosure, but at the processional entrance to the Altis, which is the only way open to those who take part in the processions. It was dedicated by Leonidas, a native, but in my time the Roman governors of Greece used it as their lodging. Between the processional entrance and the Leonidaeum is a street, for the Eleans call streets what the Athenians call lanes.</p>
+      <p>Well, there is in the Altis, when you are about to pass to the left of the Leonidaeum, an altar of Aphrodite, and after it one of the Seasons. About opposite the rear chamber a wild olive is growing on the right. It is called the olive of the Beautiful Crown, and from its leaves are made the crowns which it is customary to give to winners of Olympic contests. Near this wild olive stands an altar of Nymphs; these too are styled Nymphs of the Beautiful Crowns.</p>
+      <p>Outside the Altis, but on the right of the Leonidaeum, is an altar of Artemis Agoraea, and one has also been built for Mistresses, and in my account of Arcadia I will tell you about the goddess they call Despoina (Mistress). After this is an altar of Zeus Agoraeus, and before what is called the Front Seats stands an altar of Apollo surnamed Pythian, and after it one of Dionysus. The last altar is said to be not old, and to have been dedicated by private individuals.</p>
+      <p>As you go to the starting-point for the chariot-race there is an altar with an inscription “to the Moiragetes (bringer of fate).” This is plainly a surname of Zeus, who knows the affairs of men, all that the Fates give them, and all that is not destined for them. Near there is also an oblong altar of Fates, after it one of Hermes, and the next two are of Zeus Most High. At the starting-point for the chariot-race, just about opposite the middle of it, there are in the open altars of Poseidon Hippios and Hera Hippia, and near the pillar an altar of the Dioscuri.</p>
+      <p>At the entrance to what is called the Wedge there is on one side an altar of Ares Hippios, on the other one of Athena Horse-goddess. On entering the Wedge itself you see altars of Agathe Tyche (good fortune), Pan and Aphrodite; at the innermost part of the Wedge an altar of the Nymphs called Acmenes (Blooming). An altar of Artemis stands on the right as you return from the stoa that the Eleans call the Stoa of Agnaptus, giving to the building the name of its architect.</p>
+      <p>After re-entering the Altis by the processional gate there are behind the Heraeum altars of the river Cladeus and of Artemis; the one after them is Apollo"s, the fourth is of Artemis surnamed Coccoca, and the fifth is of Apollo Thermius. As to the Elean surname Thermius, the conjecture occurred to me that in the Attic dialect it would be thesmios (god of laws), but why Artemis is surnamed Coccoca I could not discover.</p>
+      <p>Before what is called the Theêcoleon is a building, in a corner of which has been set up an altar of Pan. The Prytaneum of the Eleans is within the Altis, and it has been built beside the exit beyond the gymnasium. In this gymnasium are the running-tracks and the wrestling-grounds for the athletes. In front of the door of the Prytaneum is an altar of Artemis Agrotera</p>
+      <p>In the Prytaneum itself, on the right as you enter the room where they have the hearth, is an altar of Pan. This hearth too is made of ashes, and on it fire burns every day and likewise every night. The ashes from this hearth, according to the account I have already given, they bring to the altar of Olympian Zeus, and what is brought from the hearth contributes a great deal to the size of the altar.</p>
+      <p>Each month the Eleans sacrifice once on all the altars I have enumerated. They sacrifice in an ancient manner; for they burn on the altars incense with wheat which has been kneaded with honey, placing also on the altars twigs of olive, and using wine for a libation. Only to the Nymphs and the Mistresses are they not wont to pour wine in libation, nor do they pour it on the altar common to all the gods. The care of the sacrifices is given to a priest, holding office for one month, to soothsayers and libation-bearers, and also to a guide, a flute-player and the woodman.</p>
+      <p>The traditional words spoken by them in the Prytaneum at the libations, and the hymns which they sing, it were not right for me to introduce into my narrative. They pour libations, not only to the Greek gods, but also to the god in Libya, to Hera Ammonia and to Parammon, which is a surname of Hermes. From very early times it is plain that they used the oracle in Libya, and in the temple of Ammon are altars which the Eleans dedicated. On them are engraved the questions of the Eleans, the replies of the god, and the names of the men who came to Ammon from Elis. These are in the temple of Ammon.</p>
+      <p>The Eleans also pour libations to all heroes and wives of heroes who are honored either in Elis or among the Aetolians. The songs sung in the Prytaneum are in the Doric dialect, but they do not say who it was that composed them. The Eleans also have a banqueting room. This too is in the Prytaneum, opposite the chamber where stands the hearth. In this room they entertain the winners in the Olympic games.</p>
+    </body>
+  </text>
+</TEI>

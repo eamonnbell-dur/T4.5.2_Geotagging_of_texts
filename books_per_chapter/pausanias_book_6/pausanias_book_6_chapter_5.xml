@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::0 /TEI[1]/text[1]/body[1]/p[2]::8" xml:id="UID-FAKE-7539">
+        <rs ana="https://topostext.org/place/394226PSko"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::29 /TEI[1]/text[1]/body[1]/p[2]::38" xml:id="UID-FAKE-7540">
+        <rs ana="https://topostext.org/place/394226PSko"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::92 /TEI[1]/text[1]/body[1]/p[2]::98" xml:id="UID-FAKE-7541">
+        <rs ana="https://topostext.org/place/394228PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::21 /TEI[1]/text[1]/body[1]/p[3]::29" xml:id="UID-FAKE-7542">
+        <rs ana="https://topostext.org/place/412234USko"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::67 /TEI[1]/text[1]/body[1]/p[3]::70" xml:id="UID-FAKE-7543">
+        <rs ana="https://topostext.org/place/383232SHeL"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::75 /TEI[1]/text[1]/body[1]/p[3]::81" xml:id="UID-FAKE-7544">
+        <rs ana="https://topostext.org/place/380237FDia"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::109 /TEI[1]/text[1]/body[1]/p[3]::117" xml:id="UID-FAKE-7545">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::203 /TEI[1]/text[1]/body[1]/p[3]::211" xml:id="UID-FAKE-7546">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::388 /TEI[1]/text[1]/body[1]/p[3]::397" xml:id="UID-FAKE-7547">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::112 /TEI[1]/text[1]/body[1]/p[4]::115" xml:id="UID-FAKE-7548">
+        <rs ana="https://topostext.org/place/380227BSSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::204 /TEI[1]/text[1]/body[1]/p[4]::210" xml:id="UID-FAKE-7549">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::235 /TEI[1]/text[1]/body[1]/p[4]::241" xml:id="UID-FAKE-7550">
+        <rs ana="https://topostext.org/place/418238WNes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::274 /TEI[1]/text[1]/body[1]/p[4]::280" xml:id="UID-FAKE-7551">
+        <rs ana="https://topostext.org/place/410250PAbd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::50 /TEI[1]/text[1]/body[1]/p[5]::63" xml:id="UID-FAKE-7552">
+        <rs ana="https://topostext.org/place/401224LOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::101 /TEI[1]/text[1]/body[1]/p[5]::110" xml:id="UID-FAKE-7553">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::134 /TEI[1]/text[1]/body[1]/p[5]::142" xml:id="UID-FAKE-7554">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::157 /TEI[1]/text[1]/body[1]/p[5]::164" xml:id="UID-FAKE-7555">
+        <rs ana="https://topostext.org/place/399227WPen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::174 /TEI[1]/text[1]/body[1]/p[5]::187" xml:id="UID-FAKE-7556">
+        <rs ana="https://topostext.org/place/401224LOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::409 /TEI[1]/text[1]/body[1]/p[5]::414" xml:id="UID-FAKE-7557">
+        <rs ana="https://topostext.org/place/378227SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::68 /TEI[1]/text[1]/body[1]/p[7]::75" xml:id="UID-FAKE-7558">
+        <rs ana="https://topostext.org/place/322482PSus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::327 /TEI[1]/text[1]/body[1]/p[7]::331" xml:id="UID-FAKE-7559">
+        <rs ana="https://topostext.org/place/322482PSus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::366 /TEI[1]/text[1]/body[1]/p[7]::374" xml:id="UID-FAKE-7560">
+        <rs ana="https://topostext.org/place/322482PSus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::382 /TEI[1]/text[1]/body[1]/p[7]::391" xml:id="UID-FAKE-7561">
+        <rs ana="https://topostext.org/place/322482PSus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::526 /TEI[1]/text[1]/body[1]/p[7]::533" xml:id="UID-FAKE-7562">
+        <rs ana="https://topostext.org/place/376216GOin"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 6, Chapter 5</head>
+      <p>The statue on the high pedestal is the work of Lysippus, and it represents the mightiest (μέγιστος) of all men except those called heroes and any other mortal race that may have existed before the heroes. But this man, Polydamas the son of Nicias, is the mightiest of our own era.</p>
+      <p>Scotussa, the native city of Polydamas, has now no inhabitants, for Alexander the tyrant of Pherae seized it in time of truce. It happened that an assembly of the citizens was being held, and those who were assembled in the theater the tyrant surrounded with targeteers and archers, and shot them all down; all the other grown men he massacred, selling the women and children as slaves in order to pay his mercenaries.</p>
+      <p>This disaster befell Scotussa when Phrasicleides was archon [371/0 BCE] at Athens, in the hundred and second Olympiad, when Damon of Thurii was victor for the second time, and in the second year of this Olympiad. The people that escaped remained but for a while, for later they too were forced by their destitution to leave the city, when Heaven brought a second calamity in the war with Macedonia.</p>
+      <p>Others have won glorious victories in the pancratium, but Polydamas, besides his prizes for the pancratium [408 BCE], has to his credit the following exploits of a different kind. The mountainous part of Thrace, on this side the river Nestus, which runs through the land of Abdera, breeds among other wild beasts lions, which once attacked the army of Xerxes, and mauled the camels carrying his supplies.</p>
+      <p>These lions often roam right into the land around Mount Olympus, one side of which is turned towards Macedonia, and the other towards Thessaly and the river Peneius. Here on Mount Olympus Polydamas slew a lion, a huge and powerful beast, without the help of any weapon. To this exploit he was impelled by an ambition to rival the labours of Heracles, because Heracles also, legend says, overthrew the lion at Nemea.</p>
+      <p>In addition to this, Polydamas is remembered for another wonderful performance. He went among a herd of cattle and seized the biggest and fiercest bull by one of its hind feet, holding fast the hoof in spite of the bull"s leaps and struggles, until at last it put forth all its strength and escaped, leaving the hoof in the grasp of Polydamas. It is also said of him that he stopped a charioteer who was driving his chariot onwards at a great speed. Seizing with one hand the back of the chariot he kept a tight hold on both horses and driver.</p>
+      <p>Dareius, the bastard son of Artaxerxes, who with the support of the Persian common people put down Sogdius, the legitimate son of Artaxerxes, and ascended the throne in his stead, learning when he was king of the exploits of Polydamas, sent messengers with the promise of gifts and persuaded him to come before his presence at Susa. There he challenged three of the Persians called Immortals to fight him — one against three — and killed them. Of his exploits enumerated, some are represented on the pedestal of the statue at Olympia, and others are set forth in the inscription.</p>
+      <p>But after all, the prophecy of Homer respecting those who glory in their strength was to be fulfilled also in the case of Polydamas, and he too was fated to perish through his own might. For Polydamas entered a cave with the rest of his boon companions. It was summer-time, and, as ill-luck would have it, the roof of the cave began to crack. It was obvious that it would quickly fall in, and could not hold out much longer.</p>
+      <p>Realizing the disaster that was coming, the others turned and ran away; but Polydamas resolved to remain, holding up his hands in the belief that he could prevent the falling in of the cave and would not be crushed by the mountain. Here Polydamas met his end.</p>
+    </body>
+  </text>
+</TEI>

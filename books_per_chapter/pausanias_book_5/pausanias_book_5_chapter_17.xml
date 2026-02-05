@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::251 /TEI[1]/text[1]/body[1]/p[1]::258" xml:id="UID-FAKE-6745">
+        <rs ana="https://topostext.org/place/376216SOHe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::311 /TEI[1]/text[1]/body[1]/p[1]::320" xml:id="UID-FAKE-6746">
+        <rs ana="https://topostext.org/place/376216SOZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::391 /TEI[1]/text[1]/body[1]/p[1]::398" xml:id="UID-FAKE-6747">
+        <rs ana="https://topostext.org/place/376216SOHe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::433 /TEI[1]/text[1]/body[1]/p[1]::445" xml:id="UID-FAKE-6748">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::4 /TEI[1]/text[1]/body[1]/p[2]::14" xml:id="UID-FAKE-6749">
+        <rs ana="https://topostext.org/place/371224SAKy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::82 /TEI[1]/text[1]/body[1]/p[2]::94" xml:id="UID-FAKE-6750">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::271 /TEI[1]/text[1]/body[1]/p[2]::283" xml:id="UID-FAKE-6751">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::371 /TEI[1]/text[1]/body[1]/p[3]::378" xml:id="UID-FAKE-6752">
+        <rs ana="https://topostext.org/place/368228LKro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::114 /TEI[1]/text[1]/body[1]/p[4]::119" xml:id="UID-FAKE-6753">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::200 /TEI[1]/text[1]/body[1]/p[4]::209" xml:id="UID-FAKE-6754">
+        <rs ana="https://topostext.org/place/410290PCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::266 /TEI[1]/text[1]/body[1]/p[4]::276" xml:id="UID-FAKE-6755">
+        <rs ana="https://topostext.org/place/376216BOPl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::180 /TEI[1]/text[1]/body[1]/p[5]::187" xml:id="UID-FAKE-6756">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::223 /TEI[1]/text[1]/body[1]/p[5]::232" xml:id="UID-FAKE-6757">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::337 /TEI[1]/text[1]/body[1]/p[5]::346" xml:id="UID-FAKE-6758">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::390 /TEI[1]/text[1]/body[1]/p[5]::397" xml:id="UID-FAKE-6759">
+        <rs ana="https://topostext.org/place/376216SOPe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::403 /TEI[1]/text[1]/body[1]/p[5]::414" xml:id="UID-FAKE-6760">
+        <rs ana="https://topostext.org/place/380229RPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::189 /TEI[1]/text[1]/body[1]/p[6]::195" xml:id="UID-FAKE-6761">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::251 /TEI[1]/text[1]/body[1]/p[9]::259" xml:id="UID-FAKE-6762">
+        <rs ana="https://topostext.org/place/400310RPhr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::267 /TEI[1]/text[1]/body[1]/p[9]::272" xml:id="UID-FAKE-6763">
+        <rs ana="https://topostext.org/place/380237SApO"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::422 /TEI[1]/text[1]/body[1]/p[9]::431" xml:id="UID-FAKE-6764">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::564 /TEI[1]/text[1]/body[1]/p[9]::571" xml:id="UID-FAKE-6765">
+        <rs ana="https://topostext.org/place/431423RCol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::378 /TEI[1]/text[1]/body[1]/p[11]::383" xml:id="UID-FAKE-6766">
+        <rs ana="https://topostext.org/place/373235IHyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::408 /TEI[1]/text[1]/body[1]/p[11]::415" xml:id="UID-FAKE-6767">
+        <rs ana="https://topostext.org/place/373235IHyd"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 5, Chapter 17</head>
+      <p>These things, then, are as I have already described. In the temple of Hera is an image of Zeus, and the image of Hera is sitting on a throne with Zeus standing by her, bearded and with a helmet on his head. They are crude works of art. The figures of Seasons next to them, seated upon thrones, were made by the Aeginetan Smilis. Beside them stands an image of Themis, as being mother of the Seasons. It is the work of Dorycleidas, a Lacedemonian by birth and a disciple of Dipoenus and Scyllis.</p>
+      <p>The Hesperides, five in number, were made by Theocles, who like Dorycleidas was a Lacedemonian, the son of Hegylus; he too, they say, was a student under Scyllis and Dipoenus. The Athena wearing a helmet and carrying a spear and shield is, it is said, a work of Medon, a Lacedemonian, brother of Dorycleidas and a pupil of the same masters.</p>
+      <p>Then Kore and Demeter sit opposite each other, while Apollo and Artemis stand opposite each other. Here too have been dedicated Leto, Fortune, Dionysus and a winged Victory. I cannot say who the artists were, but these figures too are in my opinion very ancient. The figures I have enumerated are of ivory and gold, but at a later date other images were dedicated in the Heraeum, including a marble Hermes carrying the baby Dionysus, a work of Praxiteles, and a bronze Aphrodite made by Cleon of Sicyon.</p>
+      <p>The master of this Cleon, called Antiphanes, was a pupil of Periclytus, who himself was a pupil of Polycleitus of Argos. A nude gilded child is seated before Aphrodite, a work fashioned by Boethus of Calchedon. There were also brought hither from what is called the Philippeum other images of gold and ivory, Eurydice the wife of Aridaeus and Olympias the wife of Philip.</p>
+      <p>There is also a chest made of cedar, with figures on it, some of ivory, some of gold, others carved out of the cedar-wood itself. It was in this chest that Cypselus, the tyrant of Corinth, was hidden by his mother when the Bacchidae were anxious to discover him after his birth. In gratitude for the saving of Cypselus, his descendants, Cypselids as they are called, dedicated the chest at Olympia. The Corinthians of that age called chests kypselai, and from this word, they say, the child received his name of Cypselus.</p>
+      <p>On most of the figures on the chest there are inscriptions, written in the ancient characters. In some cases the letters read straight on, but in others the form of the writing is what the Greeks call bustrophedon. It is like this: at the end of the line the second line turns back, as runners do when running the double race. Moreover the inscriptions on the chest are written in winding characters difficult to decipher. Beginning our survey at the bottom we see in the first space of the chest the following scenes.</p>
+      <p>Oenomaus is chasing Pelops, who is holding Hippodameia. Each of them has two horses, but those of Pelops have wings. Next is wrought the house of Amphiaraus, and baby Amphilochus is being carried by some old woman or other. In front of the house stands Eriphyle with the necklace, and by her are her daughters Eurydice and Demonassa, and the boy Alcmaeon naked.</p>
+      <p>Asius in his poem makes out Alcmena also to be a daughter of Amphiaraus and Eriphyle. Baton is driving the chariot of Amphiaraus, holding the reins in one hand and a spear in the other. Amphiaraus already has one foot on the chariot and his sword drawn; he is turned towards Eriphyle in such a transport of anger that he can scarcely refrain from striking her.</p>
+      <p>After the house of Amphiaraus come the games at the funeral of Pelias, with the spectators looking at the competitors. Heracles is seated on a throne, and behind him is a woman. There is no inscription saying who the woman is, but she is playing on a Phrygian, not a Greek, flute. Driving chariots drawn by pairs of horses are Pisus, son of Perieres, and Asterion, son of Cometas (Asterion is said to have been one of the Argonauts), Polydeuces, Admetus and Euphemus. The poets declare that the last was a son of Poseidon and a companion of Jason on his voyage to Colchis. He it is who is winning the chariot-race.</p>
+      <p>Those who have boldly ventured to box are Admetus and Mopsus, the son of Ampyx. Between them stands a man playing the flute, as in our day they are accustomed to play the flute when the competitors in the pentathlum are jumping. The wrestling-bout between Jason and Peleus is an even one. Eurybotas1 is shown throwing the quoit; he must be some famous quoit-thrower. Those engaged in a running-race are Melanion, Neotheus and Phalareus; the fourth runner is A302;A303, and the fifth is Iphiclus. Iphiclus is the winner, and Acastus is holding out the crown to him. He is probably the father of the Protesilaus who joined in the war against Troy.</p>
+      <p>Tripods too are set here, prizes of course for the winners; and there are the daughters of Pelias, though the only one with her name inscribed is Alcestis. Iolaus, who voluntarily helped Heracles in his labours, is shown as a victor in the chariot-race. At this point the funeral games of Pelias come to an end, and Heracles, with Athena standing beside him, is shooting at the Hydra, the beast in the river Amymone. Heracles can be easily recognized by his exploit and his attitude, so his name is not inscribed by him. There is also Phineus the Thracian, and the sons of Boreas are chasing the harpies away from him.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::252 /TEI[1]/text[1]/body[1]/p[2]::268" xml:id="UID-FAKE-6781">
+        <rs ana="https://topostext.org/place/379274SEph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::283 /TEI[1]/text[1]/body[1]/p[2]::288" xml:id="UID-FAKE-6782">
+        <rs ana="https://topostext.org/place/377269PSam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::350 /TEI[1]/text[1]/body[1]/p[2]::356" xml:id="UID-FAKE-6783">
+        <rs ana="https://topostext.org/place/399262UAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::384 /TEI[1]/text[1]/body[1]/p[2]::392" xml:id="UID-FAKE-6784">
+        <rs ana="https://topostext.org/place/419125SCas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::278 /TEI[1]/text[1]/body[1]/p[3]::284" xml:id="UID-FAKE-6785">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::558 /TEI[1]/text[1]/body[1]/p[5]::564" xml:id="UID-FAKE-6786">
+        <rs ana="https://topostext.org/place/388226REpi"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 5, Chapter 19</head>
+      <p>In the fourth space on the chest as you go round from the left is Boreas, who has carried off Oreithyia; instead of feet he has serpents"tails. Then comes the combat between Heracles and Geryones, who is represented as three men joined to one another. There is Theseus holding a lyre, and by his side is Ariadne gripping a crown. Achilles and Memnon are fighting; their mothers stand by their side.</p>
+      <p>There is also Melanion by whom is Atalanta holding a young deer. Ajax is fighting a duel with Hector, according to the challenge, and between the pair stands Strife in the form of a most repulsive woman. Another figure of Strife is in the sanctuary of Ephesian Artemis; Calliphon of Samos included it in his picture of the battle at the ships of the Greeks. On the chest are also the Dioscuri, one of them a beardless youth, and between them is Helen.</p>
+      <p>Aethra, the daughter of Pittheus, lies thrown to the ground under the feet at Helen. She is clothed in black, and the inscription upon the group is an hexameter line with the addition of a single word: “The sons of Tyndareus are carrying off Helen, and are dragging Aethra from Athens.</p>
+      <p>Such is the way this line is constructed. Iphidamas, the son of Antenor, is lying, and Coon is fighting for him against Agamemnon. On the shield of Agamemnon is Fear, whose head is a lion"s. The inscription above the corpse of Iphidamas runs: “Iphidamas, and this is Coon fighting for him.” The inscription on the shield of Agamemnon runs:</p>
+      <p>This is the Fear of mortals: he who holds him is Agamemnon.” There is also Hermes bringing to Alexander the son of Priam the goddesses of whose beauty he is to judge, the inscription on them being: “Here is Hermes, who is showing to Alexander, that he may arbitrate Concerning their beauty, Hera, Athena and Aphrodite.” On what account Artemis has wings on her shoulders I do not know; in her right hand she grips a leopard, in her left a lion. Ajax too is represented dragging Cassandra from the image of Athena, and by him is also an inscription: “Ajax of Locris is dragging Cassandra from Athena.”</p>
+      <p>Polyneices, the son of Oedipus, has fallen on his knee, and Eteocles, the other son of Oedipus, is rushing on him. Behind Polyneices stands a woman with teeth as cruel as those of a beast, and her fingernails are bent like talons. An inscription by her calls her Doom (Ker), implying that Polyneices has been carried off by fate, and that Eteocles fully deserved his end. Dionysus is lying down in a cave, a bearded figure holding a golden cup, and clad in a tunic reaching to the feet. Around him are vines, apple-trees and pomegranate-trees.</p>
+      <p>The highest space — the spaces are five in number — shows no inscription, so that we can only conjecture what the reliefs mean. Well, there is a grotto and in it a woman sleeping with a man upon a couch. I was of opinion that they were Odysseus and Circe, basing my view upon the number of the handmaidens in front of the grotto and upon what they are doing. For the women are four, and they are engaged on the tasks which Homer mentions in his poetry. There is a Centaur with only two of his legs those of a horse; his forelegs are human.</p>
+      <p>Next come two-horse chariots with women standing in them. The horses have golden wings, and a man is giving armour to one of the women. I conjecture that this scene refers to the death of Patroclus; the women in the chariots, I take it, are Nereids, and Thetis is receiving the armour from Hephaestus. And moreover, he who is giving the armour is not strong upon his feet, and a slave follows him behind, holding a pair of fire-tongs.</p>
+      <p>An account also is given of the Centaur, that he is Chiron, freed by this time from human affairs and held worthy to share the home of the gods, who has come to assuage the grief of Achilles. Two maidens in a mule-cart, one holding the reins and the other wearing a veil upon her head, are thought to be Nausicaa, the daughter of Alcinous, and her handmaiden, driving to the washing-pits. The man shooting at Centaurs, some of which he has killed, is plainly Heracles, and the exploit is one of his.</p>
+      <p>As to the maker of the chest, I found it impossible to form any conjecture. But the inscriptions upon it, though possibly composed by some other poet, are, as I was on the whole inclined to hold, the work of Eumelus of Corinth. My main reason for this view is the processional hymn he wrote for Delos.</p>
+    </body>
+  </text>
+</TEI>

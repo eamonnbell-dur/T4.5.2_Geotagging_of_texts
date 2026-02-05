@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::42 /TEI[1]/text[1]/body[1]/p[2]::49" xml:id="UID-FAKE-7782">
+        <rs ana="https://topostext.org/place/408247XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::89 /TEI[1]/text[1]/body[1]/p[2]::97" xml:id="UID-FAKE-7783">
+        <rs ana="https://topostext.org/place/408247XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::172 /TEI[1]/text[1]/body[1]/p[2]::179" xml:id="UID-FAKE-7784">
+        <rs ana="https://topostext.org/place/408247XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::180 /TEI[1]/text[1]/body[1]/p[2]::188" xml:id="UID-FAKE-7785">
+        <rs ana="https://topostext.org/place/369273SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::301 /TEI[1]/text[1]/body[1]/p[3]::307" xml:id="UID-FAKE-7786">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::37 /TEI[1]/text[1]/body[1]/p[4]::45" xml:id="UID-FAKE-7787">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::181 /TEI[1]/text[1]/body[1]/p[4]::187" xml:id="UID-FAKE-7788">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::318 /TEI[1]/text[1]/body[1]/p[4]::327" xml:id="UID-FAKE-7789">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::336 /TEI[1]/text[1]/body[1]/p[4]::344" xml:id="UID-FAKE-7790">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::31 /TEI[1]/text[1]/body[1]/p[5]::36" xml:id="UID-FAKE-7791">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::82 /TEI[1]/text[1]/body[1]/p[5]::87" xml:id="UID-FAKE-7792">
+        <rs ana="https://topostext.org/place/378227SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::103 /TEI[1]/text[1]/body[1]/p[5]::110" xml:id="UID-FAKE-7793">
+        <rs ana="https://topostext.org/place/379230LIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::182 /TEI[1]/text[1]/body[1]/p[5]::188" xml:id="UID-FAKE-7794">
+        <rs ana="https://topostext.org/place/396222UPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::192 /TEI[1]/text[1]/body[1]/p[5]::200" xml:id="UID-FAKE-7795">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::297 /TEI[1]/text[1]/body[1]/p[5]::303" xml:id="UID-FAKE-7796">
+        <rs ana="https://topostext.org/place/378227SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::320 /TEI[1]/text[1]/body[1]/p[6]::328" xml:id="UID-FAKE-7797">
+        <rs ana="https://topostext.org/place/407247RAin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::435 /TEI[1]/text[1]/body[1]/p[6]::444" xml:id="UID-FAKE-7798">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::61 /TEI[1]/text[1]/body[1]/p[7]::69" xml:id="UID-FAKE-7799">
+        <rs ana="https://topostext.org/place/407247RAin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::91 /TEI[1]/text[1]/body[1]/p[7]::97" xml:id="UID-FAKE-7800">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::291 /TEI[1]/text[1]/body[1]/p[7]::298" xml:id="UID-FAKE-7801">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::14 /TEI[1]/text[1]/body[1]/p[8]::21" xml:id="UID-FAKE-7802">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::309 /TEI[1]/text[1]/body[1]/p[8]::317" xml:id="UID-FAKE-7803">
+        <rs ana="https://topostext.org/place/408247XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::55 /TEI[1]/text[1]/body[1]/p[9]::61" xml:id="UID-FAKE-7804">
+        <rs ana="https://topostext.org/place/376231GBtg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::219 /TEI[1]/text[1]/body[1]/p[9]::224" xml:id="UID-FAKE-7805">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::256 /TEI[1]/text[1]/body[1]/p[9]::262" xml:id="UID-FAKE-7806">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 6, Chapter 11</head>
+      <p>Next to these are offerings of Eleans, representing Philip the son of Amyntas, Alexander the son of Philip, Seleucus and Antigonus. Antigonus is on foot; the rest are on horseback.</p>
+      <p>Not far from the kings mentioned stands a Thasian, Theagenes the son of Timosthene1. The Thasians say that Timosthene1 was not the father of Theagenes, but a priest of the Thasian Heracles, a phantom of whom in the likeness of Timosthene1 had intercourse with the mother of Theagenes. In his ninth year, they say, as he was going home from school, he was attracted by a bronze image of some god or other in the agora; so he caught up the image, placed it on one of his shoulders and carried it home.</p>
+      <p>The citizens were enraged at what he had done, but one of them, a respected man of advanced years, bade them not to kill the lad, and ordered him to carry the image from his home back again to the agora. This he did, and at once became famous for his strength, his feat being noised abroad throughout Greece.</p>
+      <p>The achievements of Theagenes at the Olympian games have already — the most famous of them — been described in my story, how he beat Euthymus the boxer, and how he was fined by the Eleans. On this occasion the pancratium, it is said, was for the first time on record won without a contest, the victor being Dromeus of Mantineia. At the Olympiad following this, Theagenes was the winner in the pancratium.</p>
+      <p>He also won three victories at Pytho. These were for boxing, while nine prizes at Nemea and ten at the Isthmus were won in some cases for the pancratium and in others for boxing. At Phthia in Thessaly he gave up training for boxing and the pancratium. He devoted himself to winning fame among the Greeks for his running also, and beat those who entered for the long race. His ambition was, I think, to rival Achilles by winning a prize for running in the fatherland of the swiftest of those who are called heroes. The total number of crowns that he won was one thousand four hundred.</p>
+      <p>When he departed this life, one of those who were his enemies while he lived came every night to the statue of Theagenes and flogged the bronze as though he were ill-treating Theagenes himself. The statue put an end to the outrage by falling on him, but the sons of the dead man prosecuted the statue for murder. So the Thasians dropped the statue to the bottom of the sea, adopting the principle of Draco, who, when he framed for the Athenians laws to deal with homicide, inflicted banishment even on lifeless things, should one of them fall and kill a man.</p>
+      <p>But in course of time, when the earth yielded no crop to the Thasians, they sent envoys to Delphi, and the god instructed them to receive back the exiles. At this command they received them back, but their restoration brought no remedy of the famine. So for the second time they went to the Pythian priestess, saying that although they had obeyed her instructions the wrath of the gods still abode with them.</p>
+      <p>Whereupon the Pythian priestess replied to them: “But you have forgotten your great Theagenes.” And when they could not think of a contrivance to recover the statue of Theagenes, fishermen, they say, after putting out to sea for a catch of fish caught the statue in their net and brought it back to land. The Thasians set it up in its original position, and are wont to sacrifice to him as to a god.</p>
+      <p>There are many other places that I know of, both among Greeks and among barbarians, where images of Theagenes have been set up, who cures diseases and receives honors from the natives. The statue of Theagenes is in the Altis, being the work of Glaucias of Aegina.</p>
+    </body>
+  </text>
+</TEI>

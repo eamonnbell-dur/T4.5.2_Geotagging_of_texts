@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::11 /TEI[1]/text[1]/body[1]/p[1]::16" xml:id="UID-FAKE-6573">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::82 /TEI[1]/text[1]/body[1]/p[1]::88" xml:id="UID-FAKE-6574">
+        <rs ana="https://topostext.org/place/376216SOPe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::133 /TEI[1]/text[1]/body[1]/p[1]::140" xml:id="UID-FAKE-6575">
+        <rs ana="https://topostext.org/place/376216SOPe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::262 /TEI[1]/text[1]/body[1]/p[1]::270" xml:id="UID-FAKE-6576">
+        <rs ana="https://topostext.org/place/376216SOPe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::410 /TEI[1]/text[1]/body[1]/p[3]::418" xml:id="UID-FAKE-6577">
+        <rs ana="https://topostext.org/place/391272PPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::435 /TEI[1]/text[1]/body[1]/p[3]::441" xml:id="UID-FAKE-6578">
+        <rs ana="https://topostext.org/place/392296WPen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::474 /TEI[1]/text[1]/body[1]/p[3]::484" xml:id="UID-FAKE-6579">
+        <rs ana="https://topostext.org/place/391272SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::52 /TEI[1]/text[1]/body[1]/p[4]::58" xml:id="UID-FAKE-6580">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::67 /TEI[1]/text[1]/body[1]/p[4]::71" xml:id="UID-FAKE-6581">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::299 /TEI[1]/text[1]/body[1]/p[4]::303" xml:id="UID-FAKE-6582">
+        <rs ana="https://topostext.org/place/376217PPis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::443 /TEI[1]/text[1]/body[1]/p[4]::449" xml:id="UID-FAKE-6583">
+        <rs ana="https://topostext.org/place/381245RHol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::72 /TEI[1]/text[1]/body[1]/p[5]::79" xml:id="UID-FAKE-6584">
+        <rs ana="https://topostext.org/place/384238PEre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::63 /TEI[1]/text[1]/body[1]/p[6]::69" xml:id="UID-FAKE-6585">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::73 /TEI[1]/text[1]/body[1]/p[6]::78" xml:id="UID-FAKE-6586">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::137 /TEI[1]/text[1]/body[1]/p[6]::144" xml:id="UID-FAKE-6587">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::167 /TEI[1]/text[1]/body[1]/p[6]::173" xml:id="UID-FAKE-6588">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::241 /TEI[1]/text[1]/body[1]/p[6]::247" xml:id="UID-FAKE-6589">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::286 /TEI[1]/text[1]/body[1]/p[6]::292" xml:id="UID-FAKE-6590">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::182 /TEI[1]/text[1]/body[1]/p[7]::195" xml:id="UID-FAKE-6591">
+        <rs ana="https://topostext.org/place/386275LSip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::292 /TEI[1]/text[1]/body[1]/p[7]::298" xml:id="UID-FAKE-6592">
+        <rs ana="https://topostext.org/place/385281WHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::332 /TEI[1]/text[1]/body[1]/p[7]::338" xml:id="UID-FAKE-6593">
+        <rs ana="https://topostext.org/place/383278UTem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::13 /TEI[1]/text[1]/body[1]/p[8]::20" xml:id="UID-FAKE-6594">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::60 /TEI[1]/text[1]/body[1]/p[8]::68" xml:id="UID-FAKE-6595">
+        <rs ana="https://topostext.org/place/376216SOPe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::154 /TEI[1]/text[1]/body[1]/p[8]::160" xml:id="UID-FAKE-6596">
+        <rs ana="https://topostext.org/place/376216SHpd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::338 /TEI[1]/text[1]/body[1]/p[8]::346" xml:id="UID-FAKE-6597">
+        <rs ana="https://topostext.org/place/350337SPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::375 /TEI[1]/text[1]/body[1]/p[8]::381" xml:id="UID-FAKE-6598">
+        <rs ana="https://topostext.org/place/376230SZeH"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::418 /TEI[1]/text[1]/body[1]/p[8]::424" xml:id="UID-FAKE-6599">
+        <rs ana="https://topostext.org/place/380237SZPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::429 /TEI[1]/text[1]/body[1]/p[8]::438" xml:id="UID-FAKE-6600">
+        <rs ana="https://topostext.org/place/380237SAA2"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::32 /TEI[1]/text[1]/body[1]/p[9]::39" xml:id="UID-FAKE-6601">
+        <rs ana="https://topostext.org/place/376216SOPe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::298 /TEI[1]/text[1]/body[1]/p[10]::305" xml:id="UID-FAKE-6602">
+        <rs ana="https://topostext.org/place/376216SAlt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::495 /TEI[1]/text[1]/body[1]/p[10]::501" xml:id="UID-FAKE-6603">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::81 /TEI[1]/text[1]/body[1]/p[11]::89" xml:id="UID-FAKE-6604">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::174 /TEI[1]/text[1]/body[1]/p[11]::182" xml:id="UID-FAKE-6605">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::297 /TEI[1]/text[1]/body[1]/p[11]::305" xml:id="UID-FAKE-6606">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::352 /TEI[1]/text[1]/body[1]/p[11]::359" xml:id="UID-FAKE-6607">
+        <rs ana="https://topostext.org/place/400224SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::392 /TEI[1]/text[1]/body[1]/p[11]::398" xml:id="UID-FAKE-6608">
+        <rs ana="https://topostext.org/place/374273SDid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::406 /TEI[1]/text[1]/body[1]/p[11]::415" xml:id="UID-FAKE-6609">
+        <rs ana="https://topostext.org/place/375273PMil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::458 /TEI[1]/text[1]/body[1]/p[11]::467" xml:id="UID-FAKE-6610">
+        <rs ana="https://topostext.org/place/375273PMil"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 5, Chapter 13</head>
+      <p>Within the Altis there is also a sacred enclosure consecrated to Pelops, whom the Eleans as much prefer in honor above the heroes of Olympia as they prefer Zeus over the other gods. To the right of the entrance of the temple of Zeus, on the north side, lies the Pelopium. It is far enough removed from the temple for statues and other offerings to stand in the intervening space, and beginning at about the middle of the temple it extends as far as the rear chamber. It is surrounded by a stone fence, within which trees grow and statues have been dedicated.</p>
+      <p>The entrance is on the west. The sanctuary is said to have been set apart to Pelops by Heracles the son of Amphitryon. Heracles too was a great-grandson of Pelops, and he is also said to have sacrificed to him into the pit. Right down to the present day the magistrates of the year sacrifice to him, and the victim is a black ram. No portion of this sacrifice goes to the sooth-sayer, only the neck of the ram it is usual to give to the “woodman,” as he is called.</p>
+      <p>The woodman is one of the servants of Zeus, and the task assigned to him is to supply cities and private individuals with wood for sacrifices at a fixed rate, wood of the white poplar, but of no other tree, being allowed. If anybody, whether Elean or stranger, eat of the meat of the victim sacrificed to Pelops, he may not enter the temple of Zeus. The same rule applies to those who sacrifice to Telephus at Pergamus above the river Caicus; these too may not go up to the Asclepeion before they have bathed.</p>
+      <p>The following tale too is told. When the war of the Greeks against Troy was prolonged, the soothsayers prophesied to them that they would not take the city until they had fetched the bow and arrows of Heracles and a bone of Pelops. So it is said that they sent for Philoctetes to the camp, and from Pisa was brought to them a bone of Pelops — a shoulder-blade. As they were returning home, the ship carrying the bone of Pelops was wrecked off Euboea in the storm.</p>
+      <p>Many years later than the capture of Troy, Damarmenus, a fisherman from Eretria, cast a net into the sea and drew up the bone. Marvelling at its size he kept it hidden in the sand. At last he went to Delphi, to inquire whose the bone was, and what he ought to do with it.</p>
+      <p>It happened that by the providence of Heaven there was then at Delphi an Elean embassy praying for deliverance from a pestilence. So the Pythian priestess ordered the Eleans to recover the bones of Pelops, and Damarmenus to give back to the Eleans what he had found. He did so, and the Eleans repaid him by appointing him and his descendants to be guardians of the bone. The shoulder-blade of Pelops had disappeared by my time, because, I suppose, it had been hidden in the depths so long, and besides its age it was greatly decayed through the salt water.</p>
+      <p>That Pelops and Tantalus once dwelt in my country there have remained signs right down to the present day. There is a lake called after Tantalus and a famous grave, and on a peak of Mount Sipylus there is a throne of Pelops beyond the sanctuary of Plastene the Mother. If you cross the river Hermus you see an image of Aphrodite in Temnus made of a living myrtle-tree. It is a tradition among us that it was dedicated by Pelops when he was propitiating the goddess and asking for Hippodameia to be his bride.</p>
+      <p>The altar of Olympic Zeus is about equally distant from the Pelopium and the sanctuary of Hera, but it is in front of both. Some say that it was built by Idaean Heracles, others by the local heroes two generations later than Heracles. It has been made from the ash of the thighs of the victims sacrificed to Zeus, as is also the altar at Pergamus. There is an ashen altar of Samian Hera not a bit grander than what in Attica the Athenians call “improvised hearths.”</p>
+      <p>The first stage of the altar at Olympia, called prothysis, has a circumference of one hundred and twenty-five feet; the circumference of the stage on the prothysis is thirty-two feet; the total height of the altar reaches to twenty-two feet. The victims themselves it is the custom to sacrifice on the lower stage, the prothysis. But the thighs they carry up to the highest part of the altar and burn them there.</p>
+      <p>The steps that lead up to the prothysis from either side are made of stone, but those leading from the prothysis to the upper part of the altar are, like the altar itself, composed of ashes. The ascent to the prothysis may be made by maidens, and likewise by women, when they are not shut out from Olympia, but men only can ascend from the prothysis to the highest part of the altar. Even when the festival is not being held, sacrifice is offered to Zeus by private individuals and daily by the Eleans.</p>
+      <p>Every year the soothsayers, keeping carefully to the nineteenth day of the month Elaphius, bring the ash from the town-hall, and making it into a paste with the water of the Alpheius they daub the altar therewith. But never may the ash be made into paste with other water, and for this reason the Alpheius is thought to be of all rivers the dearest to Olympic Zeus. There is also an altar at Didyma of the Milesians, which Heracles the Theban is said by the Milesians to have made from the blood of the victims. But in later times the blood of the sacrifices has not made the altar excessively large.</p>
+    </body>
+  </text>
+</TEI>

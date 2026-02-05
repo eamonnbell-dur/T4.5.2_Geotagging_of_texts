@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::49 /TEI[1]/text[1]/body[1]/p[1]::55" xml:id="UID-FAKE-8103">
+        <rs ana="https://topostext.org/place/328219PCyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::256 /TEI[1]/text[1]/body[1]/p[1]::262" xml:id="UID-FAKE-8104">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::270 /TEI[1]/text[1]/body[1]/p[1]::276" xml:id="UID-FAKE-8105">
+        <rs ana="https://topostext.org/place/325144UKin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::295 /TEI[1]/text[1]/body[1]/p[1]::302" xml:id="UID-FAKE-8106">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::333 /TEI[1]/text[1]/body[1]/p[1]::340" xml:id="UID-FAKE-8107">
+        <rs ana="https://topostext.org/place/381156PRhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::99 /TEI[1]/text[1]/body[1]/p[2]::105" xml:id="UID-FAKE-8108">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::211 /TEI[1]/text[1]/body[1]/p[2]::218" xml:id="UID-FAKE-8109">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::244 /TEI[1]/text[1]/body[1]/p[2]::253" xml:id="UID-FAKE-8110">
+        <rs ana="https://topostext.org/place/403267UPit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::14 /TEI[1]/text[1]/body[1]/p[3]::23" xml:id="UID-FAKE-8111">
+        <rs ana="https://topostext.org/place/403267UPit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::50 /TEI[1]/text[1]/body[1]/p[3]::57" xml:id="UID-FAKE-8112">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::513 /TEI[1]/text[1]/body[1]/p[3]::519" xml:id="UID-FAKE-8113">
+        <rs ana="https://topostext.org/place/379237ALth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::107 /TEI[1]/text[1]/body[1]/p[4]::116" xml:id="UID-FAKE-8114">
+        <rs ana="https://topostext.org/place/403267UPit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::348 /TEI[1]/text[1]/body[1]/p[4]::357" xml:id="UID-FAKE-8115">
+        <rs ana="https://topostext.org/place/403267UPit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::278 /TEI[1]/text[1]/body[1]/p[5]::287" xml:id="UID-FAKE-8116">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::289 /TEI[1]/text[1]/body[1]/p[5]::302" xml:id="UID-FAKE-8117">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::307 /TEI[1]/text[1]/body[1]/p[5]::314" xml:id="UID-FAKE-8118">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::548 /TEI[1]/text[1]/body[1]/p[5]::554" xml:id="UID-FAKE-8119">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::169 /TEI[1]/text[1]/body[1]/p[6]::177" xml:id="UID-FAKE-8120">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::183 /TEI[1]/text[1]/body[1]/p[6]::186" xml:id="UID-FAKE-8121">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::237 /TEI[1]/text[1]/body[1]/p[6]::243" xml:id="UID-FAKE-8122">
+        <rs ana="https://topostext.org/place/355236PPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::280 /TEI[1]/text[1]/body[1]/p[6]::288" xml:id="UID-FAKE-8123">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::294 /TEI[1]/text[1]/body[1]/p[6]::297" xml:id="UID-FAKE-8124">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::318 /TEI[1]/text[1]/body[1]/p[6]::326" xml:id="UID-FAKE-8125">
+        <rs ana="https://topostext.org/place/379273PEph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::357 /TEI[1]/text[1]/body[1]/p[6]::365" xml:id="UID-FAKE-8126">
+        <rs ana="https://topostext.org/place/379273PEph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::410 /TEI[1]/text[1]/body[1]/p[6]::417" xml:id="UID-FAKE-8127">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::54 /TEI[1]/text[1]/body[1]/p[7]::61" xml:id="UID-FAKE-8128">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::129 /TEI[1]/text[1]/body[1]/p[7]::137" xml:id="UID-FAKE-8129">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::143 /TEI[1]/text[1]/body[1]/p[7]::146" xml:id="UID-FAKE-8130">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::220 /TEI[1]/text[1]/body[1]/p[7]::228" xml:id="UID-FAKE-8131">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::234 /TEI[1]/text[1]/body[1]/p[7]::237" xml:id="UID-FAKE-8132">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::279 /TEI[1]/text[1]/body[1]/p[7]::287" xml:id="UID-FAKE-8133">
+        <rs ana="https://topostext.org/place/376216GOin"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 6, Chapter 18</head>
+      <p>There is also a bronze statue of Cratisthenes of Cyrene, and on the chariot stand Victory and Cratisthenes himself. It is thus plain that his victory was in the chariot-race. The story goes that Cratisthenes was the son of Mnaseas the runner, surnamed the Libyan by the Greeks. His offerings at Olympia are the work of Pythagoras of Rhegium.</p>
+      <p>Here too I remember discovering the statue of Anaximenes, who wrote a universal history of ancient Greece, including the exploits of Philip the son of Amyntas and the subsequent deeds of Alexander. His honor at Olympia was due to the people of Lampsacus. Anaximenes bequeathed to posterity the following anecdotes about himself. Alexander, the son of Philip, no meek and mild person but a most passionate monarch, he circumvented by the following artifice.</p>
+      <p>The people of Lampsacus favoured the cause of the Persian king, or were suspected of doing so, and Alexander, boiling over with rage against them, threatened to treat them with utmost rigor. As their wives, their children, and their country itself were in great danger, they sent Anaximenes to intercede for them, because he was known to Alexander himself and had been known to Philip before him. Anaximenes approached, and when Alexander learned for what cause he had come, they say that he swore by the gods of Greece, whom he named, that he would verily do the opposite of what Anaximenes asked.</p>
+      <p>Thereupon Anaximenes said, “Grant me, O king, this favour. Enslave the women and children of the people of Lampsacus, raze the whole city even to the ground, and burn the sanctuaries of their gods.” Such were his words; and Alexander, finding no way to counter the trick, and bound by the compulsion of his oath, unwillingly pardoned the people of Lampsacus.</p>
+      <p>Anaximenes is also known to have retaliated on a personal enemy in a very clever but very ill-natured way. He had a natural aptitude for rhetoric and for imitating the style of rhetoricians. Having a quarrel with Theopompus the son of Damasistratus, he wrote a treatise abusing Athenians, Lacedemonians and Thebans alike. He imitated the style of Theopompus with perfect accuracy, inscribed his name upon the book and sent it round to the cities. Though Anaximenes was the author of the treatise, hatred of Theopompus grew throughout the length of Greece.</p>
+      <p>Moreover, Anaximenes was the first to compose extemporary speeches, though I cannot believe that he was the author of the epic on Alexander. Sotades at the ninety-ninth Olympiad [384 BCE] was victorious in the long race and proclaimed a Cretan, as in fact he was. But at the next Olympiad [380 BCE] he made himself an Ephesian, being bribed to do so by the Ephesian people. For this act he was banished by the Cretans.</p>
+      <p>The first athletes to have their statues dedicated at Olympia were Praxidamas of Aegina, victorious at boxing at the fifty-ninth Olympiad [544 BCE], and Rexibius the Opuntian, a successful pancratiast at the sixty-first Olympiad [536 BCE]. These statues stand near the pillar of Oenomaus, and are made of wood, Rexibius of figwood and the Aeginetan of cypress, and his statue is less decayed than the other.</p>
+    </body>
+  </text>
+</TEI>

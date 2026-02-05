@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::189 /TEI[1]/text[1]/body[1]/p[1]::200" xml:id="UID-FAKE-6065">
+        <rs ana="https://topostext.org/place/380229RPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::216 /TEI[1]/text[1]/body[1]/p[1]::224" xml:id="UID-FAKE-6066">
+        <rs ana="https://topostext.org/place/379230LIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::29 /TEI[1]/text[1]/body[1]/p[2]::35" xml:id="UID-FAKE-6067">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::81 /TEI[1]/text[1]/body[1]/p[2]::88" xml:id="UID-FAKE-6068">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::131 /TEI[1]/text[1]/body[1]/p[2]::137" xml:id="UID-FAKE-6069">
+        <rs ana="https://topostext.org/place/376228PTir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::148 /TEI[1]/text[1]/body[1]/p[2]::155" xml:id="UID-FAKE-6070">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::187 /TEI[1]/text[1]/body[1]/p[2]::193" xml:id="UID-FAKE-6071">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::224 /TEI[1]/text[1]/body[1]/p[2]::235" xml:id="UID-FAKE-6072">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::260 /TEI[1]/text[1]/body[1]/p[2]::266" xml:id="UID-FAKE-6073">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::283 /TEI[1]/text[1]/body[1]/p[2]::291" xml:id="UID-FAKE-6074">
+        <rs ana="https://topostext.org/place/379230SIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::418 /TEI[1]/text[1]/body[1]/p[2]::426" xml:id="UID-FAKE-6075">
+        <rs ana="https://topostext.org/place/379230SIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::521 /TEI[1]/text[1]/body[1]/p[2]::525" xml:id="UID-FAKE-6076">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::552 /TEI[1]/text[1]/body[1]/p[2]::560" xml:id="UID-FAKE-6077">
+        <rs ana="https://topostext.org/place/379230SIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::121 /TEI[1]/text[1]/body[1]/p[3]::128" xml:id="UID-FAKE-6078">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::166 /TEI[1]/text[1]/body[1]/p[3]::173" xml:id="UID-FAKE-6079">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::244 /TEI[1]/text[1]/body[1]/p[3]::255" xml:id="UID-FAKE-6080">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::269 /TEI[1]/text[1]/body[1]/p[3]::275" xml:id="UID-FAKE-6081">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::306 /TEI[1]/text[1]/body[1]/p[3]::313" xml:id="UID-FAKE-6082">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::354 /TEI[1]/text[1]/body[1]/p[3]::360" xml:id="UID-FAKE-6083">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::412 /TEI[1]/text[1]/body[1]/p[3]::420" xml:id="UID-FAKE-6084">
+        <rs ana="https://topostext.org/place/379230SIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::446 /TEI[1]/text[1]/body[1]/p[3]::457" xml:id="UID-FAKE-6085">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::486 /TEI[1]/text[1]/body[1]/p[3]::493" xml:id="UID-FAKE-6086">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::507 /TEI[1]/text[1]/body[1]/p[3]::513" xml:id="UID-FAKE-6087">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::554 /TEI[1]/text[1]/body[1]/p[3]::565" xml:id="UID-FAKE-6088">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::575 /TEI[1]/text[1]/body[1]/p[3]::583" xml:id="UID-FAKE-6089">
+        <rs ana="https://topostext.org/place/379230SIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::52 /TEI[1]/text[1]/body[1]/p[4]::57" xml:id="UID-FAKE-6090">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::138 /TEI[1]/text[1]/body[1]/p[4]::146" xml:id="UID-FAKE-6091">
+        <rs ana="https://topostext.org/place/379230SIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::373 /TEI[1]/text[1]/body[1]/p[4]::379" xml:id="UID-FAKE-6092">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::428 /TEI[1]/text[1]/body[1]/p[4]::436" xml:id="UID-FAKE-6093">
+        <rs ana="https://topostext.org/place/379230SIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::20 /TEI[1]/text[1]/body[1]/p[5]::24" xml:id="UID-FAKE-6094">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::65 /TEI[1]/text[1]/body[1]/p[5]::70" xml:id="UID-FAKE-6095">
+        <rs ana="https://topostext.org/place/379230BStI"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::85 /TEI[1]/text[1]/body[1]/p[5]::92" xml:id="UID-FAKE-6096">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::215 /TEI[1]/text[1]/body[1]/p[5]::223" xml:id="UID-FAKE-6097">
+        <rs ana="https://topostext.org/place/379230SIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::308 /TEI[1]/text[1]/body[1]/p[5]::316" xml:id="UID-FAKE-6098">
+        <rs ana="https://topostext.org/place/379214BHld"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::377 /TEI[1]/text[1]/body[1]/p[5]::386" xml:id="UID-FAKE-6099">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 5, Chapter 2</head>
+      <p>Heracles accomplished no brilliant feat in the war with Augeas. For the sons of Actor were in the prime of courageous manhood, and always put to flight the allies under Heracles, until the Corinthians proclaimed the Isthmian truce, and the sons of Actor came as envoys to the meeting. Heracles set an ambush for then, at Cleonae and murdered them. As the murderer was unknown, Moline, more than any of the other children, devoted herself to detecting him.</p>
+      <p>When she discovered him, the Eleans demanded satisfaction for the crime from the Argives, for at the time Heracles had his home at Tiryns. When the Argives refused them satisfaction, the Eleans as an alternative pressed the Corinthians entirely to exclude the Argive people from the Isthmian games. When they failed in this also, Moline is said to have laid curses on her countrymen, should they refuse to boycott the Isthmian festival. The curses of Moline are respected right down to the present day, and no athlete of Elis is wont to compete in the Isthmian games.</p>
+      <p>There are two other accounts, differing from the one that I have given. According to one of them Cypselus, the tyrant of Corinth, dedicated to Zeus a golden image at Olympia. As Cypselus died before inscribing his own name on the offering, the Corinthians asked of the Eleans leave to inscribe the name of Corinth on it, but were refused. Wroth with the Eleans, they proclaimed that they must keep away from the Isthmian games. But how could the Corinthians themselves take part in the Olympic games if the Eleans against their will were shut out by the Corinthians from the Isthmian games?</p>
+      <p>The other account is this. Prolaus, a distinguished Elean, had two sons, Philanthus and A1257, by his wife Lysippe. These two came to the Isthmian games to compete in the boys"pancratium, and one of them intended to wrestle. Before they entered the ring they were strangled or done to death in some other way by their fellow competitors. Hence the curses of Lysippe on the Eleans, should they not voluntarily keep away from the Isthmian games. But this story too proves on examination to be silly.</p>
+      <p>For Timon, a man of Elis, won victories in the pentathlum at the Greek games, and at Olympia there is even a statue of him, with an elegiac inscription giving the crowns he won and also the reason why he secured no Isthmian victory. The inscription sets forth the reason thus: “But from going to the land of Sisyphus he was hindered by a quarrel About the baleful death of the Molionids.</p>
+    </body>
+  </text>
+</TEI>

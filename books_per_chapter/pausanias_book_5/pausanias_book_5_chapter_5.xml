@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::82 /TEI[1]/text[1]/body[1]/p[1]::86" xml:id="UID-FAKE-6183">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::167 /TEI[1]/text[1]/body[1]/p[1]::176" xml:id="UID-FAKE-6184">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::464 /TEI[1]/text[1]/body[1]/p[1]::470" xml:id="UID-FAKE-6185">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::12 /TEI[1]/text[1]/body[1]/p[2]::16" xml:id="UID-FAKE-6186">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::62 /TEI[1]/text[1]/body[1]/p[2]::68" xml:id="UID-FAKE-6187">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::250 /TEI[1]/text[1]/body[1]/p[2]::254" xml:id="UID-FAKE-6188">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::281 /TEI[1]/text[1]/body[1]/p[2]::288" xml:id="UID-FAKE-6189">
+        <rs ana="https://topostext.org/place/379214STCa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::15 /TEI[1]/text[1]/body[1]/p[3]::19" xml:id="UID-FAKE-6190">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::81 /TEI[1]/text[1]/body[1]/p[3]::88" xml:id="UID-FAKE-6191">
+        <rs ana="https://topostext.org/place/379214UTha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::134 /TEI[1]/text[1]/body[1]/p[3]::143" xml:id="UID-FAKE-6192">
+        <rs ana="https://topostext.org/place/375217RTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::166 /TEI[1]/text[1]/body[1]/p[3]::173" xml:id="UID-FAKE-6193">
+        <rs ana="https://topostext.org/place/375217RTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::223 /TEI[1]/text[1]/body[1]/p[3]::232" xml:id="UID-FAKE-6194">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::304 /TEI[1]/text[1]/body[1]/p[3]::310" xml:id="UID-FAKE-6195">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::337 /TEI[1]/text[1]/body[1]/p[3]::344" xml:id="UID-FAKE-6196">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::392 /TEI[1]/text[1]/body[1]/p[3]::398" xml:id="UID-FAKE-6197">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::404 /TEI[1]/text[1]/body[1]/p[3]::411" xml:id="UID-FAKE-6198">
+        <rs ana="https://topostext.org/place/374217UPyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::448 /TEI[1]/text[1]/body[1]/p[3]::455" xml:id="UID-FAKE-6199">
+        <rs ana="https://topostext.org/place/374217UPyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::470 /TEI[1]/text[1]/body[1]/p[3]::476" xml:id="UID-FAKE-6200">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::496 /TEI[1]/text[1]/body[1]/p[3]::503" xml:id="UID-FAKE-6201">
+        <rs ana="https://topostext.org/place/375216WAki"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::543 /TEI[1]/text[1]/body[1]/p[3]::550" xml:id="UID-FAKE-6202">
+        <rs ana="https://topostext.org/place/374217UPyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::557 /TEI[1]/text[1]/body[1]/p[3]::564" xml:id="UID-FAKE-6203">
+        <rs ana="https://topostext.org/place/375216USam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::590 /TEI[1]/text[1]/body[1]/p[3]::597" xml:id="UID-FAKE-6204">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::615 /TEI[1]/text[1]/body[1]/p[3]::619" xml:id="UID-FAKE-6205">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::453 /TEI[1]/text[1]/body[1]/p[4]::462" xml:id="UID-FAKE-6206">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::468 /TEI[1]/text[1]/body[1]/p[4]::478" xml:id="UID-FAKE-6207">
+        <rs ana="https://topostext.org/place/374218PPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::38 /TEI[1]/text[1]/body[1]/p[5]::45" xml:id="UID-FAKE-6208">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::262 /TEI[1]/text[1]/body[1]/p[5]::270" xml:id="UID-FAKE-6209">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::201 /TEI[1]/text[1]/body[1]/p[6]::209" xml:id="UID-FAKE-6210">
+        <rs ana="https://topostext.org/place/365224SDeK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::229 /TEI[1]/text[1]/body[1]/p[6]::234" xml:id="UID-FAKE-6211">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::19 /TEI[1]/text[1]/body[1]/p[7]::26" xml:id="UID-FAKE-6212">
+        <rs ana="https://topostext.org/place/378273LPos"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::88 /TEI[1]/text[1]/body[1]/p[7]::95" xml:id="UID-FAKE-6213">
+        <rs ana="https://topostext.org/place/375216WAki"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::4 /TEI[1]/text[1]/body[1]/p[8]::11" xml:id="UID-FAKE-6214">
+        <rs ana="https://topostext.org/place/375216WAki"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::39 /TEI[1]/text[1]/body[1]/p[8]::47" xml:id="UID-FAKE-6215">
+        <rs ana="https://topostext.org/place/378218LLap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::51 /TEI[1]/text[1]/body[1]/p[8]::58" xml:id="UID-FAKE-6216">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::288 /TEI[1]/text[1]/body[1]/p[8]::295" xml:id="UID-FAKE-6217">
+        <rs ana="https://topostext.org/place/375216WAki"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::367 /TEI[1]/text[1]/body[1]/p[8]::373" xml:id="UID-FAKE-6218">
+        <rs ana="https://topostext.org/place/375216WAki"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::16 /TEI[1]/text[1]/body[1]/p[9]::24" xml:id="UID-FAKE-6219">
+        <rs ana="https://topostext.org/place/379273PEph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::34 /TEI[1]/text[1]/body[1]/p[9]::40" xml:id="UID-FAKE-6220">
+        <rs ana="https://topostext.org/place/375216WAki"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::52 /TEI[1]/text[1]/body[1]/p[9]::60" xml:id="UID-FAKE-6221">
+        <rs ana="https://topostext.org/place/375216WAki"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::203 /TEI[1]/text[1]/body[1]/p[9]::210" xml:id="UID-FAKE-6222">
+        <rs ana="https://topostext.org/place/379291WLyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::295 /TEI[1]/text[1]/body[1]/p[9]::300" xml:id="UID-FAKE-6223">
+        <rs ana="https://topostext.org/place/388283RMai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::5 /TEI[1]/text[1]/body[1]/p[10]::11" xml:id="UID-FAKE-6224">
+        <rs ana="https://topostext.org/place/375216WAki"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::58 /TEI[1]/text[1]/body[1]/p[10]::65" xml:id="UID-FAKE-6225">
+        <rs ana="https://topostext.org/place/393223WApi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::163 /TEI[1]/text[1]/body[1]/p[10]::169" xml:id="UID-FAKE-6226">
+        <rs ana="https://topostext.org/place/373235IHyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::193 /TEI[1]/text[1]/body[1]/p[10]::200" xml:id="UID-FAKE-6227">
+        <rs ana="https://topostext.org/place/373223WAmi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::12 /TEI[1]/text[1]/body[1]/p[11]::19" xml:id="UID-FAKE-6228">
+        <rs ana="https://topostext.org/place/375216SAni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::62 /TEI[1]/text[1]/body[1]/p[11]::92" xml:id="UID-FAKE-6229">
+        <rs ana="https://topostext.org/place/375216SAni"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 5, Chapter 5</head>
+      <p>Later on Aristotimus, the son of DamaretusYY, the son of Etymon, became despot of Elis, being aided in his attempt by Antigonus, the son of Demetrius, who was king in Macedonia. After a despotism of six months Aristotimus was deposed, a rising against him having been organized by Chilon, HellanicuYY, LampisYY and Cylon; Cylon it was who with his own hand killed the despot when he had sought sanctuary at the altar of Zeus the Saviour. Such were the wars of the Eleans, of which my present enumeration must serve as a summary.</p>
+      <p>The land of Elis contains two marvels. Here, and here only in Greece, does fine flax grow; and secondly, only over the border, and not within it, can the mares be impregnated by asses. The cause of this is said to have been a curse. The fine flax of Elis is as fine as that of the Hebrews, but it is not so yellow.</p>
+      <p>As you go from Elis there is a district stretching down to the sea. It is called Samicum, and above it on the right is what is called Triphylia, in which is the city Lepreus. The citizens of this city wish to belong to the Arcadians, but it is plain that from the beginning they have been subject to the Eleans. Such of them as have won Olympic victories have been announced by the herald as Eleans from Lepreus, and Aristophanes in a comedy calls Lepreus a town of the Eleans. Leaving the river Anigrus on the left there is a road leading to Lepreus; from Samicum another leads to it from Olympia and a third from Elis. The longest of them is a day"s journey.</p>
+      <p>The city got its name, they say, from its founder Lepreus the son of Pyrgeus. There was also a story that Lepreus contended with Heracles: that he was as good a trencherman. Each killed an ox at the same time and prepared it for the table. It turned out, even as Lepreus maintained, that he was as powerful a trencherman as Heracles. Afterwards he made bold to challenge him to a duel. Lepreus, they say, lost, was killed, and was buried in the land of Phigaleia. The Phigalians, however, could not show a tomb of Lepreus.</p>
+      <p>I have heard some who maintained that Lepreus was founded by Leprea, the daughter of Pyrgeus. Others say that the first dwellers in the land were afflicted with the disease leprosy, and that the city received its name from the misfortune of the inhabitants. The Lepreans told me that in their city once was a temple of Zeus Leucaeus (Of the White Poplar), the grave of Lycurgus, son of Aleus, and the grave of Caucon, over which was the figure of a man holding a lyre.</p>
+      <p>But as far as I could see they had no tomb of distinction, and no sanctuary of any deity save one of Demeter. Even this was built of unburnt brick, and contained no image. Not far from the city of the Lepreans is a spring called Arene, and they say that it derives its name from the wife of Aphareus.</p>
+      <p>Returning again to Samicum, and passing through the district, we reach the mouth of the Anigrus. The current of this river is often held back by violent gales, which carry the sand from the open sea against it and stop the onward flow of the water. So whenever the sand has become soaked on both sides, by the sea without and by the river within, beasts and still more travellers on foot are in danger of sinking into it.</p>
+      <p>The Anigrus descends from the mountain Lapithus in Arcadia, and right from its source its water does not smell sweet but actually stinks horribly. Before it receives the tributary Acidas it plainly cannot support fish-life at all. After the rivers unite, the fish that come down into the Anigrus with the water are uneatable, though before, if they are caught in the Acidas, they are eatable.</p>
+      <p>I heard from an Ephesian that the Acidas was called Iardanus in ancient times. I repeat his statement, though I have nowhere found evidence in support of it. I am convinced that the peculiar odor of the Anigrus is due to the earth through which the water springs up, just as those rivers beyond Ionia, the exhalation from which is deadly to man, owe their peculiarity to the same cause.</p>
+      <p>Some Greeks say that Chiron, others that Pylenor, another Centaur, when shot by Heracles fled wounded to this river and washed his hurt in it, and that it was the Hydra"s poison which gave the Anigrus its nasty smell. Others again attribute the quality of the river to Melampus the son of Amythaon, who threw into it the means he used to purify the daughters of Proetus.</p>
+      <p>There is in Samicum a cave not far from the river, and called the Cave of the Anigrid Nymphs. Whoever enters it suffering from alphos or leuke first has to pray to the nymphs and to promise some sacrifice or other, after which he wipes the unhealthy parts of his body. Then, swimming through the river, he leaves his old uncleanness in its water, coming up sound and of one color.</p>
+    </body>
+  </text>
+</TEI>
