@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::16 /TEI[1]/text[1]/body[1]/p[1]::24" xml:id="UID-FAKE-13499">
+        <rs ana="https://topostext.org/place/384230PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::30 /TEI[1]/text[1]/body[1]/p[1]::41" xml:id="UID-FAKE-13500">
+        <rs ana="https://topostext.org/place/384230SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::70 /TEI[1]/text[1]/body[1]/p[1]::84" xml:id="UID-FAKE-13501">
+        <rs ana="https://topostext.org/place/384230SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::148 /TEI[1]/text[1]/body[1]/p[1]::157" xml:id="UID-FAKE-13502">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::365 /TEI[1]/text[1]/body[1]/p[2]::373" xml:id="UID-FAKE-13503">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::16 /TEI[1]/text[1]/body[1]/p[3]::24" xml:id="UID-FAKE-13504">
+        <rs ana="https://topostext.org/place/384230PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::223 /TEI[1]/text[1]/body[1]/p[3]::229" xml:id="UID-FAKE-13505">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::255 /TEI[1]/text[1]/body[1]/p[3]::261" xml:id="UID-FAKE-13506">
+        <rs ana="https://topostext.org/place/383231SMus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::23 /TEI[1]/text[1]/body[1]/p[4]::31" xml:id="UID-FAKE-13507">
+        <rs ana="https://topostext.org/place/384230PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::35 /TEI[1]/text[1]/body[1]/p[4]::51" xml:id="UID-FAKE-13508">
+        <rs ana="https://topostext.org/place/383229LLei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::106 /TEI[1]/text[1]/body[1]/p[4]::116" xml:id="UID-FAKE-13509">
+        <rs ana="https://topostext.org/place/383229LLei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::151 /TEI[1]/text[1]/body[1]/p[4]::161" xml:id="UID-FAKE-13510">
+        <rs ana="https://topostext.org/place/383229LLei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::176 /TEI[1]/text[1]/body[1]/p[4]::180" xml:id="UID-FAKE-13511">
+        <rs ana="https://topostext.org/place/383229LLei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::182 /TEI[1]/text[1]/body[1]/p[4]::187" xml:id="UID-FAKE-13512">
+        <rs ana="https://topostext.org/place/383229LLei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::18 /TEI[1]/text[1]/body[1]/p[5]::26" xml:id="UID-FAKE-13513">
+        <rs ana="https://topostext.org/place/384230PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::30 /TEI[1]/text[1]/body[1]/p[5]::46" xml:id="UID-FAKE-13514">
+        <rs ana="https://topostext.org/place/384229LLap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::67 /TEI[1]/text[1]/body[1]/p[5]::77" xml:id="UID-FAKE-13515">
+        <rs ana="https://topostext.org/place/384229LLap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::78 /TEI[1]/text[1]/body[1]/p[5]::82" xml:id="UID-FAKE-13516">
+        <rs ana="https://topostext.org/place/380237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::403 /TEI[1]/text[1]/body[1]/p[5]::412" xml:id="UID-FAKE-13517">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::478 /TEI[1]/text[1]/body[1]/p[5]::494" xml:id="UID-FAKE-13518">
+        <rs ana="https://topostext.org/place/384229LLap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::511 /TEI[1]/text[1]/body[1]/p[5]::525" xml:id="UID-FAKE-13519">
+        <rs ana="https://topostext.org/place/384230SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::539 /TEI[1]/text[1]/body[1]/p[5]::547" xml:id="UID-FAKE-13520">
+        <rs ana="https://topostext.org/place/379237DPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::569 /TEI[1]/text[1]/body[1]/p[5]::583" xml:id="UID-FAKE-13521">
+        <rs ana="https://topostext.org/place/383233WTre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::7 /TEI[1]/text[1]/body[1]/p[6]::23" xml:id="UID-FAKE-13522">
+        <rs ana="https://topostext.org/place/384229LLap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::27 /TEI[1]/text[1]/body[1]/p[6]::37" xml:id="UID-FAKE-13523">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::66 /TEI[1]/text[1]/body[1]/p[6]::72" xml:id="UID-FAKE-13524">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::167 /TEI[1]/text[1]/body[1]/p[6]::174" xml:id="UID-FAKE-13525">
+        <rs ana="https://topostext.org/place/377228PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::179 /TEI[1]/text[1]/body[1]/p[6]::184" xml:id="UID-FAKE-13526">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::287 /TEI[1]/text[1]/body[1]/p[6]::294" xml:id="UID-FAKE-13527">
+        <rs ana="https://topostext.org/place/378213WPen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::349 /TEI[1]/text[1]/body[1]/p[6]::358" xml:id="UID-FAKE-13528">
+        <rs ana="https://topostext.org/place/383232PEut"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::82 /TEI[1]/text[1]/body[1]/p[7]::98" xml:id="UID-FAKE-13529">
+        <rs ana="https://topostext.org/place/384229LLap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::136 /TEI[1]/text[1]/body[1]/p[7]::144" xml:id="UID-FAKE-13530">
+        <rs ana="https://topostext.org/place/384230PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::149 /TEI[1]/text[1]/body[1]/p[7]::158" xml:id="UID-FAKE-13531">
+        <rs ana="https://topostext.org/place/384231PHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::94 /TEI[1]/text[1]/body[1]/p[8]::101" xml:id="UID-FAKE-13532">
+        <rs ana="https://topostext.org/place/431423RCol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::299 /TEI[1]/text[1]/body[1]/p[8]::308" xml:id="UID-FAKE-13533">
+        <rs ana="https://topostext.org/place/384231PHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::313 /TEI[1]/text[1]/body[1]/p[8]::321" xml:id="UID-FAKE-13534">
+        <rs ana="https://topostext.org/place/384230PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::179 /TEI[1]/text[1]/body[1]/p[9]::187" xml:id="UID-FAKE-13535">
+        <rs ana="https://topostext.org/place/379237WKep"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::124 /TEI[1]/text[1]/body[1]/p[10]::133" xml:id="UID-FAKE-13536">
+        <rs ana="https://topostext.org/place/379237WKep"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::286 /TEI[1]/text[1]/body[1]/p[10]::293" xml:id="UID-FAKE-13537">
+        <rs ana="https://topostext.org/place/385231UOlm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::378 /TEI[1]/text[1]/body[1]/p[10]::385" xml:id="UID-FAKE-13538">
+        <rs ana="https://topostext.org/place/385231UOlm"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 34</head>
+      <p>Before reaching Coroneia from Alalcomenae we come to the sanctuary of Itonian Athena. It is named after Itonius the son of Amphictyon, and here the Boeotians gather for their general assembly. In the temple are bronze images of Itonian Athena and Zeus; the artist was Agoracritus, pupil and loved one of Pheidias. In my time they dedicated too images of the Graces.</p>
+      <p>The following tale, too, is told. Iodama, who served the goddess as priestess, entered the precinct by night, where there appeared to her Athena, upon whose tunic was worked the head of Medusa the Gorgon. When Iodama saw it, she was turned to stone. For this reason a woman puts fire every day on the altar of Iodama, and as she does this she thrice repeats in the Boeotian dialect that Iodama is living and asking for fire.</p>
+      <p>On the agora of Coroneia I found two remarkable things, an altar of Hermes Epimelius (Keeper of flocks) and an altar of the winds. A little lower down is a sanctuary of Hera with an ancient image, the work of Pythodorus of Thebes; in her hand she carries Sirens. For the story goes that the daughters of Achelous were persuaded by Hera to compete with the Muses in singing. The Muses won, plucked out the Sirens"feathers (so they say) and made crowns for themselves out of them.</p>
+      <p>Some forty stades from Coroneia is Mount Libethrion, on which are images of the Muses and Nymphs surnamed Libethrian. There are springs too, one named Libethrias and the other Rock (Petra), which are shaped like a woman"s breasts, and from them rises water like milk.</p>
+      <p>The distance from Coroneia to Mount Laphystius and the precinct of Laphystian Zeus is about twenty stades. The image is of stone. They say that when Athamas was about to sacrifice here Phrixus and Helle, a ram with his fleece of gold was sent by Zeus to the children, and that on the back of this ram they made good their escape. Higher up is a Heracles surnamed A2164 (with bright eyes). Here, say the Boeotians, Heracles ascended with the hound of Hades. On the way down from Mount Laphystius to the place of Itonian Athena is the river Phalaros, which runs into the Cephisian lake.</p>
+      <p>Beyond Mount Laphystius is Orchomenus, as famous a city as any in Greece. Once raised to the greatest heights of prosperity, it too was fated to fall almost as low as Mycenae and Delos. Its ancient history is confined to the following traditions. They say that Andreus, son of the river Peneius, was the first to settle here, and after him the land AndreisYY was named.</p>
+      <p>When Athamas joined him, he assigned to him, of his own land, the territory round Mount Laphystius with what are now the territories of Coroneia and Haliartus. Athamas, thinking that none of his male children were left, adopted Haliartus and Coronus, the sons of Thersander, the son of Sisyphus, his brother. For he himself had put to death Learchus and Melicertes; Leucon had fallen sick and died; while as for Phrixus, Athamas did not know if he survived or had descendants surviving.</p>
+      <p>When later Phrixus himself, according to some, or Presbon, according to others, returned from Colchis — Presbon was a son of Phrixus by the daughter of Aeetes — the sons of Thersander agreed that the house of Athamas belonged to Athamas and his descendants, while they themselves became founders of Haliartus and Coroneia, for Athamas gave them a part of his land.</p>
+      <p>Even before this Andreus took to wife from Athamas Euippe, daughter of Leucon, and had a son, Eteocles. According to the report of the citizens, Eteocles was the son of the river Cephisus, wherefore some of the poets in their verses called him Cephisiades.</p>
+      <p>When this Eteocles became king, he let the country be still called after Andreus, but he established two tribes, naming one Cephisias, and the other after himself. When Almus, the son of Sisyphus, came to him, he gave him to dwell in a little of the land, and a village was then called Almones after this Almus. Afterwards the name of the village that was generally adopted was Olmones.</p>
+    </body>
+  </text>
+</TEI>

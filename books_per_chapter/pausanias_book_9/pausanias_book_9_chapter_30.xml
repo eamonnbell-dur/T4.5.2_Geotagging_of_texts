@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::288 /TEI[1]/text[1]/body[1]/p[1]::295" xml:id="UID-FAKE-13338">
+        <rs ana="https://topostext.org/place/384228LHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::504 /TEI[1]/text[1]/body[1]/p[1]::514" xml:id="UID-FAKE-13339">
+        <rs ana="https://topostext.org/place/380237SEre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::518 /TEI[1]/text[1]/body[1]/p[1]::524" xml:id="UID-FAKE-13340">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::586 /TEI[1]/text[1]/body[1]/p[1]::592" xml:id="UID-FAKE-13341">
+        <rs ana="https://topostext.org/place/385230GMin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::639 /TEI[1]/text[1]/body[1]/p[1]::644" xml:id="UID-FAKE-13342">
+        <rs ana="https://topostext.org/place/376231GBtg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::167 /TEI[1]/text[1]/body[1]/p[2]::175" xml:id="UID-FAKE-13343">
+        <rs ana="https://topostext.org/place/394262PMet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::239 /TEI[1]/text[1]/body[1]/p[2]::244" xml:id="UID-FAKE-13344">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::175 /TEI[1]/text[1]/body[1]/p[4]::181" xml:id="UID-FAKE-13345">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::364 /TEI[1]/text[1]/body[1]/p[4]::369" xml:id="UID-FAKE-13346">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::35 /TEI[1]/text[1]/body[1]/p[5]::44" xml:id="UID-FAKE-13347">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::81 /TEI[1]/text[1]/body[1]/p[6]::87" xml:id="UID-FAKE-13348">
+        <rs ana="https://topostext.org/place/392205SNek"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::91 /TEI[1]/text[1]/body[1]/p[6]::101" xml:id="UID-FAKE-13349">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::122 /TEI[1]/text[1]/body[1]/p[6]::135" xml:id="UID-FAKE-13350">
+        <rs ana="https://topostext.org/place/392205SNek"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::288 /TEI[1]/text[1]/body[1]/p[6]::297" xml:id="UID-FAKE-13351">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::4 /TEI[1]/text[1]/body[1]/p[7]::15" xml:id="UID-FAKE-13352">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::48 /TEI[1]/text[1]/body[1]/p[7]::60" xml:id="UID-FAKE-13353">
+        <rs ana="https://topostext.org/place/401225UPim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::77 /TEI[1]/text[1]/body[1]/p[7]::81" xml:id="UID-FAKE-13354">
+        <rs ana="https://topostext.org/place/401225UPim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::166 /TEI[1]/text[1]/body[1]/p[7]::170" xml:id="UID-FAKE-13355">
+        <rs ana="https://topostext.org/place/401225UPim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::29 /TEI[1]/text[1]/body[1]/p[8]::38" xml:id="UID-FAKE-13356">
+        <rs ana="https://topostext.org/place/384228LHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::210 /TEI[1]/text[1]/body[1]/p[8]::217" xml:id="UID-FAKE-13357">
+        <rs ana="https://topostext.org/place/402225WBap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::229 /TEI[1]/text[1]/body[1]/p[8]::238" xml:id="UID-FAKE-13358">
+        <rs ana="https://topostext.org/place/384228LHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::294 /TEI[1]/text[1]/body[1]/p[8]::298" xml:id="UID-FAKE-13359">
+        <rs ana="https://topostext.org/place/401225UPim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::3 /TEI[1]/text[1]/body[1]/p[9]::9" xml:id="UID-FAKE-13360">
+        <rs ana="https://topostext.org/place/396224PLar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::45 /TEI[1]/text[1]/body[1]/p[9]::52" xml:id="UID-FAKE-13361">
+        <rs ana="https://topostext.org/place/398227LOss"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::63 /TEI[1]/text[1]/body[1]/p[9]::71" xml:id="UID-FAKE-13362">
+        <rs ana="https://topostext.org/place/400225PLei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::99 /TEI[1]/text[1]/body[1]/p[9]::108" xml:id="UID-FAKE-13363">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::162 /TEI[1]/text[1]/body[1]/p[9]::173" xml:id="UID-FAKE-13364">
+        <rs ana="https://topostext.org/place/400225PLei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::311 /TEI[1]/text[1]/body[1]/p[9]::319" xml:id="UID-FAKE-13365">
+        <rs ana="https://topostext.org/place/400225PLei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::67 /TEI[1]/text[1]/body[1]/p[11]::70" xml:id="UID-FAKE-13366">
+        <rs ana="https://topostext.org/place/403228WSys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::72 /TEI[1]/text[1]/body[1]/p[11]::76" xml:id="UID-FAKE-13367">
+        <rs ana="https://topostext.org/place/388227WBoa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::105 /TEI[1]/text[1]/body[1]/p[11]::112" xml:id="UID-FAKE-13368">
+        <rs ana="https://topostext.org/place/401224LOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::155 /TEI[1]/text[1]/body[1]/p[11]::163" xml:id="UID-FAKE-13369">
+        <rs ana="https://topostext.org/place/400225PLei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::283 /TEI[1]/text[1]/body[1]/p[11]::291" xml:id="UID-FAKE-13370">
+        <rs ana="https://topostext.org/place/400225PLei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::320 /TEI[1]/text[1]/body[1]/p[11]::331" xml:id="UID-FAKE-13371">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::335 /TEI[1]/text[1]/body[1]/p[11]::339" xml:id="UID-FAKE-13372">
+        <rs ana="https://topostext.org/place/401225UPim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::155 /TEI[1]/text[1]/body[1]/p[12]::164" xml:id="UID-FAKE-13373">
+        <rs ana="https://topostext.org/place/385225ULyk"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 30</head>
+      <p>The first images of the Muses are of them all, from the hand of Cephisodotus, while a little farther on are three, also from the hand of Cephisodotus, and three more by Strongylion, an excellent artist of oxen and horses. The remaining three were made by Olympiosthenes. There is also on Helicon a bronze Apollo fighting with Hermes for the lyre. There is also a Dionysus by Lysippus; the standing image, however, of Dionysus, that Sulla dedicated, is the most noteworthy of the works of Myron after the Erechtheus at Athens. What he dedicated was not his own; he took it away from the Minyae of Orchomenus. This is an illustration of the Greek proverb, “to worship the gods with other people"s incense.”</p>
+      <p>Of poets or famous musicians they have set up likenesses of the following. There is Thamyris himself, when already blind, with a broken lyre in his hand, and Arion of Methymna upon a dolphin. The sculptor who made the statue of Sacadas of Argos, not understanding the prelude of Pindar about him, has made the flute-player with a body no bigger than his flute.</p>
+      <p>Hesiod too sits holding a harp upon his knees, a thing not at all appropriate for Hesiod to carry, for his own verses make it clear that he sang holding a laurel wand. As to the age of Hesiod and Homer, I have conducted very careful researches into this matter, but I do not like to write on the subject, as I know the quarrelsome nature of those especially who constitute the modern school of epic criticism.</p>
+      <p>By the side of Orpheus the Thracian stands a statue of Telete, and around him are beasts of stone and bronze listening to his singing. There are many untruths believed by the Greeks, one of which is that Orpheus was a son of the Muse Calliope, and not of the daughter of Pierus, that the beasts followed him fascinated by his songs, and that he went down alive to Hades to ask for his wife from the gods below. In my opinion Orpheus excelled his predecessors in the beauty of his verse, and reached a high degree of power because he was believed to have discovered mysteries, purification from sins, cures of diseases and means of averting divine wrath.</p>
+      <p>But they say that the women of the Thracians plotted his death, because he had persuaded their husbands to accompany him in his wanderings, but dared not carry out their intention through fear of their husbands. Flushed with wine, however, they dared the deed, and hereafter the custom of their men has been to march to battle drunk. Some say that Orpheus came to his end by being struck by a thunderbolt, hurled at him by the god because he revealed sayings in the mysteries to men who had not heard them before.</p>
+      <p>Others have said that his wife died before him, and that for her sake he came to Aornum in Thesprotis, where of old was a Nekyomanteion (oracle of the dead). He thought, they say, that the soul of Eurydice followed him, but turning round he lost her, and committed suicide for grief. The Thracians say that such nightingales as nest on the grave of Orpheus sing more sweetly and louder than others.</p>
+      <p>The Macedonians who dwell in the district below Mount Pieria and the city of Dium say that it was here that Orpheus met his end at the hands of the women. Going from Dium along the road to the mountain, and advancing twenty stades, you come to a pillar on the right surmounted by a stone urn, which according to the natives contains the bones of Orpheus.</p>
+      <p>There is also a river called HeliconYY. After a course of seventy-five stades the stream hereupon disappears under the earth. After a gap of about twenty-two stades the water rises again, and under the name of Baphyra instead of HeliconYY flows into the sea as a navigable river. The people of Dium say that at first this river flowed on land throughout its course. But, they go on to say, the women who killed Orpheus wished to wash off in it the blood-stains, and thereat the river sank underground, so as not to lend its waters to cleanse manslaughter.</p>
+      <p>In Larisa I heard another story, how that on Olympus is a city Libethra, where the mountain faces, Macedonia, not far from which city is the tomb of Orpheus. The Libethrians, it is said, received out of Thrace an oracle from Dionysus, stating that when the sun should see the bones of Orpheus, then the city of Libethra would be destroyed by a boar. The citizens paid little regard to the oracle, thinking that no other beast was big or mighty enough to take their city, while a boar was bold rather than powerful.</p>
+      <p>But when it seemed good to the god the following events befell the citizens. About midday a shepherd was asleep leaning against the grave of Orpheus, and even as he slept he began to sing poetry of Orpheus in a loud and sweet voice. Those who were pasturing or tilling nearest to him left their several tasks and gathered together to hear the shepherd sing in his sleep. And jostling one another and striving who could get nearest the shepherd they overturned the pillar, the urn fell from it and broke, and the sun saw whatever was left of the bones of Orpheus.</p>
+      <p>Immediately when night came the god sent heavy rain, and the river Sys (Boar), one of the torrents about Olympus, on this occasion threw down the walls of Libethra, overturning sanctuaries of gods and houses of men, and drowning the inhabitants and all the animals in the city. When Libethra was now a city of ruin, the Macedonians in Dium, according to my friend of Larisa, carried the bones of Orpheus to their own country.</p>
+      <p>Whoever has devoted himself to the study of poetry knows that the hymns of Orpheus are all very short, and that the total number of them is not great. The Lycomidae know them and chant them over the ritual of the mysteries. For poetic beauty they may be said to come next to the hymns of Homer, while they have been even more honored by the gods.</p>
+    </body>
+  </text>
+</TEI>

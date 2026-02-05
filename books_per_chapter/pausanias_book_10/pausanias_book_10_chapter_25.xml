@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::11 /TEI[1]/text[1]/body[1]/p[1]::19" xml:id="UID-FAKE-14897">
+        <rs ana="https://topostext.org/place/385225BLKn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::92 /TEI[1]/text[1]/body[1]/p[1]::100" xml:id="UID-FAKE-14898">
+        <rs ana="https://topostext.org/place/385225BLKn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::123 /TEI[1]/text[1]/body[1]/p[1]::132" xml:id="UID-FAKE-14899">
+        <rs ana="https://topostext.org/place/385225BLKn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::133 /TEI[1]/text[1]/body[1]/p[1]::139" xml:id="UID-FAKE-14900">
+        <rs ana="https://topostext.org/place/385225BLKn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::146 /TEI[1]/text[1]/body[1]/p[1]::150" xml:id="UID-FAKE-14901">
+        <rs ana="https://topostext.org/place/385225BLKn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::310 /TEI[1]/text[1]/body[1]/p[1]::316" xml:id="UID-FAKE-14902">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::457 /TEI[1]/text[1]/body[1]/p[1]::463" xml:id="UID-FAKE-14903">
+        <rs ana="https://topostext.org/place/385225BLKn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::1 /TEI[1]/text[1]/body[1]/p[2]::11" xml:id="UID-FAKE-14904">
+        <rs ana="https://topostext.org/place/380237BSPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::110 /TEI[1]/text[1]/body[1]/p[2]::116" xml:id="UID-FAKE-14905">
+        <rs ana="https://topostext.org/place/399262UAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::557 /TEI[1]/text[1]/body[1]/p[2]::563" xml:id="UID-FAKE-14906">
+        <rs ana="https://topostext.org/place/376240LSou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::567 /TEI[1]/text[1]/body[1]/p[2]::573" xml:id="UID-FAKE-14907">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::475 /TEI[1]/text[1]/body[1]/p[3]::482" xml:id="UID-FAKE-14908">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::419 /TEI[1]/text[1]/body[1]/p[4]::424" xml:id="UID-FAKE-14909">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::260 /TEI[1]/text[1]/body[1]/p[5]::266" xml:id="UID-FAKE-14910">
+        <rs ana="https://topostext.org/place/384236PPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::305 /TEI[1]/text[1]/body[1]/p[5]::315" xml:id="UID-FAKE-14911">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::400 /TEI[1]/text[1]/body[1]/p[5]::407" xml:id="UID-FAKE-14912">
+        <rs ana="https://topostext.org/place/375224SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::263 /TEI[1]/text[1]/body[1]/p[7]::270" xml:id="UID-FAKE-14913">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::388 /TEI[1]/text[1]/body[1]/p[7]::395" xml:id="UID-FAKE-14914">
+        <rs ana="https://topostext.org/place/376231UHyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::452 /TEI[1]/text[1]/body[1]/p[7]::458" xml:id="UID-FAKE-14915">
+        <rs ana="https://topostext.org/place/378227SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::78 /TEI[1]/text[1]/body[1]/p[8]::83" xml:id="UID-FAKE-14916">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::124 /TEI[1]/text[1]/body[1]/p[8]::131" xml:id="UID-FAKE-14917">
+        <rs ana="https://topostext.org/place/380237SThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::4 /TEI[1]/text[1]/body[1]/p[9]::10" xml:id="UID-FAKE-14918">
+        <rs ana="https://topostext.org/place/380237BSPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::230 /TEI[1]/text[1]/body[1]/p[9]::236" xml:id="UID-FAKE-14919">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::456 /TEI[1]/text[1]/body[1]/p[9]::463" xml:id="UID-FAKE-14920">
+        <rs ana="https://topostext.org/place/385230UAsp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::172 /TEI[1]/text[1]/body[1]/p[10]::178" xml:id="UID-FAKE-14921">
+        <rs ana="https://topostext.org/place/380237BSPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::186 /TEI[1]/text[1]/body[1]/p[10]::194" xml:id="UID-FAKE-14922">
+        <rs ana="https://topostext.org/place/403266UPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::202 /TEI[1]/text[1]/body[1]/p[10]::208" xml:id="UID-FAKE-14923">
+        <rs ana="https://topostext.org/place/391272PPer"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 25</head>
+      <p>Beyond the Cassotis stands a building with paintings of Polygnotus. It was dedicated by the Cnidians, and is called by the Delphians Lesche (Club Room), because here in days of old they used to meet and chat about the more serious matters and legendary history. That there used to be many such places all over Greece is shown by Homer"s words in the passage where Melantho abuses Odysseus: “And you will not go to the smith"s house to sleep, Nor yet to the Lesche, but you make long speeches here.”</p>
+      <p>[POLYGNOTUS"PAINTINGS] Inside this building the whole of the painting on the right depicts Troy taken and the Greeks sailing away. On the ship of Menelaus they are preparing to put to sea. The ship is painted with children among the grown-up sailors; amidships is Phrontis the steersman holding two boat-hooks. Homer represents Nestor as speaking about Phrontis in his conversation with Telemachus, saying that he was the son of Onetor and the steersman of Menelaus, of very high repute in his craft, and how he came to his end when he was already rounding Sunium in Attica. Up to this point Menelaus had been sailing along with Nestor, but now he was left behind to build Phrontis a tomb, and to pay him the due rites of burial.</p>
+      <p>Phrontis then is in the painting of Polygnotus, and beneath him is one Ithaemenes carrying clothes, and Echoeax is going down the gangway, carrying a bronze urn. Polites, Strophius and Alphius are pulling down the hut of Menelaus, which is not far from the ship. Another hut is being pulled down by Amphialus, at whose feet is seated a boy. There is no inscription on the boy, and Phrontis is the only one with a beard. His too is the only name that Polygnotus took from the Odyssey; the names of the others he invented, I think, himself.</p>
+      <p>Briseis is standing with Diomeda above her and Iphis in front of both; they appear to be examining the form of Helen. Helen herself is sitting, and so is Eurybates near her. We inferred that he was the herald of Odysseus, although he had yet no beard. One handmaid, Panthalis, is standing beside Helen; another, Electra, is fastening her mistress"sandals. These names too are different from those given by Homer in the Iliad, where he tells of Helen going to the wall with her slave women.</p>
+      <p>Beyond Helen, a man wrapped in a purple cloak is sitting in an attitude of the deepest dejection; one might conjecture that he was Helenus, the son of Priam, even before reading the inscription. Near Helenus is Meges, who is wounded in the arm, as Lescheos of Pyrrha, son of Aeschylinus, describes in the Iliupersis. For he says that he was wounded by Admetus, son of Augeias, in the battle that the Trojans fought in the night.</p>
+      <p>Beside Meges is also painted Lycomedes the son of Creon, who has a wound in the wrist; Lescheos says he was so wounded by Agenor. So it is plain that Polygnotus would not have represented them so wounded, if he had not read the poem of Lescheos. However, he has painted Lycomedes as wounded also in the ankle, and yet again in the head. Euryalus the son of Mecisteus has also received a wound in the head and another in the wrist.</p>
+      <p>These are painted higher up than Helen in the picture. Next to Helen comes the mother of Theseus with her head shaved, and Demophon, one of the sons of Theseus, is considering, to judge from his attitude, whether it will be possible for him to rescue Aethra. The Argives say that Theseus had also a son Melanippus by the daughter of Sinis, and that Melanippus won a running-race when the Epigoni, as they are called, held the second celebration of the Nemean games, that of Adrastus being the first.</p>
+      <p>Lescheos says of Aethra that, when Troy was taken, she came stealthily to the Greek camp. She was recognized by the sons of Theseus, and Demophon asked for her from Agamemnon. He was ready to grant Demophon the favour, but said that Helen must first give her consent. He sent a herald, and Helen granted him the favour. So in the painting Eurybates appears to have come to Helen to ask about Aethra, and to be saying what he had been told to say by Agamemnon.</p>
+      <p>The Trojan women are represented as already captives and lamenting. Andromache is in the painting, and near stands her boy grasping her breast; this child Lescheos says was put to death by being flung from the tower, not that the Greeks had so decreed, but Neoptolemus, of his own accord, was minded to murder him. In the painting is also Medesicaste, another of Priam"s illegitimate daughters, who according to Homer left her home and went to the city of Pedaeum to be the wife of Imbrius, the son of Mentor.</p>
+      <p>Andromache and Medesicaste are wearing hoods, but the hair of Polyxena is braided after the custom of maidens. Poets sing of her death at the tomb of Achilles, and both at Athens and at Pergamus on the Caicus I have seen the tragedy of Polyxena depicted in paintings.</p>
+      <p>The artist has painted Nestor with a cap on his head and a spear in his hand. There is also a horse, in the attitude of one about to roll in the dust. Right up to the horse there is a beach with what appear to be pebbles, but beyond the horse the sea-scene breaks off.</p>
+    </body>
+  </text>
+</TEI>

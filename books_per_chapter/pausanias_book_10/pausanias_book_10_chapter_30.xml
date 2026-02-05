@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::153 /TEI[1]/text[1]/body[1]/p[2]::160" xml:id="UID-FAKE-14996">
+        <rs ana="https://topostext.org/place/376217UHar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::186 /TEI[1]/text[1]/body[1]/p[2]::192" xml:id="UID-FAKE-14997">
+        <rs ana="https://topostext.org/place/380237SSem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::397 /TEI[1]/text[1]/body[1]/p[2]::405" xml:id="UID-FAKE-14998">
+        <rs ana="https://topostext.org/place/375273PMil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::411 /TEI[1]/text[1]/body[1]/p[2]::418" xml:id="UID-FAKE-14999">
+        <rs ana="https://topostext.org/place/375273PMil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::422 /TEI[1]/text[1]/body[1]/p[2]::427" xml:id="UID-FAKE-15000">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::214 /TEI[1]/text[1]/body[1]/p[4]::220" xml:id="UID-FAKE-15001">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::245 /TEI[1]/text[1]/body[1]/p[4]::251" xml:id="UID-FAKE-15002">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::544 /TEI[1]/text[1]/body[1]/p[4]::550" xml:id="UID-FAKE-15003">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::60 /TEI[1]/text[1]/body[1]/p[5]::67" xml:id="UID-FAKE-15004">
+        <rs ana="https://topostext.org/place/380237SABr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::317 /TEI[1]/text[1]/body[1]/p[6]::327" xml:id="UID-FAKE-15005">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::415 /TEI[1]/text[1]/body[1]/p[6]::420" xml:id="UID-FAKE-15006">
+        <rs ana="https://topostext.org/place/401225UPim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::464 /TEI[1]/text[1]/body[1]/p[6]::472" xml:id="UID-FAKE-15007">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::208 /TEI[1]/text[1]/body[1]/p[7]::213" xml:id="UID-FAKE-15008">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::54 /TEI[1]/text[1]/body[1]/p[8]::62" xml:id="UID-FAKE-15009">
+        <rs ana="https://topostext.org/place/386227UPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::66 /TEI[1]/text[1]/body[1]/p[8]::70" xml:id="UID-FAKE-15010">
+        <rs ana="https://topostext.org/place/400262UIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::152 /TEI[1]/text[1]/body[1]/p[9]::161" xml:id="UID-FAKE-15011">
+        <rs ana="https://topostext.org/place/400310RPhr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::165 /TEI[1]/text[1]/body[1]/p[9]::173" xml:id="UID-FAKE-15012">
+        <rs ana="https://topostext.org/place/392306UMet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::281 /TEI[1]/text[1]/body[1]/p[9]::299" xml:id="UID-FAKE-15013">
+        <rs ana="https://topostext.org/place/392306UMet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::396 /TEI[1]/text[1]/body[1]/p[9]::401" xml:id="UID-FAKE-15014">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 30</head>
+      <p>Next Polygnotus has painted the daughters of Pandareos. Homer makes Penelope say in a speech that the parents of the maidens died because of the wrath of the gods, that they were reared as orphans by Aphrodite and received gifts from other goddesses: from Hera wisdom and beauty of form, from Artemis high stature, from Athena schooling in the works that befit women.</p>
+      <p>He goes on to say that Aphrodite ascended into heaven, wishing to secure for the girls a happy marriage, and in her absence they were carried off by the Harpies and given by them to the Furies. This is the story as given by Homer. Polygnotus has painted them as girls crowned with flowers and playing with dice, and gives them the names of Cameiro and Clytie. I must tell you that Pandareos was a Milesian from Miletus in Crete, and implicated in the theft of Tantalus and in the trick of the oath.</p>
+      <p>After the daughters of Pandareos is Antilochus, with one foot upon a rock and his face and head resting upon both hands, while after Antilochus is Agamemnon, leaning on a scepter beneath his left armpit, and holding up a staff in his hands. Protesilaus is seated with his gaze fixed on Achilles. Such is the posture of Protesilaus, and beyond Achilles is Patroclus standing. With the exception of Agamemnon these figures have no beard.</p>
+      <p>Beyond them has been painted Phocus as a stripling, and Iaseus, well bearded, is taking off a ring from the left hand of Phocus. The story about this is as follows. When Phocus, the son of Aeacus, had crossed from Aegina into what is now called Phocis, and wished to gain the rule over the men living on that part of the mainland, and to settle there himself, Iaseus conceived a great friendship for him. Among the gifts that Iaseus gave (as friends will) was a seal-ring, a stone set in gold. But when Phocus returned, not long afterwards, to Aegina, Peleus at once plotted to kill him. This is the reason why in the painting, as a reminder of their great friendship, Iaseus is anxious to look at the ring and Phocus has let him take it.</p>
+      <p>Beyond these is Maera sitting on a rock. About her the poem Returns says that she was still a maid when she departed this life, being the daughter of Proetus, son of Thersander, who was a son of Sisyphus. Next to Maera is Actaeon, son of Aristaeus, together with the mother of Actaeon; they hold in their hands a young deer, and are sitting on a deer"s skin. A hunting dog lies stretched out beside them, an allusion to Actaeon"s mode of life, and to the manner of his death.</p>
+      <p>Turning our gaze again to the lower part of the picture we see, next after Patroclus, Orpheus sitting on what seems to be a sort of hill; he grasps with his left hand a harp, and with his right he touches a willow. It is the branches that he touches, and he is leaning against the tree. The grove seems to be that of Persephone, where grow, as Homer thought, black poplars and willows. The appearance of Orpheus is Greek, and neither his garb nor his head-gear is Thracian.</p>
+      <p>On the other side of the willow-tree PromedonYY is leaning against it. Some there are who think that the name PromedonYY is as it were a poetic invention of Polygnotus; others have said that PromedonYY was a Greek who was fond of listening to all kinds of music, especially to the singing of Orpheus.</p>
+      <p>In this part of the painting is Schedius, who led the Phocians to Troy, and after him is Pelias, sitting on a chair, with grey hair and grey beard, and looking at Orpheus. Schedius holds a dagger and is crowned with grass. Thamyris is sitting near Pelias. He has lost the sight of his eyes; his attitude is one of utter dejection; his hair and beard are long; at his feet lies thrown a lyre with its horns and strings broken.</p>
+      <p>Above him is Marsyas, sitting on a rock, and by his side is Olympus, with the appearance of a boy in the bloom of youth learning to play the flute. The Phrygians in Celaenae hold that the river passing through the city was once this great flute-player, and they also hold that the Song of the Mother, an air for the flute, was composed by Marsyas. They say too that they repelled the army of the Gauls by the aid of Marsyas, who defended them against the barbarians by the water from the river and by the music of his flute.</p>
+    </body>
+  </text>
+</TEI>

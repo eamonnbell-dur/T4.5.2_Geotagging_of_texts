@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::3 /TEI[1]/text[1]/body[1]/p[1]::13" xml:id="UID-FAKE-13616">
+        <rs ana="https://topostext.org/place/385230SDio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::90 /TEI[1]/text[1]/body[1]/p[2]::96" xml:id="UID-FAKE-13617">
+        <rs ana="https://topostext.org/place/385230GMin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::132 /TEI[1]/text[1]/body[1]/p[2]::138" xml:id="UID-FAKE-13618">
+        <rs ana="https://topostext.org/place/385230GMin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::194 /TEI[1]/text[1]/body[1]/p[3]::201" xml:id="UID-FAKE-13619">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::275 /TEI[1]/text[1]/body[1]/p[3]::284" xml:id="UID-FAKE-13620">
+        <rs ana="https://topostext.org/place/384218UNau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::300 /TEI[1]/text[1]/body[1]/p[3]::310" xml:id="UID-FAKE-13621">
+        <rs ana="https://topostext.org/place/385230GMin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::410 /TEI[1]/text[1]/body[1]/p[3]::419" xml:id="UID-FAKE-13622">
+        <rs ana="https://topostext.org/place/384218UNau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::460 /TEI[1]/text[1]/body[1]/p[3]::467" xml:id="UID-FAKE-13623">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::206 /TEI[1]/text[1]/body[1]/p[4]::211" xml:id="UID-FAKE-13624">
+        <rs ana="https://topostext.org/place/383231UAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::358 /TEI[1]/text[1]/body[1]/p[4]::364" xml:id="UID-FAKE-13625">
+        <rs ana="https://topostext.org/place/383231UAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::18 /TEI[1]/text[1]/body[1]/p[5]::30" xml:id="UID-FAKE-13626">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::18 /TEI[1]/text[1]/body[1]/p[6]::28" xml:id="UID-FAKE-13627">
+        <rs ana="https://topostext.org/place/385230WMeS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::107 /TEI[1]/text[1]/body[1]/p[6]::112" xml:id="UID-FAKE-13628">
+        <rs ana="https://topostext.org/place/385230WMeS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::158 /TEI[1]/text[1]/body[1]/p[6]::172" xml:id="UID-FAKE-13629">
+        <rs ana="https://topostext.org/place/385230WMeS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::227 /TEI[1]/text[1]/body[1]/p[6]::238" xml:id="UID-FAKE-13630">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::4 /TEI[1]/text[1]/body[1]/p[7]::11" xml:id="UID-FAKE-13631">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::35 /TEI[1]/text[1]/body[1]/p[7]::43" xml:id="UID-FAKE-13632">
+        <rs ana="https://topostext.org/place/379237WKep"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::66 /TEI[1]/text[1]/body[1]/p[7]::83" xml:id="UID-FAKE-13633">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::254 /TEI[1]/text[1]/body[1]/p[7]::268" xml:id="UID-FAKE-13634">
+        <rs ana="https://topostext.org/place/383233WDir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::360 /TEI[1]/text[1]/body[1]/p[7]::374" xml:id="UID-FAKE-13635">
+        <rs ana="https://topostext.org/place/385234WHyl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::33 /TEI[1]/text[1]/body[1]/p[8]::45" xml:id="UID-FAKE-13636">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::154 /TEI[1]/text[1]/body[1]/p[8]::162" xml:id="UID-FAKE-13637">
+        <rs ana="https://topostext.org/place/388228WKep"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::208 /TEI[1]/text[1]/body[1]/p[8]::218" xml:id="UID-FAKE-13638">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::390 /TEI[1]/text[1]/body[1]/p[8]::400" xml:id="UID-FAKE-13639">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::467 /TEI[1]/text[1]/body[1]/p[8]::477" xml:id="UID-FAKE-13640">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::14 /TEI[1]/text[1]/body[1]/p[9]::22" xml:id="UID-FAKE-13641">
+        <rs ana="https://topostext.org/place/385230UAsp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::257 /TEI[1]/text[1]/body[1]/p[9]::267" xml:id="UID-FAKE-13642">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::311 /TEI[1]/text[1]/body[1]/p[9]::319" xml:id="UID-FAKE-13643">
+        <rs ana="https://topostext.org/place/385230UAsp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::117 /TEI[1]/text[1]/body[1]/p[10]::127" xml:id="UID-FAKE-13644">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::133 /TEI[1]/text[1]/body[1]/p[10]::145" xml:id="UID-FAKE-13645">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 38</head>
+      <p>At Orchomenus is a sanctuary of Dionysus, but the oldest is one of the Graces. They worship the stones most, and say that they fell for Eteocles out of heaven. The decorated cult statues were dedicated in my time, and they too are of stone.</p>
+      <p>They have also a fountain worth seeing, and go down to it to fetch water. The treasury of Minyas, a wonder second to none either in Greece itself or elsewhere, has been built in the following way. It is made of stone; its shape is round, rising to a rather blunt apex; they say that the highest stone is the keystone of the whole building.</p>
+      <p>There are graves of Minyas and Hesiod. They say that they thus recovered the bones of Hesiod. A pestilence fell on men and beasts, so that they sent envoys to the god. To these, it is said, the Pythian priestess made answer that to bring the bones of Hesiod from the land of Naupactus to the land of Orchomenus was their one and only remedy. Whereupon the envoys asked a further question, where in the land of Naupactus they would find the bones; to which the Pythian priestess answered again that a crow would indicate to them the place.</p>
+      <p>So when the envoys landed, they saw, it is said, a rock not far from the road, with the bird upon the rock; the bones of Hesiod they found in a cleft of the rock. Elegiac verses are inscribed on the tomb: “Ascra rich in corn was his native land, but when Hesiod died, The land of the horse-striking Minyans holds his bones, Whose fame will rise very high in Greece When men are judged by the touchstone of artistry.</p>
+      <p>About Actaeon the Orchomenians had the following story. A ghost, they say, carrying a rock was ravaging the land. When they inquired at Delphi, the god bade them discover the remains of Actaeon and bury them in the earth. He also bade them make a bronze likeness of the ghost and fasten it to a rock with iron. I have myself seen this image thus fastened. They also sacrifice every year to Actaeon as to a hero.</p>
+      <p>Seven stades from Orchomenus is a temple of Heracles with a small image. Here are the springs of the river Melas (black), one of the streams running into the Cephisian Lake. The lake at all times covers the greater part of the Orchomenian territory, but in the winter season, after the south-west wind has generally prevailed, the water spreads over a yet greater extent of the territory.</p>
+      <p>The Thebans declare that the river Cephisus was diverted into the Orchomenian plain by Heracles, and that for a time it passed under the mountain and entered the sea, until Heracles blocked up the chasm through the mountain. Now Homer too knows that the Cephisian Lake was a lake of itself, and not made by Heracles. Wherefore Homer says: “Sloping towards the Cephisian Lake.” [5.709]</p>
+      <p>It is not likely either that the Orchomenians would not have discovered the chasm, and, breaking down the work put up by Heracles, have given back to the Cephisus its ancient passage, since right down to the Trojan War they were a wealthy people. There is evidence in my favour in the passage of Homer where Achilles replies to the envoys from Agamemnon: “Not even the wealth that comes to Orchomenus,” a line that clearly shows that even then the revenues coming to Orchomenus were large.</p>
+      <p>They say that Aspledon was left by the inhabitants because of a shortage of water. They say also that the city got its name from Aspledon, who was a son of the nymph Mideia and Poseidon. Their view is confirmed by some verses composed by Chersias, a man of Orchomenus: “To Poseidon and glorious Mideia was born Aspledon in the spacious city.</p>
+      <p>The poem of Chersias was no longer extant in my day, but these verses are quoted by Callippus in the same history of Orchomenus. The Orchomenians have a tradition that this Chersias wrote also the inscription on the grave of Hesiod.</p>
+    </body>
+  </text>
+</TEI>

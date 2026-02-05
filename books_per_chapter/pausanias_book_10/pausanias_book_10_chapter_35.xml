@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::9 /TEI[1]/text[1]/body[1]/p[1]::13" xml:id="UID-FAKE-15236">
+        <rs ana="https://topostext.org/place/386229SAba"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::18 /TEI[1]/text[1]/body[1]/p[1]::27" xml:id="UID-FAKE-15237">
+        <rs ana="https://topostext.org/place/386229PHya"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::33 /TEI[1]/text[1]/body[1]/p[1]::40" xml:id="UID-FAKE-15238">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::102 /TEI[1]/text[1]/body[1]/p[1]::109" xml:id="UID-FAKE-15239">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::132 /TEI[1]/text[1]/body[1]/p[1]::142" xml:id="UID-FAKE-15240">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::146 /TEI[1]/text[1]/body[1]/p[1]::150" xml:id="UID-FAKE-15241">
+        <rs ana="https://topostext.org/place/386230POpo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::214 /TEI[1]/text[1]/body[1]/p[1]::224" xml:id="UID-FAKE-15242">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::228 /TEI[1]/text[1]/body[1]/p[1]::232" xml:id="UID-FAKE-15243">
+        <rs ana="https://topostext.org/place/386230POpo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::291 /TEI[1]/text[1]/body[1]/p[1]::295" xml:id="UID-FAKE-15244">
+        <rs ana="https://topostext.org/place/386229SAba"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::311 /TEI[1]/text[1]/body[1]/p[1]::315" xml:id="UID-FAKE-15245">
+        <rs ana="https://topostext.org/place/386229SAba"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::338 /TEI[1]/text[1]/body[1]/p[1]::344" xml:id="UID-FAKE-15246">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::350 /TEI[1]/text[1]/body[1]/p[1]::355" xml:id="UID-FAKE-15247">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::481 /TEI[1]/text[1]/body[1]/p[1]::485" xml:id="UID-FAKE-15248">
+        <rs ana="https://topostext.org/place/386229SAba"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::30 /TEI[1]/text[1]/body[1]/p[2]::34" xml:id="UID-FAKE-15249">
+        <rs ana="https://topostext.org/place/385232SHPt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::64 /TEI[1]/text[1]/body[1]/p[2]::72" xml:id="UID-FAKE-15250">
+        <rs ana="https://topostext.org/place/386229SAba"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::123 /TEI[1]/text[1]/body[1]/p[2]::129" xml:id="UID-FAKE-15251">
+        <rs ana="https://topostext.org/place/386229SAba"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::145 /TEI[1]/text[1]/body[1]/p[2]::151" xml:id="UID-FAKE-15252">
+        <rs ana="https://topostext.org/place/386229SAba"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::188 /TEI[1]/text[1]/body[1]/p[2]::192" xml:id="UID-FAKE-15253">
+        <rs ana="https://topostext.org/place/382233LPlB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::309 /TEI[1]/text[1]/body[1]/p[2]::315" xml:id="UID-FAKE-15254">
+        <rs ana="https://topostext.org/place/380237SOTA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::523 /TEI[1]/text[1]/body[1]/p[2]::532" xml:id="UID-FAKE-15255">
+        <rs ana="https://topostext.org/place/384231PHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::549 /TEI[1]/text[1]/body[1]/p[2]::557" xml:id="UID-FAKE-15256">
+        <rs ana="https://topostext.org/place/380237SOTA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::589 /TEI[1]/text[1]/body[1]/p[2]::597" xml:id="UID-FAKE-15257">
+        <rs ana="https://topostext.org/place/379237DPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::616 /TEI[1]/text[1]/body[1]/p[2]::624" xml:id="UID-FAKE-15258">
+        <rs ana="https://topostext.org/place/380237SOTA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::56 /TEI[1]/text[1]/body[1]/p[3]::60" xml:id="UID-FAKE-15259">
+        <rs ana="https://topostext.org/place/385232SHPt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::77 /TEI[1]/text[1]/body[1]/p[3]::84" xml:id="UID-FAKE-15260">
+        <rs ana="https://topostext.org/place/387225SDem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::108 /TEI[1]/text[1]/body[1]/p[3]::119" xml:id="UID-FAKE-15261">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::125 /TEI[1]/text[1]/body[1]/p[3]::133" xml:id="UID-FAKE-15262">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::170 /TEI[1]/text[1]/body[1]/p[3]::174" xml:id="UID-FAKE-15263">
+        <rs ana="https://topostext.org/place/380237SOTA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::190 /TEI[1]/text[1]/body[1]/p[3]::197" xml:id="UID-FAKE-15264">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::424 /TEI[1]/text[1]/body[1]/p[3]::431" xml:id="UID-FAKE-15265">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::482 /TEI[1]/text[1]/body[1]/p[3]::489" xml:id="UID-FAKE-15266">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::158 /TEI[1]/text[1]/body[1]/p[4]::165" xml:id="UID-FAKE-15267">
+        <rs ana="https://topostext.org/place/386229SAba"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::260 /TEI[1]/text[1]/body[1]/p[4]::264" xml:id="UID-FAKE-15268">
+        <rs ana="https://topostext.org/place/386229SAba"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::34 /TEI[1]/text[1]/body[1]/p[5]::38" xml:id="UID-FAKE-15269">
+        <rs ana="https://topostext.org/place/386230POpo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::57 /TEI[1]/text[1]/body[1]/p[5]::66" xml:id="UID-FAKE-15270">
+        <rs ana="https://topostext.org/place/386229PHya"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::217 /TEI[1]/text[1]/body[1]/p[5]::224" xml:id="UID-FAKE-15271">
+        <rs ana="https://topostext.org/place/386229PHya"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::228 /TEI[1]/text[1]/body[1]/p[5]::234" xml:id="UID-FAKE-15272">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::360 /TEI[1]/text[1]/body[1]/p[5]::367" xml:id="UID-FAKE-15273">
+        <rs ana="https://topostext.org/place/386229PHya"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::403 /TEI[1]/text[1]/body[1]/p[5]::412" xml:id="UID-FAKE-15274">
+        <rs ana="https://topostext.org/place/386229PHya"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::37 /TEI[1]/text[1]/body[1]/p[8]::43" xml:id="UID-FAKE-15275">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::63 /TEI[1]/text[1]/body[1]/p[8]::71" xml:id="UID-FAKE-15276">
+        <rs ana="https://topostext.org/place/385228UPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::81 /TEI[1]/text[1]/body[1]/p[8]::87" xml:id="UID-FAKE-15277">
+        <rs ana="https://topostext.org/place/385227PDau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::96 /TEI[1]/text[1]/body[1]/p[8]::105" xml:id="UID-FAKE-15278">
+        <rs ana="https://topostext.org/place/399227LTem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::133 /TEI[1]/text[1]/body[1]/p[8]::143" xml:id="UID-FAKE-15279">
+        <rs ana="https://topostext.org/place/385228PCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::147 /TEI[1]/text[1]/body[1]/p[8]::153" xml:id="UID-FAKE-15280">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::235 /TEI[1]/text[1]/body[1]/p[8]::245" xml:id="UID-FAKE-15281">
+        <rs ana="https://topostext.org/place/385228PCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::253 /TEI[1]/text[1]/body[1]/p[8]::260" xml:id="UID-FAKE-15282">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::269 /TEI[1]/text[1]/body[1]/p[8]::275" xml:id="UID-FAKE-15283">
+        <rs ana="https://topostext.org/place/384227PSti"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::386 /TEI[1]/text[1]/body[1]/p[8]::393" xml:id="UID-FAKE-15284">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::399 /TEI[1]/text[1]/body[1]/p[8]::407" xml:id="UID-FAKE-15285">
+        <rs ana="https://topostext.org/place/384227PSti"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::433 /TEI[1]/text[1]/body[1]/p[8]::439" xml:id="UID-FAKE-15286">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::497 /TEI[1]/text[1]/body[1]/p[8]::503" xml:id="UID-FAKE-15287">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::609 /TEI[1]/text[1]/body[1]/p[8]::615" xml:id="UID-FAKE-15288">
+        <rs ana="https://topostext.org/place/379240DSte"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::647 /TEI[1]/text[1]/body[1]/p[8]::653" xml:id="UID-FAKE-15289">
+        <rs ana="https://topostext.org/place/384227PSti"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::14 /TEI[1]/text[1]/body[1]/p[9]::20" xml:id="UID-FAKE-15290">
+        <rs ana="https://topostext.org/place/384227PSti"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::3 /TEI[1]/text[1]/body[1]/p[10]::9" xml:id="UID-FAKE-15291">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::45 /TEI[1]/text[1]/body[1]/p[10]::53" xml:id="UID-FAKE-15292">
+        <rs ana="https://topostext.org/place/370224SElD"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::95 /TEI[1]/text[1]/body[1]/p[10]::103" xml:id="UID-FAKE-15293">
+        <rs ana="https://topostext.org/place/381239LPen"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 35</head>
+      <p>To reach Abae and Hyampolis from Elateia you may go along a mountain road on the right of the city of Elateia, but the highway from Orchomenus to Opus also leads to those cities. If then you go along the road from Orchomenus to Opus, and turn off a little to the left, you reach the road to Abae. The people of Abae say that they came to Phocis from Argos, and that the city got its name from Abas, the founder, who was a son of Lynceus and of Hypermestra, the daughter of Danaus. Abae from of old has been considered sacred to Apollo, and here too there was an oracle of that god.</p>
+      <p>The treatment that the god at Abae received at the hands of the Persians was very different from the honor paid him by the Romans. For while the Romans have given freedom of government to Abae because of their reverence for Apollo, the army of Xerxes burned down, as it did others, the sanctuary at Abae. The Greeks who opposed the barbarians resolved not to rebuild the sanctuaries burnt down by them, but to leave them for all time as memorials of their hatred. This too is the reason why the temples in the territory of Haliartus, as well as the Athenian temples of Hera on the road to Phalerum and of Demeter at Phalerum, still remain half-burnt even at the present day.</p>
+      <p>Such, I suppose, was the appearance of the sanctuary at Abae also, after the Persian invasion, until in the Phocian war some Phocians, overcome in battle, took refuge in Abae. Whereupon the Thebans gave them to the flames, and with the refugees the sanctuary, which was thus burnt down a second time. However, it still stood even in my time, the frailest of buildings ever damaged by fire, seeing that the ruin begun by the Persian incendiaries was completed by the incendiaries of Boeotia.</p>
+      <p>Beside the large temple there is another, but smaller in size, made for Apollo by the emperor Hadrian. The images are of earlier date, being dedicated by the Abaeans themselves; they are made of bronze, and all alike are standing, Apollo, Leto and Artemis. At Abae there is a theater, and also an agora, both of ancient construction.</p>
+      <p>Returning to the straight road to Opus, you come next to Hyampolis. Its mere name tells you who the inhabitants originally were, and the place from which they were expelled when they came to this land. For it was the Hyantes of Thebes who came here when they fled from Cadmus and his army. In earlier times the city was called by its neighbors the city of the Hyantes, but in course of time the name of Hyampolis prevailed over the other.</p>
+      <p>Although Xerxes had burnt down the city, and afterwards Philip had razed it to the ground, nevertheless there were left the structure of an old agora, a council-chamber (a building of no great size) and a theater not far from the gates. The emperor Hadrian built a stoa, which bears the name of the emperor who dedicated it. The citizens have one well only. This is their sole supply, both for drinking and for washing; from no other source can they get water, save only from the winter rains.</p>
+      <p>Above all other divinities they worship Artemis, of whom they have a temple. The image of her I cannot describe, for their rule is to open the sanctuary twice, and not more often, every year. They say that whatever cattle they consecrate to Artemis grow up immune to disease and fatter than other cattle.</p>
+      <p>[NEW ITINERARY] The straight road to Delphi that leads through Panopeus and past Daulis and the Cleft Way, is not the only pass from Chaeroneia to Phocis. There is another road, rough and for the most part mountainous, that leads from Chaeroneia to the Phocian city of Stiris. The length of the road is one hundred and twenty stades. The inhabitants assert that by descent they are not Phocian, but Athenian, and that they came from Attica with Peteus, the son of Orneus, when he was pursued from Athens by Aegeus. They add that, because the greater part of those who accompanied Peteus came from the deme of Stiria, the city received the name of Stiris.</p>
+      <p>The people of Stiris have their dwellings on a high and rocky site. For this reason they suffer from a shortage of water in summer; the wells are few, and the water is bad that they supply. These wells give washing-water to the people and drinking-water to the beasts of burden, but for their own drinking water the people go down about four stades and draw it from a spring. The spring is in a hole dug into the rocks, and they go down to it to fetch water.</p>
+      <p>In Stiris is a sanctuary of Demeter surnamed StiriaYY. It is of unburnt brick; the image is of Pentelic marble, and the goddess is holding torches. Beside her, bound with ribbons, is an image of Demeter, as ancient as any of that goddess that exists.</p>
+    </body>
+  </text>
+</TEI>

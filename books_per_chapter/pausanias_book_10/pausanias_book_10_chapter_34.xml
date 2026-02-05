@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::0 /TEI[1]/text[1]/body[1]/p[1]::7" xml:id="UID-FAKE-15190">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::34 /TEI[1]/text[1]/body[1]/p[1]::40" xml:id="UID-FAKE-15191">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::62 /TEI[1]/text[1]/body[1]/p[1]::68" xml:id="UID-FAKE-15192">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::91 /TEI[1]/text[1]/body[1]/p[1]::101" xml:id="UID-FAKE-15193">
+        <rs ana="https://topostext.org/place/386226PAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::127 /TEI[1]/text[1]/body[1]/p[1]::137" xml:id="UID-FAKE-15194">
+        <rs ana="https://topostext.org/place/386226PAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::278 /TEI[1]/text[1]/body[1]/p[1]::285" xml:id="UID-FAKE-15195">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::310 /TEI[1]/text[1]/body[1]/p[1]::318" xml:id="UID-FAKE-15196">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::4 /TEI[1]/text[1]/body[1]/p[2]::12" xml:id="UID-FAKE-15197">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::46 /TEI[1]/text[1]/body[1]/p[2]::56" xml:id="UID-FAKE-15198">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::144 /TEI[1]/text[1]/body[1]/p[2]::155" xml:id="UID-FAKE-15199">
+        <rs ana="https://topostext.org/place/442287PTom"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::207 /TEI[1]/text[1]/body[1]/p[2]::213" xml:id="UID-FAKE-15200">
+        <rs ana="https://topostext.org/place/393267UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::369 /TEI[1]/text[1]/body[1]/p[2]::376" xml:id="UID-FAKE-15201">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::405 /TEI[1]/text[1]/body[1]/p[2]::414" xml:id="UID-FAKE-15202">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::448 /TEI[1]/text[1]/body[1]/p[2]::454" xml:id="UID-FAKE-15203">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::552 /TEI[1]/text[1]/body[1]/p[2]::558" xml:id="UID-FAKE-15204">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::584 /TEI[1]/text[1]/body[1]/p[2]::591" xml:id="UID-FAKE-15205">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::0 /TEI[1]/text[1]/body[1]/p[3]::7" xml:id="UID-FAKE-15206">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::49 /TEI[1]/text[1]/body[1]/p[3]::57" xml:id="UID-FAKE-15207">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::71 /TEI[1]/text[1]/body[1]/p[3]::79" xml:id="UID-FAKE-15208">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::111 /TEI[1]/text[1]/body[1]/p[3]::118" xml:id="UID-FAKE-15209">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::134 /TEI[1]/text[1]/body[1]/p[3]::142" xml:id="UID-FAKE-15210">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::226 /TEI[1]/text[1]/body[1]/p[3]::237" xml:id="UID-FAKE-15211">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::326 /TEI[1]/text[1]/body[1]/p[3]::337" xml:id="UID-FAKE-15212">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::423 /TEI[1]/text[1]/body[1]/p[3]::430" xml:id="UID-FAKE-15213">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::11 /TEI[1]/text[1]/body[1]/p[4]::16" xml:id="UID-FAKE-15214">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::55 /TEI[1]/text[1]/body[1]/p[4]::59" xml:id="UID-FAKE-15215">
+        <rs ana="https://topostext.org/place/419125PRom"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::72 /TEI[1]/text[1]/body[1]/p[4]::78" xml:id="UID-FAKE-15216">
+        <rs ana="https://topostext.org/place/384223UPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::119 /TEI[1]/text[1]/body[1]/p[4]::126" xml:id="UID-FAKE-15217">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::217 /TEI[1]/text[1]/body[1]/p[4]::226" xml:id="UID-FAKE-15218">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::317 /TEI[1]/text[1]/body[1]/p[4]::323" xml:id="UID-FAKE-15219">
+        <rs ana="https://topostext.org/place/393267UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::360 /TEI[1]/text[1]/body[1]/p[4]::368" xml:id="UID-FAKE-15220">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::413 /TEI[1]/text[1]/body[1]/p[4]::419" xml:id="UID-FAKE-15221">
+        <rs ana="https://topostext.org/place/435335WPon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::508 /TEI[1]/text[1]/body[1]/p[4]::514" xml:id="UID-FAKE-15222">
+        <rs ana="https://topostext.org/place/393267UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::31 /TEI[1]/text[1]/body[1]/p[5]::40" xml:id="UID-FAKE-15223">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::54 /TEI[1]/text[1]/body[1]/p[5]::60" xml:id="UID-FAKE-15224">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::99 /TEI[1]/text[1]/body[1]/p[5]::106" xml:id="UID-FAKE-15225">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::421 /TEI[1]/text[1]/body[1]/p[5]::428" xml:id="UID-FAKE-15226">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::442 /TEI[1]/text[1]/body[1]/p[5]::455" xml:id="UID-FAKE-15227">
+        <rs ana="https://topostext.org/place/376218GSau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::459 /TEI[1]/text[1]/body[1]/p[5]::466" xml:id="UID-FAKE-15228">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::374 /TEI[1]/text[1]/body[1]/p[6]::379" xml:id="UID-FAKE-15229">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::30 /TEI[1]/text[1]/body[1]/p[7]::37" xml:id="UID-FAKE-15230">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::56 /TEI[1]/text[1]/body[1]/p[7]::62" xml:id="UID-FAKE-15231">
+        <rs ana="https://topostext.org/place/387228SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::72 /TEI[1]/text[1]/body[1]/p[7]::79" xml:id="UID-FAKE-15232">
+        <rs ana="https://topostext.org/place/387228SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::434 /TEI[1]/text[1]/body[1]/p[8]::440" xml:id="UID-FAKE-15233">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::482 /TEI[1]/text[1]/body[1]/p[8]::491" xml:id="UID-FAKE-15234">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::497 /TEI[1]/text[1]/body[1]/p[8]::506" xml:id="UID-FAKE-15235">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 34</head>
+      <p>Elateia is, with the exception of Delphi, the largest city in Phocis. It lies over against Amphicleia, and the road to it from Amphicleia is one hundred and eighty stades long, level for the most part, but with an upward gradient for a short distance quite close to the town of Elateia. In the plain flows the Cephisus, and the most common bird to live along its banks is the bustard.</p>
+      <p>The Elateans were successful in repelling the Macedonian army under Cassander, and they managed to escape from the war that Taxilus, general of Mithridates, brought against them. In return for this deed the Romans have given them the privilege of living in the country free and immune from taxation. They claim to be of foreign stock, saying that of old they came from Arcadia. For they say that when the Phlegyans marched against the sanctuary at Delphi, Elatus, the son of Arcas, came to the assistance of the god, and with his army stayed behind in Phocis, becoming the founder of Elateia.</p>
+      <p>Elateia must be numbered among the cities of the Phocians burnt by the Persians. Some disasters were shared by Elateia with the other Phocians, but she had peculiar calamities of her own, inflicted by fate at the hands of the Macedonians. In the war waged by Cassander, it is Olympiodorus who must receive most credit for the Macedonians being forced to abandon a siege. Philip, the son of Demetrius, reduced the people of Elateia to the utmost terror, and at the same time seduced by bribery the more powerful of the citizens.</p>
+      <p>Titus, the Roman magistrate, who had a commission from Rome to give all Greeks their freedom, promised to give back to Elateia its ancient constitution, and by messengers made overtures to its citizens to secede from Macedonia. But either they or their government were stupid enough to be faithful to Philip, and the Romans reduced them by siege. Later on the Elateans held out when besieged by the barbarians of Pontus under the command of Taxilus, the general of Mithridates. As a reward for this deed the Romans gave them their freedom.</p>
+      <p>An army of bandits, called the Costobocs, who overran Greece in my day, visited among other cities Elateia. Whereupon a certain Mnesibulus gathered round him a company of men and put to the sword many of the barbarians, but he himself fell in the fighting. This Mnesibulus won several prizes for running, among which were prizes for the foot-race, and for the double race with shield, at the two hundred and thirty-fifth Olympic festival. In Runner Street at Elateia there stands a bronze statue of Mnesibulus.</p>
+      <p>The agora itself is worth seeing, and so is the figure of Elatus carved in relief upon a stele. I do not know for certain whether they made the slab to honor him as their founder or also to serve as a gravestone to his tomb. A temple has been built to Asclepius, with a bearded image of the god. The names of the makers of the image are Timocles and Timarchides, artists of Attic birth. At the end of the city on the right is a theater, and an ancient bronze image of Athena. They say that this goddess helped them against the barbarians under Taxilus.</p>
+      <p>About twenty stades away from Elateia is a sanctuary of Athena surnamed Cranaea. The road to it slopes upwards, but so gentle is the ascent that it causes no fatigue — in fact one scarcely notices it. At the end of the road is a hill which, though for the most part precipitous, is neither very large nor very high. On this hill the sanctuary has been built, with porticoes and dwellings through them, where live those whose duty it is to wait on the god, chief of whom is the priest.</p>
+      <p>They choose the priest from boys who have not yet reached the age of puberty, taking care beforehand that his term of office shall run out before puberty arrives. The office lasts for five successive years, during which the priest boards with the goddess, and bathes in tubs after the ancient manner. This image too was made by the sons of Polycles. It is armed as for battle, and on the shield is wrought in relief a copy of what at Athens is wrought on the shield of her whom the Athenians call Parthenos.</p>
+    </body>
+  </text>
+</TEI>

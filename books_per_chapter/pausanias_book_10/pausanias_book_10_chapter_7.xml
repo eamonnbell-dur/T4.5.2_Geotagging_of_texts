@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::50 /TEI[1]/text[1]/body[1]/p[1]::56" xml:id="UID-FAKE-14006">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::144 /TEI[1]/text[1]/body[1]/p[1]::151" xml:id="UID-FAKE-14007">
+        <rs ana="https://topostext.org/place/381245RHol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::188 /TEI[1]/text[1]/body[1]/p[1]::196" xml:id="UID-FAKE-14008">
+        <rs ana="https://topostext.org/place/396222UPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::289 /TEI[1]/text[1]/body[1]/p[1]::296" xml:id="UID-FAKE-14009">
+        <rs ana="https://topostext.org/place/385228SPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::390 /TEI[1]/text[1]/body[1]/p[1]::396" xml:id="UID-FAKE-14010">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::429 /TEI[1]/text[1]/body[1]/p[1]::435" xml:id="UID-FAKE-14011">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::185 /TEI[1]/text[1]/body[1]/p[2]::190" xml:id="UID-FAKE-14012">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::33 /TEI[1]/text[1]/body[1]/p[3]::40" xml:id="UID-FAKE-14013">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::38 /TEI[1]/text[1]/body[1]/p[4]::46" xml:id="UID-FAKE-14014">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::52 /TEI[1]/text[1]/body[1]/p[4]::55" xml:id="UID-FAKE-14015">
+        <rs ana="https://topostext.org/place/376216SDCh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::79 /TEI[1]/text[1]/body[1]/p[4]::86" xml:id="UID-FAKE-14016">
+        <rs ana="https://topostext.org/place/391171PCro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::107 /TEI[1]/text[1]/body[1]/p[4]::118" xml:id="UID-FAKE-14017">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::282 /TEI[1]/text[1]/body[1]/p[4]::294" xml:id="UID-FAKE-14018">
+        <rs ana="https://topostext.org/place/382206IKep"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::329 /TEI[1]/text[1]/body[1]/p[4]::337" xml:id="UID-FAKE-14019">
+        <rs ana="https://topostext.org/place/376219PHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::381 /TEI[1]/text[1]/body[1]/p[4]::386" xml:id="UID-FAKE-14020">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::454 /TEI[1]/text[1]/body[1]/p[4]::461" xml:id="UID-FAKE-14021">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::119 /TEI[1]/text[1]/body[1]/p[5]::126" xml:id="UID-FAKE-14022">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::180 /TEI[1]/text[1]/body[1]/p[5]::189" xml:id="UID-FAKE-14023">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::321 /TEI[1]/text[1]/body[1]/p[5]::337" xml:id="UID-FAKE-14024">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::108 /TEI[1]/text[1]/body[1]/p[6]::114" xml:id="UID-FAKE-14025">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::167 /TEI[1]/text[1]/body[1]/p[6]::174" xml:id="UID-FAKE-14026">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::258 /TEI[1]/text[1]/body[1]/p[6]::269" xml:id="UID-FAKE-14027">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::287 /TEI[1]/text[1]/body[1]/p[6]::293" xml:id="UID-FAKE-14028">
+        <rs ana="https://topostext.org/place/376231GBtg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::446 /TEI[1]/text[1]/body[1]/p[6]::452" xml:id="UID-FAKE-14029">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::14 /TEI[1]/text[1]/body[1]/p[7]::30" xml:id="UID-FAKE-14030">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::101 /TEI[1]/text[1]/body[1]/p[7]::106" xml:id="UID-FAKE-14031">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::140 /TEI[1]/text[1]/body[1]/p[7]::156" xml:id="UID-FAKE-14032">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::209 /TEI[1]/text[1]/body[1]/p[7]::215" xml:id="UID-FAKE-14033">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::237 /TEI[1]/text[1]/body[1]/p[7]::246" xml:id="UID-FAKE-14034">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::266 /TEI[1]/text[1]/body[1]/p[7]::272" xml:id="UID-FAKE-14035">
+        <rs ana="https://topostext.org/place/376219PHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::293 /TEI[1]/text[1]/body[1]/p[7]::296" xml:id="UID-FAKE-14036">
+        <rs ana="https://topostext.org/place/376216BSAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::319 /TEI[1]/text[1]/body[1]/p[7]::335" xml:id="UID-FAKE-14037">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::423 /TEI[1]/text[1]/body[1]/p[7]::430" xml:id="UID-FAKE-14038">
+        <rs ana="https://topostext.org/place/384225PEch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::445 /TEI[1]/text[1]/body[1]/p[7]::453" xml:id="UID-FAKE-14039">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::528 /TEI[1]/text[1]/body[1]/p[7]::534" xml:id="UID-FAKE-14040">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::138 /TEI[1]/text[1]/body[1]/p[8]::142" xml:id="UID-FAKE-14041">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::188 /TEI[1]/text[1]/body[1]/p[8]::204" xml:id="UID-FAKE-14042">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::222 /TEI[1]/text[1]/body[1]/p[8]::228" xml:id="UID-FAKE-14043">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::257 /TEI[1]/text[1]/body[1]/p[8]::265" xml:id="UID-FAKE-14044">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::333 /TEI[1]/text[1]/body[1]/p[8]::341" xml:id="UID-FAKE-14045">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::436 /TEI[1]/text[1]/body[1]/p[8]::442" xml:id="UID-FAKE-14046">
+        <rs ana="https://topostext.org/place/396224PLar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::500 /TEI[1]/text[1]/body[1]/p[8]::505" xml:id="UID-FAKE-14047">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::525 /TEI[1]/text[1]/body[1]/p[8]::536" xml:id="UID-FAKE-14048">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::612 /TEI[1]/text[1]/body[1]/p[8]::619" xml:id="UID-FAKE-14049">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 7</head>
+      <p>It seems that from the beginning the sanctuary at Delphi has been plotted against by a vast number of men. Attacks were made against it by this Euboean pirate, and years afterwards by the Phlegyan nation; furthermore by Pyrrhus, son of Achilles, by a portion of the army of Xerxes, by the Phocian chieftains, whose attacks on the wealth of the god were the longest and fiercest, and by the Gallic invaders. It was fated too that Delphi was to suffer from the universal irreverence of Nero, who robbed Apollo of five hundred bronze statues, some of gods, some of men.</p>
+      <p>The oldest contest and the one for which they first offered prizes was, according to tradition, the singing of a hymn to the god. The man who sang and won the prize was Chrysothemis of Crete, whose father Carmanor is said to have cleansed Apollo. After Chrysothemis, says tradition, Philammon won with a song, and after him his son Thamyris. But they say that Orpheus, a proud man and conceited about his mysteries, and Musaeus, who copied Orpheus in everything, refused to submit to the competition in musical skill.</p>
+      <p>They say too that Eleuther won a Pythian victory for his loud and sweet voice, for the song that he sang was not of his own composition. The story is that Hesiod too was debarred from competing because he had not learned to accompany his own singing on the harp. Homer too came to Delphi to inquire about his needs, but even though he had learned to play the harp, he would have found the skill useless owing to the loss of his eye-sight.</p>
+      <p>In the third year of the forty-eighth Olympiad [586 BCE], at which Glaucias of Crotona was victorious, the Amphictyons held contests for harping as from the beginning, but added competitions for flute-playing and for singing to the flute. The conquerors proclaimed were Melampus, a Cephallenian, for harping, and Echembrotus, an Arcadian, for singing to the flute, with Sacadas of Argos for flute-playing. This same Sacadas won victories at the next two Pythian festivals.</p>
+      <p>On that occasion they also offered for the first time prizes for athletes, the competitions being the same as those at Olympia, except the tethrippon (four-horse chariot), and the Delphians themselves added to the contests running-races for boys, the dolichos (long course) and the diaulos (double course). At the second Pythian Festival they no longer offered prizes for events, and hereafter gave a crown for victory. On this occasion they no longer included aulodia (singing to the flute), thinking that the music was ill-omened to listen to. For the tunes of the flute were most dismal, and the words sung to the tunes were lamentations.</p>
+      <p>What I say is confirmed by the votive offering of Echembrotus, a bronze tripod dedicated to the Heracles at Thebes. The tripod has as its inscription: “Echembrotus of Arcadia dedicated this pleasant gift to Heracles When he won a victory at the games of the Amphictyons, Singing for the Greeks tunes and lamentations.” In this way the competition in singing to the flute was dropped. But they added a chariot-race, and Cleisthenes, the tyrant of Sicyon, was proclaimed victor in the chariot-race.</p>
+      <p>At the eighth Pythian Festival they added a contest for harpists playing without singing; Agelaus of Tegea was crowned. At the twenty-third Pythian Festival they added a race in armour. For this Timaenetus of Phlius won the laurel, five Olympiads after Damaretus of Heraea was victorious [520 BCE]. At the forty-eighth Pythian Festival they established a race for two-horse chariots, and the chariot won of Execestides the Phocian. At the fifth Festival after this they yoked foals to a chariot, and the chariot of Orphondas of Thebes came in first.</p>
+      <p>The pancratium for boys, a race for a chariot drawn by two foals, and a race for ridden foals, were many years afterwards introduced from Elis. The first was brought in at the sixty-first Pythian Festival, and Iolaidas of Thebes was victorious. At the next Festival but one they held a race for a ridden foal, and at the sixty-ninth Festival a race for a chariot drawn by two foals; the victor proclaimed for the former was Lycormas of Larisa, for the latter Ptolemy the Macedonian. For the kings of Egypt liked to be called Macedonians, as in fact they were. The reason why a crown of laurel is the prize for a Pythian victory is in my opinion simply and solely because the prevailing tradition has it that Apollo fell in love with the daughter of Ladon.</p>
+    </body>
+  </text>
+</TEI>

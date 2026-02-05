@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::296 /TEI[1]/text[1]/body[1]/p[1]::306" xml:id="UID-FAKE-13990">
+        <rs ana="https://topostext.org/place/385226LPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::211 /TEI[1]/text[1]/body[1]/p[2]::220" xml:id="UID-FAKE-13991">
+        <rs ana="https://topostext.org/place/385226LPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::321 /TEI[1]/text[1]/body[1]/p[2]::329" xml:id="UID-FAKE-13992">
+        <rs ana="https://topostext.org/place/385225ULyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::133 /TEI[1]/text[1]/body[1]/p[3]::141" xml:id="UID-FAKE-13993">
+        <rs ana="https://topostext.org/place/385225ULyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::167 /TEI[1]/text[1]/body[1]/p[3]::175" xml:id="UID-FAKE-13994">
+        <rs ana="https://topostext.org/place/385225CKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::203 /TEI[1]/text[1]/body[1]/p[4]::210" xml:id="UID-FAKE-13995">
+        <rs ana="https://topostext.org/place/379214SThy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::47 /TEI[1]/text[1]/body[1]/p[5]::52" xml:id="UID-FAKE-13996">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::65 /TEI[1]/text[1]/body[1]/p[5]::71" xml:id="UID-FAKE-13997">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::118 /TEI[1]/text[1]/body[1]/p[5]::126" xml:id="UID-FAKE-13998">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::263 /TEI[1]/text[1]/body[1]/p[5]::268" xml:id="UID-FAKE-13999">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::419 /TEI[1]/text[1]/body[1]/p[5]::424" xml:id="UID-FAKE-14000">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::547 /TEI[1]/text[1]/body[1]/p[5]::553" xml:id="UID-FAKE-14001">
+        <rs ana="https://topostext.org/place/406144ISei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::63 /TEI[1]/text[1]/body[1]/p[6]::68" xml:id="UID-FAKE-14002">
+        <rs ana="https://topostext.org/place/419125STel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::179 /TEI[1]/text[1]/body[1]/p[6]::185" xml:id="UID-FAKE-14003">
+        <rs ana="https://topostext.org/place/385239IEub"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::318 /TEI[1]/text[1]/body[1]/p[6]::327" xml:id="UID-FAKE-14004">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::189 /TEI[1]/text[1]/body[1]/p[7]::196" xml:id="UID-FAKE-14005">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 6</head>
+      <p>They say that the oldest city was founded here by Parnassus, a son of Cleodora, a nymph. Like the other heroes, as they are called, he had two fathers; one they say was the god Poseidon, the human father being Cleopompus. After this Parnassus were named, they say, both the mountain and also the Parnassian glen. Augury from flying birds was, it is said, a discovery of Parnassus.</p>
+      <p>Now this city, so the story goes on, was flooded by the rains that fell in the time of Deucalion. Such of the inhabitants as were able to escape the storm were led by the howls of wolves to safety on the top of Parnassus, being led on their way by these beasts, and on this account they called the city that they founded Lycoreia (Mountainwolf-city).</p>
+      <p>Another and different legend is current that Apollo had a son Lycorus by a nymph, Corycia, and that after Lycorus was named the city Lycoreia, and after the nymph the Corycian cave. It is also said that Celaeno was daughter to Hyamus, son of Lycorus, and that Delphus, from whom comes the present name of the city, was a son of Celaeno, daughter of Hyamus, by Apollo.</p>
+      <p>Others maintain that Castalius, an aboriginal, had a daughter Thyia, who was the first to be priestess of Dionysus and celebrate orgies in honor of the god. It is said that later on men called after her Thyiads all women who rave in honor of Dionysus. At any rate they hold that Delphus was a son of Apollo and Thyia. Others say that his mother was Melaena, daughter of Cephisus.</p>
+      <p>Afterwards the dwellers around called the city Pytho, as well as Delphi, just as Homer so calls it in the list of the Phocians. Those who would find pedigrees for everything think that Pythes was a son of Delphus, and that because he was king the city was called Pytho. But the most widespread tradition has it that the victim of Apollo"s arrows rotted here, and that this was the reason why the city received the name Pytho. For the men of those days used pythesthai for the verb “to rot,” and hence Homer in his poem says that the island of the Sirens was full of bones, because the men who heard their singing rotted (epythonto).</p>
+      <p>The poets say that the victim of Apollo was a dragon posted by Earth to be a guard for the oracle. It is also said that he was a violent son of Crius, a man with authority around Euboea. He pillaged the sanctuary of the god, and he also pillaged the houses of rich men. But when he was making a second expedition, the Delphians besought Apollo to keep from them the danger that threatened them.</p>
+      <p>Phemonoe, the prophetess of that day, gave them an oracle in hexameter verse: “At close quarters a grievous arrow shall Apollo shoot At the spoiler of Parnassus; and of his blood-guilt The Cretans shall cleanse his hands; but the renown shall never die.</p>
+    </body>
+  </text>
+</TEI>

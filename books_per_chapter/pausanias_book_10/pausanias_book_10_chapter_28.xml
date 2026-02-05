@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::106 /TEI[1]/text[1]/body[1]/p[1]::111" xml:id="UID-FAKE-14950">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::50 /TEI[1]/text[1]/body[1]/p[2]::56" xml:id="UID-FAKE-14951">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::362 /TEI[1]/text[1]/body[1]/p[3]::368" xml:id="UID-FAKE-14952">
+        <rs ana="https://topostext.org/place/408247PTha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::374 /TEI[1]/text[1]/body[1]/p[3]::379" xml:id="UID-FAKE-14953">
+        <rs ana="https://topostext.org/place/371252PPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::15 /TEI[1]/text[1]/body[1]/p[4]::22" xml:id="UID-FAKE-14954">
+        <rs ana="https://topostext.org/place/392205WAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::283 /TEI[1]/text[1]/body[1]/p[4]::289" xml:id="UID-FAKE-14955">
+        <rs ana="https://topostext.org/place/375151PCat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::342 /TEI[1]/text[1]/body[1]/p[4]::348" xml:id="UID-FAKE-14956">
+        <rs ana="https://topostext.org/place/375151PCat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::354 /TEI[1]/text[1]/body[1]/p[4]::359" xml:id="UID-FAKE-14957">
+        <rs ana="https://topostext.org/place/377150LAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::6 /TEI[1]/text[1]/body[1]/p[5]::15" xml:id="UID-FAKE-14958">
+        <rs ana="https://topostext.org/place/375151PCat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::104 /TEI[1]/text[1]/body[1]/p[5]::114" xml:id="UID-FAKE-14959">
+        <rs ana="https://topostext.org/place/385225BLKn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::187 /TEI[1]/text[1]/body[1]/p[5]::192" xml:id="UID-FAKE-14960">
+        <rs ana="https://topostext.org/place/000000GHad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::91 /TEI[1]/text[1]/body[1]/p[6]::100" xml:id="UID-FAKE-14961">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::140 /TEI[1]/text[1]/body[1]/p[6]::148" xml:id="UID-FAKE-14962">
+        <rs ana="https://topostext.org/place/380237SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::157 /TEI[1]/text[1]/body[1]/p[6]::165" xml:id="UID-FAKE-14963">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::214 /TEI[1]/text[1]/body[1]/p[6]::223" xml:id="UID-FAKE-14964">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::309 /TEI[1]/text[1]/body[1]/p[6]::316" xml:id="UID-FAKE-14965">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::385 /TEI[1]/text[1]/body[1]/p[6]::395" xml:id="UID-FAKE-14966">
+        <rs ana="https://topostext.org/place/335354RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::423 /TEI[1]/text[1]/body[1]/p[6]::434" xml:id="UID-FAKE-14967">
+        <rs ana="https://topostext.org/place/383236PTan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::438 /TEI[1]/text[1]/body[1]/p[6]::444" xml:id="UID-FAKE-14968">
+        <rs ana="https://topostext.org/place/383237UDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::74 /TEI[1]/text[1]/body[1]/p[7]::82" xml:id="UID-FAKE-14969">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::117 /TEI[1]/text[1]/body[1]/p[7]::122" xml:id="UID-FAKE-14970">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::205 /TEI[1]/text[1]/body[1]/p[7]::212" xml:id="UID-FAKE-14971">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::234 /TEI[1]/text[1]/body[1]/p[7]::240" xml:id="UID-FAKE-14972">
+        <rs ana="https://topostext.org/place/385230GMin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::250 /TEI[1]/text[1]/body[1]/p[7]::257" xml:id="UID-FAKE-14973">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::281 /TEI[1]/text[1]/body[1]/p[7]::286" xml:id="UID-FAKE-14974">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::95 /TEI[1]/text[1]/body[1]/p[8]::100" xml:id="UID-FAKE-14975">
+        <rs ana="https://topostext.org/place/375275RMys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::268 /TEI[1]/text[1]/body[1]/p[8]::275" xml:id="UID-FAKE-14976">
+        <rs ana="https://topostext.org/place/370287RKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::279 /TEI[1]/text[1]/body[1]/p[8]::285" xml:id="UID-FAKE-14977">
+        <rs ana="https://topostext.org/place/373278PMyl"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 28</head>
+      <p>The other part of the picture, the one on the left, shows Odysseus, who has descended into what is called Hades to inquire of the soul of Teiresias about his safe return home. The objects depicted are as follow. There is water like a river, clearly intended for Acheron, with reeds growing in it; the forms of the fishes appear so dim that you will take them to be shadows rather than fish. On the river is a boat, with the ferryman at the oars.</p>
+      <p>Polygnotus followed, I think, the poem called the Minyad. For in this poem occur lines referring to Theseus and Peirithous: “Then the boat on which embark the dead, that the old ferryman, Charon, used to steer, they found not within its moorings.” For this reason then Polygnotus too painted Charon as a man well stricken in years.</p>
+      <p>Those on board the boat are not altogether distinguished. Tellis1 appears as a youth in years, and Cleoboea as still a maiden, holding on her knees a chest such as they are wont to make for Demeter. All I heard about Tellis1 was that Archilochus the poet was his grandson, while as for Cleoboea, they say that she was the first to bring the orgies of Demeter to Thasos from Paros.</p>
+      <p>On the bank of Acheron there is a notable group under the boat of Charon, consisting of a man who had been undutiful to his father and is now being throttled by him. For the men of old held their parents in the greatest respect, as we may infer, among other instances, from those in Catana called the Pious, who, when the fire flowed down on Catana from Aetna, held of no account gold or silver, but when they fled took up, one his mother and another his father. As they struggled on, the fire rushed up and caught them in the flames. Not even so would they put down their parents, and it is said that the stream of lava divided itself in two, and the fire passed on, doing no hurt to either young men or their parents.</p>
+      <p>These Catanians even at the present day receive honors from their fellow countrymen. Near to the man in Polygnotus"picture who maltreated his father and for this drinks his cup of woe in Hades, is a man who paid the penalty for sacrilege. The woman who is punishing him is skilled in poisonous and other drugs.</p>
+      <p>So it appears that in those days men laid the greatest stress on piety to the gods, as the Athenians showed when they took the sanctuary of Olympian Zeus at Syracuse; they moved none of the offerings, but left the Syracusan priest as their keeper. Datis the Persian too showed his piety in his address to the Delians, and in this act as well, when having found an image of Apollo in a Phoenician ship he restored it to the Tanagraeans at Delium. So at that time all men held the divine in reverence, and this is why Polygnotus has depicted the punishment of him who committed sacrilege.</p>
+      <p>Higher up than the figures I have enumerated comes Eurynomus, said by the Delphian guides to be one of the demons in Hades, who eats off all the flesh of the corpses, leaving only their bones. But Homer"s Odyssey, the poem called the Minyad, and the Returns, although they tell of Hades, and its horrors, know of no demon called Eurynomus. However, I will describe what he is like and his attitude in the painting. He is of a color between blue and black, like that of meat flies; he is showing his teeth and is seated, and under him is spread a vulture"s skin.</p>
+      <p>Next after Eurynomus are Auge of Arcadia and Iphimedeia. Auge visited the house of Teuthras in Mysia, and of all the women with whom Heracles is said to have mated, none gave birth to a son more like his father than she did. Great honors are paid to Iphimedeia by the Carians in Mylasa.</p>
+    </body>
+  </text>
+</TEI>

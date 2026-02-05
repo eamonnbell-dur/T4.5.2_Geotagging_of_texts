@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::4 /TEI[1]/text[1]/body[1]/p[1]::11" xml:id="UID-FAKE-12809">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::393 /TEI[1]/text[1]/body[1]/p[1]::400" xml:id="UID-FAKE-12810">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::424 /TEI[1]/text[1]/body[1]/p[1]::430" xml:id="UID-FAKE-12811">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::446 /TEI[1]/text[1]/body[1]/p[1]::452" xml:id="UID-FAKE-12812">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::344 /TEI[1]/text[1]/body[1]/p[2]::350" xml:id="UID-FAKE-12813">
+        <rs ana="https://topostext.org/place/257326PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::363 /TEI[1]/text[1]/body[1]/p[2]::371" xml:id="UID-FAKE-12814">
+        <rs ana="https://topostext.org/place/309307USai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::383 /TEI[1]/text[1]/body[1]/p[2]::393" xml:id="UID-FAKE-12815">
+        <rs ana="https://topostext.org/place/335354RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::484 /TEI[1]/text[1]/body[1]/p[2]::494" xml:id="UID-FAKE-12816">
+        <rs ana="https://topostext.org/place/335354RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::524 /TEI[1]/text[1]/body[1]/p[2]::532" xml:id="UID-FAKE-12817">
+        <rs ana="https://topostext.org/place/257326PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::4 /TEI[1]/text[1]/body[1]/p[3]::11" xml:id="UID-FAKE-12818">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::220 /TEI[1]/text[1]/body[1]/p[3]::226" xml:id="UID-FAKE-12819">
+        <rs ana="https://topostext.org/place/383233XCad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::287 /TEI[1]/text[1]/body[1]/p[3]::293" xml:id="UID-FAKE-12820">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::85 /TEI[1]/text[1]/body[1]/p[4]::91" xml:id="UID-FAKE-12821">
+        <rs ana="https://topostext.org/place/380237SLmn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::173 /TEI[1]/text[1]/body[1]/p[5]::179" xml:id="UID-FAKE-12822">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::191 /TEI[1]/text[1]/body[1]/p[5]::199" xml:id="UID-FAKE-12823">
+        <rs ana="https://topostext.org/place/392306UMet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::269 /TEI[1]/text[1]/body[1]/p[5]::275" xml:id="UID-FAKE-12824">
+        <rs ana="https://topostext.org/place/385280RLyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::151 /TEI[1]/text[1]/body[1]/p[6]::162" xml:id="UID-FAKE-12825">
+        <rs ana="https://topostext.org/place/385236PCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::170 /TEI[1]/text[1]/body[1]/p[6]::177" xml:id="UID-FAKE-12826">
+        <rs ana="https://topostext.org/place/385236WEur"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::215 /TEI[1]/text[1]/body[1]/p[6]::220" xml:id="UID-FAKE-12827">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::229 /TEI[1]/text[1]/body[1]/p[6]::236" xml:id="UID-FAKE-12828">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 12</head>
+      <p>The Thebans in ancient days used to sacrifice bulls to Apollo Spodios. Once when the festival was being held, the hour of the sacrifice was near but those sent to fetch the bull had not arrived. And so, as a wagon happened to be near by, they sacrificed to the god one of the oxen, and ever since it has been the custom to sacrifice working oxen. The following story also is current among the Thebans. As Cadmus was leaving Delphi by the road to Phocis, a cow, it is said, guided him on his way. This cow was one bought from the herdsmen of Pelagon, and on each of her sides was a white mark like the orb of a full moon.</p>
+      <p>Now the oracle of the god had said that Cadmus and the host with him were to make their dwelling where the cow was going to sink down in weariness. So this is one of the places that they point out. Here there is in the open an altar and a statue of Athena, said to have been dedicated by Cadmus. Those who think that the Cadmus who came to the Theban land was an Egyptian, and not a Phoenician, have their opinion contradicted by the name of this Athena, because she is called by the Phoenician name of Onga, and not by the Egyptian name of Sais.</p>
+      <p>The Thebans assert that on the part of their acropolis, where today stands their agora, was in ancient times the house of Cadmus. They point out the ruins of the bridal-chamber of Harmonia, and of one which they say was Semele"s into the latter they allow no one to step even now. Those Greeks who allow that the Muses sang at the wedding of Harmonia, can point to the spot in the agora where it is said that the goddesses sang.</p>
+      <p>There is also a story that along with the thunderbolt hurled at the bridalchamber of Semele there fell a log from heaven. They say that Polydorus adorned this log with bronze and called it Dionysus Cadmus. Near is a statue of Dionysus; Onasimedes made it of solid bronze. The altar was built by the sons of Praxiteles.</p>
+      <p>There is a statue of Pronomus, a very great favorite with the people for his playing on the flute. For a time flute-players had three forms of the flute. On one they played Dorian music; for Phrygian melodies flutes of a different pattern were made; what is called the Lydian mode was played on flutes of a third kind. It was Pronomus who first devised a flute equally suited for every kind of melody, and was the first to play on the same instrument music so vastly different in form.</p>
+      <p>It is also said that he gave his audience untold delight by the expression of his face and by the movement of his whole body. He also composed for the Chalcidians on the Euripus a processional tune for their use in Delos. So the Thebans set up here a statue of this man, and likewise one of Epaminondas, son of Polymnis.</p>
+    </body>
+  </text>
+</TEI>

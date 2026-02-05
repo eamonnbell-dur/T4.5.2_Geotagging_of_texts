@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::83 /TEI[1]/text[1]/body[1]/p[1]::89" xml:id="UID-FAKE-12498">
+        <rs ana="https://topostext.org/place/385239IEub"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::176 /TEI[1]/text[1]/body[1]/p[1]::183" xml:id="UID-FAKE-12499">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::352 /TEI[1]/text[1]/body[1]/p[2]::359" xml:id="UID-FAKE-12500">
+        <rs ana="https://topostext.org/place/380237DDai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::523 /TEI[1]/text[1]/body[1]/p[2]::529" xml:id="UID-FAKE-12501">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::7 /TEI[1]/text[1]/body[1]/p[3]::16" xml:id="UID-FAKE-12502">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::42 /TEI[1]/text[1]/body[1]/p[3]::49" xml:id="UID-FAKE-12503">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::196 /TEI[1]/text[1]/body[1]/p[3]::203" xml:id="UID-FAKE-12504">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::13 /TEI[1]/text[1]/body[1]/p[4]::24" xml:id="UID-FAKE-12505">
+        <rs ana="https://topostext.org/place/384230PAla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::92 /TEI[1]/text[1]/body[1]/p[4]::99" xml:id="UID-FAKE-12506">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::124 /TEI[1]/text[1]/body[1]/p[4]::133" xml:id="UID-FAKE-12507">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::15 /TEI[1]/text[1]/body[1]/p[5]::24" xml:id="UID-FAKE-12508">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::65 /TEI[1]/text[1]/body[1]/p[5]::79" xml:id="UID-FAKE-12509">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::89 /TEI[1]/text[1]/body[1]/p[5]::102" xml:id="UID-FAKE-12510">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::137 /TEI[1]/text[1]/body[1]/p[5]::146" xml:id="UID-FAKE-12511">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::287 /TEI[1]/text[1]/body[1]/p[5]::296" xml:id="UID-FAKE-12512">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::382 /TEI[1]/text[1]/body[1]/p[5]::396" xml:id="UID-FAKE-12513">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::30 /TEI[1]/text[1]/body[1]/p[6]::39" xml:id="UID-FAKE-12514">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::41 /TEI[1]/text[1]/body[1]/p[6]::51" xml:id="UID-FAKE-12515">
+        <rs ana="https://topostext.org/place/384230PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::53 /TEI[1]/text[1]/body[1]/p[6]::62" xml:id="UID-FAKE-12516">
+        <rs ana="https://topostext.org/place/383232PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::64 /TEI[1]/text[1]/body[1]/p[6]::75" xml:id="UID-FAKE-12517">
+        <rs ana="https://topostext.org/place/383236PTan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::77 /TEI[1]/text[1]/body[1]/p[6]::88" xml:id="UID-FAKE-12518">
+        <rs ana="https://topostext.org/place/385228PCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::90 /TEI[1]/text[1]/body[1]/p[6]::102" xml:id="UID-FAKE-12519">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::104 /TEI[1]/text[1]/body[1]/p[6]::113" xml:id="UID-FAKE-12520">
+        <rs ana="https://topostext.org/place/384229PLeb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::119 /TEI[1]/text[1]/body[1]/p[6]::126" xml:id="UID-FAKE-12521">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::190 /TEI[1]/text[1]/body[1]/p[6]::196" xml:id="UID-FAKE-12522">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::202 /TEI[1]/text[1]/body[1]/p[6]::209" xml:id="UID-FAKE-12523">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::243 /TEI[1]/text[1]/body[1]/p[6]::252" xml:id="UID-FAKE-12524">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::27 /TEI[1]/text[1]/body[1]/p[7]::33" xml:id="UID-FAKE-12525">
+        <rs ana="https://topostext.org/place/383233WAso"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::246 /TEI[1]/text[1]/body[1]/p[7]::255" xml:id="UID-FAKE-12526">
+        <rs ana="https://topostext.org/place/382233LCit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::84 /TEI[1]/text[1]/body[1]/p[9]::96" xml:id="UID-FAKE-12527">
+        <rs ana="https://topostext.org/place/384229STro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::117 /TEI[1]/text[1]/body[1]/p[9]::128" xml:id="UID-FAKE-12528">
+        <rs ana="https://topostext.org/place/384229STro"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 3</head>
+      <p>Hera, they say, was for some reason or other angry with Zeus, and had retreated to Euboea. Zeus, failing to make her change her mind, visited Cithaeron, at that time despot in Plataea, who surpassed all men for his cleverness. So he ordered Zeus to make an image of wood, and to carry it, wrapped up, in a bullock wagon, and to say that he was celebrating his marriage with Plataea, the daughter of Asopus.</p>
+      <p>So Zeus followed the advice of Cithaeron. Hera heard the news at once, and at once appeared on the scene. But when she came near the wagon and tore away the dress from the image, she was pleased at the deceit, on finding it a wooden image and not a bride, and was reconciled to Zeus. To commemorate this reconciliation they celebrate a festival called Daedala, because the men of old time gave the name of daedala to xoana. My own view is that this name was given to xoana before Daedalus, the son of Palamaon, was born at Athens, and that he did not receive this name at birth, but that it was a surname afterwards given him from the daedala.</p>
+      <p>So the Plataeans hold the festival of the Daedala every six years, according to the local guide, but really at a shorter interval. I wanted very much to calculate exactly the interval between one Daedala and the next, but I was unable to do so. In this way they celebrate the feast.</p>
+      <p>Not far from Alalcomenae is a grove of oaks. Here the trunks of the oaks are the largest in Boeotia. To this grove come the Plataeans, and lay out portions of boiled flesh. They keep a strict watch on the crows which flock to them, but they are not troubled at all about the other birds. They mark carefully the tree on which a crow settles with the meat he has seized. They cut down the trunk of the tree on which the crow has settled, and make of it the daedalum; for this is the name that they give to the wooden image also.</p>
+      <p>This feast the Plataeans celebrate by themselves, calling it the Little Daedala, but the Great Daedala, which is shared with them by the Boeotians, is a festival held at intervals of fifty-nine years, for that is the period during which, they say, the festival could not be held, as the Plataeans were in exile. There are fourteen xoana ready, having been provided each year at the Little Daedala.</p>
+      <p>Lots are cast for them by the Plataeans, Coronaeans, Thespians, Tanagraeans, Chaeroneans, Orchomenians, Lebadeans, and Thebans; for at the time when Cassander, the son of Antipater, rebuilt Thebes, the Thebans wished to be reconciled with the Plataeans, to share in the common assembly, and to send a sacrifice to the Daedala. The towns of less account pool their funds for images.</p>
+      <p>Bringing the agalma to the Asopus, and setting it upon a wagon, they place a bridesmaid also on the wagon. They again cast lots for the position they are to hold in the procession. After this they drive the wagons from the river to the summit of Cithaeron. On the peak of the mountain an altar has been prepared, which they make after the following way. They fit together quadrangular pieces of wood, putting them together just as if they were making a stone building, and having raised it to a height they place brushwood upon the altar.</p>
+      <p>The cities with their magistrates sacrifice severally a cow to Hera and a bull to Zeus, burning on the altar the victims, full of wine and incense, along with the daedala. Rich people, as individuals, sacrifice what they wish; but the less wealthy sacrifice the smaller cattle; all the victims alike are burned. The fire seizes the altar and the victims as well, and consumes them all together. I know of no blaze that is so high, or seen so far as this.</p>
+      <p>About fifteen stades below the peak, on which they make the altar, is a cave of the Cithaeronian nymphs. It is named Sphragidium, and the story is that of old the nymphs gave oracles in this place.</p>
+    </body>
+  </text>
+</TEI>

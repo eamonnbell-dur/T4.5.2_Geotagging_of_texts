@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::59 /TEI[1]/text[1]/body[1]/p[1]::68" xml:id="UID-FAKE-14288">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::204 /TEI[1]/text[1]/body[1]/p[1]::210" xml:id="UID-FAKE-14289">
+        <rs ana="https://topostext.org/place/292255SAmm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::371 /TEI[1]/text[1]/body[1]/p[1]::378" xml:id="UID-FAKE-14290">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::89 /TEI[1]/text[1]/body[1]/p[2]::99" xml:id="UID-FAKE-14291">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::166 /TEI[1]/text[1]/body[1]/p[2]::172" xml:id="UID-FAKE-14292">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::191 /TEI[1]/text[1]/body[1]/p[2]::195" xml:id="UID-FAKE-14293">
+        <rs ana="https://topostext.org/place/375433RGor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::203 /TEI[1]/text[1]/body[1]/p[2]::209" xml:id="UID-FAKE-14294">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::237 /TEI[1]/text[1]/body[1]/p[2]::243" xml:id="UID-FAKE-14295">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::258 /TEI[1]/text[1]/body[1]/p[2]::262" xml:id="UID-FAKE-14296">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::268 /TEI[1]/text[1]/body[1]/p[2]::275" xml:id="UID-FAKE-14297">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::355 /TEI[1]/text[1]/body[1]/p[3]::361" xml:id="UID-FAKE-14298">
+        <rs ana="https://topostext.org/place/352248LIda"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::395 /TEI[1]/text[1]/body[1]/p[3]::404" xml:id="UID-FAKE-14299">
+        <rs ana="https://topostext.org/place/393316SPes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::442 /TEI[1]/text[1]/body[1]/p[3]::450" xml:id="UID-FAKE-14300">
+        <rs ana="https://topostext.org/place/398265WAid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::27 /TEI[1]/text[1]/body[1]/p[4]::37" xml:id="UID-FAKE-14301">
+        <rs ana="https://topostext.org/place/397268LIda"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::60 /TEI[1]/text[1]/body[1]/p[4]::69" xml:id="UID-FAKE-14302">
+        <rs ana="https://topostext.org/place/399265UMar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::120 /TEI[1]/text[1]/body[1]/p[4]::129" xml:id="UID-FAKE-14303">
+        <rs ana="https://topostext.org/place/398265WAid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::202 /TEI[1]/text[1]/body[1]/p[4]::205" xml:id="UID-FAKE-14304">
+        <rs ana="https://topostext.org/place/397268LIda"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::262 /TEI[1]/text[1]/body[1]/p[4]::270" xml:id="UID-FAKE-14305">
+        <rs ana="https://topostext.org/place/398265WAid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::370 /TEI[1]/text[1]/body[1]/p[4]::379" xml:id="UID-FAKE-14306">
+        <rs ana="https://topostext.org/place/399265UMar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::425 /TEI[1]/text[1]/body[1]/p[4]::435" xml:id="UID-FAKE-14307">
+        <rs ana="https://topostext.org/place/398262UAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::443 /TEI[1]/text[1]/body[1]/p[4]::448" xml:id="UID-FAKE-14308">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::24 /TEI[1]/text[1]/body[1]/p[5]::34" xml:id="UID-FAKE-14309">
+        <rs ana="https://topostext.org/place/377284UNea"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::266 /TEI[1]/text[1]/body[1]/p[5]::271" xml:id="UID-FAKE-14310">
+        <rs ana="https://topostext.org/place/377269PSam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::321 /TEI[1]/text[1]/body[1]/p[5]::329" xml:id="UID-FAKE-14311">
+        <rs ana="https://topostext.org/place/376218SAsD"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::331 /TEI[1]/text[1]/body[1]/p[5]::336" xml:id="UID-FAKE-14312">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::341 /TEI[1]/text[1]/body[1]/p[5]::347" xml:id="UID-FAKE-14313">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::36 /TEI[1]/text[1]/body[1]/p[6]::41" xml:id="UID-FAKE-14314">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::79 /TEI[1]/text[1]/body[1]/p[6]::88" xml:id="UID-FAKE-14315">
+        <rs ana="https://topostext.org/place/395261USmi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::186 /TEI[1]/text[1]/body[1]/p[6]::193" xml:id="UID-FAKE-14316">
+        <rs ana="https://topostext.org/place/395261USmi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::4 /TEI[1]/text[1]/body[1]/p[7]::15" xml:id="UID-FAKE-14317">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::51 /TEI[1]/text[1]/body[1]/p[7]::57" xml:id="UID-FAKE-14318">
+        <rs ana="https://topostext.org/place/384265PEry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::122 /TEI[1]/text[1]/body[1]/p[7]::135" xml:id="UID-FAKE-14319">
+        <rs ana="https://topostext.org/place/382266LKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::305 /TEI[1]/text[1]/body[1]/p[7]::311" xml:id="UID-FAKE-14320">
+        <rs ana="https://topostext.org/place/386241UTel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::433 /TEI[1]/text[1]/body[1]/p[7]::442" xml:id="UID-FAKE-14321">
+        <rs ana="https://topostext.org/place/398265WAid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::457 /TEI[1]/text[1]/body[1]/p[7]::465" xml:id="UID-FAKE-14322">
+        <rs ana="https://topostext.org/place/398265WAid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::499 /TEI[1]/text[1]/body[1]/p[7]::510" xml:id="UID-FAKE-14323">
+        <rs ana="https://topostext.org/place/384265PEry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::75 /TEI[1]/text[1]/body[1]/p[8]::80" xml:id="UID-FAKE-14324">
+        <rs ana="https://topostext.org/place/408141PCum"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::156 /TEI[1]/text[1]/body[1]/p[8]::161" xml:id="UID-FAKE-14325">
+        <rs ana="https://topostext.org/place/408141PCum"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::167 /TEI[1]/text[1]/body[1]/p[8]::175" xml:id="UID-FAKE-14326">
+        <rs ana="https://topostext.org/place/408141PCum"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::40 /TEI[1]/text[1]/body[1]/p[9]::47" xml:id="UID-FAKE-14327">
+        <rs ana="https://topostext.org/place/315351UHeb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::54 /TEI[1]/text[1]/body[1]/p[9]::63" xml:id="UID-FAKE-14328">
+        <rs ana="https://topostext.org/place/320350RPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::203 /TEI[1]/text[1]/body[1]/p[9]::213" xml:id="UID-FAKE-14329">
+        <rs ana="https://topostext.org/place/325444UBab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::231 /TEI[1]/text[1]/body[1]/p[9]::239" xml:id="UID-FAKE-14330">
+        <rs ana="https://topostext.org/place/292255SAmm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::36 /TEI[1]/text[1]/body[1]/p[10]::45" xml:id="UID-FAKE-14331">
+        <rs ana="https://topostext.org/place/403197RCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::55 /TEI[1]/text[1]/body[1]/p[10]::62" xml:id="UID-FAKE-14332">
+        <rs ana="https://topostext.org/place/395208SDod"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::64 /TEI[1]/text[1]/body[1]/p[10]::69" xml:id="UID-FAKE-14333">
+        <rs ana="https://topostext.org/place/395208SDod"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::74 /TEI[1]/text[1]/body[1]/p[10]::80" xml:id="UID-FAKE-14334">
+        <rs ana="https://topostext.org/place/395208SDod"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::163 /TEI[1]/text[1]/body[1]/p[10]::169" xml:id="UID-FAKE-14335">
+        <rs ana="https://topostext.org/place/395208SDod"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::346 /TEI[1]/text[1]/body[1]/p[10]::355" xml:id="UID-FAKE-14336">
+        <rs ana="https://topostext.org/place/395208SDod"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::59 /TEI[1]/text[1]/body[1]/p[11]::65" xml:id="UID-FAKE-14337">
+        <rs ana="https://topostext.org/place/350330RCyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::71 /TEI[1]/text[1]/body[1]/p[11]::80" xml:id="UID-FAKE-14338">
+        <rs ana="https://topostext.org/place/380237SMou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::155 /TEI[1]/text[1]/body[1]/p[11]::163" xml:id="UID-FAKE-14339">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 12</head>
+      <p>There is a rock rising up above the ground. On it, say the Delphians, there stood and chanted the oracles a woman, by name Herophile and surnamed Sibyl. The former Sibyl I find was as ancient as any; the Greeks say that she was a daughter of Zeus by Lamia, daughter of Poseidon, that she was the first woman to chant oracles, and that the name Sibyl was given her by the Libyans.</p>
+      <p>Herophile was younger than she was, but nevertheless she too was clearly born before the Trojan War, as she foretold in her oracles that Helen would be brought up in Sparta to be the ruin of Asia and of Europe, and that for her sake the Greeks would capture Troy. The Delians remember also a hymn this woman composed to Apollo. In her poem she calls herself not only Herophile but also Artemis, and the wedded wife of Apollo, saying too sometimes that she is his sister, and sometimes that she is his daughter.</p>
+      <p>These statements she made in her poetry when in a frenzy and possessed by the god. Elsewhere in her oracles she states that her mother was an immortal, one of the nymphs of Ida, while her father was a human. These are the verses: “I am by birth half mortal, half divine; An immortal nymph was my mother, my father an eater of corn; On my mother"s side of Idaean birth, but my fatherland was red Marpessus, sacred to the Mother, and the river Aedoneus.</p>
+      <p>Even today there remain on Trojan Ida the ruins of the city Marpessus, with some sixty inhabitants. All the land around Marpessus is reddish and terribly parched, so that the light and porous nature of Ida in this place is in my opinion the reason why the river Aedoneus sinks into the ground, rises to sink once more, finally disappearing altogether beneath the earth. Marpessus is two hundred and forty stades distant from Alexandria in the Troad.</p>
+      <p>The inhabitants of this Alexandria say that Herophile became the attendant of the temple of Apollo Smintheus, and that on the occasion of Hecuba"s dream she uttered the prophecy which we know was actually fulfilled. This Sibyl passed the greater part of her life in Samos, but she also visited Clarus in the territory of Colophon, Delos and Delphi. Whenever she visited Delphi, she would stand on this rock and sing her chants.</p>
+      <p>However, death came upon her in the Troad, and her tomb is in the grove of the Sminthian with these elegiac verses inscribed upon the tomb-stone: “Here I am, the plain-speaking Sibyl of Phoebus, Hidden beneath this stone tomb. A maiden once gifted with voice, but now for ever voiceless, By hard fate doomed to this fetter. But I am buried near the nymphs and this Hermes, Enjoying in the world below a part of the kingdom I had then.” The Hermes stands by the side of the tomb, a square-shaped figure of stone. On the left is water running down into a well, and the images of the nymphs.</p>
+      <p>The Erythraeans, who are more eager than any other Greeks to lay claim to Herophile, adduce as evidence a mountain called Mount Corycus with a cave in it, saying that Herophile was born in it, and that she was a daughter of Theodorus, a shepherd of the district, and of a nymph. They add that the surname Idaean was given to the nymph simply because the men of those days called idai places that were thickly wooded. The verse about Marpessus and the river Aedoneus is cut out of the oracles by the Erythraeans.</p>
+      <p>The next woman to give oracles in the same way, according to Hyperochus of Cumae, a historian, was called Demo, and came from Cumae in the territory of the Opici. The Cumaeans can point to no oracle given by this woman, but they show a small stone urn in a sanctuary of Apollo, in which they say are placed the bones of the Sibyl.</p>
+      <p>Later than Demo there grew up among the Hebrews above Palestine a woman who gave oracles and was named Sabbe. They say that the father of Sabbe was Berosus, and her mother Erymanthe. But some call her a Babylonian Sibyl, others an Egyptian.</p>
+      <p>Phaennis, daughter of a king of the Chaonians, and the Peleiae (Doves) at Dodona also gave oracles under the inspiration of a god, but they were not called by men Sibyls. To learn the date of Phaennis and to read her oracles . . . for Phaennis was born when Antiochus was establishing his kingship immediately after the capture of Demetrius. The Peleiades are said to have been born still earlier than Phemonoe, and to have been the first women to chant these verses: “Zeus was, Zeus is, Zeus shall be; O mighty Zeus. Earth sends up the harvest, therefore sing the praise of earth as Mother.”</p>
+      <p>It is said that the men who uttered oracles were Euclus of Cyprus, the Athenians Musaeus, son of Antiophemus, and Lycus, son of Pandion, and also Bacis, a Boeotian who was possessed by nymphs. I have read the oracles of all these except those of Lycus. These are the women and men who, down to the present day, are said to have been the mouthpiece by which a god prophesied. But time is long, and perhaps similar things may occur again.</p>
+    </body>
+  </text>
+</TEI>

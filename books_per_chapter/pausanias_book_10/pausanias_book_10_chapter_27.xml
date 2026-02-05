@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::461 /TEI[1]/text[1]/body[1]/p[1]::470" xml:id="UID-FAKE-14942">
+        <rs ana="https://topostext.org/place/400310RPhr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::474 /TEI[1]/text[1]/body[1]/p[1]::484" xml:id="UID-FAKE-14943">
+        <rs ana="https://topostext.org/place/383301USte"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::523 /TEI[1]/text[1]/body[1]/p[1]::532" xml:id="UID-FAKE-14944">
+        <rs ana="https://topostext.org/place/400310RPhr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::279 /TEI[1]/text[1]/body[1]/p[2]::289" xml:id="UID-FAKE-14945">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::324 /TEI[1]/text[1]/body[1]/p[2]::329" xml:id="UID-FAKE-14946">
+        <rs ana="https://topostext.org/place/365295RLyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::319 /TEI[1]/text[1]/body[1]/p[3]::325" xml:id="UID-FAKE-14947">
+        <rs ana="https://topostext.org/place/376217SAKy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::377 /TEI[1]/text[1]/body[1]/p[4]::384" xml:id="UID-FAKE-14948">
+        <rs ana="https://topostext.org/place/408247PTha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::434 /TEI[1]/text[1]/body[1]/p[4]::439" xml:id="UID-FAKE-14949">
+        <rs ana="https://topostext.org/place/400262UIli"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 27</head>
+      <p>There are also corpses: the naked man, Pelis by name, lies thrown on his back, and under Pelis lie Eioneus and Admetus, still clad in their corselets. Of these Lescheos says that Eioneus was killed by Neoptolemus, and Admetus by Philoctetes. Above these are others: under the washing-basin is Leocritus, the son of Polydamas, killed by Odysseus; beyond Eioneus and Admetus is Coroebus, the son of Mygdon. Of Mygdon there is a notable tomb on the borders of the Phrygians of Stectorion, and after him poets are wont to call Phrygians by the name of Mygdones. Coroebus came to marry Cassandra, and was killed, according to the more popular account, by Neoptolemus, but according to the poet Lescheos, by Diomedes.</p>
+      <p>Higher up than Coroebus are Priam, Axion and Agenor. Lescheos says that Priam was not killed at the altar (eschara) of Herkeios, but that he was dragged away from the altar and fell an easy prey to Neoptolemus at the gate of his own palace. As to Hecuba, Stesichorus says in the Iliupersis that she was brought by Apollo to Lycia. Lescheos says that Axion was a son of Priam, killed by Eurypylus, the son of Euaemon. According to the same poet Agenor was slain by Neoptolemus. So it would appear that Echeclus the son of Agenor was slaughtered by Achilles, and Agenor himself by Neoptolemus.</p>
+      <p>The body of Laomedon is being carried off by Sinon, a comrade of Odysseus, and Anchialus. There is also in the painting another corpse, that of Eresus. The tale of Eresus and Laomedon, so far as we know, no poet has sung. There is the house of Antenor, with a leopard"s skin hanging over the entrance, as a sign to the Greeks to keep their hands off the home of Antenor. There are painted Theano and her sons, Glaucus sitting on a corselet fitted with the two pieces, and Eurymachus upon a rock.</p>
+      <p>By the latter stands Antenor, and next to him Crino, a daughter of Antenor. Crino is carrying a baby. The look upon their faces is that of those on whom a calamity has fallen. Servants are loading an ass with a chest and other furniture. There is also sitting on the ass a small child. At this part of the painting there is also an elegiac couplet of Simonides: “Polygnotus, a Thasian by birth, son of Aglaophon, Painted a picture of Troy"s acropolis being sacked.”</p>
+    </body>
+  </text>
+</TEI>

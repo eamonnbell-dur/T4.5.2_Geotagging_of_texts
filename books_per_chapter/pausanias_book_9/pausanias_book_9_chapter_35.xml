@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::4 /TEI[1]/text[1]/body[1]/p[1]::13" xml:id="UID-FAKE-13539">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::70 /TEI[1]/text[1]/body[1]/p[1]::76" xml:id="UID-FAKE-13540">
+        <rs ana="https://topostext.org/place/380237SPaG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::150 /TEI[1]/text[1]/body[1]/p[1]::156" xml:id="UID-FAKE-13541">
+        <rs ana="https://topostext.org/place/380237SPaG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::216 /TEI[1]/text[1]/body[1]/p[1]::229" xml:id="UID-FAKE-13542">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::253 /TEI[1]/text[1]/body[1]/p[1]::259" xml:id="UID-FAKE-13543">
+        <rs ana="https://topostext.org/place/380237SPaG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::66 /TEI[1]/text[1]/body[1]/p[2]::75" xml:id="UID-FAKE-13544">
+        <rs ana="https://topostext.org/place/380237SPaG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::261 /TEI[1]/text[1]/body[1]/p[2]::270" xml:id="UID-FAKE-13545">
+        <rs ana="https://topostext.org/place/380237SPaG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::24 /TEI[1]/text[1]/body[1]/p[3]::34" xml:id="UID-FAKE-13546">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::172 /TEI[1]/text[1]/body[1]/p[3]::179" xml:id="UID-FAKE-13547">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::221 /TEI[1]/text[1]/body[1]/p[3]::227" xml:id="UID-FAKE-13548">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::256 /TEI[1]/text[1]/body[1]/p[3]::265" xml:id="UID-FAKE-13549">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::51 /TEI[1]/text[1]/body[1]/p[4]::57" xml:id="UID-FAKE-13550">
+        <rs ana="https://topostext.org/place/379214SCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::14 /TEI[1]/text[1]/body[1]/p[5]::22" xml:id="UID-FAKE-13551">
+        <rs ana="https://topostext.org/place/383231SMus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::101 /TEI[1]/text[1]/body[1]/p[5]::107" xml:id="UID-FAKE-13552">
+        <rs ana="https://topostext.org/place/379214SCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::301 /TEI[1]/text[1]/body[1]/p[5]::307" xml:id="UID-FAKE-13553">
+        <rs ana="https://topostext.org/place/380237SPaG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::481 /TEI[1]/text[1]/body[1]/p[5]::487" xml:id="UID-FAKE-13554">
+        <rs ana="https://topostext.org/place/380237SPaG"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::205 /TEI[1]/text[1]/body[1]/p[6]::211" xml:id="UID-FAKE-13555">
+        <rs ana="https://topostext.org/place/384271PSmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::251 /TEI[1]/text[1]/body[1]/p[6]::258" xml:id="UID-FAKE-13556">
+        <rs ana="https://topostext.org/place/382240SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::303 /TEI[1]/text[1]/body[1]/p[6]::309" xml:id="UID-FAKE-13557">
+        <rs ana="https://topostext.org/place/379214SCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::351 /TEI[1]/text[1]/body[1]/p[6]::357" xml:id="UID-FAKE-13558">
+        <rs ana="https://topostext.org/place/379229BOde"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::430 /TEI[1]/text[1]/body[1]/p[6]::438" xml:id="UID-FAKE-13559">
+        <rs ana="https://topostext.org/place/391272PPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::496 /TEI[1]/text[1]/body[1]/p[6]::502" xml:id="UID-FAKE-13560">
+        <rs ana="https://topostext.org/place/379214SCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::28 /TEI[1]/text[1]/body[1]/p[7]::35" xml:id="UID-FAKE-13561">
+        <rs ana="https://topostext.org/place/380237SPth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::167 /TEI[1]/text[1]/body[1]/p[7]::176" xml:id="UID-FAKE-13562">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::215 /TEI[1]/text[1]/body[1]/p[7]::224" xml:id="UID-FAKE-13563">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 35</head>
+      <p>The Boeotians say that Eteocles was the first man to sacrifice to the Graces. Moreover, they are aware that he established three as the number of the Graces, but they have no tradition of the names he gave them. The Lacedemonians, however, say that the Graces are two, and that they were instituted by Lacedemon, son of Taygete, who gave them the names of Cleta and Phaenna.</p>
+      <p>These are appropriate names for Graces, as are those given by the Athenians, who from of old have worshipped two Graces, Auxo and Hegemone. Carpo is the name, not of a Grace, but of a Season (Hora). The other Season is worshipped together with Pandrosus by the Athenians, who call the goddess Thallo.</p>
+      <p>It was from Eteocles of Orchomenus that we learned the custom of praying to three Graces. And Angelion and Tectaeus, sons of Dionysus, who made the image of Apollo for the Delians, set three Graces in his hand. Again, at Athens, before the entrance to the Acropolis, the Graces are three in number; by their side are celebrated mysteries which must not be divulged to the many.</p>
+      <p>Pamphos was the first we know of to sing about the Graces, but his poetry contains no information either as to their number or about their names. Homer (he too refers to the Graces) makes one the wife of Hephaestus, giving her the name of Grace. He also says that Sleep was a lover of Pasithea, and in the speech of Sleep there is this verse: “Verily that he would give me one of the younger Graces.” Hence some have suspected that Homer knew of older Graces as well.</p>
+      <p>Hesiod in the Theogony (though the authorship is doubtful, this poem is good evidence) says that the Graces are daughters of Zeus and Eurynome, giving them the names of Euphrosyne, Aglaia and Thalia. The poem of Onomacritus agrees with this account. Antimachus, while giving neither the number of the Graces nor their names, says that they are daughters of Aegle and the Sun. The elegiac poet Hermesianax disagrees with his predecessors in that he makes Persuasion also one of the Graces.</p>
+      <p>Who it was who first represented the Graces naked, whether in sculpture or in painting, I could not discover. During the earlier period, certainly, sculptors and painters alike represented them draped. At Smyrna, for instance, in the sanctuary of the Nemeses, above the cult statues have been dedicated Graces of gold, the work of Bupalus; and in the Odeion in the same city there is a portrait of a Grace, painted by Apelles. At Pergamus likewise, in the chamber of Attalus, are other images of Graces made by Bupalus;</p>
+      <p>and near what is called the Pythion there is a portrait of Graces, painted by PythagoraYY the Parian. Socrates too, son of Sophroniscus, made images of Graces for the Athenians, which are before the entrance to the Acropolis. All these are alike draped; but later artists, I do not know the reason, have changed the way of portraying them. Certainly today sculptors and painters represent Graces naked.</p>
+    </body>
+  </text>
+</TEI>

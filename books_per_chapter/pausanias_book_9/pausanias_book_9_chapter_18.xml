@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::14 /TEI[1]/text[1]/body[1]/p[1]::20" xml:id="UID-FAKE-13000">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::24 /TEI[1]/text[1]/body[1]/p[1]::31" xml:id="UID-FAKE-13001">
+        <rs ana="https://topostext.org/place/383233FPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::43 /TEI[1]/text[1]/body[1]/p[1]::53" xml:id="UID-FAKE-13002">
+        <rs ana="https://topostext.org/place/383233FPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::155 /TEI[1]/text[1]/body[1]/p[1]::161" xml:id="UID-FAKE-13003">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::172 /TEI[1]/text[1]/body[1]/p[1]::178" xml:id="UID-FAKE-13004">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::50 /TEI[1]/text[1]/body[1]/p[2]::56" xml:id="UID-FAKE-13005">
+        <rs ana="https://topostext.org/place/257326PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::211 /TEI[1]/text[1]/body[1]/p[2]::216" xml:id="UID-FAKE-13006">
+        <rs ana="https://topostext.org/place/383233GAaZ"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::237 /TEI[1]/text[1]/body[1]/p[2]::243" xml:id="UID-FAKE-13007">
+        <rs ana="https://topostext.org/place/383233GAaZ"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::136 /TEI[1]/text[1]/body[1]/p[3]::143" xml:id="UID-FAKE-13008">
+        <rs ana="https://topostext.org/place/383233GCoO"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::3 /TEI[1]/text[1]/body[1]/p[4]::8" xml:id="UID-FAKE-13009">
+        <rs ana="https://topostext.org/place/375275RMys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::20 /TEI[1]/text[1]/body[1]/p[4]::26" xml:id="UID-FAKE-13010">
+        <rs ana="https://topostext.org/place/403273WGra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::44 /TEI[1]/text[1]/body[1]/p[4]::51" xml:id="UID-FAKE-13011">
+        <rs ana="https://topostext.org/place/396276UPio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::298 /TEI[1]/text[1]/body[1]/p[4]::305" xml:id="UID-FAKE-13012">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::407 /TEI[1]/text[1]/body[1]/p[4]::414" xml:id="UID-FAKE-13013">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::462 /TEI[1]/text[1]/body[1]/p[4]::471" xml:id="UID-FAKE-13014">
+        <rs ana="https://topostext.org/place/384231PHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::504 /TEI[1]/text[1]/body[1]/p[4]::510" xml:id="UID-FAKE-13015">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::17 /TEI[1]/text[1]/body[1]/p[5]::23" xml:id="UID-FAKE-13016">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::96 /TEI[1]/text[1]/body[1]/p[5]::115" xml:id="UID-FAKE-13017">
+        <rs ana="https://topostext.org/place/383233WDir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::125 /TEI[1]/text[1]/body[1]/p[5]::132" xml:id="UID-FAKE-13018">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::175 /TEI[1]/text[1]/body[1]/p[5]::179" xml:id="UID-FAKE-13019">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::217 /TEI[1]/text[1]/body[1]/p[5]::224" xml:id="UID-FAKE-13020">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::250 /TEI[1]/text[1]/body[1]/p[5]::256" xml:id="UID-FAKE-13021">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::381 /TEI[1]/text[1]/body[1]/p[5]::385" xml:id="UID-FAKE-13022">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::0 /TEI[1]/text[1]/body[1]/p[6]::23" xml:id="UID-FAKE-13023">
+        <rs ana="https://topostext.org/place/383233WDir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::192 /TEI[1]/text[1]/body[1]/p[6]::199" xml:id="UID-FAKE-13024">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::253 /TEI[1]/text[1]/body[1]/p[6]::259" xml:id="UID-FAKE-13025">
+        <rs ana="https://topostext.org/place/383233WDir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::305 /TEI[1]/text[1]/body[1]/p[6]::312" xml:id="UID-FAKE-13026">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 18</head>
+      <p>The road from Thebes to Chalcis is by this Proetidian gate. On the highway is pointed out the grave of Melanippus, one of the very best of the soldiers of Thebes. When the Argive invasion occurred this Melanippus killed Tydeus, as well as Mecisteus, one of the brothers of Adrastus, while he himself, they say, met his death at the hands of Amphiaraus.</p>
+      <p>Quite close to it are three unwrought stones. The Theban antiquaries assert that the man lying here is Tydeus, and that his burial was carried out by Maeon. As proof of their assertion they quoted a line of the Iliad: “Of Tydeus, who at Thebes is covered by a heap of earth.” [14.114]</p>
+      <p>Adjoining are the tombs of the children of Oedipus. The ritual observed at them I have never seen, but I regard it as credible. For the Thebans say that among those called heroes to whom they offer sacrifice are the children of Oedipus. As the sacrifice is being offered, the flame, so they say, and the smoke from it divide themselves into two. I was led to believe their story by the fact that I have seen a similar wonder. It was this.</p>
+      <p>In Mysia beyond the Caicus is a town called Pioniae, the founder of which according to the inhabitants was Pionis, one of the descendants of Heracles. When they are going to sacrifice to him as to a hero, smoke of itself rises up out of the grave. This occurrence, then, I have seen happening. The Thebans show also the tomb of Teiresias, about fifteen stades from the grave of the children of Oedipus. The Thebans themselves agree that Teiresias met his end in Haliartia, and admit that the monument at Thebes is a cenotaph.</p>
+      <p>There is also at Thebes the grave of Hector, the son of Priam. It is near the spring called the Fountain of Oedipus, and the Thebans say that they brought Hector"s bones from Troy because of the following oracle: “Ye Thebans who dwell in the city of Cadmus, If you wish blameless wealth for the country in which you live, Bring to your homes the bones of Hector, Priam"s son, From Asia, and reverence him as a hero, according to the bidding of Zeus.”</p>
+      <p>The Fountain of Oedipus was so named because Oedipus washed off into it the blood of his murdered father. Hard by the spring is the grave of Asphodicus. He it was who in the fighting with the Argives killed Parthenopaeus, the son of Talaus. This is the Theban account, but according to the passage in the Thebaid which tells of the death of Parthenopaeus it was Periclymenus who killed him.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::3 /TEI[1]/text[1]/body[1]/p[1]::12" xml:id="UID-FAKE-13460">
+        <rs ana="https://topostext.org/place/384231PHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::96 /TEI[1]/text[1]/body[1]/p[1]::112" xml:id="UID-FAKE-13461">
+        <rs ana="https://topostext.org/place/384230SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::135 /TEI[1]/text[1]/body[1]/p[1]::143" xml:id="UID-FAKE-13462">
+        <rs ana="https://topostext.org/place/383233WDir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::177 /TEI[1]/text[1]/body[1]/p[1]::186" xml:id="UID-FAKE-13463">
+        <rs ana="https://topostext.org/place/384231PHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::192 /TEI[1]/text[1]/body[1]/p[1]::198" xml:id="UID-FAKE-13464">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::216 /TEI[1]/text[1]/body[1]/p[1]::223" xml:id="UID-FAKE-13465">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::248 /TEI[1]/text[1]/body[1]/p[1]::258" xml:id="UID-FAKE-13466">
+        <rs ana="https://topostext.org/place/383233GCoO"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::350 /TEI[1]/text[1]/body[1]/p[1]::356" xml:id="UID-FAKE-13467">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::417 /TEI[1]/text[1]/body[1]/p[1]::425" xml:id="UID-FAKE-13468">
+        <rs ana="https://topostext.org/place/383233WDir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::67 /TEI[1]/text[1]/body[1]/p[2]::74" xml:id="UID-FAKE-13469">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::132 /TEI[1]/text[1]/body[1]/p[2]::143" xml:id="UID-FAKE-13470">
+        <rs ana="https://topostext.org/place/381272PCol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::171 /TEI[1]/text[1]/body[1]/p[2]::176" xml:id="UID-FAKE-13471">
+        <rs ana="https://topostext.org/place/388283RMai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::209 /TEI[1]/text[1]/body[1]/p[2]::215" xml:id="UID-FAKE-13472">
+        <rs ana="https://topostext.org/place/352241PAno"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::396 /TEI[1]/text[1]/body[1]/p[2]::403" xml:id="UID-FAKE-13473">
+        <rs ana="https://topostext.org/place/383204UIth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::444 /TEI[1]/text[1]/body[1]/p[2]::449" xml:id="UID-FAKE-13474">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::3 /TEI[1]/text[1]/body[1]/p[3]::12" xml:id="UID-FAKE-13475">
+        <rs ana="https://topostext.org/place/384231PHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::73 /TEI[1]/text[1]/body[1]/p[3]::83" xml:id="UID-FAKE-13476">
+        <rs ana="https://topostext.org/place/384232UOnc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::209 /TEI[1]/text[1]/body[1]/p[3]::225" xml:id="UID-FAKE-13477">
+        <rs ana="https://topostext.org/place/384230SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::230 /TEI[1]/text[1]/body[1]/p[3]::239" xml:id="UID-FAKE-13478">
+        <rs ana="https://topostext.org/place/384231PHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::15 /TEI[1]/text[1]/body[1]/p[4]::24" xml:id="UID-FAKE-13479">
+        <rs ana="https://topostext.org/place/384231PHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::42 /TEI[1]/text[1]/body[1]/p[4]::48" xml:id="UID-FAKE-13480">
+        <rs ana="https://topostext.org/place/383233WIsm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::216 /TEI[1]/text[1]/body[1]/p[4]::223" xml:id="UID-FAKE-13481">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::318 /TEI[1]/text[1]/body[1]/p[4]::327" xml:id="UID-FAKE-13482">
+        <rs ana="https://topostext.org/place/384231PHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::366 /TEI[1]/text[1]/body[1]/p[4]::372" xml:id="UID-FAKE-13483">
+        <rs ana="https://topostext.org/place/374253WIno"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::0 /TEI[1]/text[1]/body[1]/p[5]::11" xml:id="UID-FAKE-13484">
+        <rs ana="https://topostext.org/place/384230PAla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::25 /TEI[1]/text[1]/body[1]/p[6]::34" xml:id="UID-FAKE-13485">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::65 /TEI[1]/text[1]/body[1]/p[6]::70" xml:id="UID-FAKE-13486">
+        <rs ana="https://topostext.org/place/384230PAla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::155 /TEI[1]/text[1]/body[1]/p[6]::166" xml:id="UID-FAKE-13487">
+        <rs ana="https://topostext.org/place/384230PAla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::227 /TEI[1]/text[1]/body[1]/p[6]::233" xml:id="UID-FAKE-13488">
+        <rs ana="https://topostext.org/place/384230SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::279 /TEI[1]/text[1]/body[1]/p[6]::284" xml:id="UID-FAKE-13489">
+        <rs ana="https://topostext.org/place/384230SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::312 /TEI[1]/text[1]/body[1]/p[6]::318" xml:id="UID-FAKE-13490">
+        <rs ana="https://topostext.org/place/384230SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::476 /TEI[1]/text[1]/body[1]/p[6]::487" xml:id="UID-FAKE-13491">
+        <rs ana="https://topostext.org/place/384230SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::230 /TEI[1]/text[1]/body[1]/p[7]::235" xml:id="UID-FAKE-13492">
+        <rs ana="https://topostext.org/place/380237WEri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::278 /TEI[1]/text[1]/body[1]/p[7]::283" xml:id="UID-FAKE-13493">
+        <rs ana="https://topostext.org/place/373223WEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::284 /TEI[1]/text[1]/body[1]/p[7]::290" xml:id="UID-FAKE-13494">
+        <rs ana="https://topostext.org/place/376215WAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::334 /TEI[1]/text[1]/body[1]/p[7]::339" xml:id="UID-FAKE-13495">
+        <rs ana="https://topostext.org/place/380237WEri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::370 /TEI[1]/text[1]/body[1]/p[7]::375" xml:id="UID-FAKE-13496">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::398 /TEI[1]/text[1]/body[1]/p[7]::404" xml:id="UID-FAKE-13497">
+        <rs ana="https://topostext.org/place/000000WTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::421 /TEI[1]/text[1]/body[1]/p[7]::429" xml:id="UID-FAKE-13498">
+        <rs ana="https://topostext.org/place/000000WTri"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 33</head>
+      <p>In Haliartus too there is the tomb of Lysander and a hero-shrine of Cecrops the son of Pandion. Mount Tilphusius and the spring called Tilphusa are about fifty stades away from Haliartus. The Greeks declare that the Argives, along with the sons of Polyneices, after capturing Thebes, were bringing Teiresias and some other of the spoil to the god at Delphi, when Teiresias, being thirsty, drank by the wayside of the Tilphusa, and forthwith gave up the ghost; his grave is by the spring.</p>
+      <p>They say that the daughter of Teiresias was given to Apollo by the Argives, and at the command of the god crossed with ships to the Colophonian land in what is now called Ionia. Manto there married Rhacius, a Cretan. The rest of the history of Teiresias is known to all as a tradition: the number of years it is recorded that he lived, how he changed from a woman to a man, and that Homer in the Odyssey represents Teiresias as the only one in Hades endowed with intelligence.</p>
+      <p>At Haliartus there is in the open a sanctuary of the goddesses they call Praxidicae (those who exact punishments). Here they swear, but they do not make the oath rashly. The sanctuary of the goddesses is near Mount Tilphusius. In Haliartus are temples, with no images inside, and without roofs. I could not discover either to whom these temples were built.</p>
+      <p>In the land of Haliartus there is a river Lophis. It is said that the land was originally arid and without water, so that one of the rulers came to Delphi and asked in what way they would find water in the land. The Pythian priestess, they say, commanded him to kill the man who should first meet him on his return to Haliartus. On his arrival he was met by his son Lophis, and at once smote the youth with his sword. Still living, the lad ran about, and where the blood ran water rose up from the earth. Wherefore the river is called Lophis.</p>
+      <p>Alalcomenae is a small village, and it lies at the very foot of a mountain of no great height. Its name, some say, is derived from Alalcomeneus, an aboriginal, by whom Athena was brought up; others declare that Alalcomenia was one of the daughters of Ogygus. At some distance from the village on the level ground has been made a temple of Athena with an ancient image of ivory.</p>
+      <p>Sulla"s treatment of the Athenians was savage and foreign to the Roman character, but quite consistent with his treatment of Thebes and Orchomenus. But in Alalcomenae he added yet another to his crimes by stealing the image of Athena itself. After these mad outrages against the Greek cities and the gods of the Greeks he was attacked by the most foul of diseases. He broke out into lice, and what was formerly accounted his good fortune came to such an end. The sanctuary at Alalcomenae, deprived of the goddess, was hereafter neglected.</p>
+      <p>In my time yet another incident added to the ruin of the temple. A large and strong ivy-tree grew over it, loosening the stones from their joints and tearing them apart. Here too there flows a river, a small torrent. They call it A2039, because the story is that beside a river A2039 Athena was reared, the implication being that the A2039 was this and not the river in Libya, which flows into the Libyan sea out of lake Tritonis.</p>
+    </body>
+  </text>
+</TEI>

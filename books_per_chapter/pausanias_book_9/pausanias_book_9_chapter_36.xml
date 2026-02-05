@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::43 /TEI[1]/text[1]/body[1]/p[2]::52" xml:id="UID-FAKE-13564">
+        <rs ana="https://topostext.org/place/386231PHye"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::150 /TEI[1]/text[1]/body[1]/p[2]::156" xml:id="UID-FAKE-13565">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::203 /TEI[1]/text[1]/body[1]/p[2]::212" xml:id="UID-FAKE-13566">
+        <rs ana="https://topostext.org/place/384236PPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::226 /TEI[1]/text[1]/body[1]/p[2]::236" xml:id="UID-FAKE-13567">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::325 /TEI[1]/text[1]/body[1]/p[2]::331" xml:id="UID-FAKE-13568">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::378 /TEI[1]/text[1]/body[1]/p[2]::383" xml:id="UID-FAKE-13569">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::9 /TEI[1]/text[1]/body[1]/p[3]::18" xml:id="UID-FAKE-13570">
+        <rs ana="https://topostext.org/place/398223UPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::60 /TEI[1]/text[1]/body[1]/p[3]::66" xml:id="UID-FAKE-13571">
+        <rs ana="https://topostext.org/place/384222ROzo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::101 /TEI[1]/text[1]/body[1]/p[3]::106" xml:id="UID-FAKE-13572">
+        <rs ana="https://topostext.org/place/397269UKil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::201 /TEI[1]/text[1]/body[1]/p[3]::210" xml:id="UID-FAKE-13573">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::236 /TEI[1]/text[1]/body[1]/p[3]::245" xml:id="UID-FAKE-13574">
+        <rs ana="https://topostext.org/place/400236LPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::251 /TEI[1]/text[1]/body[1]/p[3]::260" xml:id="UID-FAKE-13575">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::308 /TEI[1]/text[1]/body[1]/p[3]::318" xml:id="UID-FAKE-13576">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::324 /TEI[1]/text[1]/body[1]/p[3]::332" xml:id="UID-FAKE-13577">
+        <rs ana="https://topostext.org/place/384222ROzo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::507 /TEI[1]/text[1]/body[1]/p[3]::513" xml:id="UID-FAKE-13578">
+        <rs ana="https://topostext.org/place/384222ROzo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::212 /TEI[1]/text[1]/body[1]/p[4]::219" xml:id="UID-FAKE-13579">
+        <rs ana="https://topostext.org/place/385230GMin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::4 /TEI[1]/text[1]/body[1]/p[5]::10" xml:id="UID-FAKE-13580">
+        <rs ana="https://topostext.org/place/379214BHld"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::144 /TEI[1]/text[1]/body[1]/p[5]::152" xml:id="UID-FAKE-13581">
+        <rs ana="https://topostext.org/place/300311GPyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::252 /TEI[1]/text[1]/body[1]/p[5]::258" xml:id="UID-FAKE-13582">
+        <rs ana="https://topostext.org/place/377228PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::276 /TEI[1]/text[1]/body[1]/p[5]::282" xml:id="UID-FAKE-13583">
+        <rs ana="https://topostext.org/place/376228PTir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::17 /TEI[1]/text[1]/body[1]/p[6]::27" xml:id="UID-FAKE-13584">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::87 /TEI[1]/text[1]/body[1]/p[6]::99" xml:id="UID-FAKE-13585">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::161 /TEI[1]/text[1]/body[1]/p[6]::168" xml:id="UID-FAKE-13586">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::199 /TEI[1]/text[1]/body[1]/p[6]::211" xml:id="UID-FAKE-13587">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::215 /TEI[1]/text[1]/body[1]/p[6]::222" xml:id="UID-FAKE-13588">
+        <rs ana="https://topostext.org/place/377223POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::281 /TEI[1]/text[1]/body[1]/p[6]::286" xml:id="UID-FAKE-13589">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::479 /TEI[1]/text[1]/body[1]/p[6]::486" xml:id="UID-FAKE-13590">
+        <rs ana="https://topostext.org/place/386231PHye"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::74 /TEI[1]/text[1]/body[1]/p[7]::80" xml:id="UID-FAKE-13591">
+        <rs ana="https://topostext.org/place/388224RMal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::81 /TEI[1]/text[1]/body[1]/p[7]::96" xml:id="UID-FAKE-13592">
+        <rs ana="https://topostext.org/place/386231PHye"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::240 /TEI[1]/text[1]/body[1]/p[7]::245" xml:id="UID-FAKE-13593">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::259 /TEI[1]/text[1]/body[1]/p[7]::276" xml:id="UID-FAKE-13594">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::128 /TEI[1]/text[1]/body[1]/p[8]::137" xml:id="UID-FAKE-13595">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::191 /TEI[1]/text[1]/body[1]/p[8]::200" xml:id="UID-FAKE-13596">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::320 /TEI[1]/text[1]/body[1]/p[8]::327" xml:id="UID-FAKE-13597">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::386 /TEI[1]/text[1]/body[1]/p[8]::391" xml:id="UID-FAKE-13598">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 36</head>
+      <p>When Eteocles died the kingdom devolved on the family of Almus. Almus himself had daughters born to him, Chrysogeneia and Chryse. Tradition has it that Chryse, daughter of Almus, had by Ares a son Phlegyas, who, as Eteocles died childless, got the throne. To the whole country they gave the name of Phlegyantis instead of AndreisYY,</p>
+      <p>and besides the originally founded city of AndreisYY, Phlegyas founded another, which he named after himself, collecting into it the best soldiers in Greece. In course of time the foolhardy and reckless Phlegyans seceded from Orchomenus and began to ravage their neighbors. At last they even marched against the sanctuary at Delphi to raid it, when Philammon with picked men of Argos went out to meet them, but he and his picked men perished in the engagement.</p>
+      <p>That the Phlegyans took more pleasure in war than any other Greeks is also shown by the lines of the Iliad dealing with Ares and his son Phobos: “They twain were arming themselves for war to go to the Ephyrians, Or to the great-hearted Phlegyans.” By Ephyrians in this passage Homer means, I think, those in Thesprotis. The Phlegyan race was completely overthrown by the god with continual thunderbolts and violent earthquakes. The remnant were wasted by an epidemic of plague, but a few of them escaped to Phocis.</p>
+      <p>Phlegyas had no sons, and Chryses succeeded to the throne, a son of Poseidon by Chrysogeneia, daughter of Almus. This Chryses had a son called Minyas, and after him the people over whom he ruled are still called Minyans. The revenues that Minyas received were so great that he surpassed his predecessors in wealth, and he was the first man we know of to build a treasury to receive his riches.</p>
+      <p>The Greeks appear apt to regard with greater wonder foreign sights than sights at home. For whereas distinguished historians have described the Egyptian pyramids with the minutest detail, they have not made even the briefest mention of the treasury of Minyas and the walls of Tiryns, though these are no less marvellous.</p>
+      <p>Minyas had a son Orchomenus, in whose reign the city was called Orchomenus and the men Orchomenians. Nevertheless, they continued to bear the additional name of Minyans, to distinguish them from the Orchomenians in Arcadia. To this Orchomenus during his kingship came Hyettus from Argos, who was an exile because of the slaying of Molurus, son of ArisbasYY, whom he caught with his wedded wife and killed. Orchomenus assigned to him such of the land as is now around the village Hyettus, and the land adjacent to this.</p>
+      <p>Hyettus is also mentioned by the poet who composed the poem called by the Greeks the Great Eoeae: “And Hyettus killed Molurus, the dear son of ArisbasYY, In the halls, because of his wife"s bed; Leaving his home he fled from horse-breeding Argos, And reached Minyan Orchomenus, and the hero Welcomed him, and bestowed on him a portion of his possessions, as was fitting.”</p>
+      <p>This Hyettus was the first man known to have exacted punishment from an adulterer. Later on, when Dracon was legislator for the Athenians, it was enacted in the laws which he drew up for the Athenians that the punishment of an adulterer should be one of the acts condoned by the State. So high did the reputation of the Minyans stand, that even Neleus, son of Cretheus, who was king of Pylus, took a wife from Orchomenus, namely Chloris, daughter of Amphion, son of Iasius.</p>
+    </body>
+  </text>
+</TEI>

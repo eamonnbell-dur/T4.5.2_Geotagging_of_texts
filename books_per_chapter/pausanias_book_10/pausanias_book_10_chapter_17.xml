@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::11 /TEI[1]/text[1]/body[1]/p[1]::17" xml:id="UID-FAKE-14488">
+        <rs ana="https://topostext.org/place/389213XSar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::45 /TEI[1]/text[1]/body[1]/p[1]::53" xml:id="UID-FAKE-14489">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::138 /TEI[1]/text[1]/body[1]/p[1]::146" xml:id="UID-FAKE-14490">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::275 /TEI[1]/text[1]/body[1]/p[1]::281" xml:id="UID-FAKE-14491">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::318 /TEI[1]/text[1]/body[1]/p[1]::326" xml:id="UID-FAKE-14492">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::63 /TEI[1]/text[1]/body[1]/p[2]::70" xml:id="UID-FAKE-14493">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::104 /TEI[1]/text[1]/body[1]/p[2]::111" xml:id="UID-FAKE-14494">
+        <rs ana="https://topostext.org/place/371108IAeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::150 /TEI[1]/text[1]/body[1]/p[2]::159" xml:id="UID-FAKE-14495">
+        <rs ana="https://topostext.org/place/376218GSau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::164 /TEI[1]/text[1]/body[1]/p[2]::171" xml:id="UID-FAKE-14496">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::231 /TEI[1]/text[1]/body[1]/p[2]::237" xml:id="UID-FAKE-14497">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::269 /TEI[1]/text[1]/body[1]/p[2]::276" xml:id="UID-FAKE-14498">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::280 /TEI[1]/text[1]/body[1]/p[2]::288" xml:id="UID-FAKE-14499">
+        <rs ana="https://topostext.org/place/365279ITeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::341 /TEI[1]/text[1]/body[1]/p[2]::347" xml:id="UID-FAKE-14500">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::478 /TEI[1]/text[1]/body[1]/p[2]::485" xml:id="UID-FAKE-14501">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::16 /TEI[1]/text[1]/body[1]/p[3]::23" xml:id="UID-FAKE-14502">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::55 /TEI[1]/text[1]/body[1]/p[3]::61" xml:id="UID-FAKE-14503">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::254 /TEI[1]/text[1]/body[1]/p[3]::260" xml:id="UID-FAKE-14504">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::115 /TEI[1]/text[1]/body[1]/p[4]::122" xml:id="UID-FAKE-14505">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::176 /TEI[1]/text[1]/body[1]/p[4]::184" xml:id="UID-FAKE-14506">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::264 /TEI[1]/text[1]/body[1]/p[4]::270" xml:id="UID-FAKE-14507">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::20 /TEI[1]/text[1]/body[1]/p[5]::28" xml:id="UID-FAKE-14508">
+        <rs ana="https://topostext.org/place/390000RIbe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::40 /TEI[1]/text[1]/body[1]/p[5]::48" xml:id="UID-FAKE-14509">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::56 /TEI[1]/text[1]/body[1]/p[5]::60" xml:id="UID-FAKE-14510">
+        <rs ana="https://topostext.org/place/390090UNor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::368 /TEI[1]/text[1]/body[1]/p[5]::377" xml:id="UID-FAKE-14511">
+        <rs ana="https://topostext.org/place/409095UOlb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::391 /TEI[1]/text[1]/body[1]/p[5]::397" xml:id="UID-FAKE-14512">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::415 /TEI[1]/text[1]/body[1]/p[5]::423" xml:id="UID-FAKE-14513">
+        <rs ana="https://topostext.org/place/409095UOlb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::436 /TEI[1]/text[1]/body[1]/p[5]::441" xml:id="UID-FAKE-14514">
+        <rs ana="https://topostext.org/place/409095UOlb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::461 /TEI[1]/text[1]/body[1]/p[5]::470" xml:id="UID-FAKE-14515">
+        <rs ana="https://topostext.org/place/380237DAgr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::479 /TEI[1]/text[1]/body[1]/p[5]::485" xml:id="UID-FAKE-14516">
+        <rs ana="https://topostext.org/place/380237DAgr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::667 /TEI[1]/text[1]/body[1]/p[5]::675" xml:id="UID-FAKE-14517">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::683 /TEI[1]/text[1]/body[1]/p[5]::689" xml:id="UID-FAKE-14518">
+        <rs ana="https://topostext.org/place/409095UOlb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::33 /TEI[1]/text[1]/body[1]/p[6]::40" xml:id="UID-FAKE-14519">
+        <rs ana="https://topostext.org/place/398268RLel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::146 /TEI[1]/text[1]/body[1]/p[6]::154" xml:id="UID-FAKE-14520">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::181 /TEI[1]/text[1]/body[1]/p[6]::187" xml:id="UID-FAKE-14521">
+        <rs ana="https://topostext.org/place/389213XSar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::219 /TEI[1]/text[1]/body[1]/p[6]::228" xml:id="UID-FAKE-14522">
+        <rs ana="https://topostext.org/place/399084UTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::282 /TEI[1]/text[1]/body[1]/p[6]::288" xml:id="UID-FAKE-14523">
+        <rs ana="https://topostext.org/place/389213XSar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::293 /TEI[1]/text[1]/body[1]/p[6]::300" xml:id="UID-FAKE-14524">
+        <rs ana="https://topostext.org/place/398268RLel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::384 /TEI[1]/text[1]/body[1]/p[6]::391" xml:id="UID-FAKE-14525">
+        <rs ana="https://topostext.org/place/399087WTho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::35 /TEI[1]/text[1]/body[1]/p[7]::42" xml:id="UID-FAKE-14526">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::121 /TEI[1]/text[1]/body[1]/p[7]::127" xml:id="UID-FAKE-14527">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::133 /TEI[1]/text[1]/body[1]/p[7]::139" xml:id="UID-FAKE-14528">
+        <rs ana="https://topostext.org/place/408139IPit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::200 /TEI[1]/text[1]/body[1]/p[7]::207" xml:id="UID-FAKE-14529">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::385 /TEI[1]/text[1]/body[1]/p[7]::391" xml:id="UID-FAKE-14530">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::495 /TEI[1]/text[1]/body[1]/p[7]::502" xml:id="UID-FAKE-14531">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::21 /TEI[1]/text[1]/body[1]/p[8]::29" xml:id="UID-FAKE-14532">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::51 /TEI[1]/text[1]/body[1]/p[8]::57" xml:id="UID-FAKE-14533">
+        <rs ana="https://topostext.org/place/420090IKyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::65 /TEI[1]/text[1]/body[1]/p[8]::71" xml:id="UID-FAKE-14534">
+        <rs ana="https://topostext.org/place/420090IKyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::77 /TEI[1]/text[1]/body[1]/p[8]::84" xml:id="UID-FAKE-14535">
+        <rs ana="https://topostext.org/place/420090IKyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::92 /TEI[1]/text[1]/body[1]/p[8]::99" xml:id="UID-FAKE-14536">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::195 /TEI[1]/text[1]/body[1]/p[8]::203" xml:id="UID-FAKE-14537">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::280 /TEI[1]/text[1]/body[1]/p[8]::290" xml:id="UID-FAKE-14538">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::326 /TEI[1]/text[1]/body[1]/p[8]::335" xml:id="UID-FAKE-14539">
+        <rs ana="https://topostext.org/place/420090IKyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::9 /TEI[1]/text[1]/body[1]/p[9]::22" xml:id="UID-FAKE-14540">
+        <rs ana="https://topostext.org/place/392091UKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::83 /TEI[1]/text[1]/body[1]/p[9]::91" xml:id="UID-FAKE-14541">
+        <rs ana="https://topostext.org/place/392091UKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::103 /TEI[1]/text[1]/body[1]/p[9]::109" xml:id="UID-FAKE-14542">
+        <rs ana="https://topostext.org/place/399084UTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::114 /TEI[1]/text[1]/body[1]/p[9]::123" xml:id="UID-FAKE-14543">
+        <rs ana="https://topostext.org/place/420090IKyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::192 /TEI[1]/text[1]/body[1]/p[9]::205" xml:id="UID-FAKE-14544">
+        <rs ana="https://topostext.org/place/392091UKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::275 /TEI[1]/text[1]/body[1]/p[9]::282" xml:id="UID-FAKE-14545">
+        <rs ana="https://topostext.org/place/392091UKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::287 /TEI[1]/text[1]/body[1]/p[9]::292" xml:id="UID-FAKE-14546">
+        <rs ana="https://topostext.org/place/391084USul"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::306 /TEI[1]/text[1]/body[1]/p[9]::318" xml:id="UID-FAKE-14547">
+        <rs ana="https://topostext.org/place/392091UKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::339 /TEI[1]/text[1]/body[1]/p[9]::346" xml:id="UID-FAKE-14548">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::350 /TEI[1]/text[1]/body[1]/p[9]::358" xml:id="UID-FAKE-14549">
+        <rs ana="https://topostext.org/place/390000RIbe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::479 /TEI[1]/text[1]/body[1]/p[9]::486" xml:id="UID-FAKE-14550">
+        <rs ana="https://topostext.org/place/392091UKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::520 /TEI[1]/text[1]/body[1]/p[9]::527" xml:id="UID-FAKE-14551">
+        <rs ana="https://topostext.org/place/350330RCyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::34 /TEI[1]/text[1]/body[1]/p[10]::42" xml:id="UID-FAKE-14552">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::154 /TEI[1]/text[1]/body[1]/p[10]::159" xml:id="UID-FAKE-14553">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::327 /TEI[1]/text[1]/body[1]/p[11]::332" xml:id="UID-FAKE-14554">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::469 /TEI[1]/text[1]/body[1]/p[11]::475" xml:id="UID-FAKE-14555">
+        <rs ana="https://topostext.org/place/420090IKyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::501 /TEI[1]/text[1]/body[1]/p[11]::509" xml:id="UID-FAKE-14556">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::598 /TEI[1]/text[1]/body[1]/p[11]::604" xml:id="UID-FAKE-14557">
+        <rs ana="https://topostext.org/place/420090IKyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::614 /TEI[1]/text[1]/body[1]/p[11]::622" xml:id="UID-FAKE-14558">
+        <rs ana="https://topostext.org/place/420090IKyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::627 /TEI[1]/text[1]/body[1]/p[11]::633" xml:id="UID-FAKE-14559">
+        <rs ana="https://topostext.org/place/420090IKyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::689 /TEI[1]/text[1]/body[1]/p[11]::697" xml:id="UID-FAKE-14560">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::50 /TEI[1]/text[1]/body[1]/p[12]::58" xml:id="UID-FAKE-14561">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::202 /TEI[1]/text[1]/body[1]/p[12]::211" xml:id="UID-FAKE-14562">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::277 /TEI[1]/text[1]/body[1]/p[12]::286" xml:id="UID-FAKE-14563">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::335 /TEI[1]/text[1]/body[1]/p[13]::341" xml:id="UID-FAKE-14564">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::358 /TEI[1]/text[1]/body[1]/p[13]::366" xml:id="UID-FAKE-14565">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::408 /TEI[1]/text[1]/body[1]/p[13]::414" xml:id="UID-FAKE-14566">
+        <rs ana="https://topostext.org/place/389213XSar"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 17</head>
+      <p>Of the non-Greeks in the west, the people of Sardinia have sent a bronze statue of him after whom they are called. In size and prosperity Sardinia is the equal of the most celebrated islands. What the ancient name was that the natives give it I do not know, but those of the Greeks who sailed there to trade called it Ichnussa, because the shape of the island is very like a man"s footprint (ichnos). Its length is one thousand one hundred and twenty stades, and its breadth extends to four hundred and twenty.</p>
+      <p>The first sailors to cross to the island are said to have been Libyans. Their leader was Sardus, son of Maceris, the Maceris surnamed Heracles by the Egyptians and Libyans. Maceris himself was celebrated chiefly for his journey to Delphi, but Sardus it was who led the Libyans to Ichnussa, and after him the island was renamed. However, the Libyan army did not expel the aboriginals, who received the invaders as settlers through compulsion rather than in goodwill. Neither the Libyans nor the native population knew how to build cities. They dwelt in scattered groups, where chance found them a home in cabins or caves.</p>
+      <p>Years after the Libyans, there came to the island from Greece Aristaeus and his followers. Aristaeus is said to have been a son of Apollo and Cyrene, and they say that, deeply grieved by the fate of Actaeon, and vexed alike with Boeotia and the whole of Greece, he migrated to Sardinia.</p>
+      <p>Others think that Daedalus too ran away from Camicus [ms corrupt] on this occasion, because of the invasion of the Cretans, and took a part in the colony that Aristaeus led to Sardinia. But it is nonsense to think that Daedalus, a contemporary of Oedipus, king of Thebes, had a part in a colony or anything else along with Aristaeus, who married Autonoe, the daughter of Cadmus. At any rate, these colonists too founded no city, the reason being, I think, that neither in numbers nor in strength were they capable of the task.</p>
+      <p>After Aristaeus the Iberians crossed to Sardinia, under Norax as leader of the expedition, and they founded the city of Nora. The tradition is that this was the first city in the island, and they say that Norax was a son of Erytheia, the daughter of Geryones, with Hermes for his father. A fourth component part of the population was the army of Iolaus, consisting of Thespians and men from Attica, which put in at Sardinia and founded Olbia; by themselves the Athenians founded Ogryle, either in commemoration of one of their demes in the home-land, or else because one Ogrylus himself took part in the expedition. Be this as it may, there are still today places in Sardinia called Iolaia, and Iolaus is worshipped by the inhabitants.</p>
+      <p>When Troy was taken, among those Trojans who fled were those who escaped with Aeneas. A part of them, carried from their course by winds, reached Sardinia and intermarried with the Greeks already settled there. But the non-Greek element were prevented from coming to blows with the Greeks and Trojans, for the two enemies were evenly matched in all warlike equipment, while the river Thorsus, flowing between their territories, made both equally afraid to cross it.</p>
+      <p>However, many years afterwards the Libyans crossed again to the island with a stronger army, and began a war against the Greeks. The Greeks were utterly destroyed, or only a few of them survived. The Trojans made their escape to the high parts of the island, and occupied mountains difficult to climb, being precipitous and protected by stakes. Even at the present day they are called Ilians, but in figure, in the fashion of their arms, and in their mode of living generally, they are like the Libyans.</p>
+      <p>Not far distant from Sardinia is an island, called Cyrnus by the Greeks, but Corsica by the Libyans who inhabit it. A large part of the population, oppressed by civil strife, left it and came to Sardinia; there they took up their abode, confining themselves to the highlands. The Sardinians, however, call them by the name of Corsicans, which they brought with them from home.</p>
+      <p>When the Carthaginians were at the height of their sea power, they overcame all in Sardinia except the Ilians and Corsicans, who were kept from slavery by the strength of the mountains. These Carthaginians, like those who preceded them, founded cities in the island, namely, Caralis and Sulci. Some of the Carthaginian mercenaries, either Libyans or Iberians, quarrelled about the booty, mutinied in a passion, and added to the number of the highland settlers. Their name in the Cyrnian language is Balari, which is the Cyrnian word for fugitives.</p>
+      <p>These are the races that dwell in Sardinia, and such was the method of their settlement. The northern part of the island and that towards the mainland of Italy consist of an unbroken chain of impassable mountains. And if you sail along the coast you will find no anchorage on this side of the island, while violent but irregular gusts of wind sweep down to the sea from the tops of the mountains.</p>
+      <p>Across the middle of the island runs another chain of mountains, but lower in height. The atmosphere here is on the whole heavy and unwholesome. The reason is partly the salt that crystallizes here, partly the oppressive, violent south wind, and partly the fact that, because of the height of the mountains on the side towards Italy, the north winds are prevented, when they blow in summer, from cooling the atmosphere and the ground here. Others say that the cause is Cyrnus, which is separated from Sardinia by no more than eight stades of sea, and is hilly and high all over. So they think that Cyrnus prevents Zephyros and Boreas (the west wind and north wind) from reaching as far as Sardinia.</p>
+      <p>Neither poisonous nor harmless snakes can live in Sardinia, nor yet wolves. The he-goats are no bigger than those found elsewhere, but their shape is that of the wild ram which an artist would carve in Aeginetan style, except that their breasts are too shaggy to liken them to Aeginetan art. Their horns do not stand out away from the head, but curl straight beside the ears. In speed they are the swiftest of all beasts.</p>
+      <p>Except for one plant the island is free from poisons. This deadly herb is like celery, and they say that those who eat it die laughing. Wherefore Homer, and men after him, call unwholesome laughter sardonic. The herb grows mostly around springs, but does not impart any of its poison to the water. I have introduced into my history of Phocis this account of Sardinia, because it is an island about which the Greeks are very ignorant.</p>
+    </body>
+  </text>
+</TEI>

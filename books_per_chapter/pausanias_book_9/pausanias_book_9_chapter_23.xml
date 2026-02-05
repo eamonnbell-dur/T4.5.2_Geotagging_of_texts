@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::16 /TEI[1]/text[1]/body[1]/p[1]::26" xml:id="UID-FAKE-13148">
+        <rs ana="https://topostext.org/place/383233FPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::35 /TEI[1]/text[1]/body[1]/p[1]::41" xml:id="UID-FAKE-13149">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::45 /TEI[1]/text[1]/body[1]/p[1]::48" xml:id="UID-FAKE-13150">
+        <rs ana="https://topostext.org/place/385225BDGy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::70 /TEI[1]/text[1]/body[1]/p[1]::89" xml:id="UID-FAKE-13151">
+        <rs ana="https://topostext.org/place/376216BOGy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::150 /TEI[1]/text[1]/body[1]/p[1]::157" xml:id="UID-FAKE-13152">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::170 /TEI[1]/text[1]/body[1]/p[1]::179" xml:id="UID-FAKE-13153">
+        <rs ana="https://topostext.org/place/376231BASt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::259 /TEI[1]/text[1]/body[1]/p[1]::267" xml:id="UID-FAKE-13154">
+        <rs ana="https://topostext.org/place/402920ISar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::283 /TEI[1]/text[1]/body[1]/p[1]::292" xml:id="UID-FAKE-13155">
+        <rs ana="https://topostext.org/place/389213XSar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::297 /TEI[1]/text[1]/body[1]/p[1]::306" xml:id="UID-FAKE-13156">
+        <rs ana="https://topostext.org/place/383232PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::362 /TEI[1]/text[1]/body[1]/p[1]::369" xml:id="UID-FAKE-13157">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::167 /TEI[1]/text[1]/body[1]/p[2]::175" xml:id="UID-FAKE-13158">
+        <rs ana="https://topostext.org/place/383232PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::109 /TEI[1]/text[1]/body[1]/p[3]::115" xml:id="UID-FAKE-13159">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::177 /TEI[1]/text[1]/body[1]/p[3]::184" xml:id="UID-FAKE-13160">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::209 /TEI[1]/text[1]/body[1]/p[3]::218" xml:id="UID-FAKE-13161">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::82 /TEI[1]/text[1]/body[1]/p[4]::88" xml:id="UID-FAKE-13162">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::19 /TEI[1]/text[1]/body[1]/p[5]::30" xml:id="UID-FAKE-13163">
+        <rs ana="https://topostext.org/place/385232LPto"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::292 /TEI[1]/text[1]/body[1]/p[5]::298" xml:id="UID-FAKE-13164">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::344 /TEI[1]/text[1]/body[1]/p[5]::355" xml:id="UID-FAKE-13165">
+        <rs ana="https://topostext.org/place/385232LPto"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::79 /TEI[1]/text[1]/body[1]/p[6]::85" xml:id="UID-FAKE-13166">
+        <rs ana="https://topostext.org/place/385233SPto"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::254 /TEI[1]/text[1]/body[1]/p[6]::265" xml:id="UID-FAKE-13167">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::374 /TEI[1]/text[1]/body[1]/p[6]::381" xml:id="UID-FAKE-13168">
+        <rs ana="https://topostext.org/place/409226PEur"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::511 /TEI[1]/text[1]/body[1]/p[6]::516" xml:id="UID-FAKE-13169">
+        <rs ana="https://topostext.org/place/385233SPto"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::528 /TEI[1]/text[1]/body[1]/p[6]::534" xml:id="UID-FAKE-13170">
+        <rs ana="https://topostext.org/place/370287RKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::12 /TEI[1]/text[1]/body[1]/p[7]::23" xml:id="UID-FAKE-13171">
+        <rs ana="https://topostext.org/place/385232LPto"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::36 /TEI[1]/text[1]/body[1]/p[7]::43" xml:id="UID-FAKE-13172">
+        <rs ana="https://topostext.org/place/386233PLar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::47 /TEI[1]/text[1]/body[1]/p[7]::55" xml:id="UID-FAKE-13173">
+        <rs ana="https://topostext.org/place/386233PLar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::105 /TEI[1]/text[1]/body[1]/p[7]::112" xml:id="UID-FAKE-13174">
+        <rs ana="https://topostext.org/place/386233PLar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::224 /TEI[1]/text[1]/body[1]/p[7]::228" xml:id="UID-FAKE-13175">
+        <rs ana="https://topostext.org/place/386230POpo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::239 /TEI[1]/text[1]/body[1]/p[7]::245" xml:id="UID-FAKE-13176">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::310 /TEI[1]/text[1]/body[1]/p[7]::319" xml:id="UID-FAKE-13177">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 23</head>
+      <p>In front of the Proetidian gate at Thebes is the gymnasium called the Gymnasium of Iolaus and also a race-course, a bank of earth like the stadium at Olympia and that of Epidaurus. Here there is also shown a hero-shrine of Iolaus. That Iolaus himself died in Sardinia along with the Athenians and Thespians who made the crossing with him is admitted even by the Thebans themselves.</p>
+      <p>Crossing over the right side of the course you come to a race-course for horses, in which is the tomb of Pindar. When Pindar was a young man he was once on his way to Thespiae in the hot season. At about noon he was seized with fatigue and the drowsiness that follows it, so just as he was, he lay down a little way above the road. As he slept bees alighted on him and plastered his lips with their wax.</p>
+      <p>Such was the beginning of Pindar"s career as a lyric poet. When his reputation had already spread throughout Greece he was raised to a greater height of fame by an order of the Pythian priestess, who bade the Delphians give to Pindar one half of all the first-fruits they offered to Apollo. It is also said that on reaching old age a vision came to him in a dream. As he slept Persephone stood by him and declared that she alone of the deities had not been honored by Pindar with a hymn, but that Pindar would compose an ode to her also when he had come to her.</p>
+      <p>Pindar died at once, before ten days had passed since the dream. But there was in Thebes an old woman related by birth to Pindar who had practised singing most of his odes. By her side in a dream stood Pindar, and sang a hymn to Persephone. Immediately on waking out of her sleep she wrote down all she had heard him singing in her dream. In this song, among the epithets he applies to Hades is “golden-reined” — a clear reference to the rape of Persephone.</p>
+      <p>From this point to Acraephnium is mainly flat. They say that originally the city formed part of the territory belonging to Thebes, and I learned that in later times men of Thebes escaped to it, at the time when Alexander destroyed Thebes. Weak and old, they could not even get safely away to Attica, but made their homes here. The town lies on Mount Ptoon, and there are here a temple and image of Dionysus that are worth seeing.</p>
+      <p>About fifteen stades away from the city on the right is the sanctuary of Ptoan Apollo. We are told by Asius in his epic that Ptous, who gave a surname to Apollo and the name to the mountain, was a son of Athamas by Themisto. Before the expedition of the Macedonians under Alexander, in which Thebes was destroyed, there was here an oracle that never lied. Once too a man of Europus, of the name of Mys, who was sent by Mardonius, inquired of the god in his own language, and the god too gave a response, not in Greek but in the Carian speech.</p>
+      <p>On crossing Mount Ptoon you come to Larymna, a Boeotian city on the coast, said to have been named after Larymna, the daughter of Cynus. Her earlier ancestors I shall give in my account of Locris. Of old Larymna belonged to Opus, but when Thebes rose to great power the citizens of their own accord joined the Boeotians. Here there is a temple of Dionysus with a standing image. The town has a harbor with deep water near the shore, and on the mountains commanding the city wild boars can be hunted.</p>
+    </body>
+  </text>
+</TEI>

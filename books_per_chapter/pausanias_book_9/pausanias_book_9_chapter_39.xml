@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::50 /TEI[1]/text[1]/body[1]/p[1]::60" xml:id="UID-FAKE-13646">
+        <rs ana="https://topostext.org/place/384229PLeb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::64 /TEI[1]/text[1]/body[1]/p[1]::70" xml:id="UID-FAKE-13647">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::95 /TEI[1]/text[1]/body[1]/p[1]::103" xml:id="UID-FAKE-13648">
+        <rs ana="https://topostext.org/place/384229PLeb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::163 /TEI[1]/text[1]/body[1]/p[1]::169" xml:id="UID-FAKE-13649">
+        <rs ana="https://topostext.org/place/384229PLeb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::233 /TEI[1]/text[1]/body[1]/p[1]::239" xml:id="UID-FAKE-13650">
+        <rs ana="https://topostext.org/place/384229PLeb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::309 /TEI[1]/text[1]/body[1]/p[1]::317" xml:id="UID-FAKE-13651">
+        <rs ana="https://topostext.org/place/384229PLeb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::60 /TEI[1]/text[1]/body[1]/p[2]::65" xml:id="UID-FAKE-13652">
+        <rs ana="https://topostext.org/place/384229WHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::112 /TEI[1]/text[1]/body[1]/p[2]::122" xml:id="UID-FAKE-13653">
+        <rs ana="https://topostext.org/place/384229STro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::136 /TEI[1]/text[1]/body[1]/p[2]::143" xml:id="UID-FAKE-13654">
+        <rs ana="https://topostext.org/place/384229WHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::164 /TEI[1]/text[1]/body[1]/p[2]::171" xml:id="UID-FAKE-13655">
+        <rs ana="https://topostext.org/place/384229WHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::505 /TEI[1]/text[1]/body[1]/p[3]::509" xml:id="UID-FAKE-13656">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::187 /TEI[1]/text[1]/body[1]/p[4]::193" xml:id="UID-FAKE-13657">
+        <rs ana="https://topostext.org/place/384229STro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::201 /TEI[1]/text[1]/body[1]/p[4]::213" xml:id="UID-FAKE-13658">
+        <rs ana="https://topostext.org/place/380237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::-1 /TEI[1]/text[1]/body[1]/p[4]::14" xml:id="UID-FAKE-13659">
+        <rs ana="https://topostext.org/place/384229STro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::372 /TEI[1]/text[1]/body[1]/p[5]::379" xml:id="UID-FAKE-13660">
+        <rs ana="https://topostext.org/place/384229WHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::621 /TEI[1]/text[1]/body[1]/p[5]::627" xml:id="UID-FAKE-13661">
+        <rs ana="https://topostext.org/place/384229STro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::49 /TEI[1]/text[1]/body[1]/p[7]::56" xml:id="UID-FAKE-13662">
+        <rs ana="https://topostext.org/place/384229WHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::49 /TEI[1]/text[1]/body[1]/p[8]::54" xml:id="UID-FAKE-13663">
+        <rs ana="https://topostext.org/place/383233WDir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::56 /TEI[1]/text[1]/body[1]/p[8]::64" xml:id="UID-FAKE-13664">
+        <rs ana="https://topostext.org/place/384229STro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::404 /TEI[1]/text[1]/body[1]/p[8]::414" xml:id="UID-FAKE-13665">
+        <rs ana="https://topostext.org/place/384229STro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::285 /TEI[1]/text[1]/body[1]/p[10]::295" xml:id="UID-FAKE-13666">
+        <rs ana="https://topostext.org/place/384229STro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::22 /TEI[1]/text[1]/body[1]/p[13]::32" xml:id="UID-FAKE-13667">
+        <rs ana="https://topostext.org/place/384229STro"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 39</head>
+      <p>On the side towards the mountains the boundary of Orchomenus is Phocis, but on the plain it is Lebadeia. Originally this city stood on high ground, and was called Mideia after the mother of Aspledon. But when Lebadus came to it from Athens, the inhabitants went down to the low ground, and the city was named Lebadeia after him. Who was the father of Lebadus, and why he came, they do not know; they know only that the wife of Lebadus was Laonice.</p>
+      <p>The city is no less adorned than the most prosperous of the Greek cities, and it is separated from the grove of Trophonius by the river Hercyna. They say that here Hercyna, when playing with Kore, the daughter of Demeter, held a goose which against her will she let loose. The bird flew into a hollow cave and hid under a stone; Kore entered and took the bird as it lay under the stone. The water flowed, they say, from the place where Kore took up the stone, and hence the river received the name of Hercyna.</p>
+      <p>On the bank of the river there is a temple of Hercyna, in which is a maiden holding a goose in her arms. In the cave are the sources of the river and images standing, and serpents are coiled around their scepters. One might conjecture the images to be of Asclepius and Health, but they might be Trophonius and Hercyna, because they think that serpents are just as much sacred to Trophonius as to Asclepius. By the side of the river is the tomb of Arcesilaus, whose bones, they say, were carried back from Troy by Leitus.</p>
+      <p>The most famous things in the grove are a temple and image of Trophonius; the image, made by Praxiteles, is after the likeness of Asclepius. There is also a sanctuary of Demeter surnamed Europa, and a Zeus Hyetios (rain-god) in the open. If you go up to the oracle, and thence onwards up the mountain, you come to what is called Kore"s Hunting and a temple of King Zeus [Basileus]. This temple they have left half finished, either because of its size or because of the long succession of the wars. In a second temple are images of Cronus, Hera and Zeus. There is also a sanctuary of Apollo.</p>
+      <p>What happens at the oracle is as follows. When a man has made up his mind to descend to the oracle of Trophonius, he first lodges in a certain building for an appointed number of days, this being sacred to the good Spirit [agathos daimon] and to good Fortune. While he lodges there, among other regulations for purity he abstains from hot baths, bathing only in the river Hercyna. Meat he has in plenty from the sacrifices, for he who descends sacrifices to Trophonius himself and to the children of Trophonius, to Apollo also and Cronus, to Zeus Basileus, to Hera Henioche [charioteer], and to Demeter whom they surname Europa and say was the nurse of Trophonius.</p>
+      <p>At each sacrifice a diviner is present, who looks into the entrails of the victim, and after an inspection prophesies to the person descending whether Trophonius will give him a kind and gracious reception. The entrails of the other victims do not declare the mind of Trophonius so much as a ram, which each inquirer sacrifices over a pit on the night he descends, calling upon Agamedes. Even though the previous sacrifices have appeared propitious, no account is taken of them unless the entrails of this ram indicate the same; but if they agree, then the inquirer descends in good hope. The procedure of the descent is this.</p>
+      <p>First, during the night he is taken to the river Hercyna by two boys of the citizens about thirteen years old, named Hermae, who after taking him there anoint him with oil and wash him. It is these who wash the descender, and do all the other necessary services as his attendant boys. After this he is taken by the priests, not at once to the oracle, but to fountains of water very near to each other.</p>
+      <p>Here he must drink water called the water called Lethe (Oblivion), that there be oblivion of all that he has been thinking of hitherto, and afterwards he drinks of another water, the water of Mnemosyne (memory), which causes him to remember what he sees after his descent. After looking at the agalma which they say was made by Daedalus (it is not shown by the priests save to such as are going to visit Trophonius), having seen it, worshipped it and prayed, he proceeds to the oracle, dressed in a linen tunic, with ribbons girding it, and wearing the boots of the country.</p>
+      <p>The oracle is on the mountain, beyond the grove. Round it is a circular basement (crepis) of white marble, the circumference of which is about that of the smallest threshing floor, while its height is just short of two cubits. On the basement stand spikes, which, like the cross-bars holding them together, are of bronze, while through them has been made a double door. Within the enclosure is a chasm in the earth, not natural, but artificially constructed after the most accurate masonry.</p>
+      <p>The shape of this structure is like that of a bread-oven. Its breadth across the middle one might conjecture to be about four cubits, and its depth also could not be estimated to extend to more than eight cubits. They have made no way of descent to the bottom, but when a man comes to Trophonius, they bring him a narrow, light ladder. After going down he finds a hole between the floor and the structure. Its breadth appeared to be two spans, and its height one span.</p>
+      <p>The descender lies with his back on the ground, holding barley-cakes kneaded with honey, thrusts his feet into the hole and himself follows, trying hard to get his knees into the hole. After his knees the rest of his body is at once swiftly drawn in, just as the largest and most rapid river will catch a man in its eddy and carry him under. After this those who have entered the adyton learn the future, not in one and the same way in all cases, but by sight sometimes and at other times by hearing. The return upwards is by the same mouth, the feet darting out first.</p>
+      <p>They say that no one who has made the descent has been killed, save only one of the bodyguard of Demetrius. But they declare that he performed none of the usual rites in the sanctuary, and that he descended, not to consult the god but in the hope of stealing gold and silver from the shrine. It is said that the body of this man appeared in a different place, and was not cast out at the sacred mouth. Other tales are told about the fellow, but I have given the one most worthy of consideration.</p>
+      <p>After his ascent from Trophonius the inquirer is again taken in hand by the priests, who set him upon a chair called the throne of Memory, which stands not far from the adyton, and they ask of him, when seated there, all he has seen or learned. After gaining this information they then entrust him to his relatives. These lift him, paralyzed with terror and unconscious both of himself and of his surroundings, and carry him to the building where he lodged before with Good Fortune and the Good Daimon. Afterwards, however, he will recover all his faculties, and the power to laugh will return to him.</p>
+      <p>What I write is not hearsay; I have myself inquired of Trophonius and seen other inquirers. Those who have descended into the shrine of Trophonius are obliged to dedicate a tablet on which is written all that each has heard or seen. The shield also of Aristomenes is still preserved here. Its story I have already given in a former part of my work.</p>
+    </body>
+  </text>
+</TEI>

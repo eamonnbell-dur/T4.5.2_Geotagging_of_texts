@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::16 /TEI[1]/text[1]/body[1]/p[1]::25" xml:id="UID-FAKE-13261">
+        <rs ana="https://topostext.org/place/383232PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::158 /TEI[1]/text[1]/body[1]/p[1]::167" xml:id="UID-FAKE-13262">
+        <rs ana="https://topostext.org/place/383232PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::280 /TEI[1]/text[1]/body[1]/p[1]::286" xml:id="UID-FAKE-13263">
+        <rs ana="https://topostext.org/place/404271UPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::294 /TEI[1]/text[1]/body[1]/p[1]::304" xml:id="UID-FAKE-13264">
+        <rs ana="https://topostext.org/place/402264WHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::341 /TEI[1]/text[1]/body[1]/p[1]::349" xml:id="UID-FAKE-13265">
+        <rs ana="https://topostext.org/place/384265PEry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::353 /TEI[1]/text[1]/body[1]/p[1]::358" xml:id="UID-FAKE-13266">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::389 /TEI[1]/text[1]/body[1]/p[1]::395" xml:id="UID-FAKE-13267">
+        <rs ana="https://topostext.org/place/404271UPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::125 /TEI[1]/text[1]/body[1]/p[2]::130" xml:id="UID-FAKE-13268">
+        <rs ana="https://topostext.org/place/401225UPim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::345 /TEI[1]/text[1]/body[1]/p[2]::354" xml:id="UID-FAKE-13269">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::507 /TEI[1]/text[1]/body[1]/p[2]::515" xml:id="UID-FAKE-13270">
+        <rs ana="https://topostext.org/place/380237SSem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::596 /TEI[1]/text[1]/body[1]/p[2]::601" xml:id="UID-FAKE-13271">
+        <rs ana="https://topostext.org/place/419125STel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::10 /TEI[1]/text[1]/body[1]/p[3]::16" xml:id="UID-FAKE-13272">
+        <rs ana="https://topostext.org/place/392261ILes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::120 /TEI[1]/text[1]/body[1]/p[3]::129" xml:id="UID-FAKE-13273">
+        <rs ana="https://topostext.org/place/383232PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::164 /TEI[1]/text[1]/body[1]/p[3]::172" xml:id="UID-FAKE-13274">
+        <rs ana="https://topostext.org/place/381239LPen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::338 /TEI[1]/text[1]/body[1]/p[3]::343" xml:id="UID-FAKE-13275">
+        <rs ana="https://topostext.org/place/380237SKrR"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::389 /TEI[1]/text[1]/body[1]/p[3]::397" xml:id="UID-FAKE-13276">
+        <rs ana="https://topostext.org/place/383232PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::3 /TEI[1]/text[1]/body[1]/p[4]::7" xml:id="UID-FAKE-13277">
+        <rs ana="https://topostext.org/place/419125PRom"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::385 /TEI[1]/text[1]/body[1]/p[4]::393" xml:id="UID-FAKE-13278">
+        <rs ana="https://topostext.org/place/383232PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::410 /TEI[1]/text[1]/body[1]/p[4]::418" xml:id="UID-FAKE-13279">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::297 /TEI[1]/text[1]/body[1]/p[5]::301" xml:id="UID-FAKE-13280">
+        <rs ana="https://topostext.org/place/380237SApP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::3 /TEI[1]/text[1]/body[1]/p[6]::11" xml:id="UID-FAKE-13281">
+        <rs ana="https://topostext.org/place/383232PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::153 /TEI[1]/text[1]/body[1]/p[8]::159" xml:id="UID-FAKE-13282">
+        <rs ana="https://topostext.org/place/369273SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::160 /TEI[1]/text[1]/body[1]/p[8]::167" xml:id="UID-FAKE-13283">
+        <rs ana="https://topostext.org/place/376218GSau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::199 /TEI[1]/text[1]/body[1]/p[8]::207" xml:id="UID-FAKE-13284">
+        <rs ana="https://topostext.org/place/382265UEry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::211 /TEI[1]/text[1]/body[1]/p[8]::216" xml:id="UID-FAKE-13285">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::224 /TEI[1]/text[1]/body[1]/p[8]::228" xml:id="UID-FAKE-13286">
+        <rs ana="https://topostext.org/place/333352PTyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::270 /TEI[1]/text[1]/body[1]/p[8]::279" xml:id="UID-FAKE-13287">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::384 /TEI[1]/text[1]/body[1]/p[8]::405" xml:id="UID-FAKE-13288">
+        <rs ana="https://topostext.org/place/374244SDem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::428 /TEI[1]/text[1]/body[1]/p[8]::434" xml:id="UID-FAKE-13289">
+        <rs ana="https://topostext.org/place/369273SHer"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 27</head>
+      <p>Of the gods the Thespians have from the beginning honored Eros most, and they have a very ancient image of him, an unwrought stone. Who established among the Thespians the custom of worshipping Eros more than any other god I do not know. He is worshipped equally by the people of Parium on the Hellespont, who were originally colonists from Erythrae in Ionia, but today are subject to the Romans.</p>
+      <p>Most men consider Eros to be the youngest of the gods and the son of Aphrodite. But Olen the Lycian, who composed the oldest Greek hymns, says in a hymn to Eileithyia that she was the mother of Eros. Later than Olen, both Pamphos and Orpheus wrote hexameter verse, and composed poems on Eros, in order that they might be among those sung by the Lycomidae to accompany the ritual. I read them after conversation with a Torchbearer. Of these things I will make no further mention. Hesiod, or he who wrote the Theogony fathered on Hesiod, writes, I know, that Chaos was born first, and after Chaos, Earth, Tartarus and Eros.</p>
+      <p>Sappho of Lesbos wrote many poems about Eros, but they are not consistent. Later on Lysippus made a bronze Eros for the Thespians, and previously Praxiteles one of Pentelic marble. The story of Phryne and the trick she played on Praxiteles I have related in another place. The first to remove the image of Eros, it is said, was Gaius the Roman Emperor; Claudius, they say, sent it back to Thespiae, but Nero carried it away a second time.</p>
+      <p>At Rome the image perished by fire. Of the pair who sinned against the god, Gaius was killed by a private soldier, just as he was giving the password; he had made the soldier very angry by always giving the same password with a covert sneer. The other, Nero, in addition to his violence to his mother, committed accursed and hateful crimes against his wedded wives. The modern Eros at Thespiae was made by the Athenian Menodorus, who copied the work of Praxiteles.</p>
+      <p>Here too are statues made by Praxiteles himself, one of Aphrodite and one of Phryne, both Phryne and the goddess being of stone. Elsewhere too is a sanctuary of Aphrodite Melainis (black), and a theater and an agora, well worth seeing. Here is set up Hesiod in bronze. Not far from the agora is a Nike of bronze and a small temple of the Muses. In it are small agalmata made of stone.</p>
+      <p>At Thespiae is also a sanctuary of Heracles. The priestess there is a virgin, who acts as such until she dies. The reason of this is said to be as follows. Heracles, they say, had intercourse with the fifty daughters of Thestius, except one, in a single night. She was the only one who refused to have connection with him. Heracles, thinking that he had been insulted, condemned her to remain a virgin all her life, serving him as his priest.</p>
+      <p>I have heard another story, how Heracles had connection with all the virgin daughters of Thestius in one and the same night, and how they all bore him sons, the youngest and the eldest bearing twins. But I cannot think it credible that Heracles would rise to such a pitch of wrath against a daughter of a friend. Moreover, while he was still among men, punishing them for insolence, and especially such as were impious towards the gods, he would not himself have set up a temple and appointed a priestess to himself, just as though he were a god.</p>
+      <p>As a matter of fact this sanctuary seemed to me too old to be of the time of Heracles the son of Amphitryon, and to belong to Heracles called one of the Idaean Dactyls, to whom I found the people of Erythrae in Ionia and of Tyre possessed sanctuaries. Nevertheless, the Boeotians were not unacquainted with this name of Heracles, seeing that they themselves say that the sanctuary of Demeter of Mycalessus has been entrusted to Idaean Heracles.</p>
+    </body>
+  </text>
+</TEI>

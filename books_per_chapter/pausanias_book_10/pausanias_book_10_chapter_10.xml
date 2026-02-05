@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::18 /TEI[1]/text[1]/body[1]/p[1]::34" xml:id="UID-FAKE-14206">
+        <rs ana="https://topostext.org/place/380237SEpH"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::150 /TEI[1]/text[1]/body[1]/p[1]::158" xml:id="UID-FAKE-14207">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::453 /TEI[1]/text[1]/body[1]/p[1]::460" xml:id="UID-FAKE-14208">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::482 /TEI[1]/text[1]/body[1]/p[1]::488" xml:id="UID-FAKE-14209">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::192 /TEI[1]/text[1]/body[1]/p[2]::198" xml:id="UID-FAKE-14210">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::206 /TEI[1]/text[1]/body[1]/p[2]::215" xml:id="UID-FAKE-14211">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::246 /TEI[1]/text[1]/body[1]/p[2]::254" xml:id="UID-FAKE-14212">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::296 /TEI[1]/text[1]/body[1]/p[2]::307" xml:id="UID-FAKE-14213">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::54 /TEI[1]/text[1]/body[1]/p[3]::61" xml:id="UID-FAKE-14214">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::131 /TEI[1]/text[1]/body[1]/p[3]::137" xml:id="UID-FAKE-14215">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::283 /TEI[1]/text[1]/body[1]/p[3]::293" xml:id="UID-FAKE-14216">
+        <rs ana="https://topostext.org/place/382240SRAm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::71 /TEI[1]/text[1]/body[1]/p[4]::78" xml:id="UID-FAKE-14217">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::147 /TEI[1]/text[1]/body[1]/p[4]::155" xml:id="UID-FAKE-14218">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::176 /TEI[1]/text[1]/body[1]/p[4]::189" xml:id="UID-FAKE-14219">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::193 /TEI[1]/text[1]/body[1]/p[4]::198" xml:id="UID-FAKE-14220">
+        <rs ana="https://topostext.org/place/382234DOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::202 /TEI[1]/text[1]/body[1]/p[4]::208" xml:id="UID-FAKE-14221">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::272 /TEI[1]/text[1]/body[1]/p[4]::279" xml:id="UID-FAKE-14222">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::313 /TEI[1]/text[1]/body[1]/p[4]::319" xml:id="UID-FAKE-14223">
+        <rs ana="https://topostext.org/place/383231ALeT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::329 /TEI[1]/text[1]/body[1]/p[4]::336" xml:id="UID-FAKE-14224">
+        <rs ana="https://topostext.org/place/376231UHyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::50 /TEI[1]/text[1]/body[1]/p[5]::57" xml:id="UID-FAKE-14225">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::73 /TEI[1]/text[1]/body[1]/p[5]::80" xml:id="UID-FAKE-14226">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::178 /TEI[1]/text[1]/body[1]/p[5]::183" xml:id="UID-FAKE-14227">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::53 /TEI[1]/text[1]/body[1]/p[6]::63" xml:id="UID-FAKE-14228">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::101 /TEI[1]/text[1]/body[1]/p[6]::111" xml:id="UID-FAKE-14229">
+        <rs ana="https://topostext.org/place/405188RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::119 /TEI[1]/text[1]/body[1]/p[6]::124" xml:id="UID-FAKE-14230">
+        <rs ana="https://topostext.org/place/405188RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::162 /TEI[1]/text[1]/body[1]/p[6]::170" xml:id="UID-FAKE-14231">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::210 /TEI[1]/text[1]/body[1]/p[6]::218" xml:id="UID-FAKE-14232">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::238 /TEI[1]/text[1]/body[1]/p[6]::251" xml:id="UID-FAKE-14233">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::287 /TEI[1]/text[1]/body[1]/p[6]::294" xml:id="UID-FAKE-14234">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::98 /TEI[1]/text[1]/body[1]/p[7]::103" xml:id="UID-FAKE-14235">
+        <rs ana="https://topostext.org/place/410155RAus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::189 /TEI[1]/text[1]/body[1]/p[8]::197" xml:id="UID-FAKE-14236">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::264 /TEI[1]/text[1]/body[1]/p[8]::269" xml:id="UID-FAKE-14237">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 10</head>
+      <p>On the base below the Trojan Horse is an inscription which says that the statues were dedicated from a tithe of the spoils taken in the engagement at Marathon. They represent Athena, Apollo, and Miltiades, one of the generals. Of those called heroes there are Erechtheus, Cecrops, Pandion, Leos, Antiochus, son of Heracles by Meda, daughter of Phylas, as well as Aegeus and Acamas, one of the sons of Theseus. These heroes gave names, in obedience to a Delphic oracle, to tribes at Athens. Codrus however, the son of Melanthus, Theseus, and Neleus, these are not givers of names to tribes.</p>
+      <p>The statues enumerated were made by Pheidias, and really are a tithe of the spoils of the battle. But the statues of Antigonus, of his son Demetrius, and of Ptolemy the Egyptian, were sent to Delphi by the Athenians afterwards. The statue of the Egyptian they sent out of good-will; those of the Macedonians were sent because of the dread that they inspired.</p>
+      <p>Near the horse are also other votive offerings of the Argives, likenesses of the captains of those who with Polyneices made war on Thebes: Adrastus, the son of Talaus, Tydeus, son of Oeneus, the descendants of Proetus, namely, Capaneus, son of Hipponous, and Eteoclus, son of Iphis, Polyneices, and Hippomedon, son of the sister of Adrastus. Near is represented the chariot of Amphiaraus, and in it stands Baton, a relative of Amphiaraus who served as his charioteer. The last of them is Alitherses.</p>
+      <p>These are works of Hypatodorus and Aristogeiton, who made them, as the Argives themselves say, from the spoils of the victory which they and their Athenian allies won over the Lacedemonians at Oenoe in Argive territory. From spoils of the same action, it seems to me, the Argives set up statues of those whom the Greeks call the Epigoni. For there stand statues of these also, Sthenelus, Alcmaeon, who I think was honored before Amphilochus on account of his age, Promachus also, Thersander, Aegialeus and Diomedes. Between Diomedes and Aegialeus is Euryalus.</p>
+      <p>Opposite them are other statues, dedicated by the Argives who helped the Thebans under Epaminondas to found Messene. The statues are of heroes: Danaus, the most powerful king of Argos, and Hypermestra, for she alone of her sisters kept her hands undefiled. By her side is Lynceus also, and the whole family of them to Heracles, and further back still to Perseus.</p>
+      <p>The bronze horses and captive women dedicated by the Tarentines were made from spoils taken from the Messapians, a non-Greek people bordering on the territory of Tarentum, and are works of Ageladas the Argive. Tarentum is a colony of the Lacedemonians, and its founder was Phalanthus, a Spartan. On setting out to found a colony Phalanthus received an oracle from Delphi, declaring that when he should feel rain under a cloudless sky (aethra), he would then win both a territory and a city.</p>
+      <p>At first he neither examined the oracle himself nor informed one of his interpreters, but came to Italy with his ships. But when, although he won victories over the barbarians, he succeeded neither in taking a city nor in making himself master of a territory, he called to mind the oracle, and thought that the god had foretold an impossibility. For never could rain fall from a clear and cloudless sky. When he was in despair, his wife, who had accompanied him from home, among other endearments placed her husband"s head between her knees and began to pick out the lice. And it chanced that the wife, such was her affection, wept as she saw her husband"s fortunes coming to nothing.</p>
+      <p>As her tears fell in showers, and she wetted the head of Phalanthus, he realized the meaning of the oracle, for his wife"s name was Aethra. And so on that night he took from the barbarians Tarentum, the largest and most prosperous city on the coast. They say that Taras the hero was a son of Poseidon by a nymph of the country, and that after this hero were named both the city and the river. For the river, just like the city, is called Taras.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::36 /TEI[1]/text[1]/body[1]/p[1]::43" xml:id="UID-FAKE-13123">
+        <rs ana="https://topostext.org/place/383236PTan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::50 /TEI[1]/text[1]/body[1]/p[2]::58" xml:id="UID-FAKE-13124">
+        <rs ana="https://topostext.org/place/384238PEre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::74 /TEI[1]/text[1]/body[1]/p[2]::81" xml:id="UID-FAKE-13125">
+        <rs ana="https://topostext.org/place/383236PTan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::87 /TEI[1]/text[1]/body[1]/p[2]::93" xml:id="UID-FAKE-13126">
+        <rs ana="https://topostext.org/place/385239IEub"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::228 /TEI[1]/text[1]/body[1]/p[2]::236" xml:id="UID-FAKE-13127">
+        <rs ana="https://topostext.org/place/385239IEub"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::262 /TEI[1]/text[1]/body[1]/p[2]::271" xml:id="UID-FAKE-13128">
+        <rs ana="https://topostext.org/place/379224CHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::449 /TEI[1]/text[1]/body[1]/p[2]::456" xml:id="UID-FAKE-13129">
+        <rs ana="https://topostext.org/place/383236PTan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::525 /TEI[1]/text[1]/body[1]/p[2]::531" xml:id="UID-FAKE-13130">
+        <rs ana="https://topostext.org/place/365224SDeK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::35 /TEI[1]/text[1]/body[1]/p[3]::42" xml:id="UID-FAKE-13131">
+        <rs ana="https://topostext.org/place/383236PTan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::209 /TEI[1]/text[1]/body[1]/p[3]::215" xml:id="UID-FAKE-13132">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::327 /TEI[1]/text[1]/body[1]/p[3]::332" xml:id="UID-FAKE-13133">
+        <rs ana="https://topostext.org/place/376231BDfn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::364 /TEI[1]/text[1]/body[1]/p[3]::372" xml:id="UID-FAKE-13134">
+        <rs ana="https://topostext.org/place/390271RAio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::145 /TEI[1]/text[1]/body[1]/p[4]::151" xml:id="UID-FAKE-13135">
+        <rs ana="https://topostext.org/place/385280RLyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::49 /TEI[1]/text[1]/body[1]/p[5]::56" xml:id="UID-FAKE-13136">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::76 /TEI[1]/text[1]/body[1]/p[5]::83" xml:id="UID-FAKE-13137">
+        <rs ana="https://topostext.org/place/385236WEur"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::87 /TEI[1]/text[1]/body[1]/p[5]::102" xml:id="UID-FAKE-13138">
+        <rs ana="https://topostext.org/place/385235LMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::145 /TEI[1]/text[1]/body[1]/p[5]::153" xml:id="UID-FAKE-13139">
+        <rs ana="https://topostext.org/place/385235PAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::162 /TEI[1]/text[1]/body[1]/p[5]::170" xml:id="UID-FAKE-13140">
+        <rs ana="https://topostext.org/place/385235PAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::233 /TEI[1]/text[1]/body[1]/p[5]::241" xml:id="UID-FAKE-13141">
+        <rs ana="https://topostext.org/place/385235PAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::402 /TEI[1]/text[1]/body[1]/p[5]::409" xml:id="UID-FAKE-13142">
+        <rs ana="https://topostext.org/place/383233SKab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::293 /TEI[1]/text[1]/body[1]/p[6]::298" xml:id="UID-FAKE-13143">
+        <rs ana="https://topostext.org/place/371255INax"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::315 /TEI[1]/text[1]/body[1]/p[6]::320" xml:id="UID-FAKE-13144">
+        <rs ana="https://topostext.org/place/371252PPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::346 /TEI[1]/text[1]/body[1]/p[6]::354" xml:id="UID-FAKE-13145">
+        <rs ana="https://topostext.org/place/385235PAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::393 /TEI[1]/text[1]/body[1]/p[6]::408" xml:id="UID-FAKE-13146">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::326 /TEI[1]/text[1]/body[1]/p[7]::334" xml:id="UID-FAKE-13147">
+        <rs ana="https://topostext.org/place/385235PAnt"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 22</head>
+      <p>Beside the sanctuary of Dionysus at Tanagra are three temples, one of Themis, another of Aphrodite, and the third of Apollo; with Apollo are joined Artemis and Leto. There are sanctuaries of Hermes Kriophoros (Ram-bearer) and of Hermes called Promachus (Champion). They account for the former surname by a story that Hermes averted a pestilence from the city by carrying a ram round the walls; to commemorate this Calamis made an image of Hermes carrying a ram upon his shoulders. Whichever of the youths is judged to be the most handsome goes round the walls at the feast of Hermes, carrying a lamb on his shoulders.</p>
+      <p>Hermes Promachos is said, on the occasion when an Eretrian fleet put into Tanagra from Euboea, to have led out the youths to the battle; he himself, armed with a scraper like a youth, was chiefly responsible for the rout of the Euboeans. In the sanctuary of the Promachos is kept all that is left of the wild strawberry-tree under which they believe that Hermes was nourished. Near by is a theater and by it a portico. I consider that the people of Tanagra have better arrangements for the worship of the gods than any other Greeks. For their houses are in one place, while the sanctuaries are apart beyond the houses in a clear space where no men live.</p>
+      <p>Corinna, the only lyric poetess of Tanagra, has her tomb in a, conspicuous part of the city, and in the gymnasium is a painting of Corinna binding her head with a fillet for the victory she won over Pindar at Thebes with a lyric poem. I believe that her victory was partly due to the dialect she used, for she composed, not in Doric speech like Pindar, but in one Aeolians would understand, and partly to her being, if one may judge from the likeness, the most beautiful woman of her time.</p>
+      <p>Here there are two breeds of cocks, the fighters and the blackbirds, as they are called. The size of these blackbirds is the same as that of the Lydian birds, but in color they are like crows, while wattles and comb are very like the anemone. They have small, white markings on the end of the beak and at the end of the tail.</p>
+      <p>Such is the appearance of the blackbirds. Within Boeotia to the left of the Euripus is Mount Messapion, at the foot of which on the coast is the Boeotian city of Anthedon. Some say that the city received its name from a nymph called Anthedon, while others say that one Anthas was despot here, a son of Poseidon by Alcyone, the daughter of Atlas. Just about the center of Anthedon is a sanctuary of the Cabeiri, with a grove around it, near which is a temple of Demeter and her daughter, with images of white marble.</p>
+      <p>There are a sanctuary and an image of Dionysus in front of the city on the side towards the mainland. Here are the graves of the children of Iphimedeia and Aloeus. They met their end at the hands of Apollo according to both Homer and Pindar, the latter adding that their doom overtook them in Naxos, which lies off Paros. Their tombs then are in Anthedon, and by the sea is what is called the Leap of Glaucus.</p>
+      <p>That Glaucus was a fisherman, who, on eating of the grass, turned into a deity of the sea and ever since has foretold to men the future, is a belief generally accepted; in particular, seafaring men tell every year many a tale about the soothsaying of Glaucus. Pindar and Aeschylus got a story about Glaucus from the people of Anthedon. Pindar has not thought fit to say much about him in his odes, but the story actually supplied Aeschylus with material for a play.</p>
+    </body>
+  </text>
+</TEI>

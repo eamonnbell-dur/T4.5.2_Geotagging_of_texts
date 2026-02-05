@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::32 /TEI[1]/text[1]/body[1]/p[1]::38" xml:id="UID-FAKE-12559">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::65 /TEI[1]/text[1]/body[1]/p[1]::72" xml:id="UID-FAKE-12560">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::169 /TEI[1]/text[1]/body[1]/p[1]::175" xml:id="UID-FAKE-12561">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::207 /TEI[1]/text[1]/body[1]/p[1]::214" xml:id="UID-FAKE-12562">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::295 /TEI[1]/text[1]/body[1]/p[1]::302" xml:id="UID-FAKE-12563">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::311 /TEI[1]/text[1]/body[1]/p[1]::316" xml:id="UID-FAKE-12564">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::335 /TEI[1]/text[1]/body[1]/p[1]::343" xml:id="UID-FAKE-12565">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::9 /TEI[1]/text[1]/body[1]/p[2]::19" xml:id="UID-FAKE-12566">
+        <rs ana="https://topostext.org/place/339355UBer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::87 /TEI[1]/text[1]/body[1]/p[2]::94" xml:id="UID-FAKE-12567">
+        <rs ana="https://topostext.org/place/388238RAba"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::139 /TEI[1]/text[1]/body[1]/p[2]::144" xml:id="UID-FAKE-12568">
+        <rs ana="https://topostext.org/place/383233XCad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::219 /TEI[1]/text[1]/body[1]/p[2]::230" xml:id="UID-FAKE-12569">
+        <rs ana="https://topostext.org/place/335354RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::236 /TEI[1]/text[1]/body[1]/p[2]::241" xml:id="UID-FAKE-12570">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::344 /TEI[1]/text[1]/body[1]/p[2]::351" xml:id="UID-FAKE-12571">
+        <rs ana="https://topostext.org/place/383233XCad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::390 /TEI[1]/text[1]/body[1]/p[2]::397" xml:id="UID-FAKE-12572">
+        <rs ana="https://topostext.org/place/383233XCad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::440 /TEI[1]/text[1]/body[1]/p[2]::446" xml:id="UID-FAKE-12573">
+        <rs ana="https://topostext.org/place/383233XCad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::493 /TEI[1]/text[1]/body[1]/p[2]::498" xml:id="UID-FAKE-12574">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::83 /TEI[1]/text[1]/body[1]/p[3]::89" xml:id="UID-FAKE-12575">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::408 /TEI[1]/text[1]/body[1]/p[3]::416" xml:id="UID-FAKE-12576">
+        <rs ana="https://topostext.org/place/412205REnc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::430 /TEI[1]/text[1]/body[1]/p[3]::440" xml:id="UID-FAKE-12577">
+        <rs ana="https://topostext.org/place/412205REnc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::96 /TEI[1]/text[1]/body[1]/p[5]::102" xml:id="UID-FAKE-12578">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::188 /TEI[1]/text[1]/body[1]/p[5]::194" xml:id="UID-FAKE-12579">
+        <rs ana="https://topostext.org/place/367225PLas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::97 /TEI[1]/text[1]/body[1]/p[6]::103" xml:id="UID-FAKE-12580">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::348 /TEI[1]/text[1]/body[1]/p[6]::355" xml:id="UID-FAKE-12581">
+        <rs ana="https://topostext.org/place/383233XCad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::415 /TEI[1]/text[1]/body[1]/p[6]::421" xml:id="UID-FAKE-12582">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::56 /TEI[1]/text[1]/body[1]/p[7]::63" xml:id="UID-FAKE-12583">
+        <rs ana="https://topostext.org/place/383233GAaZ"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::111 /TEI[1]/text[1]/body[1]/p[7]::117" xml:id="UID-FAKE-12584">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::200 /TEI[1]/text[1]/body[1]/p[7]::206" xml:id="UID-FAKE-12585">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::408 /TEI[1]/text[1]/body[1]/p[7]::415" xml:id="UID-FAKE-12586">
+        <rs ana="https://topostext.org/place/385280RLyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::431 /TEI[1]/text[1]/body[1]/p[7]::437" xml:id="UID-FAKE-12587">
+        <rs ana="https://topostext.org/place/385280RLyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::26 /TEI[1]/text[1]/body[1]/p[8]::32" xml:id="UID-FAKE-12588">
+        <rs ana="https://topostext.org/place/377214SArA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::188 /TEI[1]/text[1]/body[1]/p[8]::197" xml:id="UID-FAKE-12589">
+        <rs ana="https://topostext.org/place/410290UByz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::406 /TEI[1]/text[1]/body[1]/p[8]::411" xml:id="UID-FAKE-12590">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::57 /TEI[1]/text[1]/body[1]/p[9]::63" xml:id="UID-FAKE-12591">
+        <rs ana="https://topostext.org/place/383233WDir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::118 /TEI[1]/text[1]/body[1]/p[9]::124" xml:id="UID-FAKE-12592">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::382 /TEI[1]/text[1]/body[1]/p[9]::389" xml:id="UID-FAKE-12593">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::343 /TEI[1]/text[1]/body[1]/p[10]::350" xml:id="UID-FAKE-12594">
+        <rs ana="https://topostext.org/place/383235UEte"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::438 /TEI[1]/text[1]/body[1]/p[11]::447" xml:id="UID-FAKE-12595">
+        <rs ana="https://topostext.org/place/383235UEte"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::492 /TEI[1]/text[1]/body[1]/p[11]::499" xml:id="UID-FAKE-12596">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::24 /TEI[1]/text[1]/body[1]/p[12]::30" xml:id="UID-FAKE-12597">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::165 /TEI[1]/text[1]/body[1]/p[12]::170" xml:id="UID-FAKE-12598">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::223 /TEI[1]/text[1]/body[1]/p[12]::229" xml:id="UID-FAKE-12599">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::212 /TEI[1]/text[1]/body[1]/p[13]::219" xml:id="UID-FAKE-12600">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::263 /TEI[1]/text[1]/body[1]/p[13]::269" xml:id="UID-FAKE-12601">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::275 /TEI[1]/text[1]/body[1]/p[13]::282" xml:id="UID-FAKE-12602">
+        <rs ana="https://topostext.org/place/384234UGli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::313 /TEI[1]/text[1]/body[1]/p[13]::319" xml:id="UID-FAKE-12603">
+        <rs ana="https://topostext.org/place/384234UGli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::412 /TEI[1]/text[1]/body[1]/p[13]::419" xml:id="UID-FAKE-12604">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::473 /TEI[1]/text[1]/body[1]/p[13]::479" xml:id="UID-FAKE-12605">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::534 /TEI[1]/text[1]/body[1]/p[13]::541" xml:id="UID-FAKE-12606">
+        <rs ana="https://topostext.org/place/405195RIll"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::4 /TEI[1]/text[1]/body[1]/p[14]::11" xml:id="UID-FAKE-12607">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::168 /TEI[1]/text[1]/body[1]/p[14]::173" xml:id="UID-FAKE-12608">
+        <rs ana="https://topostext.org/place/375275RMys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::272 /TEI[1]/text[1]/body[1]/p[14]::277" xml:id="UID-FAKE-12609">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::359 /TEI[1]/text[1]/body[1]/p[14]::364" xml:id="UID-FAKE-12610">
+        <rs ana="https://topostext.org/place/389271UEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::396 /TEI[1]/text[1]/body[1]/p[14]::402" xml:id="UID-FAKE-12611">
+        <rs ana="https://topostext.org/place/403273WGra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[15]::94 /TEI[1]/text[1]/body[1]/p[15]::98" xml:id="UID-FAKE-12612">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[15]::527 /TEI[1]/text[1]/body[1]/p[15]::534" xml:id="UID-FAKE-12613">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[16]::283 /TEI[1]/text[1]/body[1]/p[16]::290" xml:id="UID-FAKE-12614">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 5</head>
+      <p>The first to occupy the land of Thebes are said to have been the Ectenes, whose king was Ogygus, an aboriginal. From his name is derived Ogygian, which is an epithet of Thebes used by most of the poets. The Ectenes perished, they say, by pestilence, and after them there settled in the land the Hyantes and the Aones, who I think were Boeotian tribes and not foreigners.</p>
+      <p>When the Phoenician army under Cadmus invaded the land these tribes were defeated; the Hyantes fled from the land when night came, but the Aones begged for mercy, and were allowed by Cadmus to remain and unite with the Phoenicians. The Aones still lived in village communities, but Cadmus built the city which even at the present day is called Cadmeia. Afterwards the city grew, and so the Cadmeia became the acropolis of the lower city of Thebes. Cadmus made a brilliant marriage, if, as the Greek legend says, he indeed took to wife a daughter of Aphrodite and Ares. His daughters too have made him a name; Semele was famed for having a child by Zeus, Ino for being a divinity of the sea.</p>
+      <p>In the time of Cadmus, the greatest power, next after his, was in the hands of the Sparti, namely, Chthonius, Hyperenor, Pelorus and Udaeus; but it was Echion who, for his great valor, was preferred by Cadmus to be his son-in-law. As I was unable to discover anything new about these men, I adopt the story that makes their name result from the way in which they came into being. When Cadmus migrated to the Illyrian tribe of the Encheleans, Polydorus his son got the kingdom.</p>
+      <p>Now Pentheus the son of Echion was also powerful by reason of his noble birth and friendship with the king. Being a man of insolent character who had shown impiety to Dionysus, he was punished by the god. Polydorus had a son, Labdacus. When Polydorus was about to die, Labdacus was still a child, and so he was entrusted, along with the government, to the care of Nycteus.</p>
+      <p>The sequel of this story, how Nycteus died, and how the care of the boy with the sovereignty of Thebes devolved on Lycus, the brother of Nycteus, I have already set forth in my account of Sicyon. When Labdacus grew up, Lycus handed over to him the reins of government; but Labdacus too died shortly afterwards, and Lycus again became guardian, this time to Laius, the son of Labdacus.</p>
+      <p>While Lycus was regent for the second time, Amphion and Zethus gathered a force and came back to Thebes. Laius was secretly removed by such as were anxious that the race of Cadmus should not be forgotten by posterity, and Lycus was overcome in the fighting by the sons of Antiope. When they succeeded to the throne they added the lower city to the Cadmeia, giving it, because of their kinship to Thebe, the name of Thebes.</p>
+      <p>What I have said is confirmed by what Homer says in the Odyssey: “Who first laid the foundation of seven-gated Thebes, And built towers about it, for without towers they could not Dwell in wide-wayed Thebes, in spite of their strength.” Homer, however, makes no mention in his poetry of Amphion"s singing, and how he built the wall to the music of his harp. Amphion won fame for his music, learning from the Lydians themselves the Lydian mode, because of his relationship to Tantalus, and adding three strings to the four old ones.</p>
+      <p>The writer of the poem on Europa says that Amphion was the first harpist, and that Hermes was his teacher. He also says that Amphion"s songs drew even stones and beasts after him. Myro of Byzantium, a poetess who wrote epic and elegiac poetry, states that Amphion was the first to set up an altar to Hermes, and for this reason was presented by him with a harp. It is also said that Amphion is punished in Hades for being among those who made a mock of Leto and her children.</p>
+      <p>The punishment of Amphion is dealt with in the epic poem Minyad, which treats both of Amphion and also of Thamyris of Thrace. The houses of both Amphion and Zethus were visited by bereavement; Amphion"s was left desolate by plague, and the son of Zethus was killed through some mistake or other of his mother. Zethus himself died of a broken heart, and so Laius was restored by the Thebans to the kingdom.</p>
+      <p>When Laius was king and married to Iocasta, an oracle came from Delphi that, if Iocasta bore a child, Laius would meet his death at his son"s hands. Whereupon Oedipus was exposed, who was fated when he grew up to kill his father; he also married his mother. But I do not think that he had children by her; my witness is Homer, who says in the Odyssey:</p>
+      <p>“And I saw the mother of Oedipodes, fair Epicaste, Who wrought a dreadful deed unwittingly, Marrying her son, who slew his father and Wedded her. But forthwith the gods made it known among men.” How could they “have made it known forthwith,” if Epicaste had borne four children to Oedipus? But the mother of these children was Euryganeia, daughter of Hyperphas. Among the proofs of this are the words of the author of the poem called the Oedipodia; and moreover, Onasias painted a picture at Plataea of Euryganeia bowed with grief because of the fight between her children.</p>
+      <p>Polyneices retired from Thebes while Oedipus was still alive and reigning, in fear lest the curses of the father should be brought to pass upon the sons. He went to Argos and married a daughter of Adrastus, but returned to Thebes, being fetched by Eteocles after the death of Oedipus. On his return he quarrelled with Eteocles, and so went into exile a second time. He begged Adrastus to give him a force to effect his return, but lost his army and fought a duel with Eteocles as the result of a challenge.</p>
+      <p>Both fell in the duel, and the kingdom devolved on Laodamas, son of Eteocles; Creon, the son of Menoeceus, was in power as regent and guardian of Laodamas. When the latter had grown up and held the kingship, the Argives led their army for the second time against Thebes. The Thebans encamped over against them at Glisas. When they joined in battle, Aegialeus, the son of Adrastus, was killed by Laodamas but the Argives were victorious in the fight, and Laodamas, with any Theban willing to accompany him, withdrew when night came to Illyria.</p>
+      <p>The Argives captured Thebes and handed it over to Thersander, son of Polyneices. When the expedition under Agamemnon against Troy mistook its course and the reverse in Mysia occurred, Thersander too met his death at the hands of Telephus. He had shown himself the bravest Greek at the battle; his tomb, the stone in the open part of the agora, is in the city Elaea on the way to the plain of the Caicus, and the natives say that they sacrifice to him as to a hero.</p>
+      <p>On the death of Thersander, when a second expedition was being mustered to fight Alexander at Troy, Peneleos was chosen to command it, because Tisamenus, the son of Thersander, was not yet old enough. When Peneleos was killed by Eurypylus, the son of Telephus, Tisamenus was chosen king, who was the son of Thersander and of Demonassa, the daughter of Amphiaraus. The Furies of Laius and Oedipus did not vent their wrath on Tisamenus, but they did on his son Autesion, so that, at the bidding of the oracle, he migrated to the Dorians.</p>
+      <p>On the departure of Autesion, Damasichthon was chosen to be king, who was a son of Opheltes, the son of Peneleos. This Damasichthon had a son Ptolemy, who was the father of Xanthus. Xanthus fought a duel with Andropompus, who killed him by craft and not in fair fight. Hereafter the Thebans thought it better to entrust the government to several people, rather than to let everything depend on one man.</p>
+    </body>
+  </text>
+</TEI>

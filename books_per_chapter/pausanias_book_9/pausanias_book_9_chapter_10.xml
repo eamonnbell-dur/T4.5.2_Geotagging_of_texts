@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::120 /TEI[1]/text[1]/body[1]/p[1]::131" xml:id="UID-FAKE-12762">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::90 /TEI[1]/text[1]/body[1]/p[2]::98" xml:id="UID-FAKE-12763">
+        <rs ana="https://topostext.org/place/383233SIsm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::113 /TEI[1]/text[1]/body[1]/p[2]::120" xml:id="UID-FAKE-12764">
+        <rs ana="https://topostext.org/place/383233SIsm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::210 /TEI[1]/text[1]/body[1]/p[2]::217" xml:id="UID-FAKE-12765">
+        <rs ana="https://topostext.org/place/385225SAPr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::384 /TEI[1]/text[1]/body[1]/p[2]::394" xml:id="UID-FAKE-12766">
+        <rs ana="https://topostext.org/place/374273SDid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::651 /TEI[1]/text[1]/body[1]/p[2]::661" xml:id="UID-FAKE-12767">
+        <rs ana="https://topostext.org/place/374273SDid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::686 /TEI[1]/text[1]/body[1]/p[2]::694" xml:id="UID-FAKE-12768">
+        <rs ana="https://topostext.org/place/383233SIsm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::285 /TEI[1]/text[1]/body[1]/p[3]::290" xml:id="UID-FAKE-12769">
+        <rs ana="https://topostext.org/place/383233GAaZ"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::63 /TEI[1]/text[1]/body[1]/p[4]::69" xml:id="UID-FAKE-12770">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::155 /TEI[1]/text[1]/body[1]/p[4]::163" xml:id="UID-FAKE-12771">
+        <rs ana="https://topostext.org/place/383233WIsm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::164 /TEI[1]/text[1]/body[1]/p[4]::170" xml:id="UID-FAKE-12772">
+        <rs ana="https://topostext.org/place/383233SIsm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::19 /TEI[1]/text[1]/body[1]/p[5]::27" xml:id="UID-FAKE-12773">
+        <rs ana="https://topostext.org/place/383233SIsm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::500 /TEI[1]/text[1]/body[1]/p[5]::508" xml:id="UID-FAKE-12774">
+        <rs ana="https://topostext.org/place/383233SIsm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::509 /TEI[1]/text[1]/body[1]/p[5]::518" xml:id="UID-FAKE-12775">
+        <rs ana="https://topostext.org/place/399226SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::546 /TEI[1]/text[1]/body[1]/p[5]::553" xml:id="UID-FAKE-12776">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::255 /TEI[1]/text[1]/body[1]/p[6]::260" xml:id="UID-FAKE-12777">
+        <rs ana="https://topostext.org/place/378218WLad"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 10</head>
+      <p>Not far from the gate is a common tomb, where lie all those who met their death when fighting against Alexander and the Macedonians. Hard by they show a place where, it is said, Cadmus (he may believe the story who likes) sowed the teeth of the dragon, which he slew at the fountain, from which teeth men came up out of the earth.</p>
+      <p>On the right of the gate is a hill sacred to Apollo. Both the hill and the god are called Ismenian, as the river Ismenus flows by the place. First at the entrance are Athena and Hermes, stone figures and named Pronaia (Of the fore-temple). The Hermes is said to have been made by Pheidias, the Athena by Scopas. The temple is built behind. The cult statue is in size equal to that at Branchidae; and does not differ from it at all in shape. Whoever has seen one of these two images, and learnt who was the artist, does not need much skill to discern, when he looks at the other, that it is a work of Canachus. The only difference is that the image at Branchidae is of bronze, while the Ismenian is of cedar-wood.</p>
+      <p>Here there is a stone, on which, they say, used to sit Manto, the daughter of Teiresias. This stone lies before the entrance, and they still call it Manto"s chair. On the right of the temple are statues of women made of stone, said to be portraits of Henioche and Pyrrha, daughters of Creon, who reigned as guardian of Laodamas, the son of Eteocles.</p>
+      <p>The following custom is, to my knowledge, still carried out in Thebes. A boy of noble family, who is himself both handsome and strong, is chosen priest of Ismenian Apollo for a year. He is called Laurel-bearer, for the boys wear wreaths of laurel leaves. I cannot say for certain whether all alike who have worn the laurel dedicate by custom a bronze tripod to the god; but I do not think that it is the rule for all, because I did not see many votive tripods there. But the wealthier of the boys do certainly dedicate them. Most remarkable both for its age and for the fame of him who dedicated it is a tripod dedicated by Amphitryon for Heracles after he had worn the laurel.</p>
+      <p>Higher up than the Ismenian sanctuary you may see the fountain which they say is sacred to Ares, and they add that a dragon was posted by Ares as a sentry over the spring. By this fountain is the grave of Caanthus. They say that he was brother to Melia and son to Ocean, and that he was commissioned by his father to seek his sister, who had been carried away. Finding that Apollo had Melia, and being unable to get her from him, he dared to set fire to the precinct of Apollo that is now called the Ismenian sanctuary. The god, according to the Thebans, shot him.</p>
+      <p>Here then is the tomb of Caanthus. They say that Apollo had sons by Melia, to wit, Tenerus and Ismenus. To Tenerus Apollo gave the art of divination, and from Ismenus the river got its name. Not that the river was nameless before, if indeed it was called Ladon before Ismenus was born to Apollo.</p>
+    </body>
+  </text>
+</TEI>

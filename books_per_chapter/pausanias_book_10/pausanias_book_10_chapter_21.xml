@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::76 /TEI[1]/text[1]/body[1]/p[1]::87" xml:id="UID-FAKE-14738">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::106 /TEI[1]/text[1]/body[1]/p[1]::111" xml:id="UID-FAKE-14739">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::134 /TEI[1]/text[1]/body[1]/p[1]::143" xml:id="UID-FAKE-14740">
+        <rs ana="https://topostext.org/place/392209PHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::205 /TEI[1]/text[1]/body[1]/p[1]::210" xml:id="UID-FAKE-14741">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::286 /TEI[1]/text[1]/body[1]/p[1]::291" xml:id="UID-FAKE-14742">
+        <rs ana="https://topostext.org/place/490070RKel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::334 /TEI[1]/text[1]/body[1]/p[1]::340" xml:id="UID-FAKE-14743">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::63 /TEI[1]/text[1]/body[1]/p[2]::67" xml:id="UID-FAKE-14744">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::207 /TEI[1]/text[1]/body[1]/p[2]::212" xml:id="UID-FAKE-14745">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::239 /TEI[1]/text[1]/body[1]/p[2]::245" xml:id="UID-FAKE-14746">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::353 /TEI[1]/text[1]/body[1]/p[3]::359" xml:id="UID-FAKE-14747">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::14 /TEI[1]/text[1]/body[1]/p[4]::23" xml:id="UID-FAKE-14748">
+        <rs ana="https://topostext.org/place/380236ASSB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::270 /TEI[1]/text[1]/body[1]/p[4]::275" xml:id="UID-FAKE-14749">
+        <rs ana="https://topostext.org/place/490070RKel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::16 /TEI[1]/text[1]/body[1]/p[5]::21" xml:id="UID-FAKE-14750">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::53 /TEI[1]/text[1]/body[1]/p[5]::59" xml:id="UID-FAKE-14751">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::79 /TEI[1]/text[1]/body[1]/p[5]::88" xml:id="UID-FAKE-14752">
+        <rs ana="https://topostext.org/place/380237BSZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::194 /TEI[1]/text[1]/body[1]/p[5]::199" xml:id="UID-FAKE-14753">
+        <rs ana="https://topostext.org/place/450017UUxe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::74 /TEI[1]/text[1]/body[1]/p[6]::82" xml:id="UID-FAKE-14754">
+        <rs ana="https://topostext.org/place/380237BSZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::113 /TEI[1]/text[1]/body[1]/p[6]::117" xml:id="UID-FAKE-14755">
+        <rs ana="https://topostext.org/place/380237BSZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::160 /TEI[1]/text[1]/body[1]/p[6]::171" xml:id="UID-FAKE-14756">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::176 /TEI[1]/text[1]/body[1]/p[6]::182" xml:id="UID-FAKE-14757">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::241 /TEI[1]/text[1]/body[1]/p[6]::246" xml:id="UID-FAKE-14758">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::251 /TEI[1]/text[1]/body[1]/p[7]::257" xml:id="UID-FAKE-14759">
+        <rs ana="https://topostext.org/place/382233LPlB"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 21</head>
+      <p>Deserters kept Brennus informed about the forces from each city mustered at Thermopylae. So despising the Greek army he advanced from Heracleia, and began the battle at sun-rise on the next day. He had no Greek soothsayer, and made no use of his own country"s sacrifices, if indeed the Celts have any art of divination. Whereupon the Greeks attacked silently and in good order. When they came to close quarters, the infantry did not rush out of their line far enough to disturb their proper formation, while the light-armed troops remained in position, throwing javelins, shooting arrows or slinging bullets.</p>
+      <p>The cavalry on both sides proved useless, as the ground at the Pass is not only narrow, but also smooth because of the natural rock, while most of it is slippery owing to its being covered with streams. The Gauls were worse armed than the Greeks, having no other defensive armour than their national shields, while they were still more inferior in war experience.</p>
+      <p>On they marched against their enemies with the unreasoning fury and passion of brutes. Slashed with axe or sword they kept their desperation while they still breathed; pierced by arrow or javelin, they did not abate of their passion so long as life remained. Some drew out from their wounds the spears, by which they had been hit, and threw them at the Greeks or used them in close fighting.</p>
+      <p>Meanwhile the Athenians on the triremes, with difficulty and with danger, nevertheless coasted along through the mud that extends far out to sea, brought their ships as close to the barbarians as possible, and raked them with arrows and every other kind of missile. The Celts were in unspeakable distress, and as in the confined space they inflicted few losses but suffered twice or four times as many, their captains gave the signal to retire to their camp. Retreating in confusion and without any order, many were crushed beneath the feet of their friends, and many others fell into the swamp and disappeared under the mud. Their loss in the retreat was no less than the loss that occurred while the battle raged.</p>
+      <p>On this day the Attic contingent surpassed the other Greeks in courage. Of the Athenians themselves the bravest was Cydias, a young man who had never before been in battle. He was killed by the Gauls, but his relatives dedicated his shield to Zeus Eleutherios, and the inscription ran: “Here hang I, yearning for the still youthful bloom of Cydias, The shield of a glorious man, an offering to Zeus. I was the very first through which at this battle he thrust his left arm, When furious Ares was at his peak against the Gaul.”</p>
+      <p>This inscription remained until Sulla and his army took away, among other Athenian treasures, the shields in the Stoa of Zeus Eleutherios. After this battle at Thermopylae the Greeks buried their own dead and spoiled the barbarians, but the Gauls sent no herald to ask leave to take up the bodies, and were indifferent whether the earth received them or whether they were devoured by wild beasts or carrion birds.</p>
+      <p>There were in my opinion two reasons that made them careless about the burial of their dead: they wished to strike terror into their enemies, and through habit they have no tender feeling for those who have gone. In the battle there fell forty of the Greeks; the losses of the barbarians it was impossible to discover exactly. For the number of them that disappeared beneath the mud was great.</p>
+    </body>
+  </text>
+</TEI>

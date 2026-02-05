@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::97 /TEI[1]/text[1]/body[1]/p[1]::104" xml:id="UID-FAKE-15015">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::158 /TEI[1]/text[1]/body[1]/p[2]::164" xml:id="UID-FAKE-15016">
+        <rs ana="https://topostext.org/place/387227PNar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::256 /TEI[1]/text[1]/body[1]/p[2]::262" xml:id="UID-FAKE-15017">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::313 /TEI[1]/text[1]/body[1]/p[3]::318" xml:id="UID-FAKE-15018">
+        <rs ana="https://topostext.org/place/397269UKil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::345 /TEI[1]/text[1]/body[1]/p[3]::351" xml:id="UID-FAKE-15019">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::432 /TEI[1]/text[1]/body[1]/p[3]::439" xml:id="UID-FAKE-15020">
+        <rs ana="https://topostext.org/place/380237SEpH"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::452 /TEI[1]/text[1]/body[1]/p[3]::461" xml:id="UID-FAKE-15021">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::275 /TEI[1]/text[1]/body[1]/p[4]::291" xml:id="UID-FAKE-15022">
+        <rs ana="https://topostext.org/place/384214PPle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::594 /TEI[1]/text[1]/body[1]/p[4]::600" xml:id="UID-FAKE-15023">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::44 /TEI[1]/text[1]/body[1]/p[5]::52" xml:id="UID-FAKE-15024">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::81 /TEI[1]/text[1]/body[1]/p[6]::91" xml:id="UID-FAKE-15025">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::115 /TEI[1]/text[1]/body[1]/p[6]::125" xml:id="UID-FAKE-15026">
+        <rs ana="https://topostext.org/place/402264WHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::299 /TEI[1]/text[1]/body[1]/p[6]::306" xml:id="UID-FAKE-15027">
+        <rs ana="https://topostext.org/place/403278WAis"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::34 /TEI[1]/text[1]/body[1]/p[7]::43" xml:id="UID-FAKE-15028">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::80 /TEI[1]/text[1]/body[1]/p[7]::89" xml:id="UID-FAKE-15029">
+        <rs ana="https://topostext.org/place/130350REth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::109 /TEI[1]/text[1]/body[1]/p[7]::113" xml:id="UID-FAKE-15030">
+        <rs ana="https://topostext.org/place/400262UIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::133 /TEI[1]/text[1]/body[1]/p[7]::141" xml:id="UID-FAKE-15031">
+        <rs ana="https://topostext.org/place/130350REth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::152 /TEI[1]/text[1]/body[1]/p[7]::156" xml:id="UID-FAKE-15032">
+        <rs ana="https://topostext.org/place/322482PSus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::160 /TEI[1]/text[1]/body[1]/p[7]::166" xml:id="UID-FAKE-15033">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::186 /TEI[1]/text[1]/body[1]/p[7]::194" xml:id="UID-FAKE-15034">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::256 /TEI[1]/text[1]/body[1]/p[7]::260" xml:id="UID-FAKE-15035">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::266 /TEI[1]/text[1]/body[1]/p[7]::275" xml:id="UID-FAKE-15036">
+        <rs ana="https://topostext.org/place/400310RPhr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::374 /TEI[1]/text[1]/body[1]/p[8]::382" xml:id="UID-FAKE-15037">
+        <rs ana="https://topostext.org/place/475310RSky"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::17 /TEI[1]/text[1]/body[1]/p[9]::29" xml:id="UID-FAKE-15038">
+        <rs ana="https://topostext.org/place/380237SABr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::272 /TEI[1]/text[1]/body[1]/p[10]::281" xml:id="UID-FAKE-15039">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::446 /TEI[1]/text[1]/body[1]/p[11]::453" xml:id="UID-FAKE-15040">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::463 /TEI[1]/text[1]/body[1]/p[11]::469" xml:id="UID-FAKE-15041">
+        <rs ana="https://topostext.org/place/380237SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::507 /TEI[1]/text[1]/body[1]/p[11]::517" xml:id="UID-FAKE-15042">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::442 /TEI[1]/text[1]/body[1]/p[12]::449" xml:id="UID-FAKE-15043">
+        <rs ana="https://topostext.org/place/407247RAin"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 31</head>
+      <p>If you turn your gaze again to the upper part of the painting, you see, next to Actaeon, Ajax of Salamis, and also Palamedes and Thersites playing with dice, the invention of Palamedes; the other Ajax is looking at them as they play. The color of the latter Ajax is like that of a shipwrecked sailor with the brine still rough on the surface of his skin.</p>
+      <p>Polygnotus has intentionally gathered into one group the enemies of Odysseus. Ajax, son of Oileus, conceived a hatred of Odysseus, because Odysseus urged the Greeks to stone him for the outrage on Cassandra. Palamedes, as I know from reading the epic poem Cypria, was drowned when he put out to catch fish, and his murderers were Diomedes and Odysseus.</p>
+      <p>Meleager, the son of Oeneus, is higher up in the picture than Ajax, the son of Oileus, and he seems to be looking at Ajax. Palamedes has no beard, but the others have. As to the death of Meleager, Homer says that the Fury heard the curses of Althaea, and that this was the cause of Meleager"s death. But the poem Eoeae, as it is called, and the Minyad agree in giving a different account. For these poems say that Apollo helped the Curetes against the Aetolians, and that Meleager was killed by Apollo.</p>
+      <p>The story about the brand, how it was given by the Fates to Althaea, how Meleager was not to die before the brand was consumed by fire, and how Althaea burnt it up in a passion — this story was first made the subject of a drama by Phrynichus, the son of Polyphradmon, in his Pleuronian Women: “For chill doom he escaped not, but a swift flame consumed him, as the brand was destroyed by his terrible mother, contriver of evil.” However, it appears that Phrynichus did not elaborate the story as a man would his own invention, but only touched on it as one already in the mouths of everybody in Greece.</p>
+      <p>In the lower part of the picture, after the Thracian Thamyris, comes Hector, who is sitting with both hands clasped about his left knee, in an attitude of deep grief. After him is Memnon, sitting on a rock, and Sarpedon next to Memnon. Sarpedon has his face buried in both hands, and one of Memnon"s hands lies on Sarpedon"s shoulder.</p>
+      <p>All are bearded; and on the cloak of Memnon are embroidered birds. Their name is Memnonides, and the people of the Hellespont say that on stated days every year they go to the grave of Memnon, and sweep all that part of the tomb that is bare of trees or grass, and sprinkle it with the water of the Aesepus from their wet wings.</p>
+      <p>Beside Memnon is depicted a naked Ethiopian boy, because Memnon was king of the Ethiopian nation. He came to Troy, however, not from Ethiopia, but from Susa in Persia and from the river Choaspes, having subdued all the peoples that lived between these and Troy. The Phrygians still point out the road through which he led his army, picking out the shortest routes. The road is divided up by halting-places.</p>
+      <p>Beyond Sarpedon and Memnon is Paris, as yet beardless. He is clapping his hands like a boor, and you will say that it is as though Paris were calling Penthesileia to him by the noise of his hands. Penthesileia too is there, looking at Paris, but by the toss of her head she seems to show her disdain and contempt. In appearance Penthesileia is a maiden, carrying a bow like Scythian bows, and wearing a leopard"s skin on her shoulders.</p>
+      <p>The women beyond Penthesileia are carrying water in broken pitchers; one is depicted as in the bloom of youth, the other is already advanced in years. There is no separate inscription on either woman, but there is one common to the pair, which states that they are of the number of the uninitiated.</p>
+      <p>Higher up than these is Callisto, daughter of Lycaon, Nomia, and Pero, daughter of Neleus. As her bride-price Neleus asked for the oxen of Iphiclus. Instead of a mattress, Callisto has a bearskin, and her feet are lying on Nomia"s knees. I have already mentioned that the Arcadians say that Nomia is a nymph native to their country. The poets say that the nymphs live for a great number of years, but are not altogether exempt from death. After Callisto and the women with her is the form of a cliff, and Sisyphus, the son of Aeolus, is trying his hardest to push the rock up it.</p>
+      <p>There is also in the painting a jar, and an old man, with a boy and two women. One of these, who is young, is under the rock; the other is beside the old man and of a like age to his. The others are carrying water, but you will guess that the old woman"s water-jar is broken. All that remains of the water in the sherd she is pouring out again into the jar. We inferred that these people too were of those who had held of no account the rites at Eleusis. For the Greeks of an earlier period looked upon the Eleusinian mysteries as being as much higher than all other religious acts as gods are higher than heroes.</p>
+      <p>Under this jar is Tantalus, enduring all the pains that Homer speaks of, and in addition the terror of the stone that hangs over him. Polygnotus has plainly followed the account of Archilochus, but I do not know whether Archilochus borrowed from others the story of the stone or whether it was an invention of his that he introduced into his poem. So great is the number of the figures and so many are their beauties, in this painting of the Thasian artist.</p>
+    </body>
+  </text>
+</TEI>

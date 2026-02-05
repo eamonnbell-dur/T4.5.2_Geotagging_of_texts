@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::0 /TEI[1]/text[1]/body[1]/p[1]::7" xml:id="UID-FAKE-13290">
+        <rs ana="https://topostext.org/place/384228LHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::35 /TEI[1]/text[1]/body[1]/p[1]::41" xml:id="UID-FAKE-13291">
+        <rs ana="https://topostext.org/place/384228LHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::228 /TEI[1]/text[1]/body[1]/p[1]::235" xml:id="UID-FAKE-13292">
+        <rs ana="https://topostext.org/place/384228LHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::200 /TEI[1]/text[1]/body[1]/p[2]::210" xml:id="UID-FAKE-13293">
+        <rs ana="https://topostext.org/place/335354RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::284 /TEI[1]/text[1]/body[1]/p[2]::293" xml:id="UID-FAKE-13294">
+        <rs ana="https://topostext.org/place/335354RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::53 /TEI[1]/text[1]/body[1]/p[3]::59" xml:id="UID-FAKE-13295">
+        <rs ana="https://topostext.org/place/280400RAra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::252 /TEI[1]/text[1]/body[1]/p[3]::258" xml:id="UID-FAKE-13296">
+        <rs ana="https://topostext.org/place/280400RAra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::34 /TEI[1]/text[1]/body[1]/p[4]::42" xml:id="UID-FAKE-13297">
+        <rs ana="https://topostext.org/place/280400RAra"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 28</head>
+      <p>Helicon is one of the mountains of Greece with the most fertile soil and the greatest number of cultivated trees. The wild-strawberry bushes supply to the goats sweeter fruit than that growing anywhere else. The dwellers around Helicon say that all the grasses too and roots growing on the mountain are not at all poisonous to men. Moreover, the food makes the poison of the snakes too less deadly, so that most of those bitten escape with their lives, should they fall in with a Libyan of the race of the Psyllians, or with any suitable remedies.</p>
+      <p>Now the poison of the most venomous snakes is of itself deadly to men and all animals alike, but what they feed on contributes very much to the strength of their poison; for instance, I learnt from a Phoenician that the roots they eat make more venomous the vipers in the highland of Phoenicia. He said that he had himself seen a man trying to escape from the rush of a viper; the man, he said, ran up a tree, but the viper, coming up too late, puffed some of its poison towards the tree, and the man died instantaneously.</p>
+      <p>Such was the story I heard from him. Those vipers in Arabia that nest around the balsam trees have, I know, the following peculiarities. The balsams are about as big as a myrtle bush, and their leaves are like those of the herb marjoram. The vipers of Arabia lodge in certain numbers, larger or smaller, under each tree. For the balsam-juice is the food they like most, and moreover they are fond of the shade of the bushes.</p>
+      <p>So when the time has come for the Arabians to collect the juice of the balsam, each man takes two sticks to the vipers, and by striking them together they drive the vipers away. Kill them they will not, considering them sacred to the balsam. And even if a man should have the misfortune to be bitten by the vipers, though the wound is like the cut of a knife, nevertheless there is no fear from the poison. For as the vipers feed on the most fragrant of perfumes, their poison is mitigated and less deadly.</p>
+    </body>
+  </text>
+</TEI>

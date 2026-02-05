@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::174 /TEI[1]/text[1]/body[1]/p[1]::181" xml:id="UID-FAKE-13722">
+        <rs ana="https://topostext.org/place/365295RLyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::185 /TEI[1]/text[1]/body[1]/p[1]::191" xml:id="UID-FAKE-13723">
+        <rs ana="https://topostext.org/place/363293UPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::371 /TEI[1]/text[1]/body[1]/p[1]::378" xml:id="UID-FAKE-13724">
+        <rs ana="https://topostext.org/place/377269PSam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::4 /TEI[1]/text[1]/body[1]/p[2]::12" xml:id="UID-FAKE-13725">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::16 /TEI[1]/text[1]/body[1]/p[2]::22" xml:id="UID-FAKE-13726">
+        <rs ana="https://topostext.org/place/382217PPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::94 /TEI[1]/text[1]/body[1]/p[2]::98" xml:id="UID-FAKE-13727">
+        <rs ana="https://topostext.org/place/400262UIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::148 /TEI[1]/text[1]/body[1]/p[2]::154" xml:id="UID-FAKE-13728">
+        <rs ana="https://topostext.org/place/350330RCyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::165 /TEI[1]/text[1]/body[1]/p[2]::172" xml:id="UID-FAKE-13729">
+        <rs ana="https://topostext.org/place/347331PAma"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::410 /TEI[1]/text[1]/body[1]/p[2]::416" xml:id="UID-FAKE-13730">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::497 /TEI[1]/text[1]/body[1]/p[2]::504" xml:id="UID-FAKE-13731">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::548 /TEI[1]/text[1]/body[1]/p[2]::554" xml:id="UID-FAKE-13732">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::65 /TEI[1]/text[1]/body[1]/p[3]::72" xml:id="UID-FAKE-13733">
+        <rs ana="https://topostext.org/place/347331PAma"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::94 /TEI[1]/text[1]/body[1]/p[3]::101" xml:id="UID-FAKE-13734">
+        <rs ana="https://topostext.org/place/347331PAma"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::251 /TEI[1]/text[1]/body[1]/p[3]::258" xml:id="UID-FAKE-13735">
+        <rs ana="https://topostext.org/place/385206XSta"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::39 /TEI[1]/text[1]/body[1]/p[6]::50" xml:id="UID-FAKE-13736">
+        <rs ana="https://topostext.org/place/380237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::8 /TEI[1]/text[1]/body[1]/p[7]::18" xml:id="UID-FAKE-13737">
+        <rs ana="https://topostext.org/place/385228PCha"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 41</head>
+      <p>Poets have sung, and the tradition of men has followed them, that Hephaestus made many works of art, but none is authentic except only the scepter of Agamemnon. However, the Lycians in Patara show a bronze bowl in their temple of Apollo, saying that Telephus dedicated it and Hephaestus made it, apparently in ignorance of the fact that the first to melt bronze were the Samians Theodorus and Rhoecus.</p>
+      <p>The Achaeans of Patrae assert indeed that Hephaestus made the chest brought by Eurypylus from Troy, but they do not actually exhibit it to view. In Cyprus is a city Amathus, in which is an old sanctuary of Adonis and Aphrodite. Here they say is dedicated a necklace given originally to Harmonia, but called the necklace of Eriphyle, because it was the bribe she took to betray her husband. It was dedicated at Delphi by the sons of Phegeus (how they got it I have already related in my history of Arcadia), but it was carried off by the tyrants of Phocis.</p>
+      <p>However, I do not think that it is in the sanctuary of Adonis at Amathus. For the necklace at Amathus is composed of green stones held together by gold, but the necklace given to Eriphyle was made entirely of gold, according to Homer, who says in the Odyssey: “Who received precious gold, the price of her own husband.” Not that Homer was unaware of necklaces made of various materials.</p>
+      <p>For example, in the speech of Eumaeus to Odysseus before Telemachus reaches the court from Pylus, he says: “There came a cunning man to the home of my father, With a necklace of gold strung with amber in between.”</p>
+      <p>Again, in the passage called the gifts of Penelope, for he represents the wooers, Eurymachus among them, offering her gifts, he says: “And Eurymachus straightway brought a necklace of varied materials, Of gold strung with pieces of amber, like the sun.” But Homer does not say that the necklace given to Eriphyle was of gold varied with stones. So probably the scepter is the only work of Hephaestus.</p>
+      <p>There is beyond the city a crag called PetrachusYY. Here they hold that Cronus was deceived, and received from Rhea a stone instead of Zeus, and there is a small image of Zeus on the summit of the mountain.</p>
+      <p>Here in Chaeroneia they distil unguents from flowers, namely, the lily, the rose, the narcissus and the iris. These prove to be cures for the pains of men. The unguent from the rose, if it be smeared on wooden images, prevents their decaying. The iris grows in marshes, is in size as large as a lily, but is not white in color, and smells less sweet.</p>
+    </body>
+  </text>
+</TEI>

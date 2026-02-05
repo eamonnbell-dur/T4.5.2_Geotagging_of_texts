@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::35 /TEI[1]/text[1]/body[1]/p[1]::42" xml:id="UID-FAKE-13085">
+        <rs ana="https://topostext.org/place/383236PTan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::65 /TEI[1]/text[1]/body[1]/p[1]::71" xml:id="UID-FAKE-13086">
+        <rs ana="https://topostext.org/place/383237UDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::125 /TEI[1]/text[1]/body[1]/p[1]::132" xml:id="UID-FAKE-13087">
+        <rs ana="https://topostext.org/place/383236PTan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::271 /TEI[1]/text[1]/body[1]/p[2]::280" xml:id="UID-FAKE-13088">
+        <rs ana="https://topostext.org/place/390271PTeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::283 /TEI[1]/text[1]/body[1]/p[2]::291" xml:id="UID-FAKE-13089">
+        <rs ana="https://topostext.org/place/383232PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::293 /TEI[1]/text[1]/body[1]/p[2]::298" xml:id="UID-FAKE-13090">
+        <rs ana="https://topostext.org/place/368228UOic"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::309 /TEI[1]/text[1]/body[1]/p[2]::319" xml:id="UID-FAKE-13091">
+        <rs ana="https://topostext.org/place/384235PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::12 /TEI[1]/text[1]/body[1]/p[3]::19" xml:id="UID-FAKE-13092">
+        <rs ana="https://topostext.org/place/383236PTan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::43 /TEI[1]/text[1]/body[1]/p[3]::57" xml:id="UID-FAKE-13093">
+        <rs ana="https://topostext.org/place/383236PTan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::117 /TEI[1]/text[1]/body[1]/p[3]::123" xml:id="UID-FAKE-13094">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::66 /TEI[1]/text[1]/body[1]/p[4]::72" xml:id="UID-FAKE-13095">
+        <rs ana="https://topostext.org/place/371252QLyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::137 /TEI[1]/text[1]/body[1]/p[4]::143" xml:id="UID-FAKE-13096">
+        <rs ana="https://topostext.org/place/380237BOAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::184 /TEI[1]/text[1]/body[1]/p[4]::190" xml:id="UID-FAKE-13097">
+        <rs ana="https://topostext.org/place/380237BOAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::224 /TEI[1]/text[1]/body[1]/p[4]::231" xml:id="UID-FAKE-13098">
+        <rs ana="https://topostext.org/place/383236PTan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::320 /TEI[1]/text[1]/body[1]/p[4]::326" xml:id="UID-FAKE-13099">
+        <rs ana="https://topostext.org/place/380237BOAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::454 /TEI[1]/text[1]/body[1]/p[4]::460" xml:id="UID-FAKE-13100">
+        <rs ana="https://topostext.org/place/380237BOAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::68 /TEI[1]/text[1]/body[1]/p[5]::74" xml:id="UID-FAKE-13101">
+        <rs ana="https://topostext.org/place/380237BOAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::199 /TEI[1]/text[1]/body[1]/p[5]::206" xml:id="UID-FAKE-13102">
+        <rs ana="https://topostext.org/place/383236PTan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::367 /TEI[1]/text[1]/body[1]/p[5]::374" xml:id="UID-FAKE-13103">
+        <rs ana="https://topostext.org/place/383236PTan"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 20</head>
+      <p>On the sea within the territory of Tanagra is what is called the Delium. In it are images of Artemis and Leto. The people of Tanagra say that their founder was Poemander, the son of Chaeresilaus, the son of Iasius, the son of Eleuther, who, they say, was the son of Apollo by Aethusa, the daughter of Poseidon. It is said that Poemander married Tanagra, a daughter of Aeolus. But in a poem of Corinna she is said to be a daughter of Asopus.</p>
+      <p>There is a story that, as she reached extreme old age, her neighbors ceased to call her by this name, and gave the name of Graea (old woman), first to the woman herself, and in course of time to the city. The name, they say, persisted so long that even Homer says in the Catalogue: “Thespeia, Graea, and wide Mycalessus.” Later, however, it recovered its old name.</p>
+      <p>There is in Tanagra the tomb of Orion, and Mount Cerycius, the reputed birthplace of Hermes, and also a place called Polus1. Here they say that Atlas sat and meditated deeply upon hell and heaven, as Homer says of him: “Daughter of baneful Atlas, who knows the depths Of every sea, while he himself holds up the tall pillars, Which keep apart earth and heaven.”</p>
+      <p>In the temple of Dionysus the image too is worth seeing, being of Parian marble and a work of Calamis. But a greater marvel still is the Triton. The grander of the two versions of the Triton legend relates that the women of Tanagra before the orgies of Dionysus went down to the sea to be purified, were attacked by the Triton as they were swimming, and prayed that Dionysus would come to their aid. The god, it is said, heard their cry and overcame the Triton in the fight.</p>
+      <p>The other version is less grand but more credible. It says that the Triton would waylay and lift all the cattle that were driven to the sea. He used even to attack small vessels, until the people of Tanagra set out for him a bowl of wine. They say that, attracted by the smell, he came at once, drank the wine, flung himself on the shore and slept, and that a man of Tanagra struck him on the neck with an axe and chopped off his head. For this reason the image has no head. And because they caught him drunk, it is supposed that it was Dionysus who killed him.</p>
+    </body>
+  </text>
+</TEI>

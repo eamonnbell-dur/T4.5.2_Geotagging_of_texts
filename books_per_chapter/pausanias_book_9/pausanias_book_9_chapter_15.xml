@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::38 /TEI[1]/text[1]/body[1]/p[1]::44" xml:id="UID-FAKE-12926">
+        <rs ana="https://topostext.org/place/394228PPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::59 /TEI[1]/text[1]/body[1]/p[1]::67" xml:id="UID-FAKE-12927">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::184 /TEI[1]/text[1]/body[1]/p[1]::190" xml:id="UID-FAKE-12928">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::309 /TEI[1]/text[1]/body[1]/p[1]::316" xml:id="UID-FAKE-12929">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::425 /TEI[1]/text[1]/body[1]/p[1]::435" xml:id="UID-FAKE-12930">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::45 /TEI[1]/text[1]/body[1]/p[2]::56" xml:id="UID-FAKE-12931">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::220 /TEI[1]/text[1]/body[1]/p[2]::230" xml:id="UID-FAKE-12932">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::34 /TEI[1]/text[1]/body[1]/p[3]::41" xml:id="UID-FAKE-12933">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::54 /TEI[1]/text[1]/body[1]/p[3]::66" xml:id="UID-FAKE-12934">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::188 /TEI[1]/text[1]/body[1]/p[3]::195" xml:id="UID-FAKE-12935">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::20 /TEI[1]/text[1]/body[1]/p[4]::29" xml:id="UID-FAKE-12936">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::54 /TEI[1]/text[1]/body[1]/p[4]::66" xml:id="UID-FAKE-12937">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::83 /TEI[1]/text[1]/body[1]/p[4]::92" xml:id="UID-FAKE-12938">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::110 /TEI[1]/text[1]/body[1]/p[4]::123" xml:id="UID-FAKE-12939">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::139 /TEI[1]/text[1]/body[1]/p[4]::147" xml:id="UID-FAKE-12940">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::163 /TEI[1]/text[1]/body[1]/p[4]::171" xml:id="UID-FAKE-12941">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::175 /TEI[1]/text[1]/body[1]/p[4]::182" xml:id="UID-FAKE-12942">
+        <rs ana="https://topostext.org/place/380225PPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::187 /TEI[1]/text[1]/body[1]/p[4]::196" xml:id="UID-FAKE-12943">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::206 /TEI[1]/text[1]/body[1]/p[4]::212" xml:id="UID-FAKE-12944">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::230 /TEI[1]/text[1]/body[1]/p[4]::237" xml:id="UID-FAKE-12945">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::328 /TEI[1]/text[1]/body[1]/p[4]::336" xml:id="UID-FAKE-12946">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::404 /TEI[1]/text[1]/body[1]/p[4]::413" xml:id="UID-FAKE-12947">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::422 /TEI[1]/text[1]/body[1]/p[4]::431" xml:id="UID-FAKE-12948">
+        <rs ana="https://topostext.org/place/377213UPhe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::468 /TEI[1]/text[1]/body[1]/p[4]::476" xml:id="UID-FAKE-12949">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::12 /TEI[1]/text[1]/body[1]/p[5]::21" xml:id="UID-FAKE-12950">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::80 /TEI[1]/text[1]/body[1]/p[5]::88" xml:id="UID-FAKE-12951">
+        <rs ana="https://topostext.org/place/380237GLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::109 /TEI[1]/text[1]/body[1]/p[5]::115" xml:id="UID-FAKE-12952">
+        <rs ana="https://topostext.org/place/380237BSPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::292 /TEI[1]/text[1]/body[1]/p[5]::298" xml:id="UID-FAKE-12953">
+        <rs ana="https://topostext.org/place/380237BSPo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::108 /TEI[1]/text[1]/body[1]/p[6]::115" xml:id="UID-FAKE-12954">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::142 /TEI[1]/text[1]/body[1]/p[6]::148" xml:id="UID-FAKE-12955">
+        <rs ana="https://topostext.org/place/383231ALeT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::212 /TEI[1]/text[1]/body[1]/p[6]::218" xml:id="UID-FAKE-12956">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::248 /TEI[1]/text[1]/body[1]/p[6]::255" xml:id="UID-FAKE-12957">
+        <rs ana="https://topostext.org/place/372219PMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::313 /TEI[1]/text[1]/body[1]/p[6]::324" xml:id="UID-FAKE-12958">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::355 /TEI[1]/text[1]/body[1]/p[6]::361" xml:id="UID-FAKE-12959">
+        <rs ana="https://topostext.org/place/383231ALeT"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 15</head>
+      <p>After these things when Alexander [of Pherai] held sway in Thessaly, Pelopidas came to him, under the impression that he was well-disposed to him personally as well as a friend to the Theban commonwealth, but on his arrival was treacherously and insolently thrown into prison and kept there by Alexander. The Thebans at once set out to attack Alexander, and made leaders of the expedition CleomenesYY and HypatusYY, who were Boeotarchs at that time; Epaminondas was serving in the ranks.</p>
+      <p>When the force had reached the other side of Thermopylae, Alexander surprised and attacked it on difficult ground. As there appeared to be no means of safety, the rest of the army chose Epaminondas to be leader, and the Boeotarchs of their own accord resigned the command. Alexander lost confidence in winning the war when he saw Epaminondas at the head of his opponents, and of his own accord set free Pelopidas.</p>
+      <p>In the absence of Epaminondas the Thebans removed the Orchomenians from their land. Epaminondas regarded their removal as a disaster, and declared that had he been present never would the Thebans have been guilty of such an outrage.</p>
+      <p>Elected again to be Boeotarch, and again invading the Peloponnesus with an army of Boeotians, he overcame the Lacedemonians in a battle at Lechaeum, and with them Achaeans of Pellene and Athenians led from Athens by Chabrias. The Thebans had a rule that they should set free for a ransom all their prisoners except such as were Boeotian fugitives; these they punished with death. So when he captured the Sicyonian town of PhoebiaYY, in which were gathered most of the Boeotian fugitives, he assigned to each of those whom he captured in it a new homeland (patrida), any that occurred to him, and set them free.</p>
+      <p>On reaching Mantineia with his army, he was killed in the hour of victory by an Athenian. In the painting at Athens of the battle of the cavalry the man who is killing Epaminondas is Grylus, the son of the Xenophon who took part in the expedition of Cyrus against king Artaxerxes and led the Greeks back to the sea.</p>
+      <p>On the statue of Epaminondas is an inscription in elegiac verse relating among other things that he founded Messene, and that through him the Greeks won freedom. The elegiac verses are these: “By my counsels was Sparta shorn of her glory, And holy Messene received at last her children. By the arms of Thebes was Megalopolis encircled with walls, And all Greece won independence and freedom.”</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::9 /TEI[1]/text[1]/body[1]/p[1]::16" xml:id="UID-FAKE-13803">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::35 /TEI[1]/text[1]/body[1]/p[1]::41" xml:id="UID-FAKE-13804">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::63 /TEI[1]/text[1]/body[1]/p[1]::71" xml:id="UID-FAKE-13805">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::125 /TEI[1]/text[1]/body[1]/p[1]::132" xml:id="UID-FAKE-13806">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::170 /TEI[1]/text[1]/body[1]/p[1]::176" xml:id="UID-FAKE-13807">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::194 /TEI[1]/text[1]/body[1]/p[1]::201" xml:id="UID-FAKE-13808">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::269 /TEI[1]/text[1]/body[1]/p[1]::280" xml:id="UID-FAKE-13809">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::386 /TEI[1]/text[1]/body[1]/p[1]::394" xml:id="UID-FAKE-13810">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::411 /TEI[1]/text[1]/body[1]/p[1]::422" xml:id="UID-FAKE-13811">
+        <rs ana="https://topostext.org/place/398232RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::449 /TEI[1]/text[1]/body[1]/p[1]::457" xml:id="UID-FAKE-13812">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::99 /TEI[1]/text[1]/body[1]/p[2]::106" xml:id="UID-FAKE-13813">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::147 /TEI[1]/text[1]/body[1]/p[2]::152" xml:id="UID-FAKE-13814">
+        <rs ana="https://topostext.org/place/387227PLed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::164 /TEI[1]/text[1]/body[1]/p[2]::170" xml:id="UID-FAKE-13815">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::237 /TEI[1]/text[1]/body[1]/p[2]::243" xml:id="UID-FAKE-13816">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::373 /TEI[1]/text[1]/body[1]/p[2]::379" xml:id="UID-FAKE-13817">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::384 /TEI[1]/text[1]/body[1]/p[2]::390" xml:id="UID-FAKE-13818">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::46 /TEI[1]/text[1]/body[1]/p[3]::54" xml:id="UID-FAKE-13819">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::214 /TEI[1]/text[1]/body[1]/p[3]::222" xml:id="UID-FAKE-13820">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::266 /TEI[1]/text[1]/body[1]/p[3]::272" xml:id="UID-FAKE-13821">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::277 /TEI[1]/text[1]/body[1]/p[3]::287" xml:id="UID-FAKE-13822">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::298 /TEI[1]/text[1]/body[1]/p[3]::304" xml:id="UID-FAKE-13823">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::350 /TEI[1]/text[1]/body[1]/p[3]::358" xml:id="UID-FAKE-13824">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::364 /TEI[1]/text[1]/body[1]/p[3]::367" xml:id="UID-FAKE-13825">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::385 /TEI[1]/text[1]/body[1]/p[3]::391" xml:id="UID-FAKE-13826">
+        <rs ana="https://topostext.org/place/328219PCyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::60 /TEI[1]/text[1]/body[1]/p[4]::66" xml:id="UID-FAKE-13827">
+        <rs ana="https://topostext.org/place/385228SPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::108 /TEI[1]/text[1]/body[1]/p[4]::115" xml:id="UID-FAKE-13828">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::258 /TEI[1]/text[1]/body[1]/p[4]::266" xml:id="UID-FAKE-13829">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::304 /TEI[1]/text[1]/body[1]/p[4]::311" xml:id="UID-FAKE-13830">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::371 /TEI[1]/text[1]/body[1]/p[4]::375" xml:id="UID-FAKE-13831">
+        <rs ana="https://topostext.org/place/384220UOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::390 /TEI[1]/text[1]/body[1]/p[4]::398" xml:id="UID-FAKE-13832">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::541 /TEI[1]/text[1]/body[1]/p[4]::552" xml:id="UID-FAKE-13833">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::34 /TEI[1]/text[1]/body[1]/p[5]::42" xml:id="UID-FAKE-13834">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::131 /TEI[1]/text[1]/body[1]/p[5]::138" xml:id="UID-FAKE-13835">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::173 /TEI[1]/text[1]/body[1]/p[6]::181" xml:id="UID-FAKE-13836">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::413 /TEI[1]/text[1]/body[1]/p[6]::422" xml:id="UID-FAKE-13837">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::47 /TEI[1]/text[1]/body[1]/p[7]::55" xml:id="UID-FAKE-13838">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::202 /TEI[1]/text[1]/body[1]/p[7]::207" xml:id="UID-FAKE-13839">
+        <rs ana="https://topostext.org/place/355240PKyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::229 /TEI[1]/text[1]/body[1]/p[7]::237" xml:id="UID-FAKE-13840">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::313 /TEI[1]/text[1]/body[1]/p[7]::320" xml:id="UID-FAKE-13841">
+        <rs ana="https://topostext.org/place/355240PKyd"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 2</head>
+      <p>When the Persian army crossed into Europe, it is said that the Phocians were forced to join the Great King, but deserted the Persian cause and ranged themselves with the Greeks at the battle of Plataea. Subsequently it happened that a fine was inflicted on them by the Amphictyons. I cannot find out the truth of the story, whether the fine was inflicted because of the misdeeds of the Phocians, or whether the Thessalians exacted the fine from the Phocians because of their ancient hatred.</p>
+      <p>As they were disheartened at the greatness of the fine, Philomelus, son of Theotimus, than whom no Phocian stood higher in rank, his country being Ledon, a city of Phocis, took charge and tried to persuade them to seize the sanctuary at Delphi, pointing out that the amount of the sum to be paid was beyond their resources. He stated, among other plausible arguments, that Athens and Sparta had always been favorable to them, and that if Thebes or any other state made war against them, they would have the better owing to their courage and resources.</p>
+      <p>When Philomelus put all this before them, the Phocians were nothing loath, either because their judgment was blinded by heaven, or because their nature was to put gain before religion. The seizure of Delphi by the Phocians occurred when HeracleidYY was president at Delphi and Agathocles archon at Athens, in the fourth year of the hundred and fifth Olympiad [357 BCE], when Prorus of Cyrene was victorious in the foot-race.</p>
+      <p>When they had seized the sanctuary, the best mercenaries in Greece at once mustered to join them, while the Thebans, at variance before, declared open war against them. The war lasted ten successive years, and during this long time victory often fell to the Phocians and their mercenaries, and often the Thebans proved the better. An engagement took place at the town of Neon, in which the Phocians were worsted, and in the rout Philomelus threw himself down a high precipice, and so lost his life. This was the very punishment fixed by the Amphictyons for spoilers of the sanctuary.</p>
+      <p>After the death of Philomelus the Phocians gave the command to Onomarchus, while Philip, son of Amyntas, made an alliance with the Thebans. Philip had the better of the encounter, and Onomarchus fleeing to the coast was there shot down by his own troops, who considered their defeat due to his lack of enterprise and inexperience as a general.</p>
+      <p>Such was the end which the daemon brought upon Onomarchus, and his brother Phaylus was chosen as strategos. It is said that no sooner had this Phaylus come to rule over the Phocians when he saw the following vision in a dream. Among the votive offerings to Apollo was a representation in bronze of a man"s body in an advanced stage of decay, with the flesh already fallen off, and nothing left but the bones. The Delphians said that it was an offering of Hippocrates the physician. Now the thought came to Phaylus that he resembled this offering. Forthwith he was attacked by a wasting disease, which so fulfilled the omen of the dream.</p>
+      <p>On the death of Phaylus the sovereignty of the Phocians devolved on Phalaecus his son. Phalaecus, accused of appropriating to his own use the sacred treasures, was deposed, and crossing with a fleet to Crete, accompanied by such Phocians as sided with him and by a part of his mercenaries, he sat down to besiege Cydonia, which refused to accede to his demand for money, and perished along with the greater part of his army.</p>
+    </body>
+  </text>
+</TEI>

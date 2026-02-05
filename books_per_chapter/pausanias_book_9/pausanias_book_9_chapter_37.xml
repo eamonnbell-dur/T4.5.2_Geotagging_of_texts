@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::341 /TEI[1]/text[1]/body[1]/p[1]::360" xml:id="UID-FAKE-13599">
+        <rs ana="https://topostext.org/place/384232UOnc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::371 /TEI[1]/text[1]/body[1]/p[1]::377" xml:id="UID-FAKE-13600">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::62 /TEI[1]/text[1]/body[1]/p[2]::68" xml:id="UID-FAKE-13601">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::136 /TEI[1]/text[1]/body[1]/p[2]::143" xml:id="UID-FAKE-13602">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::243 /TEI[1]/text[1]/body[1]/p[2]::249" xml:id="UID-FAKE-13603">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::255 /TEI[1]/text[1]/body[1]/p[2]::262" xml:id="UID-FAKE-13604">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::306 /TEI[1]/text[1]/body[1]/p[2]::313" xml:id="UID-FAKE-13605">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::12 /TEI[1]/text[1]/body[1]/p[4]::18" xml:id="UID-FAKE-13606">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::69 /TEI[1]/text[1]/body[1]/p[4]::76" xml:id="UID-FAKE-13607">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::318 /TEI[1]/text[1]/body[1]/p[5]::324" xml:id="UID-FAKE-13608">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::74 /TEI[1]/text[1]/body[1]/p[7]::82" xml:id="UID-FAKE-13609">
+        <rs ana="https://topostext.org/place/384229PLeb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::357 /TEI[1]/text[1]/body[1]/p[7]::364" xml:id="UID-FAKE-13610">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::0 /TEI[1]/text[1]/body[1]/p[8]::12" xml:id="UID-FAKE-13611">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::70 /TEI[1]/text[1]/body[1]/p[8]::75" xml:id="UID-FAKE-13612">
+        <rs ana="https://topostext.org/place/388283RMai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::114 /TEI[1]/text[1]/body[1]/p[8]::121" xml:id="UID-FAKE-13613">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::150 /TEI[1]/text[1]/body[1]/p[8]::160" xml:id="UID-FAKE-13614">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::195 /TEI[1]/text[1]/body[1]/p[8]::205" xml:id="UID-FAKE-13615">
+        <rs ana="https://topostext.org/place/392223PPro"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 37</head>
+      <p>But it was destined for the race of Almus too to come to an end. For Orchomenus left no child, and so the kingdom devolved on Clymenus, son of Presbon, son of Phrixus. Sons were born to Clymenus; the eldest was Erginus, the next after him were Stratius, Arrhon and Pyleus, while the youngest was Azeus. Clymenus was murdered at the feast of Onchestian Poseidon by men of Thebes, whom a trivial cause had thrown into a violent passion. So Erginus, the eldest of the sons of Clymenus, received the kingdom.</p>
+      <p>Immediately he and his brothers gathered a force and attacked Thebes. Victorious in the battle, they then came to an agreement that the Thebans should pay tribute each year for the murder of Clymenus. But when Heracles had grown to manhood in Thebes, the Thebans were thus relieved of the tribute, and the Minyans suffered a grievous defeat in the war.</p>
+      <p>Erginus, as his citizens had been utterly crushed, made peace with Heracles, but in his efforts to restore his former wealth and prosperity neglected everything else, so that unconsciously he came to a wifeless and childless old age. But when he had gathered riches, the desire seized him to have children.</p>
+      <p>So going to Delphi he inquired of the oracle about children, and the Pythian priestess gave this reply: “Erginus, son of Clymenus Presboniades, Late thou camest seeking offspring, but even now To the old plough-tree put a new tip.” Obeying the oracle he took to himself a young wife, and had children, Trophonius and Agamedes.</p>
+      <p>Trophonius is said to have been a son of Apollo, not of Erginus. This I am inclined to believe, as does everyone who has gone to Trophonius to inquire of his oracle. They say that these, when they grew up, proved clever at building sanctuaries for the gods and palaces for men. For they built the temple for Apollo at Delphi and the treasury for Hyrieus. One of the stones in it they made so that they could take it away from the outside. So they kept on removing something from the store. Hyrieus was dumbfounded when he saw keys and seals untampered with, while the treasure kept on getting less.</p>
+      <p>So he set over the vessels, in which were his silver and gold, snares or other contrivance, to arrest any who should enter and lay hands on the treasure. Agamedes entered and was kept fast in the trap, but Trophonius cut off his head, lest when day came his brother should be tortured, and he himself be informed of as being concerned in the crime.</p>
+      <p>The earth opened and swallowed up Trophonius at the point in the grove at Lebadeia where is what is called the pit of Agamedes, with a slab beside it. The kingdom of Orchomenus was taken by Ascalaphus and Ialmenus, said to be sons of Ares, while their mother was Astyoche, daughter of Actor, son of Azeus, son of Clymenus. Under the leadership of these the Minyans marched against Troy.</p>
+      <p>Orchomenians also joined with the sons of Codrus in the expedition to Ionia. When expelled from their city by the Thebans they were restored again to Orchomenus by Philip the son of Amyntas. But Providence [από του δαιμονίου] was to drag them ever lower and lower into decay.</p>
+    </body>
+  </text>
+</TEI>

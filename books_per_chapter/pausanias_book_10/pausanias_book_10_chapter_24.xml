@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::54 /TEI[1]/text[1]/body[1]/p[1]::60" xml:id="UID-FAKE-14870">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::136 /TEI[1]/text[1]/body[1]/p[1]::142" xml:id="UID-FAKE-14871">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::176 /TEI[1]/text[1]/body[1]/p[1]::181" xml:id="UID-FAKE-14872">
+        <rs ana="https://topostext.org/place/388283RMai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::193 /TEI[1]/text[1]/body[1]/p[1]::200" xml:id="UID-FAKE-14873">
+        <rs ana="https://topostext.org/place/375273PMil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::228 /TEI[1]/text[1]/body[1]/p[1]::236" xml:id="UID-FAKE-14874">
+        <rs ana="https://topostext.org/place/390271RAio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::240 /TEI[1]/text[1]/body[1]/p[1]::246" xml:id="UID-FAKE-14875">
+        <rs ana="https://topostext.org/place/392261ILes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::260 /TEI[1]/text[1]/body[1]/p[1]::268" xml:id="UID-FAKE-14876">
+        <rs ana="https://topostext.org/place/392261ILes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::277 /TEI[1]/text[1]/body[1]/p[1]::284" xml:id="UID-FAKE-14877">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::288 /TEI[1]/text[1]/body[1]/p[1]::292" xml:id="UID-FAKE-14878">
+        <rs ana="https://topostext.org/place/390271RAio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::307 /TEI[1]/text[1]/body[1]/p[1]::313" xml:id="UID-FAKE-14879">
+        <rs ana="https://topostext.org/place/361281PLin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::324 /TEI[1]/text[1]/body[1]/p[1]::330" xml:id="UID-FAKE-14880">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::345 /TEI[1]/text[1]/body[1]/p[1]::351" xml:id="UID-FAKE-14881">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::475 /TEI[1]/text[1]/body[1]/p[1]::481" xml:id="UID-FAKE-14882">
+        <rs ana="https://topostext.org/place/388222UChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::496 /TEI[1]/text[1]/body[1]/p[1]::506" xml:id="UID-FAKE-14883">
+        <rs ana="https://topostext.org/place/388222UChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::535 /TEI[1]/text[1]/body[1]/p[1]::541" xml:id="UID-FAKE-14884">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::288 /TEI[1]/text[1]/body[1]/p[2]::291" xml:id="UID-FAKE-14885">
+        <rs ana="https://topostext.org/place/367253PIos"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::453 /TEI[1]/text[1]/body[1]/p[2]::456" xml:id="UID-FAKE-14886">
+        <rs ana="https://topostext.org/place/367253PIos"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::8 /TEI[1]/text[1]/body[1]/p[3]::16" xml:id="UID-FAKE-14887">
+        <rs ana="https://topostext.org/place/349336PKit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::215 /TEI[1]/text[1]/body[1]/p[3]::221" xml:id="UID-FAKE-14888">
+        <rs ana="https://topostext.org/place/350330RCyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::336 /TEI[1]/text[1]/body[1]/p[3]::343" xml:id="UID-FAKE-14889">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::353 /TEI[1]/text[1]/body[1]/p[3]::359" xml:id="UID-FAKE-14890">
+        <rs ana="https://topostext.org/place/350330RCyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::449 /TEI[1]/text[1]/body[1]/p[3]::455" xml:id="UID-FAKE-14891">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::333 /TEI[1]/text[1]/body[1]/p[4]::344" xml:id="UID-FAKE-14892">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::134 /TEI[1]/text[1]/body[1]/p[5]::140" xml:id="UID-FAKE-14893">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::147 /TEI[1]/text[1]/body[1]/p[6]::156" xml:id="UID-FAKE-14894">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::80 /TEI[1]/text[1]/body[1]/p[7]::88" xml:id="UID-FAKE-14895">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::208 /TEI[1]/text[1]/body[1]/p[7]::216" xml:id="UID-FAKE-14896">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 24</head>
+      <p>Such was the course of the war. In the fore-temple at Delphi are written maxims useful for the life of men, inscribed by those whom the Greeks say were sages. These were: from Ionia, Thales of Miletus and Bias of Priene; of the Aeolians in Lesbos, Pittacus of Mitylene; of the Dorians in Asia, Cleobulus of Lindus; Solon of Athens and Chilon of Sparta; the seventh sage, according to the list of Plato, the son of Ariston, is not Periander, the son of Cypselus, but Myson of Chenae, a village on Mount Oeta. These sages, then, came to Delphi and dedicated to Apollo the celebrated maxims, “Know thyself,” and “Nothing in excess.”</p>
+      <p>So these men wrote what I have said, and you can see a bronze portrait of Homer on a stele, and read the oracle that they say Homer received: “Blessed and unhappy, for to be both wast thou born. Thou seekest thy father-land; but no father-land hast thou, only a mother-land.The island of Ios is the father-land of thy mother, which will receive thee When thou hast died; but be on thy guard against the riddle of the young children.” The inhabitants of Ios point to Homer"s tomb in the island, and in another part to that of Clymene, who was, they say, the mother of Homer.</p>
+      <p>But the Cyprians, who also claim Homer as their own, say that Themisto, one of their native women, was the mother of Homer, and that Euclus foretold the birth of Homer in the following verses: “And then in sea-girt Cyprus there will be a mighty singer, Whom Themisto, lady fair, shall bear in the fields, A man of renown, far from rich Salamis. Leaving Cyprus, tossed and wetted by the waves, The first and only poet to sing of the woes of spacious Greece, For ever shall he be deathless and ageless.” These things I have heard, and I have read the oracles, but express no private opinion about either the age or date of Homer.</p>
+      <p>In the temple has been built an altar of Poseidon, because Poseidon too possessed in part the most ancient oracle. There are also images of two Fates; but in place of the third Fate there stand by their side Zeus, Guide of Fate (Moiragetes), and Apollo Moiragetes. Here you may behold the hearth on which the priest of Apollo killed Neoptolemus, the son of Achilles. The story of the end of Neoptolemus I have told elsewhere.</p>
+      <p>Not far from the hearth has been dedicated a chair of Pindar. The chair is of iron, and on it they say Pindar sat whenever he came to Delphi, and there composed his songs to Apollo. Into the innermost part of the temple there pass but few, but there is dedicated in it another image of Apollo, made of gold.</p>
+      <p>Leaving the temple and turning to the left you will come to an enclosure in which is the grave of Neoptolemus, the son of Achilles. Every year the Delphians sacrifice to him as to a hero. Ascending from the tomb you come to a stone of no large size. Over it every day they pour olive oil, and at each feast they place on it unworked wool. There is also an opinion about this stone, that it was given to Cronus instead of his child, and that Cronus vomited it up again.</p>
+      <p>Coming back to the temple after seeing the stone, you come to the spring called Cassotis. By it is a wall of no great size, and the ascent to the spring is through the wall. It is said that the water of this Cassotis sinks under the ground, and inspires the women in the shrine of the god. She who gave her name to the spring is said to have been a nymph of Parnassus.</p>
+    </body>
+  </text>
+</TEI>

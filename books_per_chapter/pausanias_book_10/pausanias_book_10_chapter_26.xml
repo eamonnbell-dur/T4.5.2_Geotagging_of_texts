@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::134 /TEI[1]/text[1]/body[1]/p[1]::144" xml:id="UID-FAKE-14924">
+        <rs ana="https://topostext.org/place/390162UTem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::216 /TEI[1]/text[1]/body[1]/p[1]::222" xml:id="UID-FAKE-14925">
+        <rs ana="https://topostext.org/place/382240SRAm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::224 /TEI[1]/text[1]/body[1]/p[1]::231" xml:id="UID-FAKE-14926">
+        <rs ana="https://topostext.org/place/382240SRAm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::514 /TEI[1]/text[1]/body[1]/p[1]::520" xml:id="UID-FAKE-14927">
+        <rs ana="https://topostext.org/place/399262UAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::146 /TEI[1]/text[1]/body[1]/p[2]::158" xml:id="UID-FAKE-14928">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::271 /TEI[1]/text[1]/body[1]/p[2]::277" xml:id="UID-FAKE-14929">
+        <rs ana="https://topostext.org/place/400262UIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::545 /TEI[1]/text[1]/body[1]/p[3]::550" xml:id="UID-FAKE-14930">
+        <rs ana="https://topostext.org/place/384236UAul"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::353 /TEI[1]/text[1]/body[1]/p[4]::358" xml:id="UID-FAKE-14931">
+        <rs ana="https://topostext.org/place/399262UAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::411 /TEI[1]/text[1]/body[1]/p[4]::418" xml:id="UID-FAKE-14932">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::253 /TEI[1]/text[1]/body[1]/p[6]::261" xml:id="UID-FAKE-14933">
+        <rs ana="https://topostext.org/place/379274SEph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::284 /TEI[1]/text[1]/body[1]/p[6]::289" xml:id="UID-FAKE-14934">
+        <rs ana="https://topostext.org/place/377269PSam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::79 /TEI[1]/text[1]/body[1]/p[7]::85" xml:id="UID-FAKE-14935">
+        <rs ana="https://topostext.org/place/380237SApO"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::201 /TEI[1]/text[1]/body[1]/p[7]::207" xml:id="UID-FAKE-14936">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::222 /TEI[1]/text[1]/body[1]/p[7]::227" xml:id="UID-FAKE-14937">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::307 /TEI[1]/text[1]/body[1]/p[8]::314" xml:id="UID-FAKE-14938">
+        <rs ana="https://topostext.org/place/346365ULaL"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::328 /TEI[1]/text[1]/body[1]/p[8]::338" xml:id="UID-FAKE-14939">
+        <rs ana="https://topostext.org/place/385236PCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::8 /TEI[1]/text[1]/body[1]/p[9]::15" xml:id="UID-FAKE-14940">
+        <rs ana="https://topostext.org/place/375224SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::180 /TEI[1]/text[1]/body[1]/p[9]::186" xml:id="UID-FAKE-14941">
+        <rs ana="https://topostext.org/place/380138PHim"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 26</head>
+      <p>Above the women between Aethra and Nestor are other captive women, Clymene, Creusa, Aristomache and Xenodice. Now Stesichorus, in the Iliupersis, includes Clymene in the number of the captives; and similarly, in the Nostoi (Returns), he speaks of Aristomache as the daughter of Priam and the wife of Critolaus, son of Hicetaon. But I know of no poet, and of no prose-writer, who makes mention of Xenodice. About Creusa the story is told that the Mother of the Gods and Aphrodite rescued her from slavery among the Greeks, as she was, of course, the wife of Aeneas. But Lescheos and the writer of the epic poem Cypria make Eurydice the wife of Aeneas.</p>
+      <p>Beyond these are painted on a couch Deinome, Metioche, Peisis and Cleodice. Deinome is the only one of these names to occur in what is called the Little Iliad; Polygnotus, I think, invented the names of the others. Epeius is painted naked; he is razing to the ground the Trojan wall. Above the wall rises the head only of the Wooden Horse. There is Polypoetes, the son of Peirithous, his head bound with a fillet; by his side is Acamas, the son of Theseus, wearing on his head a helmet with a crest on it.</p>
+      <p>There is also Odysseus . . . and Odysseus has put on his corselet. Ajax, the son of Oileus, holding a shield, stands by an altar, taking an oath about the outrage on Cassandra. Cassandra is sitting on the ground, and holds the image of Athena, for she had knocked over the wooden image from its stand when Ajax was dragging her away from sanctuary. In the painting are also the sons of Atreus, wearing helmets like the others; Menelaus carries a shield, on which is wrought a serpent as a memorial of the prodigy that appeared on the victims at Aulis.</p>
+      <p>Under those who are administering the oath to Ajax, and in a line with the horse by Nestor, is Neoptolemus, who has killed Elasus, whoever Elasus may be. Elasus is represented as a man only just alive. Astynous, who is also mentioned by Lescheos, has fallen to his knees, and Neoptolemus is striking him with a sword. Neoptolemus is the only one of the Greek army represented by Polygnotus as still killing the Trojans, the reason being that he intended the whole painting to be placed over the grave of Neoptolemus. The son of Achilles is named Neoptolemus by Homer in all his poetry. The epic poem, however, called Cypria says that Lycomedes named him Pyrrhus, but Phoenix gave him the name of Neoptolemus (young soldier) because Achilles was but young when he first went to war.</p>
+      <p>In the picture is an altar, to which a small boy clings in terror. On the altar lies a bronze corselet. At the present day corselets of this form are rare, but they used to be worn in days of old. They were made of two bronze pieces, one fitting the chest and the parts about the belly, the other intended to protect the back. They were called gyala. One was put on in front, and the other behind; then they were fastened together by buckles.</p>
+      <p>They were thought to afford sufficient safety even without a shield. Wherefore Homer speaks of Phorcys the Phrygian as without a shield, because he wore a two-piece corselet. Not only have I seen this armour depicted by Polygnotus, but in the temple of Ephesian Artemis, Calliphon of Samos has painted women fitting on the gyala of the corselet of Patroclus.</p>
+      <p>Beyond the altar he has painted Laodice standing, whom I do not find among the Trojan captive women enumerated by any poet, so I think that the only probable conclusion is that she was set free by the Greeks. Homer in the Iliad speaks of the hospitality given to Menelaus and Odysseus by Antenor, and how Laodice was wife to Helicaon, Antenor"s son.</p>
+      <p>Lescheos says that Helicaon, wounded in the night battle, was recognized by Odysseus and carried alive out of the fighting. So the tie binding Menelaus and Odysseus to the house of Antenor makes it unlikely that Agamemnon and Menelaus committed any spiteful act against the wife of Helicaon. The account of Laodice given by the Chalcidian poet Euphorion is entirely unlikely.</p>
+      <p>Next to Laodice is a stone stand with a bronze washing-basin upon it. Medusa is sitting on the ground, holding the stand in both hands. If we are to believe the ode of the poet of Himera, Medusa should be reckoned as one of the daughters of Priam. Beside Medusa is a shaved old woman or eunuch, holding on the knees a naked child. It is represented as holding its hand before its eyes in terror.</p>
+    </body>
+  </text>
+</TEI>

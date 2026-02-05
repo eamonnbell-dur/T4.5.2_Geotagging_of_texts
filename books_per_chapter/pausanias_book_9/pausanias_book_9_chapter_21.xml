@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::46 /TEI[1]/text[1]/body[1]/p[1]::50" xml:id="UID-FAKE-13104">
+        <rs ana="https://topostext.org/place/401198HPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::81 /TEI[1]/text[1]/body[1]/p[1]::88" xml:id="UID-FAKE-13105">
+        <rs ana="https://topostext.org/place/383236PTan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::15 /TEI[1]/text[1]/body[1]/p[2]::24" xml:id="UID-FAKE-13106">
+        <rs ana="https://topostext.org/place/130350REth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::232 /TEI[1]/text[1]/body[1]/p[2]::240" xml:id="UID-FAKE-13107">
+        <rs ana="https://topostext.org/place/415220RPai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::332 /TEI[1]/text[1]/body[1]/p[2]::338" xml:id="UID-FAKE-13108">
+        <rs ana="https://topostext.org/place/300740RInd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::106 /TEI[1]/text[1]/body[1]/p[3]::111" xml:id="UID-FAKE-13109">
+        <rs ana="https://topostext.org/place/490070RKel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::38 /TEI[1]/text[1]/body[1]/p[4]::44" xml:id="UID-FAKE-13110">
+        <rs ana="https://topostext.org/place/300740RInd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::97 /TEI[1]/text[1]/body[1]/p[4]::104" xml:id="UID-FAKE-13111">
+        <rs ana="https://topostext.org/place/300740RInd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::126 /TEI[1]/text[1]/body[1]/p[4]::132" xml:id="UID-FAKE-13112">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::418 /TEI[1]/text[1]/body[1]/p[4]::425" xml:id="UID-FAKE-13113">
+        <rs ana="https://topostext.org/place/300740RInd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::356 /TEI[1]/text[1]/body[1]/p[5]::361" xml:id="UID-FAKE-13114">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::363 /TEI[1]/text[1]/body[1]/p[5]::368" xml:id="UID-FAKE-13115">
+        <rs ana="https://topostext.org/place/300740RInd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::372 /TEI[1]/text[1]/body[1]/p[5]::378" xml:id="UID-FAKE-13116">
+        <rs ana="https://topostext.org/place/280400RAra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::421 /TEI[1]/text[1]/body[1]/p[5]::427" xml:id="UID-FAKE-13117">
+        <rs ana="https://topostext.org/place/379214SCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::168 /TEI[1]/text[1]/body[1]/p[6]::174" xml:id="UID-FAKE-13118">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::222 /TEI[1]/text[1]/body[1]/p[6]::230" xml:id="UID-FAKE-13119">
+        <rs ana="https://topostext.org/place/263318UThi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::241 /TEI[1]/text[1]/body[1]/p[6]::249" xml:id="UID-FAKE-13120">
+        <rs ana="https://topostext.org/place/130350REth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::495 /TEI[1]/text[1]/body[1]/p[6]::503" xml:id="UID-FAKE-13121">
+        <rs ana="https://topostext.org/place/400310RPhr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::515 /TEI[1]/text[1]/body[1]/p[6]::520" xml:id="UID-FAKE-13122">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 21</head>
+      <p>I saw another Triton among the curiosities at Rome, less in size than the one at Tanagra. The Tritons have the following appearance. On their heads they grow hair like that of marsh Frog1 not only in color, but also in the impossibility of separating one hair from another. The rest of their body is rough with fine scales just as is the shark. Under their ears they have gills and a man"s nose; but the mouth is broader and the teeth are those of a beast. Their eyes seem to me blue, and they have hands, fingers, and nails like the shells of the murex. Under the breast and belly is a tail like a dolphin"s instead of feet.</p>
+      <p>I saw also the Ethiopian bulls, called rhinoceroses owing to the fact that each has one horn (ceras) at the end of the nose (rhis), over which is another but smaller one, but there is no trace of horns on their heads. I saw too the Paeonian bulls, which are shaggy all over, but especially about the chest and lower jaw. I saw also Indian camels with the color of leopards.</p>
+      <p>There is also a beast called the elk, in form between a deer and a camel, which breeds in the land of the Celts. Of all the beasts we know it alone cannot be tracked or seen at a distance by man; sometimes, however, when men are out hunting other game they fall in with an elk by luck. Now they say that it smells man even at a great distance, and dashes down into ravines or the deepest caverns. So the hunters surround the plain or mountain in a circuit of at least a thousand stades, and, taking care not to break the circle, they keep on narrowing the area enclosed, and so catch all the beasts inside, the elks included. But if there chance to be no lair within, there is no other way of catching the elk.</p>
+      <p>The beast described by Ctesias in his Indian history, which he says is called martichoras by the Indians and man-eater by the Greeks, I am inclined to think is the tiger. But that it has three rows of teeth along each jaw and spikes at the tip of its tail with which it defends itself at close quarters, while it hurls them like an archer"s arrows at more distant enemies; all this is, I think, a false story that the Indians pass on from one to another owing to their excessive dread of the beast.</p>
+      <p>They were also deceived about its color, and whenever the tiger showed itself in the light of the sun it appeared to be a homogeneous red, either because of its speed, or, if it were not running, because of its continual twists and turns, especially when it was not seen at close quarters. And I think that if one were to traverse the most remote parts of Libya, India or Arabia, in search of such beasts as are found in Greece, some he would not discover at all, and others would have a different appearance.</p>
+      <p>For man is not the only creature that has a different appearance in different climates and in different countries; the others too obey the same rule. For instance, the Libyan asps have a different colors compared with the Egyptian, while in Ethiopia are bred asps quite as black as the men. So everyone should be neither over-hasty in one"s judgments, nor incredulous when considering rarities. For instance, though I have never seen winged snakes I believe that they exist, as I believe that a Phrygian brought to Ionia a scorpion with wings exactly like those of locusts.</p>
+    </body>
+  </text>
+</TEI>

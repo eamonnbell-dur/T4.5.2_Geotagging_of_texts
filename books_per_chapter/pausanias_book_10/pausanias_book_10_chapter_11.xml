@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::32 /TEI[1]/text[1]/body[1]/p[1]::42" xml:id="UID-FAKE-14238">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::64 /TEI[1]/text[1]/body[1]/p[1]::74" xml:id="UID-FAKE-14239">
+        <rs ana="https://topostext.org/place/375225BSiT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::163 /TEI[1]/text[1]/body[1]/p[1]::171" xml:id="UID-FAKE-14240">
+        <rs ana="https://topostext.org/place/367274PKni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::232 /TEI[1]/text[1]/body[1]/p[1]::238" xml:id="UID-FAKE-14241">
+        <rs ana="https://topostext.org/place/367274PKni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::35 /TEI[1]/text[1]/body[1]/p[2]::45" xml:id="UID-FAKE-14242">
+        <rs ana="https://topostext.org/place/375225BSiT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::51 /TEI[1]/text[1]/body[1]/p[2]::60" xml:id="UID-FAKE-14243">
+        <rs ana="https://topostext.org/place/385225SSiT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::14 /TEI[1]/text[1]/body[1]/p[3]::20" xml:id="UID-FAKE-14244">
+        <rs ana="https://topostext.org/place/385150PLip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::83 /TEI[1]/text[1]/body[1]/p[3]::94" xml:id="UID-FAKE-14245">
+        <rs ana="https://topostext.org/place/430105RTyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::129 /TEI[1]/text[1]/body[1]/p[3]::135" xml:id="UID-FAKE-14246">
+        <rs ana="https://topostext.org/place/367274PKni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::189 /TEI[1]/text[1]/body[1]/p[3]::196" xml:id="UID-FAKE-14247">
+        <rs ana="https://topostext.org/place/367274PKni"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::261 /TEI[1]/text[1]/body[1]/p[3]::270" xml:id="UID-FAKE-14248">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::309 /TEI[1]/text[1]/body[1]/p[3]::326" xml:id="UID-FAKE-14249">
+        <rs ana="https://topostext.org/place/385150PLip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::367 /TEI[1]/text[1]/body[1]/p[3]::380" xml:id="UID-FAKE-14250">
+        <rs ana="https://topostext.org/place/367151LPac"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::384 /TEI[1]/text[1]/body[1]/p[3]::390" xml:id="UID-FAKE-14251">
+        <rs ana="https://topostext.org/place/385150PLip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::432 /TEI[1]/text[1]/body[1]/p[3]::437" xml:id="UID-FAKE-14252">
+        <rs ana="https://topostext.org/place/380126UEry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::442 /TEI[1]/text[1]/body[1]/p[3]::453" xml:id="UID-FAKE-14253">
+        <rs ana="https://topostext.org/place/335354RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::632 /TEI[1]/text[1]/body[1]/p[3]::638" xml:id="UID-FAKE-14254">
+        <rs ana="https://topostext.org/place/385150IAio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::31 /TEI[1]/text[1]/body[1]/p[4]::37" xml:id="UID-FAKE-14255">
+        <rs ana="https://topostext.org/place/385150PLip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::71 /TEI[1]/text[1]/body[1]/p[4]::76" xml:id="UID-FAKE-14256">
+        <rs ana="https://topostext.org/place/384150IHie"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::78 /TEI[1]/text[1]/body[1]/p[4]::87" xml:id="UID-FAKE-14257">
+        <rs ana="https://topostext.org/place/388152IStr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::92 /TEI[1]/text[1]/body[1]/p[4]::99" xml:id="UID-FAKE-14258">
+        <rs ana="https://topostext.org/place/386148IDid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::146 /TEI[1]/text[1]/body[1]/p[4]::155" xml:id="UID-FAKE-14259">
+        <rs ana="https://topostext.org/place/388152IStr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::210 /TEI[1]/text[1]/body[1]/p[4]::215" xml:id="UID-FAKE-14260">
+        <rs ana="https://topostext.org/place/384150IHie"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::4 /TEI[1]/text[1]/body[1]/p[5]::11" xml:id="UID-FAKE-14261">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::74 /TEI[1]/text[1]/body[1]/p[5]::83" xml:id="UID-FAKE-14262">
+        <rs ana="https://topostext.org/place/385225BAtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::97 /TEI[1]/text[1]/body[1]/p[5]::105" xml:id="UID-FAKE-14263">
+        <rs ana="https://topostext.org/place/385225BAtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::191 /TEI[1]/text[1]/body[1]/p[5]::197" xml:id="UID-FAKE-14264">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::255 /TEI[1]/text[1]/body[1]/p[5]::262" xml:id="UID-FAKE-14265">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::272 /TEI[1]/text[1]/body[1]/p[5]::280" xml:id="UID-FAKE-14266">
+        <rs ana="https://topostext.org/place/385225BAtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::347 /TEI[1]/text[1]/body[1]/p[5]::355" xml:id="UID-FAKE-14267">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::376 /TEI[1]/text[1]/body[1]/p[5]::383" xml:id="UID-FAKE-14268">
+        <rs ana="https://topostext.org/place/378228PKle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::399 /TEI[1]/text[1]/body[1]/p[5]::408" xml:id="UID-FAKE-14269">
+        <rs ana="https://topostext.org/place/385225BAtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::611 /TEI[1]/text[1]/body[1]/p[5]::621" xml:id="UID-FAKE-14270">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::679 /TEI[1]/text[1]/body[1]/p[5]::684" xml:id="UID-FAKE-14271">
+        <rs ana="https://topostext.org/place/385225BAtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::699 /TEI[1]/text[1]/body[1]/p[5]::709" xml:id="UID-FAKE-14272">
+        <rs ana="https://topostext.org/place/385225BAtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::713 /TEI[1]/text[1]/body[1]/p[5]::719" xml:id="UID-FAKE-14273">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::4 /TEI[1]/text[1]/body[1]/p[6]::13" xml:id="UID-FAKE-14274">
+        <rs ana="https://topostext.org/place/380237BSHm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::85 /TEI[1]/text[1]/body[1]/p[6]::99" xml:id="UID-FAKE-14275">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::110 /TEI[1]/text[1]/body[1]/p[6]::115" xml:id="UID-FAKE-14276">
+        <rs ana="https://topostext.org/place/380237BSSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::256 /TEI[1]/text[1]/body[1]/p[6]::265" xml:id="UID-FAKE-14277">
+        <rs ana="https://topostext.org/place/385225BAtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::289 /TEI[1]/text[1]/body[1]/p[6]::293" xml:id="UID-FAKE-14278">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::295 /TEI[1]/text[1]/body[1]/p[6]::304" xml:id="UID-FAKE-14279">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::306 /TEI[1]/text[1]/body[1]/p[6]::312" xml:id="UID-FAKE-14280">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::314 /TEI[1]/text[1]/body[1]/p[6]::320" xml:id="UID-FAKE-14281">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::322 /TEI[1]/text[1]/body[1]/p[6]::329" xml:id="UID-FAKE-14282">
+        <rs ana="https://topostext.org/place/380225PPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::333 /TEI[1]/text[1]/body[1]/p[6]::339" xml:id="UID-FAKE-14283">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::341 /TEI[1]/text[1]/body[1]/p[6]::349" xml:id="UID-FAKE-14284">
+        <rs ana="https://topostext.org/place/392210PAmb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::351 /TEI[1]/text[1]/body[1]/p[6]::357" xml:id="UID-FAKE-14285">
+        <rs ana="https://topostext.org/place/386206PPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::363 /TEI[1]/text[1]/body[1]/p[6]::370" xml:id="UID-FAKE-14286">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::510 /TEI[1]/text[1]/body[1]/p[6]::515" xml:id="UID-FAKE-14287">
+        <rs ana="https://topostext.org/place/380245SGer"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 11</head>
+      <p>Near the votive offering of the Tarentines is a treasury of the Sicyonians, but there is no treasure to be seen either here or in any other of the treasuries. The Cnidians brought the following images to Delphi: Triopas, founder of Cnidus, standing by a horse, Leto, and Apollo and Artemis shooting arrows at Tityos, who has already been wounded in the body.</p>
+      <p>These stand by the treasury of the Sicyonians. The Siphnians too made a treasury, the reason being as follows. Their island contained gold mines, and the god ordered them to pay a tithe of the revenues to Delphi. So they built the treasury, and continued to pay the tithe until greed made them omit the tribute, when the sea flooded their mines and hid them from sight.</p>
+      <p>The people of Lipara too dedicated statues to commemorate a naval victory over the Tyrrhenians. These people were colonists from Cnidus, and the leader of the colony is said to have been a Cnidian, whose name was Pentathlus according to a statement made by the Syracusan Antiochus, son of Xenophanes1, in his History of Sicily. He says also that they built a city on Cape Pachynum in Sicily, but were hard pressed in a war with the Elymi and Phoenicians, and driven out, but occupied the islands, from which they expelled the inhabitants if they were not still uninhabited, still called, as they are called by Homer, the islands of Aeolus.</p>
+      <p>Of these islands they dwell in Lipara, on which they built a city, but Hiera, Strongyle and Didymae they cultivate, crossing to them in ships. On Strongyle fire is to be seen rising out of the ground, while in Hiera fire of its own accord bursts out on the summit of the island, and by the sea are baths, comfortable enough if the water receive you kindly, but if not, painful to enter because of the heat.</p>
+      <p>The Thebans have a treasury built from the spoils of war, and so have the Athenians. Whether the Cnidians built to commemorate a victory or to display their prosperity I do not know, but the Theban treasury was made from the spoils taken at the battle of Leuctra, and the Athenian treasury from those taken from the army that landed with Datis at Marathon. The inhabitants of Cleonae were, like the Athenians, afflicted with the plague, and obeying an oracle from Delphi sacrificed a he-goat to the sun while it was still rising. This put an end to the trouble, and so they sent a bronze he-goat to Apollo. The Syracusans have a treasury built from the spoils taken in the great Attic disaster, the Potidaeans in Thrace built one to show their piety to the god.</p>
+      <p>The Athenians also built a stoa out of the spoils they took in their war against the Peloponnesians and their Greek allies. There are also dedicated the figure-heads of ships and bronze shields. The inscription on them enumerates the cities from which the Athenians sent the first-fruits: Elis, Lacedemon, Sicyon, Megara, Pellene in Achaia, Ambracia, Leucas, and Corinth itself. It also says that from the spoils taken in these sea-battles a sacrifice was offered to Theseus and to Poseidon at the cape called Rhium. It seems to me that the inscription refers to Phormio, son of Asopichus, and to his achievements.</p>
+    </body>
+  </text>
+</TEI>

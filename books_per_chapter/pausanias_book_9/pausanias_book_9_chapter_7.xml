@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::21 /TEI[1]/text[1]/body[1]/p[1]::28" xml:id="UID-FAKE-12659">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::90 /TEI[1]/text[1]/body[1]/p[1]::96" xml:id="UID-FAKE-12660">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::209 /TEI[1]/text[1]/body[1]/p[1]::215" xml:id="UID-FAKE-12661">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::225 /TEI[1]/text[1]/body[1]/p[1]::234" xml:id="UID-FAKE-12662">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::260 /TEI[1]/text[1]/body[1]/p[1]::270" xml:id="UID-FAKE-12663">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::279 /TEI[1]/text[1]/body[1]/p[1]::288" xml:id="UID-FAKE-12664">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::292 /TEI[1]/text[1]/body[1]/p[1]::303" xml:id="UID-FAKE-12665">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::32 /TEI[1]/text[1]/body[1]/p[2]::38" xml:id="UID-FAKE-12666">
+        <rs ana="https://topostext.org/place/257326PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::156 /TEI[1]/text[1]/body[1]/p[2]::164" xml:id="UID-FAKE-12667">
+        <rs ana="https://topostext.org/place/399225UOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::193 /TEI[1]/text[1]/body[1]/p[2]::204" xml:id="UID-FAKE-12668">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::113 /TEI[1]/text[1]/body[1]/p[4]::119" xml:id="UID-FAKE-12669">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::185 /TEI[1]/text[1]/body[1]/p[4]::192" xml:id="UID-FAKE-12670">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::290 /TEI[1]/text[1]/body[1]/p[4]::296" xml:id="UID-FAKE-12671">
+        <rs ana="https://topostext.org/place/396270PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::319 /TEI[1]/text[1]/body[1]/p[4]::326" xml:id="UID-FAKE-12672">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::396 /TEI[1]/text[1]/body[1]/p[4]::404" xml:id="UID-FAKE-12673">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::436 /TEI[1]/text[1]/body[1]/p[4]::443" xml:id="UID-FAKE-12674">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::463 /TEI[1]/text[1]/body[1]/p[4]::470" xml:id="UID-FAKE-12675">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::533 /TEI[1]/text[1]/body[1]/p[4]::539" xml:id="UID-FAKE-12676">
+        <rs ana="https://topostext.org/place/396270PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::245 /TEI[1]/text[1]/body[1]/p[5]::252" xml:id="UID-FAKE-12677">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::263 /TEI[1]/text[1]/body[1]/p[5]::272" xml:id="UID-FAKE-12678">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::291 /TEI[1]/text[1]/body[1]/p[5]::297" xml:id="UID-FAKE-12679">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::324 /TEI[1]/text[1]/body[1]/p[5]::332" xml:id="UID-FAKE-12680">
+        <rs ana="https://topostext.org/place/385228SPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::74 /TEI[1]/text[1]/body[1]/p[6]::80" xml:id="UID-FAKE-12681">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::118 /TEI[1]/text[1]/body[1]/p[6]::124" xml:id="UID-FAKE-12682">
+        <rs ana="https://topostext.org/place/396270PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::129 /TEI[1]/text[1]/body[1]/p[6]::136" xml:id="UID-FAKE-12683">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::286 /TEI[1]/text[1]/body[1]/p[6]::292" xml:id="UID-FAKE-12684">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::394 /TEI[1]/text[1]/body[1]/p[6]::400" xml:id="UID-FAKE-12685">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::409 /TEI[1]/text[1]/body[1]/p[6]::416" xml:id="UID-FAKE-12686">
+        <rs ana="https://topostext.org/place/383233XCad"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 7</head>
+      <p>On this occasion the Thebans were removed from their homes by Alexander, and straggled to Athens; afterwards they were restored by Cassander, son of Antipater. Heartiest in their support of the restoration of Thebes were the Athenians, and they were helped by Messenians and the Arcadians of Megalopolis.</p>
+      <p>My own view is that in building Thebes Cassander was mainly influenced by hatred of Alexander. He destroyed the whole house of Alexander to the bitter end. Olympias he threw to the exasperated Macedonians to be stoned to death; and the sons of Alexander, Heracles by Barsina and Alexander by Roxana, he killed by poison. But he himself was not to come to a good end. He was filled with dropsy, and from the dropsy came worms while he was yet alive.</p>
+      <p>Philip, the eldest of his sons, shortly after coming to the throne was seized by a wasting disease which proved fatal. Antipater, the next son, murdered his mother Thessalonice, the daughter of Philip, son of Amyntas, and of Nicasipolis, charging her with being too fond of Alexander, who was the youngest of Cassander"s sons. Getting the support of Demetrius, the son of Antigonus, he deposed with his help and punished his brother Antipater. However, it appeared that in Demetrius he found a murderer and not an ally.</p>
+      <p>So some god was to exact from Cassander a just requital. In the time of Cassander all the ancient circuit of the Theban walls was rebuilt, but fate after all willed that afterwards the Thebans were again to taste the cup of great misfortune. For when Mithridates had begun the war with the Romans, he was joined by the Thebans, for no other reason, in my opinion, except their friendship for the Athenian people. But when Sulla invaded Boeotia, terror seized the Thebans; they at once changed sides, and sought the friendship of the Romans.</p>
+      <p>Sulla nevertheless was angry with them, and among his plans to humble them was to cut away one half of their territory. His pretext was as follows. When he began the war against Mithridates, he was short of funds. So he collected offerings from Olympia, those at Epidaurus, and all those at Delphi that had been left by the Phocians.</p>
+      <p>These he divided among his soldiery, and repaid the gods with half of the Theban territory. Although by favour of the Romans the Thebans afterwards recovered the land of which they had been deprived, yet from this point they sank into the greatest depths of weakness. The lower city of Thebes is all deserted today, except the sanctuaries, and the people live on the acropolis, which they call Thebes and not Cadmeia.</p>
+    </body>
+  </text>
+</TEI>

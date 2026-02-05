@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::5 /TEI[1]/text[1]/body[1]/p[1]::11" xml:id="UID-FAKE-15294">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::15 /TEI[1]/text[1]/body[1]/p[1]::24" xml:id="UID-FAKE-15295">
+        <rs ana="https://topostext.org/place/437041UAmb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::196 /TEI[1]/text[1]/body[1]/p[1]::205" xml:id="UID-FAKE-15296">
+        <rs ana="https://topostext.org/place/375324RLyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::276 /TEI[1]/text[1]/body[1]/p[1]::283" xml:id="UID-FAKE-15297">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::312 /TEI[1]/text[1]/body[1]/p[1]::318" xml:id="UID-FAKE-15298">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::341 /TEI[1]/text[1]/body[1]/p[1]::346" xml:id="UID-FAKE-15299">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::353 /TEI[1]/text[1]/body[1]/p[1]::360" xml:id="UID-FAKE-15300">
+        <rs ana="https://topostext.org/place/400310RPhr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::0 /TEI[1]/text[1]/body[1]/p[3]::9" xml:id="UID-FAKE-15301">
+        <rs ana="https://topostext.org/place/384227PAmb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::30 /TEI[1]/text[1]/body[1]/p[3]::45" xml:id="UID-FAKE-15302">
+        <rs ana="https://topostext.org/place/385226LPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::71 /TEI[1]/text[1]/body[1]/p[3]::77" xml:id="UID-FAKE-15303">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::173 /TEI[1]/text[1]/body[1]/p[3]::184" xml:id="UID-FAKE-15304">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::189 /TEI[1]/text[1]/body[1]/p[3]::196" xml:id="UID-FAKE-15305">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::208 /TEI[1]/text[1]/body[1]/p[3]::217" xml:id="UID-FAKE-15306">
+        <rs ana="https://topostext.org/place/384227PAmb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::267 /TEI[1]/text[1]/body[1]/p[4]::276" xml:id="UID-FAKE-15307">
+        <rs ana="https://topostext.org/place/384227PAmb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::12 /TEI[1]/text[1]/body[1]/p[5]::20" xml:id="UID-FAKE-15308">
+        <rs ana="https://topostext.org/place/384226SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::154 /TEI[1]/text[1]/body[1]/p[5]::165" xml:id="UID-FAKE-15309">
+        <rs ana="https://topostext.org/place/384227SDik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::216 /TEI[1]/text[1]/body[1]/p[5]::226" xml:id="UID-FAKE-15310">
+        <rs ana="https://topostext.org/place/384227SDik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::244 /TEI[1]/text[1]/body[1]/p[5]::253" xml:id="UID-FAKE-15311">
+        <rs ana="https://topostext.org/place/377235SPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::320 /TEI[1]/text[1]/body[1]/p[5]::331" xml:id="UID-FAKE-15312">
+        <rs ana="https://topostext.org/place/384227SDik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::376 /TEI[1]/text[1]/body[1]/p[5]::384" xml:id="UID-FAKE-15313">
+        <rs ana="https://topostext.org/place/385230SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::440 /TEI[1]/text[1]/body[1]/p[5]::450" xml:id="UID-FAKE-15314">
+        <rs ana="https://topostext.org/place/385226UKyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::482 /TEI[1]/text[1]/body[1]/p[5]::490" xml:id="UID-FAKE-15315">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::554 /TEI[1]/text[1]/body[1]/p[5]::562" xml:id="UID-FAKE-15316">
+        <rs ana="https://topostext.org/place/385228UPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::40 /TEI[1]/text[1]/body[1]/p[6]::46" xml:id="UID-FAKE-15317">
+        <rs ana="https://topostext.org/place/384227PMed"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::99 /TEI[1]/text[1]/body[1]/p[6]::105" xml:id="UID-FAKE-15318">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::125 /TEI[1]/text[1]/body[1]/p[6]::133" xml:id="UID-FAKE-15319">
+        <rs ana="https://topostext.org/place/389224PAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::184 /TEI[1]/text[1]/body[1]/p[6]::190" xml:id="UID-FAKE-15320">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::271 /TEI[1]/text[1]/body[1]/p[6]::276" xml:id="UID-FAKE-15321">
+        <rs ana="https://topostext.org/place/405213UArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::320 /TEI[1]/text[1]/body[1]/p[6]::330" xml:id="UID-FAKE-15322">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::395 /TEI[1]/text[1]/body[1]/p[6]::399" xml:id="UID-FAKE-15323">
+        <rs ana="https://topostext.org/place/419125PRom"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::412 /TEI[1]/text[1]/body[1]/p[6]::421" xml:id="UID-FAKE-15324">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::21 /TEI[1]/text[1]/body[1]/p[7]::29" xml:id="UID-FAKE-15325">
+        <rs ana="https://topostext.org/place/389224PAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::16 /TEI[1]/text[1]/body[1]/p[8]::24" xml:id="UID-FAKE-15326">
+        <rs ana="https://topostext.org/place/375235SKal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::171 /TEI[1]/text[1]/body[1]/p[9]::179" xml:id="UID-FAKE-15327">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::203 /TEI[1]/text[1]/body[1]/p[9]::210" xml:id="UID-FAKE-15328">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::363 /TEI[1]/text[1]/body[1]/p[9]::370" xml:id="UID-FAKE-15329">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::426 /TEI[1]/text[1]/body[1]/p[9]::431" xml:id="UID-FAKE-15330">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::298 /TEI[1]/text[1]/body[1]/p[10]::302" xml:id="UID-FAKE-15331">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::376 /TEI[1]/text[1]/body[1]/p[10]::381" xml:id="UID-FAKE-15332">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 36</head>
+      <p>From Stiris to Ambrossus is about six stades. The road is flat, lying on the level with mountains on both sides of it. The greater part of the plain is covered with vines, and in the territory of Ambrossus grow shrubs, though not close together like the vines. This shrub the Ionians, as well as the rest of the Greeks, call kokkos, and the Gauls above Phrygia call it in their native speech hys. This kokkos grows to the size of what is called the rhamnos; the leaves are darker and softer than those of the mastich-tree, though in other respects the two are alike.</p>
+      <p>Its fruit is like the fruit of the nightshade, and its size is about that of the bitter vetch. There breeds in the fruit of the kokkos a small creature. If this should reach the air when the fruit has ripened, it becomes in appearance like a gnat, and immediately flies away. But as it is they gather the fruit of the kokkos before the creature begins to move, and the blood of the creature serves as a dye for wool.</p>
+      <p>Ambrossus lies at the foot of Mount Parnassus, on the side opposite to Delphi. They say that the city was named after Ambrossus, a hero. On going to war with Philip and his Macedonians the Thebans drew round Ambrossus a double wall. It is made of a local stone, black in color and very hard indeed. Each ring of wall is a little less than a fathom broad, and two and a half fathoms in height except where it has broken down.</p>
+      <p>The interval between the first ring and the second is a fathom. The building of towers, of battlements, or of any ornament, has been entirely neglected, as the only object the citizens had in constructing the walls was immediate protection. There is a small agora at Ambrossus, and of the stone statues set up in it most are broken.</p>
+      <p>The road to Anticyra is at first up-hill. About two stades up the slope is a level place, and on the right of the road is a sanctuary of Artemis surnamed Dictynnaean, a goddess worshipped with great reverence by the Ambrossans. The image is of Aeginetan workmanship, and made of a black stone. From the sanctuary of the Dictynnaean goddess the road is downhill all the way to Anticyra. They say that in days of old the name of the city was Cyparissus, and that Homer in the list of Phocians was determined to call it by this name, although it was called Anticyra in Homer"s day, because Anticyreus was a contemporary of Heracles.</p>
+      <p>The city lies over against the ruins of Medeon. I have mentioned in the beginning of my account of Phocis that the people of Anticyra were guilty of sacrilege against the sanctuary at Delphi. They were driven from home by Philip, son of Amyntas, and yet once more by the Roman Otilius, because they were subjects of the Macedonian king Philip, son of Demetrius. Otilius had been despatched from Rome to help the Athenians against Philip.</p>
+      <p>The mountains beyond Anticyra are very rocky, and on them grows hellebore in great profusion. Black hellebore sends those who take it to stool, and purges the bowels; the nature of the other, the white kind, is to purge by vomiting. It is the root of the hellebore which is used as a purging drug.</p>
+      <p>In the agora at Anticyra are bronze statues, and at the harbor is a small sanctuary of Poseidon, built of unhewn stones. The inside is covered with stucco. The image, which is made of bronze, is a standing figure, with one foot resting on a dolphin. On this side he has one hand upon his thigh; in his other hand is a trident.</p>
+      <p>Opposite the gymnasium, in which the baths have been made, is another gymnasium, an old one, in which stands a bronze statue. The inscription on it says that Xenodamus of Anticyra, a pancratiast, won an Olympic victory in the match for men. If the inscription speaks the truth, it would seem that Xenodamus received the wild olive at the two hundred and eleventh Olympic festival. But this is the only festival omitted in the Elean records.</p>
+      <p>Beyond the agora there is in a well a spring of water. Over the well there is a roof to shelter it from the sun, with columns to support the roof. A little higher up than the well is a tomb built of any stones that came to hand. Here they say are buried the sons of Iphitus; one returned safe from Troy and died in his native land; the other, Schedius, died, they say, in the Troad, but his bones also were brought home.</p>
+    </body>
+  </text>
+</TEI>

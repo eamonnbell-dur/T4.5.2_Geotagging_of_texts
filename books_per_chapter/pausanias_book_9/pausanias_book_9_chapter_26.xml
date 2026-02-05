@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::225 /TEI[1]/text[1]/body[1]/p[1]::235" xml:id="UID-FAKE-13248">
+        <rs ana="https://topostext.org/place/384229SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::237 /TEI[1]/text[1]/body[1]/p[1]::253" xml:id="UID-FAKE-13249">
+        <rs ana="https://topostext.org/place/383232SHeL"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::278 /TEI[1]/text[1]/body[1]/p[1]::290" xml:id="UID-FAKE-13250">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::59 /TEI[1]/text[1]/body[1]/p[2]::65" xml:id="UID-FAKE-13251">
+        <rs ana="https://topostext.org/place/384232LPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::217 /TEI[1]/text[1]/body[1]/p[2]::225" xml:id="UID-FAKE-13252">
+        <rs ana="https://topostext.org/place/385235PAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::395 /TEI[1]/text[1]/body[1]/p[2]::402" xml:id="UID-FAKE-13253">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::431 /TEI[1]/text[1]/body[1]/p[3]::437" xml:id="UID-FAKE-13254">
+        <rs ana="https://topostext.org/place/384232LPhi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::68 /TEI[1]/text[1]/body[1]/p[5]::77" xml:id="UID-FAKE-13255">
+        <rs ana="https://topostext.org/place/384232UOnc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::28 /TEI[1]/text[1]/body[1]/p[6]::37" xml:id="UID-FAKE-13256">
+        <rs ana="https://topostext.org/place/383233SKab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::95 /TEI[1]/text[1]/body[1]/p[6]::103" xml:id="UID-FAKE-13257">
+        <rs ana="https://topostext.org/place/383232PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::126 /TEI[1]/text[1]/body[1]/p[6]::139" xml:id="UID-FAKE-13258">
+        <rs ana="https://topostext.org/place/384228LHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::297 /TEI[1]/text[1]/body[1]/p[6]::303" xml:id="UID-FAKE-13259">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::3 /TEI[1]/text[1]/body[1]/p[7]::11" xml:id="UID-FAKE-13260">
+        <rs ana="https://topostext.org/place/383232PThe"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 26</head>
+      <p>So sacred this sanctuary has been from the beginning. On the right of the sanctuary is a plain named after Tenerus the seer, whom they hold to be a son of Apollo by Melia; there is also a large sanctuary of Heracles surnamed Hippodetus (Binder of Horses). For they say that the Orchomenians came to this place with an army, and that Heracles by night took their chariot-horses and bound them tight.</p>
+      <p>Farther on we come to the mountain from which they say the Sphinx, chanting a riddle, sallied to bring death upon those she caught. Others say that roving with a force of ships on a piratical expedition she put in at Anthedon, seized the mountain I mentioned, and used it for plundering raids until Oedipus overwhelmed her by the superior numbers of the army he had with him on his arrival from Corinth.</p>
+      <p>There is another version of the story which makes her the natural daughter of Laius, who, because he was fond of her, told her the oracle delivered to Cadmus from Delphi. No one, they say, except the kings knew the oracle. Now Laius (the story goes on to say) had sons by concubines, and the oracle delivered from Delphi applied only to Epicaste and her sons. So when any of her brothers came in order to claim the throne from the Sphinx, she resorted to trickery in dealing with them, saying that if they were sons of Laius they should know the oracle that came to Cadmus.</p>
+      <p>When they could not answer she would punish them with death, on the ground that they had no valid claim to the kingdom or to relationship. But Oedipus came because it appears he had been told the oracle in a dream.</p>
+      <p>Distant from this mountain fifteen stades are the ruins of the city Onchestus. They say that here dwelt Onchestus, a son of Poseidon. In my day there remained a temple and image of Onchestian Poseidon, and the grove which Homer too praised.</p>
+      <p>Taking a turn left from the Cabeirian sanctuary, and advancing about fifty stades, you come to Thespiae, built at the foot of Mount Helicon. They say that Thespia was a daughter of Asopus, who gave her name to the city, while others say that Thespius, who was descended from Erechtheus, came from Athens and was the man after whom the city was called.</p>
+      <p>In Thespiae is a bronze image of Zeus Saotes (Saviour). They say about it that when a dragon once was devastating their city, the god commanded that every year one of their youths, upon whom the lot fell, should be offered to the monster. Now the names of those who perished they say that they do not remember. But when the lot fell on Cleostratus, his lover Menestratus, they say, devised a trick.</p>
+      <p>He had made a bronze breastplate, with a fish-hook, the point turned outwards, upon each of its plates. Clad in this breastplate he gave himself up, of his own free will, to the dragon, convinced that having done so he would, though destroyed himself, prove the destroyer of the monster. This is why the Zeus has been surnamed Saotes. The image of Dionysus, and also that of Fortune, and in another place that of Health . . . But the Athena Ergane, as well as Wealth, who stands beside her, was made by. . . .</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::32 /TEI[1]/text[1]/body[1]/p[1]::38" xml:id="UID-FAKE-13944">
+        <rs ana="https://topostext.org/place/385227PDau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::56 /TEI[1]/text[1]/body[1]/p[1]::65" xml:id="UID-FAKE-13945">
+        <rs ana="https://topostext.org/place/385226LPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::95 /TEI[1]/text[1]/body[1]/p[1]::101" xml:id="UID-FAKE-13946">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::146 /TEI[1]/text[1]/body[1]/p[1]::152" xml:id="UID-FAKE-13947">
+        <rs ana="https://topostext.org/place/385227PDau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::177 /TEI[1]/text[1]/body[1]/p[1]::183" xml:id="UID-FAKE-13948">
+        <rs ana="https://topostext.org/place/385228SPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::258 /TEI[1]/text[1]/body[1]/p[1]::266" xml:id="UID-FAKE-13949">
+        <rs ana="https://topostext.org/place/385228SPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::287 /TEI[1]/text[1]/body[1]/p[1]::294" xml:id="UID-FAKE-13950">
+        <rs ana="https://topostext.org/place/385228SPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::4 /TEI[1]/text[1]/body[1]/p[2]::12" xml:id="UID-FAKE-13951">
+        <rs ana="https://topostext.org/place/385228SPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::139 /TEI[1]/text[1]/body[1]/p[2]::146" xml:id="UID-FAKE-13952">
+        <rs ana="https://topostext.org/place/385228SPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::59 /TEI[1]/text[1]/body[1]/p[3]::69" xml:id="UID-FAKE-13953">
+        <rs ana="https://topostext.org/place/383235UEte"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::234 /TEI[1]/text[1]/body[1]/p[3]::240" xml:id="UID-FAKE-13954">
+        <rs ana="https://topostext.org/place/383235UEte"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::308 /TEI[1]/text[1]/body[1]/p[3]::323" xml:id="UID-FAKE-13955">
+        <rs ana="https://topostext.org/place/382233LCit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::327 /TEI[1]/text[1]/body[1]/p[3]::335" xml:id="UID-FAKE-13956">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::347 /TEI[1]/text[1]/body[1]/p[3]::354" xml:id="UID-FAKE-13957">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::375 /TEI[1]/text[1]/body[1]/p[3]::382" xml:id="UID-FAKE-13958">
+        <rs ana="https://topostext.org/place/379230LIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::417 /TEI[1]/text[1]/body[1]/p[3]::423" xml:id="UID-FAKE-13959">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::432 /TEI[1]/text[1]/body[1]/p[3]::442" xml:id="UID-FAKE-13960">
+        <rs ana="https://topostext.org/place/383235UEte"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::498 /TEI[1]/text[1]/body[1]/p[3]::504" xml:id="UID-FAKE-13961">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::0 /TEI[1]/text[1]/body[1]/p[4]::14" xml:id="UID-FAKE-13962">
+        <rs ana="https://topostext.org/place/383233GCoO"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::339 /TEI[1]/text[1]/body[1]/p[4]::346" xml:id="UID-FAKE-13963">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::27 /TEI[1]/text[1]/body[1]/p[5]::33" xml:id="UID-FAKE-13964">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::136 /TEI[1]/text[1]/body[1]/p[5]::142" xml:id="UID-FAKE-13965">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::26 /TEI[1]/text[1]/body[1]/p[6]::32" xml:id="UID-FAKE-13966">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::73 /TEI[1]/text[1]/body[1]/p[6]::81" xml:id="UID-FAKE-13967">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::197 /TEI[1]/text[1]/body[1]/p[6]::202" xml:id="UID-FAKE-13968">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::607 /TEI[1]/text[1]/body[1]/p[6]::614" xml:id="UID-FAKE-13969">
+        <rs ana="https://topostext.org/place/375235IKal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::319 /TEI[1]/text[1]/body[1]/p[7]::328" xml:id="UID-FAKE-13970">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::398 /TEI[1]/text[1]/body[1]/p[7]::410" xml:id="UID-FAKE-13971">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::412 /TEI[1]/text[1]/body[1]/p[7]::416" xml:id="UID-FAKE-13972">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::85 /TEI[1]/text[1]/body[1]/p[8]::97" xml:id="UID-FAKE-13973">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::165 /TEI[1]/text[1]/body[1]/p[8]::177" xml:id="UID-FAKE-13974">
+        <rs ana="https://topostext.org/place/384229STro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::122 /TEI[1]/text[1]/body[1]/p[9]::127" xml:id="UID-FAKE-13975">
+        <rs ana="https://topostext.org/place/383231SMus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::178 /TEI[1]/text[1]/body[1]/p[9]::187" xml:id="UID-FAKE-13976">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::287 /TEI[1]/text[1]/body[1]/p[9]::299" xml:id="UID-FAKE-13977">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::58 /TEI[1]/text[1]/body[1]/p[10]::66" xml:id="UID-FAKE-13978">
+        <rs ana="https://topostext.org/place/355241PApt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::189 /TEI[1]/text[1]/body[1]/p[10]::194" xml:id="UID-FAKE-13979">
+        <rs ana="https://topostext.org/place/355241PApt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::237 /TEI[1]/text[1]/body[1]/p[10]::243" xml:id="UID-FAKE-13980">
+        <rs ana="https://topostext.org/place/355241PApt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::129 /TEI[1]/text[1]/body[1]/p[11]::142" xml:id="UID-FAKE-13981">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::208 /TEI[1]/text[1]/body[1]/p[11]::213" xml:id="UID-FAKE-13982">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::225 /TEI[1]/text[1]/body[1]/p[12]::234" xml:id="UID-FAKE-13983">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::323 /TEI[1]/text[1]/body[1]/p[12]::329" xml:id="UID-FAKE-13984">
+        <rs ana="https://topostext.org/place/406144ISei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::153 /TEI[1]/text[1]/body[1]/p[13]::159" xml:id="UID-FAKE-13985">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::199 /TEI[1]/text[1]/body[1]/p[13]::207" xml:id="UID-FAKE-13986">
+        <rs ana="https://topostext.org/place/376216BOSt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::227 /TEI[1]/text[1]/body[1]/p[13]::234" xml:id="UID-FAKE-13987">
+        <rs ana="https://topostext.org/place/391171PCro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::298 /TEI[1]/text[1]/body[1]/p[13]::309" xml:id="UID-FAKE-13988">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::377 /TEI[1]/text[1]/body[1]/p[13]::384" xml:id="UID-FAKE-13989">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 5</head>
+      <p>There is also an ascent through Daulis to the summit of Parnassus, a longer one than that from Delphi, though not so difficult. Turning back from Daulis to the straight road to Delphi and going forwards, you see on the left of the road a building called the Phokikon, where assemble the Phocian delegates from each city.</p>
+      <p>The Phokikon is large, and within are pillars standing throughout its length. From the pillars rise steps to each wall, on which steps the Phocian delegates take their seats. At the end are neither pillars nor steps, but images of Zeus, Athena and Hera. That of Zeus is on a throne; on his right stands Hera, on his left Athena.</p>
+      <p>Going forward from here you will come to a road called the Cleft Road, the very road on which Oedipus slew his father. Fate would have it that memorials of the sufferings of Oedipus should be left throughout the length and breadth of Greece. At his birth they pieced his ankles with goads and exposed him on Mount Cithaeron in Plataean territory. Corinth and the land at the Isthmus were the scene of his upbringing. Phocis and the Cleft Road received the pollution of his murdered father"s blood. Thebes is even more notorious for the marriage of Oedipus and for the sin of Eteocles.</p>
+      <p>The Cleft Road and the rash deed committed on it by Oedipus were the beginning of his troubles, and the tombs of Laius and the servant who followed him are still just as they were in the very middle of the place where the three roads meet, and over them have been piled unhewn stones. According to the story, it was Damasistratus, king of Plataea, who found the bodies lying and buried them.</p>
+      <p>From here the high road to Delphi becomes both steeper and more difficult for the walker. Many and different are the stories told about Delphi, and even more so about the oracle of Apollo. For they say that in the earliest times the oracular seat belonged to Earth, who appointed as prophetess at it Daphnis, one of the nymphs of the mountain.</p>
+      <p>There is extant among the Greeks an hexameter poem, the name of which is Eumolpia, and it is assigned to Musaeus, son of Antiophemus. In it the poet states that the oracle belonged to Poseidon and Earth in common; that Earth gave her oracles herself, but Poseidon used Pyrcon as his mouthpiece in giving responses. The verses are these: “Forthwith the voice of the Chthonian uttered a wise word, And with her Pyrcon, servant of the renowned Earth-shaker.” They say that afterwards Earth gave her share to Themis, who gave it to Apollo as a gift. It is said that he gave to Poseidon Calaureia, that lies off Troezen, in exchange for his oracle.</p>
+      <p>I have heard too that shepherds feeding their flocks came upon the oracle, were inspired by the vapor, and prophesied as the mouthpiece of Apollo. The most prevalent view, however, is that Phemonoe was the first prophetess of the god, and first sang in hexameter verse. Boeo, a native woman who composed a hymn for the Delphians, said that the oracle was established for the god by comers from the Hyperboreans, Olen and others, and that he was the first to prophesy and the first to chant the hexameter oracles.</p>
+      <p>The verses of Boeo are: “Here in truth a mindful oracle was built By the sons of the Hyperboreans, Pagasus and divine Agyieus.” After enumerating others also of the Hyperboreans, at the end of the hymn she names Olen: “And Olen, who became the first prophet of Phoebus, And first fashioned a song of ancient verses.” Tradition, however, reports no other man as prophet, but makes mention of prophetesses only.</p>
+      <p>They say that the most ancient temple of Apollo was made of laurel, the branches of which were brought from the laurel in Tempe. This temple must have had the form of a hut. The Delphians say that the second temple was made by bees from beeswax and feathers, and that it was sent to the Hyperboreans by Apollo.</p>
+      <p>Another story is current, that the temple was set up by a Delphian, whose name was Pteras, and so the temple received its name from the builder. After this Pteras, so they say, the city in Crete was named, with the addition of a letter, Aptera. The story that the temple was built of the fern (pteris) that grows on the mountains, by interweaving fresh stalks of it, I do not accept at all.</p>
+      <p>It is no wonder that the third temple was made of bronze, seeing that Acrisius made a bedchamber of bronze for his daughter, the Lacedemonians still possess a sanctuary of Athena of the Bronze House, and the Roman forum, a marvel for its size and style, possesses a roof of bronze. So it would not be unlikely that a temple of bronze was made for Apollo.</p>
+      <p>The rest of the story I cannot believe, either that the temple was the work of Hephaestus, or the legend about the golden singers, referred to by Pindar in his verses about this bronze temple: “Above the pediment sang Golden Keledones (Charmers). These words, it seems to me, are but an imitation of Homer"s account of the Sirens. Neither did I find the accounts agree of the way this temple disappeared. Some say that it fell into a chasm in the earth, others that it was melted by fire.</p>
+      <p>The fourth temple was made by Trophonius and Agamedes; the tradition is that it was made of stone. It was burnt down in the archonship of Erxicleides at Athens, in the first year of the fifty-eighth Olympiad, when Diognetus of Crotona was victorious. The modern temple was built for the god by the Amphictyons from the sacred treasures, and the architect was one Spintharus of Corinth.</p>
+    </body>
+  </text>
+</TEI>

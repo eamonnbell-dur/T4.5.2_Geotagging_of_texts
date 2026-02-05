@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::11 /TEI[1]/text[1]/body[1]/p[1]::17" xml:id="UID-FAKE-12687">
+        <rs ana="https://topostext.org/place/383233WAso"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::76 /TEI[1]/text[1]/body[1]/p[1]::83" xml:id="UID-FAKE-12688">
+        <rs ana="https://topostext.org/place/383233PPot"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::108 /TEI[1]/text[1]/body[1]/p[1]::115" xml:id="UID-FAKE-12689">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::120 /TEI[1]/text[1]/body[1]/p[1]::124" xml:id="UID-FAKE-12690">
+        <rs ana="https://topostext.org/place/375224XDeK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::166 /TEI[1]/text[1]/body[1]/p[1]::173" xml:id="UID-FAKE-12691">
+        <rs ana="https://topostext.org/place/398223SPlP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::401 /TEI[1]/text[1]/body[1]/p[1]::407" xml:id="UID-FAKE-12692">
+        <rs ana="https://topostext.org/place/395208SDod"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::268 /TEI[1]/text[1]/body[1]/p[2]::275" xml:id="UID-FAKE-12693">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::455 /TEI[1]/text[1]/body[1]/p[2]::462" xml:id="UID-FAKE-12694">
+        <rs ana="https://topostext.org/place/383233PPot"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::16 /TEI[1]/text[1]/body[1]/p[3]::23" xml:id="UID-FAKE-12695">
+        <rs ana="https://topostext.org/place/383233PPot"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::27 /TEI[1]/text[1]/body[1]/p[3]::33" xml:id="UID-FAKE-12696">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::38 /TEI[1]/text[1]/body[1]/p[4]::44" xml:id="UID-FAKE-12697">
+        <rs ana="https://topostext.org/place/383233FNei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::184 /TEI[1]/text[1]/body[1]/p[4]::194" xml:id="UID-FAKE-12698">
+        <rs ana="https://topostext.org/place/383233FPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::213 /TEI[1]/text[1]/body[1]/p[4]::219" xml:id="UID-FAKE-12699">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::300 /TEI[1]/text[1]/body[1]/p[4]::307" xml:id="UID-FAKE-12700">
+        <rs ana="https://topostext.org/place/383233FNei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::4 /TEI[1]/text[1]/body[1]/p[5]::12" xml:id="UID-FAKE-12701">
+        <rs ana="https://topostext.org/place/380237FPir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::26 /TEI[1]/text[1]/body[1]/p[5]::37" xml:id="UID-FAKE-12702">
+        <rs ana="https://topostext.org/place/380237FHip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::92 /TEI[1]/text[1]/body[1]/p[5]::103" xml:id="UID-FAKE-12703">
+        <rs ana="https://topostext.org/place/380237FHip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::136 /TEI[1]/text[1]/body[1]/p[5]::145" xml:id="UID-FAKE-12704">
+        <rs ana="https://topostext.org/place/380237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::147 /TEI[1]/text[1]/body[1]/p[5]::156" xml:id="UID-FAKE-12705">
+        <rs ana="https://topostext.org/place/380237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::200 /TEI[1]/text[1]/body[1]/p[5]::207" xml:id="UID-FAKE-12706">
+        <rs ana="https://topostext.org/place/380237BPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::224 /TEI[1]/text[1]/body[1]/p[5]::234" xml:id="UID-FAKE-12707">
+        <rs ana="https://topostext.org/place/380237BPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::326 /TEI[1]/text[1]/body[1]/p[5]::333" xml:id="UID-FAKE-12708">
+        <rs ana="https://topostext.org/place/380237FPir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::9 /TEI[1]/text[1]/body[1]/p[6]::19" xml:id="UID-FAKE-12709">
+        <rs ana="https://topostext.org/place/398226LHom"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::84 /TEI[1]/text[1]/body[1]/p[6]::91" xml:id="UID-FAKE-12710">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::121 /TEI[1]/text[1]/body[1]/p[6]::128" xml:id="UID-FAKE-12711">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::134 /TEI[1]/text[1]/body[1]/p[6]::140" xml:id="UID-FAKE-12712">
+        <rs ana="https://topostext.org/place/384234UGli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::251 /TEI[1]/text[1]/body[1]/p[6]::258" xml:id="UID-FAKE-12713">
+        <rs ana="https://topostext.org/place/405195RIll"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::281 /TEI[1]/text[1]/body[1]/p[6]::289" xml:id="UID-FAKE-12714">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::302 /TEI[1]/text[1]/body[1]/p[6]::308" xml:id="UID-FAKE-12715">
+        <rs ana="https://topostext.org/place/398226LHom"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::351 /TEI[1]/text[1]/body[1]/p[6]::361" xml:id="UID-FAKE-12716">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::146 /TEI[1]/text[1]/body[1]/p[7]::156" xml:id="UID-FAKE-12717">
+        <rs ana="https://topostext.org/place/383233FNei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::191 /TEI[1]/text[1]/body[1]/p[7]::197" xml:id="UID-FAKE-12718">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::203 /TEI[1]/text[1]/body[1]/p[7]::210" xml:id="UID-FAKE-12719">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::221 /TEI[1]/text[1]/body[1]/p[7]::229" xml:id="UID-FAKE-12720">
+        <rs ana="https://topostext.org/place/383233FEle"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 8</head>
+      <p>Across the Asopus, about ten stades distant from the city, are the ruins of Potniae, in which is a grove of Demeter and Kore. The images at the river that flows past Potniae. . . they name the goddesses. At an appointed time they perform their accustomed ritual, one part of which is to let loose young pigs into what are called “the halls.” At the same time next year these pigs appear, they say, in Dodona. This story others can believe if they wish.</p>
+      <p>Here there is also a temple of Dionysus Aigobolos (Goat-shooter). For once, when they were sacrificing to the god, they grew so violent with wine that they actually killed the priest of Dionysus. Immediately after the murder they were visited by a pestilence, and the Delphic oracle said that to cure it they must sacrifice a boy in the bloom of youth. A few years afterwards, so they say, the god substituted a goat as a victim in place of their boy. In Potniae is also shown a well. The mares of the country are said on drinking this water to become mad.</p>
+      <p>On the way from Potniae to Thebes there is on the right of the road a small enclosure with pillars in it. Here they think the earth opened to receive Amphiaraus, and they add further that neither do birds sit upon these pillars, nor will a beast, tame or wild, graze on the grass that grows here.</p>
+      <p>In the circuit of the ancient wall of Thebes were gates seven in number, and these remain today. One gate got its name, I learned, from Electra, the sister of Cadmus, and another, the Proetidian, from a native of Thebes. He was Proetus, but I found it difficult to discover his date and lineage. The Neistan gate, they say, got its name for the following reason. The last of the harp"s strings they call nete, and Amphion invented it, they say, at this gate. I have also heard that the son of Zethus, the brother of Amphion, was named Neis, and that after him was this gate called.</p>
+      <p>The Crenaean gate and the HypsistanYY they so name for the following reason. . . and by the HypsistanYY is a sanctuary of Zeus surnamed Hypsistus (Most High). Next after these gates is the one called Ogygian, and lastly the HomoloidYY gate. It appeared to me too that the name of the last was the most recent, and that of the Ogygian the most ancient.</p>
+      <p>The name HomoloidYY is derived, they say, from the following circumstance. When the Thebans were beaten in battle by the Argives near Glisas, most of them withdrew along with Laodamas, the son of Eteocles. A portion of them shrank from the journey to Illyria, and turning aside to Thessaly they seized Homole, the most fertile and best-watered of the Thessalian mountains.</p>
+      <p>When they were recalled to their homes by Thersander, the son of Polyneices, they called the gate, through which they passed on their return, the HomoloidYY gate after Homole. The entry into Thebes from Plataea is by the Electran gate. At this, so they say, Capaneus, the son of Hipponous, was struck by lightning as he was making a more furious attack upon the fortifications.</p>
+    </body>
+  </text>
+</TEI>

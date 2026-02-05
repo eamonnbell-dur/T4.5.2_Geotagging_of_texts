@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::21 /TEI[1]/text[1]/body[1]/p[1]::29" xml:id="UID-FAKE-14340">
+        <rs ana="https://topostext.org/place/415220RPai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::64 /TEI[1]/text[1]/body[1]/p[1]::70" xml:id="UID-FAKE-14341">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::78 /TEI[1]/text[1]/body[1]/p[1]::86" xml:id="UID-FAKE-14342">
+        <rs ana="https://topostext.org/place/415220RPai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::155 /TEI[1]/text[1]/body[1]/p[4]::164" xml:id="UID-FAKE-14343">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::199 /TEI[1]/text[1]/body[1]/p[4]::207" xml:id="UID-FAKE-14344">
+        <rs ana="https://topostext.org/place/378248PAnd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::312 /TEI[1]/text[1]/body[1]/p[4]::320" xml:id="UID-FAKE-14345">
+        <rs ana="https://topostext.org/place/385225PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::352 /TEI[1]/text[1]/body[1]/p[4]::363" xml:id="UID-FAKE-14346">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::428 /TEI[1]/text[1]/body[1]/p[4]::440" xml:id="UID-FAKE-14347">
+        <rs ana="https://topostext.org/place/388226REpi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::441 /TEI[1]/text[1]/body[1]/p[4]::449" xml:id="UID-FAKE-14348">
+        <rs ana="https://topostext.org/place/388226REpi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::4 /TEI[1]/text[1]/body[1]/p[5]::15" xml:id="UID-FAKE-14349">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::23 /TEI[1]/text[1]/body[1]/p[5]::32" xml:id="UID-FAKE-14350">
+        <rs ana="https://topostext.org/place/393224UPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::114 /TEI[1]/text[1]/body[1]/p[5]::125" xml:id="UID-FAKE-14351">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::136 /TEI[1]/text[1]/body[1]/p[5]::140" xml:id="UID-FAKE-14352">
+        <rs ana="https://topostext.org/place/402225PDio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::164 /TEI[1]/text[1]/body[1]/p[5]::176" xml:id="UID-FAKE-14353">
+        <rs ana="https://topostext.org/place/401224LOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::235 /TEI[1]/text[1]/body[1]/p[5]::241" xml:id="UID-FAKE-14354">
+        <rs ana="https://topostext.org/place/328219PCyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::245 /TEI[1]/text[1]/body[1]/p[5]::250" xml:id="UID-FAKE-14355">
+        <rs ana="https://topostext.org/place/427277UMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::259 /TEI[1]/text[1]/body[1]/p[5]::264" xml:id="UID-FAKE-14356">
+        <rs ana="https://topostext.org/place/328219PCyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::312 /TEI[1]/text[1]/body[1]/p[5]::319" xml:id="UID-FAKE-14357">
+        <rs ana="https://topostext.org/place/379229SApT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::323 /TEI[1]/text[1]/body[1]/p[5]::330" xml:id="UID-FAKE-14358">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::391 /TEI[1]/text[1]/body[1]/p[5]::396" xml:id="UID-FAKE-14359">
+        <rs ana="https://topostext.org/place/385280RLyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::50 /TEI[1]/text[1]/body[1]/p[6]::57" xml:id="UID-FAKE-14360">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::104 /TEI[1]/text[1]/body[1]/p[6]::114" xml:id="UID-FAKE-14361">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::127 /TEI[1]/text[1]/body[1]/p[6]::135" xml:id="UID-FAKE-14362">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::178 /TEI[1]/text[1]/body[1]/p[6]::186" xml:id="UID-FAKE-14363">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::229 /TEI[1]/text[1]/body[1]/p[6]::239" xml:id="UID-FAKE-14364">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::278 /TEI[1]/text[1]/body[1]/p[6]::288" xml:id="UID-FAKE-14365">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::364 /TEI[1]/text[1]/body[1]/p[6]::374" xml:id="UID-FAKE-14366">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::378 /TEI[1]/text[1]/body[1]/p[6]::385" xml:id="UID-FAKE-14367">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::451 /TEI[1]/text[1]/body[1]/p[6]::462" xml:id="UID-FAKE-14368">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::187 /TEI[1]/text[1]/body[1]/p[7]::195" xml:id="UID-FAKE-14369">
+        <rs ana="https://topostext.org/place/385228SPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::223 /TEI[1]/text[1]/body[1]/p[7]::227" xml:id="UID-FAKE-14370">
+        <rs ana="https://topostext.org/place/378214PEli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::249 /TEI[1]/text[1]/body[1]/p[7]::260" xml:id="UID-FAKE-14371">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::383 /TEI[1]/text[1]/body[1]/p[7]::394" xml:id="UID-FAKE-14372">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::4 /TEI[1]/text[1]/body[1]/p[8]::13" xml:id="UID-FAKE-14373">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::324 /TEI[1]/text[1]/body[1]/p[8]::330" xml:id="UID-FAKE-14374">
+        <rs ana="https://topostext.org/place/376228PTir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::340 /TEI[1]/text[1]/body[1]/p[8]::348" xml:id="UID-FAKE-14375">
+        <rs ana="https://topostext.org/place/313300UCan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::371 /TEI[1]/text[1]/body[1]/p[8]::379" xml:id="UID-FAKE-14376">
+        <rs ana="https://topostext.org/place/313300UCan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::4 /TEI[1]/text[1]/body[1]/p[9]::10" xml:id="UID-FAKE-14377">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::70 /TEI[1]/text[1]/body[1]/p[9]::77" xml:id="UID-FAKE-14378">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::177 /TEI[1]/text[1]/body[1]/p[9]::184" xml:id="UID-FAKE-14379">
+        <rs ana="https://topostext.org/place/385228SPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::4 /TEI[1]/text[1]/body[1]/p[10]::14" xml:id="UID-FAKE-14380">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::75 /TEI[1]/text[1]/body[1]/p[10]::83" xml:id="UID-FAKE-14381">
+        <rs ana="https://topostext.org/place/409167RPeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::87 /TEI[1]/text[1]/body[1]/p[10]::96" xml:id="UID-FAKE-14382">
+        <rs ana="https://topostext.org/place/409167RPeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::249 /TEI[1]/text[1]/body[1]/p[10]::258" xml:id="UID-FAKE-14383">
+        <rs ana="https://topostext.org/place/400182RIap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::286 /TEI[1]/text[1]/body[1]/p[10]::294" xml:id="UID-FAKE-14384">
+        <rs ana="https://topostext.org/place/409167RPeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::408 /TEI[1]/text[1]/body[1]/p[10]::417" xml:id="UID-FAKE-14385">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::487 /TEI[1]/text[1]/body[1]/p[10]::492" xml:id="UID-FAKE-14386">
+        <rs ana="https://topostext.org/place/405172PTar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::523 /TEI[1]/text[1]/body[1]/p[10]::531" xml:id="UID-FAKE-14387">
+        <rs ana="https://topostext.org/place/384224WKri"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 13</head>
+      <p>A bronze head of the Paeonian bull called the bison was sent to Delphi by the Paeonian king Dropion, son of Leon. These bisons are the most difficult beasts to capture alive, and no nets could be made strong enough to hold out against their rush. They are hunted in the following manner. When the hunters have found a place sinking to a hollow, they first strengthen it all round with a stout fence, and then they cover the slope and the level part at the end with fresh skins, or, if they should chance to be without skins, they make dry hides slippery with olive oil.</p>
+      <p>Next their best riders drive the bisons together into the place I have described. These at once slip on the first skins and roll down the slope until they reach the level ground, where at the first they are left to lie. On about the fourth or fifth day, when the beasts have lost most of their spirit through hunger and distress,</p>
+      <p>those of the hunters who are professional tamers bring to them as they lie fruit of the cultivated pine, first peeling off the inner husk; for the moment the beasts would touch no other food. Finally they tie ropes round them and lead them off.</p>
+      <p>This is the way in which the bisons are caught. Opposite the bronze head of the bison is a statue of a man wearing a breastplate, on which is a cloak. The Delphians say that it is an offering of the Andrians, and a portrait of A241, their founder. The images of Apollo, Athena, and Artemis were dedicated by the Phocians from the spoils taken from the Thessalians, their enemies always, who are their neighbors except where the Epicnemidian Locrians come between.</p>
+      <p>The Thessalians too of Pharsalus dedicated an Achilles on horseback, with Patroclus running beside his horse; the Macedonians living in Dium, a city at the foot of Mount Pieria, the Apollo who has taken hold of the deer; the people of Cyrene, a Greek city in Libya, the chariot with an image of Ammon in it. The Dorians of Corinth too built a treasury, where used to be stored the gold from Lydia.</p>
+      <p>The image of Heracles is a votive offering of the Thebans, sent when they had fought what is called the Sacred War against the Phocians. There are also bronze statues, which the Phocians dedicated when they had put to flight the Thessalian cavalry in the second engagement. The Phliasians brought to Delphi a bronze Zeus, and with the Zeus an image of Aegina. The Mantineans of Arcadia dedicated a bronze Apollo, which stands near the treasury of the Corinthians.</p>
+      <p>Heracles and Apollo are holding on to the tripod, and are preparing to fight about it. Leto and Artemis are calming Apollo, and Athena is calming Heracles. This too is an offering of the Phocians, dedicated when Tellias of Elis led them against the Thessalians. Athena and Artemis were made by Chionis, the other images are works shared by Diyllus and Amyclaeus. They are said to be Corinthians.</p>
+      <p>The Delphians say that when Heracles the son of Amphitryon came to the oracle, the prophetess Xenocleia refused to give a response on the ground that he was guilty of the death of Iphitus. Whereupon Heracles took up the tripod and carried it out of the temple. Then the prophetess said: “Then there was another Heracles, of Tiryns, not the Canopian.” For before this the Egyptian Heracles had visited Delphi. On the occasion to which I refer the son of Amphitryon restored the tripod to Apollo, and was told by Xenocleia all he wished to know. The poets adopted the story, and sing about a fight between Heracles and Apollo for a tripod.</p>
+      <p>The Greeks in common dedicated from the spoils taken at the battle of Plataea a gold tripod set on a bronze serpent. The bronze part of the offering is still preserved, but the Phocian leaders did not leave the gold as they did the bronze.</p>
+      <p>The Tarentines sent yet another tithe to Delphi from spoils taken from the Peucetii, a non-Greek people. The offerings are the work of Onatas the Aeginetan, and Ageladas the Argive, and consist of statues of footmen and horsemen — Opis, king of the Iapygians, come to be an ally to the Peucetii. Opis is represented as killed in the fighting, and on his prostrate body stand the hero Taras and Phalanthus of Lacedemon, near whom is a dolphin. For they say that before Phalanthus reached Italy, he suffered shipwreck in the Crisaean sea, and was brought ashore by a dolphin.</p>
+    </body>
+  </text>
+</TEI>

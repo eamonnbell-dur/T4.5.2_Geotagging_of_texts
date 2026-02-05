@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::30 /TEI[1]/text[1]/body[1]/p[1]::38" xml:id="UID-FAKE-12778">
+        <rs ana="https://topostext.org/place/383233FEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::120 /TEI[1]/text[1]/body[1]/p[1]::126" xml:id="UID-FAKE-12779">
+        <rs ana="https://topostext.org/place/376228PTir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::460 /TEI[1]/text[1]/body[1]/p[1]::469" xml:id="UID-FAKE-12780">
+        <rs ana="https://topostext.org/place/383233SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::34 /TEI[1]/text[1]/body[1]/p[2]::41" xml:id="UID-FAKE-12781">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::244 /TEI[1]/text[1]/body[1]/p[2]::250" xml:id="UID-FAKE-12782">
+        <rs ana="https://topostext.org/place/380138PHim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::260 /TEI[1]/text[1]/body[1]/p[2]::267" xml:id="UID-FAKE-12783">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::478 /TEI[1]/text[1]/body[1]/p[2]::487" xml:id="UID-FAKE-12784">
+        <rs ana="https://topostext.org/place/376218GSau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::95 /TEI[1]/text[1]/body[1]/p[3]::102" xml:id="UID-FAKE-12785">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::113 /TEI[1]/text[1]/body[1]/p[3]::124" xml:id="UID-FAKE-12786">
+        <rs ana="https://topostext.org/place/369273SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::339 /TEI[1]/text[1]/body[1]/p[3]::350" xml:id="UID-FAKE-12787">
+        <rs ana="https://topostext.org/place/369273SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::464 /TEI[1]/text[1]/body[1]/p[3]::475" xml:id="UID-FAKE-12788">
+        <rs ana="https://topostext.org/place/383233SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::10 /TEI[1]/text[1]/body[1]/p[4]::20" xml:id="UID-FAKE-12789">
+        <rs ana="https://topostext.org/place/383233SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::61 /TEI[1]/text[1]/body[1]/p[4]::70" xml:id="UID-FAKE-12790">
+        <rs ana="https://topostext.org/place/369273SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::91 /TEI[1]/text[1]/body[1]/p[4]::98" xml:id="UID-FAKE-12791">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::180 /TEI[1]/text[1]/body[1]/p[4]::187" xml:id="UID-FAKE-12792">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::357 /TEI[1]/text[1]/body[1]/p[4]::362" xml:id="UID-FAKE-12793">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::183 /TEI[1]/text[1]/body[1]/p[5]::188" xml:id="UID-FAKE-12794">
+        <rs ana="https://topostext.org/place/377269PSam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::347 /TEI[1]/text[1]/body[1]/p[5]::353" xml:id="UID-FAKE-12795">
+        <rs ana="https://topostext.org/place/381253WAeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::30 /TEI[1]/text[1]/body[1]/p[6]::36" xml:id="UID-FAKE-12796">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::133 /TEI[1]/text[1]/body[1]/p[6]::144" xml:id="UID-FAKE-12797">
+        <rs ana="https://topostext.org/place/379225PSty"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::307 /TEI[1]/text[1]/body[1]/p[6]::316" xml:id="UID-FAKE-12798">
+        <rs ana="https://topostext.org/place/380237BKyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::379 /TEI[1]/text[1]/body[1]/p[6]::385" xml:id="UID-FAKE-12799">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::408 /TEI[1]/text[1]/body[1]/p[6]::414" xml:id="UID-FAKE-12800">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::552 /TEI[1]/text[1]/body[1]/p[6]::560" xml:id="UID-FAKE-12801">
+        <rs ana="https://topostext.org/place/380237SAZA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::27 /TEI[1]/text[1]/body[1]/p[7]::35" xml:id="UID-FAKE-12802">
+        <rs ana="https://topostext.org/place/369273SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::114 /TEI[1]/text[1]/body[1]/p[7]::126" xml:id="UID-FAKE-12803">
+        <rs ana="https://topostext.org/place/380272SKla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::-1 /TEI[1]/text[1]/body[1]/p[7]::10" xml:id="UID-FAKE-12804">
+        <rs ana="https://topostext.org/place/380272SKla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::174 /TEI[1]/text[1]/body[1]/p[7]::181" xml:id="UID-FAKE-12805">
+        <rs ana="https://topostext.org/place/379238SPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::330 /TEI[1]/text[1]/body[1]/p[7]::340" xml:id="UID-FAKE-12806">
+        <rs ana="https://topostext.org/place/384271PSmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::382 /TEI[1]/text[1]/body[1]/p[7]::388" xml:id="UID-FAKE-12807">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::398 /TEI[1]/text[1]/body[1]/p[7]::408" xml:id="UID-FAKE-12808">
+        <rs ana="https://topostext.org/place/384271PSmy"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 11</head>
+      <p>On the left of the gate named Electran are the ruins of a house where they say Amphitryon came to live when exiled from Tiryns because of the death of Electryon; and the chamber of Alcmena is still plainly to be seen among the ruins. They say that it was built for Amphitryon by Trophonius and Agamedes, and that on it was written the following inscription: “When Amphitryon was about to bring hither his bride Alcmena, he chose this as a chamber for himself. Anchasian Trophonius and Agamedes made it.”</p>
+      <p>Such was the inscription that the Thebans say was written here. They show also the tomb of the children of Heracles by Megara. Their account of the death of these is in no way different from that in the poems of Panyassis and of Stesichorus of Himera. But the Thebans add that Heracles in his madness was about to kill Amphitryon as well, but before he could do so he was rendered unconscious by the blow of the stone. Athena, they say, threw at him this stone, which they name Chastiser (sophronister).</p>
+      <p>Here are portraits of women in relief, but the statues are by this time rather indistinct. The Thebans call them Pharmakides (potioners), adding that they were sent by Hera to hinder the birth-pangs of Alcmena. So these kept Alcmena from bringing forth her child. But Historis, the daughter of Teiresias, thought of a trick to deceive the Pharmakides, and she uttered a loud cry of joy in their hearing, that Alcmena had been delivered. So the story goes that the Pharmakides were deceived and went away, and Alcmena brought forth her child.</p>
+      <p>Here is a Herakleion. The agalma, of white marble, is called Promachos (champion), and the Thebans Xenocritus and Eubius were the artists. But the ancient xoanon is thought by the Thebans to be by Daedalus, and the same opinion occurred to me. It was dedicated, they say, by Daedalus himself, as a thank-offering for a benefit. For when he was fleeing from Crete in small vessels which he had made for himself and his son Icarus, he devised for the ships sails, an invention as yet unknown to the men of those times, so as to take advantage of a favorable wind and outsail the oared fleet of Minos. Daedalus himself was saved,</p>
+      <p>but the ship of Icarus is said to have overturned, as he was a clumsy helmsman. The drowned man was carried ashore by the current to the island, then without a name, that lies beyond Samos. Heracles came across the body and recognized it, giving it burial where even today a small mound still stands to Icarus on a promontory jutting out into the Aegean. After this Icarus are named both the island and the sea around it.</p>
+      <p>The carvings on the gables at Thebes are by Praxiteles, and include most of what are called the twelve labours. The slaughter of the Stymphalian birds and the cleansing of the land of Elis by Heracles are omitted; in their place is represented the wrestling with Antaeus. Thrasybulus, son of Lycus, and the Athenians who with him put down the tyranny of the Thirty, set out from Thebes when they returned to Athens, and therefore they dedicated in the sanctuary of Heracles colossal figures of Athena and Heracles, carved by Alcamenes in relief out of Pentelic marble.</p>
+      <p>Adjoining the sanctuary of Heracles are a gymnasium and a race-course, both being named after the god. Beyond the Sophronister/Chastiser stone is an altar of Apollo surnamed Spodios (ashen); it is made out of the ashes of the victims. The customary mode of divination here is from chance utterances (kledon), which is used by the Smyrnaeans, to my knowledge, more than by any other Greeks. For the Smyrnaeans have a sanctuary of the utterances (kledonon) outside the wall and above the city.</p>
+    </body>
+  </text>
+</TEI>

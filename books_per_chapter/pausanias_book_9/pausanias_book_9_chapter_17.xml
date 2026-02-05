@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::189 /TEI[1]/text[1]/body[1]/p[1]::196" xml:id="UID-FAKE-12982">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::237 /TEI[1]/text[1]/body[1]/p[1]::249" xml:id="UID-FAKE-12983">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::143 /TEI[1]/text[1]/body[1]/p[2]::155" xml:id="UID-FAKE-12984">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::236 /TEI[1]/text[1]/body[1]/p[2]::243" xml:id="UID-FAKE-12985">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::35 /TEI[1]/text[1]/body[1]/p[3]::41" xml:id="UID-FAKE-12986">
+        <rs ana="https://topostext.org/place/380237AAtP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::52 /TEI[1]/text[1]/body[1]/p[3]::60" xml:id="UID-FAKE-12987">
+        <rs ana="https://topostext.org/place/378238BZos"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::210 /TEI[1]/text[1]/body[1]/p[3]::218" xml:id="UID-FAKE-12988">
+        <rs ana="https://topostext.org/place/388238RAba"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::84 /TEI[1]/text[1]/body[1]/p[4]::92" xml:id="UID-FAKE-12989">
+        <rs ana="https://topostext.org/place/383233GAaZ"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::96 /TEI[1]/text[1]/body[1]/p[4]::102" xml:id="UID-FAKE-12990">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::181 /TEI[1]/text[1]/body[1]/p[4]::187" xml:id="UID-FAKE-12991">
+        <rs ana="https://topostext.org/place/383233GAaZ"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::282 /TEI[1]/text[1]/body[1]/p[4]::290" xml:id="UID-FAKE-12992">
+        <rs ana="https://topostext.org/place/386227UTit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::325 /TEI[1]/text[1]/body[1]/p[4]::331" xml:id="UID-FAKE-12993">
+        <rs ana="https://topostext.org/place/383233GAaZ"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::369 /TEI[1]/text[1]/body[1]/p[4]::376" xml:id="UID-FAKE-12994">
+        <rs ana="https://topostext.org/place/383233GAaZ"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::127 /TEI[1]/text[1]/body[1]/p[5]::135" xml:id="UID-FAKE-12995">
+        <rs ana="https://topostext.org/place/386227UTit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::139 /TEI[1]/text[1]/body[1]/p[5]::146" xml:id="UID-FAKE-12996">
+        <rs ana="https://topostext.org/place/383233GAaZ"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::154 /TEI[1]/text[1]/body[1]/p[5]::160" xml:id="UID-FAKE-12997">
+        <rs ana="https://topostext.org/place/383233GAaZ"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::225 /TEI[1]/text[1]/body[1]/p[5]::231" xml:id="UID-FAKE-12998">
+        <rs ana="https://topostext.org/place/384229STro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::369 /TEI[1]/text[1]/body[1]/p[6]::375" xml:id="UID-FAKE-12999">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 17</head>
+      <p>Near is the temple of Artemis Eukleia. The image was made by Scopas. They say that within the sanctuary were buried Androcleia and Alcis, daughters of Antipoenus. For when Heracles and the Thebans were about to engage in battle with the Orchomenians, an oracle was delivered to them that success in the war would be theirs if their citizen of the most noble descent would consent to die by his own hand. Now Antipoenus, who had the most famous ancestors, was loath to die for the people, but his daughters were quite ready to do so. So they took their own lives and are honored therefor.</p>
+      <p>Before the temple of Artemis Eukleia is a lion made of stone, said to have been dedicated by Heracles after he had conquered in the battle the Orchomenians and their king, Erginus son of Clymenus. Near it is Apollo surnamed Boedromios (Rescuer), and Hermes Agoraios (of the Market-place), another of the votive offerings of Pindar. The pyre of the children of Amphion is about half a stade from the graves. The ashes from the pyre are still there.</p>
+      <p>Near this are two stone statues of Athena, surnamed Zosteria (girding), said to have been dedicated by Amphitryon. For here, they say, he put on his armour when he was about to give battle to Chalcodon and the Euboeans. It seems that the ancients used the verb “to gird oneself” in the sense of “to put on one"s armour,” and so they say that when Homer compares Agamemnon to Ares “in respect of his girdle,” he is really saying that they were alike in the fashion of their armour.</p>
+      <p>The tomb shared by Zethus and Amphion is a small mound of earth. The inhabitants of Tithorea in Phocis like to steal earth from it when the sun is passing through the constellation Taurus. For if at that time they take earth from the mound and set it on Antiope"s tomb, the land of Tithorea will yield a harvest, but that of Thebes be less fertile. For this reason the Thebans at that time keep watch over the tomb.</p>
+      <p>Both these cities hold this belief, and they do so because of the oracles of Bacis, in which are the lines: “But when a man of Tithorea to Amphion and to Zethus Pours on the earth peace-offerings of libation and prayer, When Taurus is warmed by the might of the glorious sun, Beware then of no slight disaster threatening the city; For the harvest wastes away in it, When they take of the earth, and bring it to the tomb of Phocus.”</p>
+      <p>Bacis calls it the tomb of Phocus for the following reason. The wife of Lycus worshipped Dionysus more than any other deity. When she had suffered what the story says she suffered, Dionysus was angry with Antiope. For some reason extravagant punishments always arouse the resentment of the gods. They say that Antiope went mad, and when out of her wits roamed all over Greece; but Phocus, son of Ornytion, son of Sisyphus, chanced to meet her, cured her madness, and then married her.</p>
+      <p>So Antiope and Phocus share the same grave. The roughly quarried stones, laid along the tomb of Amphion at its base, are said to be the very rocks that followed the singing of Amphion. A similar story is told of Orpheus, how wild creatures followed him as he played the harp.</p>
+    </body>
+  </text>
+</TEI>

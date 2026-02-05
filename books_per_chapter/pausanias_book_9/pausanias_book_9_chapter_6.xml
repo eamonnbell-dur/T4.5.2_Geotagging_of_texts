@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::37 /TEI[1]/text[1]/body[1]/p[1]::44" xml:id="UID-FAKE-12615">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::136 /TEI[1]/text[1]/body[1]/p[1]::145" xml:id="UID-FAKE-12616">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::178 /TEI[1]/text[1]/body[1]/p[1]::187" xml:id="UID-FAKE-12617">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::309 /TEI[1]/text[1]/body[1]/p[1]::318" xml:id="UID-FAKE-12618">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::322 /TEI[1]/text[1]/body[1]/p[1]::329" xml:id="UID-FAKE-12619">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::428 /TEI[1]/text[1]/body[1]/p[1]::434" xml:id="UID-FAKE-12620">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::4 /TEI[1]/text[1]/body[1]/p[2]::10" xml:id="UID-FAKE-12621">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::106 /TEI[1]/text[1]/body[1]/p[2]::112" xml:id="UID-FAKE-12622">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::231 /TEI[1]/text[1]/body[1]/p[2]::237" xml:id="UID-FAKE-12623">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::287 /TEI[1]/text[1]/body[1]/p[2]::293" xml:id="UID-FAKE-12624">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::299 /TEI[1]/text[1]/body[1]/p[2]::308" xml:id="UID-FAKE-12625">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::360 /TEI[1]/text[1]/body[1]/p[2]::366" xml:id="UID-FAKE-12626">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::25 /TEI[1]/text[1]/body[1]/p[3]::32" xml:id="UID-FAKE-12627">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::56 /TEI[1]/text[1]/body[1]/p[3]::65" xml:id="UID-FAKE-12628">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::69 /TEI[1]/text[1]/body[1]/p[3]::75" xml:id="UID-FAKE-12629">
+        <rs ana="https://topostext.org/place/383237UDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::96 /TEI[1]/text[1]/body[1]/p[3]::103" xml:id="UID-FAKE-12630">
+        <rs ana="https://topostext.org/place/383236PTan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::115 /TEI[1]/text[1]/body[1]/p[3]::123" xml:id="UID-FAKE-12631">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::261 /TEI[1]/text[1]/body[1]/p[3]::269" xml:id="UID-FAKE-12632">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::301 /TEI[1]/text[1]/body[1]/p[3]::307" xml:id="UID-FAKE-12633">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::316 /TEI[1]/text[1]/body[1]/p[3]::328" xml:id="UID-FAKE-12634">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::352 /TEI[1]/text[1]/body[1]/p[3]::358" xml:id="UID-FAKE-12635">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::367 /TEI[1]/text[1]/body[1]/p[3]::380" xml:id="UID-FAKE-12636">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::436 /TEI[1]/text[1]/body[1]/p[3]::444" xml:id="UID-FAKE-12637">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::484 /TEI[1]/text[1]/body[1]/p[3]::490" xml:id="UID-FAKE-12638">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::502 /TEI[1]/text[1]/body[1]/p[3]::509" xml:id="UID-FAKE-12639">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::539 /TEI[1]/text[1]/body[1]/p[3]::548" xml:id="UID-FAKE-12640">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::22 /TEI[1]/text[1]/body[1]/p[4]::29" xml:id="UID-FAKE-12641">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::34 /TEI[1]/text[1]/body[1]/p[4]::42" xml:id="UID-FAKE-12642">
+        <rs ana="https://topostext.org/place/384230PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::74 /TEI[1]/text[1]/body[1]/p[4]::81" xml:id="UID-FAKE-12643">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::127 /TEI[1]/text[1]/body[1]/p[4]::133" xml:id="UID-FAKE-12644">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::139 /TEI[1]/text[1]/body[1]/p[4]::145" xml:id="UID-FAKE-12645">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::190 /TEI[1]/text[1]/body[1]/p[4]::203" xml:id="UID-FAKE-12646">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::248 /TEI[1]/text[1]/body[1]/p[4]::255" xml:id="UID-FAKE-12647">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::326 /TEI[1]/text[1]/body[1]/p[4]::333" xml:id="UID-FAKE-12648">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::353 /TEI[1]/text[1]/body[1]/p[4]::359" xml:id="UID-FAKE-12649">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::37 /TEI[1]/text[1]/body[1]/p[5]::43" xml:id="UID-FAKE-12650">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::63 /TEI[1]/text[1]/body[1]/p[5]::73" xml:id="UID-FAKE-12651">
+        <rs ana="https://topostext.org/place/385228PCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::101 /TEI[1]/text[1]/body[1]/p[5]::107" xml:id="UID-FAKE-12652">
+        <rs ana="https://topostext.org/place/385228ALoC"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::141 /TEI[1]/text[1]/body[1]/p[5]::148" xml:id="UID-FAKE-12653">
+        <rs ana="https://topostext.org/place/385228ALoC"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::231 /TEI[1]/text[1]/body[1]/p[5]::240" xml:id="UID-FAKE-12654">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::268 /TEI[1]/text[1]/body[1]/p[5]::275" xml:id="UID-FAKE-12655">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::537 /TEI[1]/text[1]/body[1]/p[5]::544" xml:id="UID-FAKE-12656">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::108 /TEI[1]/text[1]/body[1]/p[6]::119" xml:id="UID-FAKE-12657">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::191 /TEI[1]/text[1]/body[1]/p[6]::197" xml:id="UID-FAKE-12658">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 6</head>
+      <p>Of the successes and failures of the Thebans in battle I found the most famous to be the following. They were overcome in battle by the Athenians, who had come to the aid of the Plataeans, when a war had arisen about the boundaries of their territory. They met with a second disaster when arrayed against the Athenians at Plataea, at the time when they are considered to have chosen the cause of King Xerxes rather than that of Greece.</p>
+      <p>The Theban people are in no way responsible for this choice, as at that time an oligarchy was in power at Thebes and not their ancestral form of government. In the same way, if it had been while Peisistratus or his sons still held Athens under a despotism that the foreigner had invaded Greece, the Athenians too would certainly have been accused of favouring Persia.</p>
+      <p>Afterwards, however, the Thebans won a victory over the Athenians at Delium in the territory of Tanagra, where the Athenian general Hippocrates, son of Ariphron, perished with the greater part of the army. During the period that began with the departure of the Persians and ended with the war between Athens and the Peloponnesus, the relations between Thebes and the Lacedemonians were friendly. But when the war was fought out and the Athenian navy destroyed, after a brief interval Thebes along with Corinth was involved in the war with Lacedemon.</p>
+      <p>Overcome in battle at Corinth and Coroneia, they won on the other hand at Leuctra the most famous victory we know of gained by Greeks over Greeks. They put down the boards of ten, which the Lacedemonians had set up in the cities, and drove out the Spartan governors. Afterwards they also waged for ten years consecutively the Phocian war, called by the Greeks the Sacred war.</p>
+      <p>I have already said in my history of Attica that the defeat at Chaeroneia was a disaster for all the Greeks; but it was even more so for the Thebans, as a garrison was brought into their city. When Philip died, and the kingship of Macedonia devolved on Alexander, the Thebans succeeded in destroying the garrison. But as soon as they had done so, heaven warned them of the destruction that was coming on them, and the signs that occurred in the sanctuary of Demeter Lawgiver were the opposite of those that occurred before the action at Leuctra.</p>
+      <p>For then spiders spun a white web over the door of the sanctuary, but on the approach of Alexander with his Macedonians the web was black. It is also said that there was a shower of ashes at Athens the year before the war waged against them by Sulla, which brought on them such great sufferings.</p>
+    </body>
+  </text>
+</TEI>

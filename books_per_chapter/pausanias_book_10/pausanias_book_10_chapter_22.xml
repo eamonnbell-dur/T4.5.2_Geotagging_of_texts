@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::50 /TEI[1]/text[1]/body[1]/p[1]::55" xml:id="UID-FAKE-14760">
+        <rs ana="https://topostext.org/place/437073UNik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::78 /TEI[1]/text[1]/body[1]/p[1]::82" xml:id="UID-FAKE-14761">
+        <rs ana="https://topostext.org/place/388224SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::93 /TEI[1]/text[1]/body[1]/p[1]::102" xml:id="UID-FAKE-14762">
+        <rs ana="https://topostext.org/place/377216PHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::156 /TEI[1]/text[1]/body[1]/p[1]::163" xml:id="UID-FAKE-14763">
+        <rs ana="https://topostext.org/place/388224RTra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::225 /TEI[1]/text[1]/body[1]/p[1]::235" xml:id="UID-FAKE-14764">
+        <rs ana="https://topostext.org/place/388224RTra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::304 /TEI[1]/text[1]/body[1]/p[1]::308" xml:id="UID-FAKE-14765">
+        <rs ana="https://topostext.org/place/388224SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::435 /TEI[1]/text[1]/body[1]/p[1]::443" xml:id="UID-FAKE-14766">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::583 /TEI[1]/text[1]/body[1]/p[1]::588" xml:id="UID-FAKE-14767">
+        <rs ana="https://topostext.org/place/384222ROzo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::71 /TEI[1]/text[1]/body[1]/p[2]::77" xml:id="UID-FAKE-14768">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::248 /TEI[1]/text[1]/body[1]/p[2]::257" xml:id="UID-FAKE-14769">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::276 /TEI[1]/text[1]/body[1]/p[2]::283" xml:id="UID-FAKE-14770">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::315 /TEI[1]/text[1]/body[1]/p[2]::321" xml:id="UID-FAKE-14771">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::538 /TEI[1]/text[1]/body[1]/p[2]::548" xml:id="UID-FAKE-14772">
+        <rs ana="https://topostext.org/place/389225WSpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::11 /TEI[1]/text[1]/body[1]/p[3]::19" xml:id="UID-FAKE-14773">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::35 /TEI[1]/text[1]/body[1]/p[3]::42" xml:id="UID-FAKE-14774">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::60 /TEI[1]/text[1]/body[1]/p[3]::68" xml:id="UID-FAKE-14775">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::348 /TEI[1]/text[1]/body[1]/p[3]::353" xml:id="UID-FAKE-14776">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::276 /TEI[1]/text[1]/body[1]/p[4]::282" xml:id="UID-FAKE-14777">
+        <rs ana="https://topostext.org/place/450017UUxe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::4 /TEI[1]/text[1]/body[1]/p[5]::13" xml:id="UID-FAKE-14778">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::133 /TEI[1]/text[1]/body[1]/p[5]::144" xml:id="UID-FAKE-14779">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::161 /TEI[1]/text[1]/body[1]/p[5]::168" xml:id="UID-FAKE-14780">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::213 /TEI[1]/text[1]/body[1]/p[5]::221" xml:id="UID-FAKE-14781">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::549 /TEI[1]/text[1]/body[1]/p[5]::554" xml:id="UID-FAKE-14782">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::140 /TEI[1]/text[1]/body[1]/p[6]::149" xml:id="UID-FAKE-14783">
+        <rs ana="https://topostext.org/place/382217PPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::168 /TEI[1]/text[1]/body[1]/p[6]::176" xml:id="UID-FAKE-14784">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::194 /TEI[1]/text[1]/body[1]/p[6]::203" xml:id="UID-FAKE-14785">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::342 /TEI[1]/text[1]/body[1]/p[6]::347" xml:id="UID-FAKE-14786">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::357 /TEI[1]/text[1]/body[1]/p[6]::366" xml:id="UID-FAKE-14787">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::559 /TEI[1]/text[1]/body[1]/p[6]::564" xml:id="UID-FAKE-14788">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::13 /TEI[1]/text[1]/body[1]/p[7]::21" xml:id="UID-FAKE-14789">
+        <rs ana="https://topostext.org/place/388238RAba"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::76 /TEI[1]/text[1]/body[1]/p[7]::88" xml:id="UID-FAKE-14790">
+        <rs ana="https://topostext.org/place/411127IKir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::97 /TEI[1]/text[1]/body[1]/p[7]::104" xml:id="UID-FAKE-14791">
+        <rs ana="https://topostext.org/place/394242CCyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::280 /TEI[1]/text[1]/body[1]/p[7]::291" xml:id="UID-FAKE-14792">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::13 /TEI[1]/text[1]/body[1]/p[8]::19" xml:id="UID-FAKE-14793">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::23 /TEI[1]/text[1]/body[1]/p[8]::34" xml:id="UID-FAKE-14794">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::86 /TEI[1]/text[1]/body[1]/p[8]::96" xml:id="UID-FAKE-14795">
+        <rs ana="https://topostext.org/place/398227LOss"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::112 /TEI[1]/text[1]/body[1]/p[8]::119" xml:id="UID-FAKE-14796">
+        <rs ana="https://topostext.org/place/388224RTra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::210 /TEI[1]/text[1]/body[1]/p[8]::220" xml:id="UID-FAKE-14797">
+        <rs ana="https://topostext.org/place/389221RAin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::313 /TEI[1]/text[1]/body[1]/p[8]::320" xml:id="UID-FAKE-14798">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::354 /TEI[1]/text[1]/body[1]/p[8]::360" xml:id="UID-FAKE-14799">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::17 /TEI[1]/text[1]/body[1]/p[9]::27" xml:id="UID-FAKE-14800">
+        <rs ana="https://topostext.org/place/388238RAba"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::36 /TEI[1]/text[1]/body[1]/p[9]::46" xml:id="UID-FAKE-14801">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::112 /TEI[1]/text[1]/body[1]/p[9]::117" xml:id="UID-FAKE-14802">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::163 /TEI[1]/text[1]/body[1]/p[9]::168" xml:id="UID-FAKE-14803">
+        <rs ana="https://topostext.org/place/490070RKel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::50 /TEI[1]/text[1]/body[1]/p[10]::60" xml:id="UID-FAKE-14804">
+        <rs ana="https://topostext.org/place/389221RAin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::65 /TEI[1]/text[1]/body[1]/p[10]::75" xml:id="UID-FAKE-14805">
+        <rs ana="https://topostext.org/place/398206RMol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::104 /TEI[1]/text[1]/body[1]/p[11]::112" xml:id="UID-FAKE-14806">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::227 /TEI[1]/text[1]/body[1]/p[11]::232" xml:id="UID-FAKE-14807">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::247 /TEI[1]/text[1]/body[1]/p[11]::255" xml:id="UID-FAKE-14808">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::448 /TEI[1]/text[1]/body[1]/p[11]::453" xml:id="UID-FAKE-14809">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::14 /TEI[1]/text[1]/body[1]/p[12]::23" xml:id="UID-FAKE-14810">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::76 /TEI[1]/text[1]/body[1]/p[12]::81" xml:id="UID-FAKE-14811">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::94 /TEI[1]/text[1]/body[1]/p[12]::105" xml:id="UID-FAKE-14812">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::300 /TEI[1]/text[1]/body[1]/p[12]::309" xml:id="UID-FAKE-14813">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::4 /TEI[1]/text[1]/body[1]/p[13]::10" xml:id="UID-FAKE-14814">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::62 /TEI[1]/text[1]/body[1]/p[13]::70" xml:id="UID-FAKE-14815">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::109 /TEI[1]/text[1]/body[1]/p[13]::117" xml:id="UID-FAKE-14816">
+        <rs ana="https://topostext.org/place/385224PAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::150 /TEI[1]/text[1]/body[1]/p[13]::159" xml:id="UID-FAKE-14817">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::300 /TEI[1]/text[1]/body[1]/p[13]::309" xml:id="UID-FAKE-14818">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::571 /TEI[1]/text[1]/body[1]/p[13]::580" xml:id="UID-FAKE-14819">
+        <rs ana="https://topostext.org/place/389209PHer"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 22</head>
+      <p>On the seventh day after the battle a regiment of Gauls attempted to go up to Oeta by way of Heracleia. Here too a narrow path rises just past the ruins of Trachis. There was also at that time a sanctuary of Athena above the Trachinian territory, and in it were votive offerings. So they hoped to ascend Oeta by this path and at the same time to get possession of the offerings in the temple in passing. [This path was defended by the Phocians under Telesarchus.] They overcame the barbarians in the engagement, but Telesarchus himself fell, a man devoted, if ever a man was, to the Greek cause.</p>
+      <p>All the leaders of the barbarians except Brennus were terrified of the Greeks, and at the same time were despondent of the future, seeing that their present condition showed no signs of improvement. But Brennus reasoned that if he could compel the Aetolians to return home to Aetolia, he would find the war against Greece prove easier hereafter. So he detached from his army forty thousand foot and about eight hundred horse. Over these he set in command Orestorius and Combutis, who, making their way back by way of the bridges over the Spercheius</p>
+      <p>and across Thessaly again, invaded Aetolia. The fate of the Callians at the hands of Combutis and Orestorius is the most wicked ever heard of, and is without a parallel in the crimes of men. Every male they put to the sword, and there were butchered old men equally with children at their mothers"breasts. The more plump of these sucking babes the Gauls killed, drinking their blood and eating their flesh.</p>
+      <p>Women and adult maidens, if they had any spirit at all in them, anticipated their end when the city was captured. Those who survived suffered under imperious violence every form of outrage at the hands of men equally void of pity or of love. Every woman who chanced to find a Gallic sword committed suicide. The others were soon to die of hunger and want of sleep, the incontinent barbarians outraging them by turns, and sating their lust even on the dying and the dead.</p>
+      <p>The Aetolians had been informed by messengers what disasters had befallen them, and at once with all speed removed their forces from Thermopylae and hastened to Aetolia, being exasperated at the sufferings of the Callians, and still more fired with determination to save the cities not yet captured. From all the cities at home were mobilized the men of military age; and even those too old for service, their fighting spirit roused by the crisis, were in the ranks, and their very women gladly served with them, being even more enraged against the Gauls than were the men.</p>
+      <p>When the barbarians, having pillaged houses and sanctuaries, and having fired Callium, were returning by the same way, they were met by the Patraeans, who alone of the Achaeans were helping the Aetolians. Being trained as hoplites they made a frontal attack on the barbarians, but suffered severely owing to the number and desperation of the Gauls. But the Aetolians, men and women, drawn up all along the road, kept shooting at the barbarians, and few shots failed to find a mark among enemies protected by nothing but their national shields. Pursued by the Gauls they easily escaped, renewing their attack with vigor when their enemies returned from the pursuit.</p>
+      <p>Although the Callians suffered so terribly that even Homer"s account of the Laestrygones and the Cyclops does not seem outside the truth, yet they were duly and fully avenged. For out of their number of forty thousand eight hundred, there escaped of the barbarians to the camp at Thermopylae less than one half.</p>
+      <p>Meantime the Greeks at Thermopylae were faring as follows. There are two paths across Mount Oeta: the one above Trachis is very steep, and for the most part precipitous; the other, through the territory of the Aenianians, is easier for an army to cross. It was through this that on a former occasion Hydarnes the Persian passed to attack in the rear the Greeks under Leonidas.</p>
+      <p>By this road the Heracleots and the Aenianians promised to lead Brennus, not that they were ill-disposed to the Greek cause, but because they were anxious for the Celts to go away from their country, and not to establish themselves in it to its ruin. I think that Pindar spoke the truth again when he said that every one is crushed by his own misfortunes but is untouched by the woes of others.</p>
+      <p>Brennus was encouraged by the promise made by the Aenianians and Heracleots. Leaving Acichorius behind in charge of the main army, with instructions that it was to attack only when the enveloping movement was complete, Brennus himself, with a detachment of forty thousand, began his march along the pass.</p>
+      <p>It so happened on that day that the mist rolled thick down the mountain, darkening the sun, so that the Phocians who were guarding the path found the barbarians upon them before they were aware of their approach. Thereupon the Gauls attacked. The Phocians resisted manfully, but at last were forced to retreat from the path. However, they succeeded in running down to their friends with a report of what was happening before the envelopment of the Greek army was quite complete on all sides.</p>
+      <p>Whereupon the Athenians with the fleet succeeded in withdrawing in time the Greek forces from Thermopylae, which disbanded and returned to their several homes. Brennus, without delaying any longer, began his march against Delphi without waiting for the army with Acichorius to join up. In terror the Delphians took refuge in the oracle. The god bade them not to be afraid, and promised that he would himself defend his own.</p>
+      <p>The Greeks who came in defence of the god were as follow: the Phocians, who came from all their cities; from Amphissa four hundred hoplites; from the Aetolians a few came at once on hearing of the advance of the barbarians, and later on Philomelus brought one thousand two hundred. The flower of the Aetolians turned against the army of Acichorius, and without offering battle attacked continuously the rear of their line of march, plundering the baggage and putting the carriers to the sword. It was chiefly for this reason that their march proved slow. Furthermore, at Heracleia Acichorius had left a part of his army, who were to guard the baggage of the camp.</p>
+    </body>
+  </text>
+</TEI>

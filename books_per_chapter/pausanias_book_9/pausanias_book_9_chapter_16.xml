@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::73 /TEI[1]/text[1]/body[1]/p[1]::78" xml:id="UID-FAKE-12960">
+        <rs ana="https://topostext.org/place/292255SAmm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::166 /TEI[1]/text[1]/body[1]/p[1]::171" xml:id="UID-FAKE-12961">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::346 /TEI[1]/text[1]/body[1]/p[1]::352" xml:id="UID-FAKE-12962">
+        <rs ana="https://topostext.org/place/292255SAmm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::17 /TEI[1]/text[1]/body[1]/p[2]::24" xml:id="UID-FAKE-12963">
+        <rs ana="https://topostext.org/place/380237STyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::353 /TEI[1]/text[1]/body[1]/p[2]::362" xml:id="UID-FAKE-12964">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::3 /TEI[1]/text[1]/body[1]/p[3]::9" xml:id="UID-FAKE-12965">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::278 /TEI[1]/text[1]/body[1]/p[4]::284" xml:id="UID-FAKE-12966">
+        <rs ana="https://topostext.org/place/379214SCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::401 /TEI[1]/text[1]/body[1]/p[4]::409" xml:id="UID-FAKE-12967">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::236 /TEI[1]/text[1]/body[1]/p[5]::248" xml:id="UID-FAKE-12968">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::270 /TEI[1]/text[1]/body[1]/p[5]::277" xml:id="UID-FAKE-12969">
+        <rs ana="https://topostext.org/place/383231ULeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::9 /TEI[1]/text[1]/body[1]/p[6]::19" xml:id="UID-FAKE-12970">
+        <rs ana="https://topostext.org/place/383233FPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::117 /TEI[1]/text[1]/body[1]/p[6]::126" xml:id="UID-FAKE-12971">
+        <rs ana="https://topostext.org/place/380237SDT1"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::143 /TEI[1]/text[1]/body[1]/p[6]::149" xml:id="UID-FAKE-12972">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::176 /TEI[1]/text[1]/body[1]/p[6]::185" xml:id="UID-FAKE-12973">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::198 /TEI[1]/text[1]/body[1]/p[6]::207" xml:id="UID-FAKE-12974">
+        <rs ana="https://topostext.org/place/384231PHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::281 /TEI[1]/text[1]/body[1]/p[6]::290" xml:id="UID-FAKE-12975">
+        <rs ana="https://topostext.org/place/410265RThr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::342 /TEI[1]/text[1]/body[1]/p[6]::349" xml:id="UID-FAKE-12976">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::72 /TEI[1]/text[1]/body[1]/p[7]::79" xml:id="UID-FAKE-12977">
+        <rs ana="https://topostext.org/place/383233GCoO"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::173 /TEI[1]/text[1]/body[1]/p[7]::179" xml:id="UID-FAKE-12978">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::212 /TEI[1]/text[1]/body[1]/p[7]::220" xml:id="UID-FAKE-12979">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::226 /TEI[1]/text[1]/body[1]/p[7]::231" xml:id="UID-FAKE-12980">
+        <rs ana="https://topostext.org/place/383233GAaZ"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::305 /TEI[1]/text[1]/body[1]/p[7]::311" xml:id="UID-FAKE-12981">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 16</head>
+      <p>Such were the claims to fame of Epaminondas. Not far away is a temple of Ammon; the statue, a work of Calamis, was dedicated by Pindar, who also sent to the Ammon of Libya a hymn to Ammon. This hymn I found still carved on a triangular slab by the side of the altar dedicated to Ammon by Ptolemy the son of Lagus. After the sanctuary of Ammon at Thebes comes what is called the omen-observatory of Teiresias, and near it is a sanctuary of Fortune, who carries the child Wealth.</p>
+      <p>According to the Thebans, the hands and face of the image were made by Xenophon the Athenian, the rest of it by Callistonicus, a native. It was a clever idea of these artists to place Wealth in the arms of Fortune, and so to suggest that she is his mother or nurse. Equally clever was the conception of Cephisodotus, who made the image of Peace for the Athenians with Wealth in her arms.</p>
+      <p>At Thebes are three xoana of Aphrodite, so very ancient that they are actually said to be votive offerings of Harmonia, and the story is that they were made out of the wooden figure-heads on the ships of Cadmus. They call the first Ourania (heavenly), the second Pandemos (common), and the third Apostrophia (Rejecter). Harmonia gave to Aphrodite the surname of Ourania</p>
+      <p>to signify a love pure and free from bodily lust; that of Pandemos, to denote sexual intercourse; the third, that of Rejecter, that mankind might reject unlawful passion and sinful acts. For Harmonia knew of many crimes already perpetrated not only among foreigners but even by Greeks, similar to those attributed later by legend to the mother of Adonis, to Phaedra, the daughter of Minos, and to the Thracian Tereus.</p>
+      <p>The sanctuary of Demeter Thesmophoros (lawgiver) is said to have been at one time the house of Cadmus and his descendants. The statue of Demeter is visible down to the chest. Here have been dedicated bronze shields, said to be those of Lacedemonian officers who fell at Leuctra.</p>
+      <p>Near the Proetidian gate is built a theater, and quite close to the theater is a temple of Dionysus surnamed Lysios (Deliverer). For when some Theban prisoners in the hands of Thracians had reached Haliartia on their march, they were delivered by the god, who gave up the sleeping Thracians to be put to death. One of the two images here the Thebans say is Semele. Once in each year, they say, they open the sanctuary on stated days.</p>
+      <p>There are also ruins of the house of Lycus, and the tomb of Semele, but Alcmena has no tomb. It is said that on her death she was turned from human form to a stone, but the Theban account does not agree with the Megarian. The Greek legends generally have for the most part different versions. Here too at Thebes are the tombs of the children of Amphion. The boys lie apart; the girls are buried by themselves.</p>
+    </body>
+  </text>
+</TEI>

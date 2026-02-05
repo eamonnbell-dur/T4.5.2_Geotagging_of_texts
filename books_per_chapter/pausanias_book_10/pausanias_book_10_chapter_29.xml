@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::105 /TEI[1]/text[1]/body[1]/p[2]::112" xml:id="UID-FAKE-14978">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::216 /TEI[1]/text[1]/body[1]/p[2]::221" xml:id="UID-FAKE-14979">
+        <rs ana="https://topostext.org/place/385262IOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::253 /TEI[1]/text[1]/body[1]/p[4]::258" xml:id="UID-FAKE-14980">
+        <rs ana="https://topostext.org/place/300740RInd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::294 /TEI[1]/text[1]/body[1]/p[4]::303" xml:id="UID-FAKE-14981">
+        <rs ana="https://topostext.org/place/353403WEup"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::305 /TEI[1]/text[1]/body[1]/p[4]::311" xml:id="UID-FAKE-14982">
+        <rs ana="https://topostext.org/place/370379UZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::313 /TEI[1]/text[1]/body[1]/p[4]::319" xml:id="UID-FAKE-14983">
+        <rs ana="https://topostext.org/place/370379UZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::378 /TEI[1]/text[1]/body[1]/p[4]::387" xml:id="UID-FAKE-14984">
+        <rs ana="https://topostext.org/place/353403WEup"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::9 /TEI[1]/text[1]/body[1]/p[5]::15" xml:id="UID-FAKE-14985">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::24 /TEI[1]/text[1]/body[1]/p[5]::33" xml:id="UID-FAKE-14986">
+        <rs ana="https://topostext.org/place/294304UDio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::253 /TEI[1]/text[1]/body[1]/p[5]::263" xml:id="UID-FAKE-14987">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::267 /TEI[1]/text[1]/body[1]/p[5]::274" xml:id="UID-FAKE-14988">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::323 /TEI[1]/text[1]/body[1]/p[5]::332" xml:id="UID-FAKE-14989">
+        <rs ana="https://topostext.org/place/385226LPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::129 /TEI[1]/text[1]/body[1]/p[6]::136" xml:id="UID-FAKE-14990">
+        <rs ana="https://topostext.org/place/377216SNIo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::20 /TEI[1]/text[1]/body[1]/p[7]::27" xml:id="UID-FAKE-14991">
+        <rs ana="https://topostext.org/place/380237SApO"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::53 /TEI[1]/text[1]/body[1]/p[7]::59" xml:id="UID-FAKE-14992">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::106 /TEI[1]/text[1]/body[1]/p[10]::113" xml:id="UID-FAKE-14993">
+        <rs ana="https://topostext.org/place/383204XKas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::135 /TEI[1]/text[1]/body[1]/p[10]::145" xml:id="UID-FAKE-14994">
+        <rs ana="https://topostext.org/place/383213IDol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::295 /TEI[1]/text[1]/body[1]/p[10]::300" xml:id="UID-FAKE-14995">
+        <rs ana="https://topostext.org/place/370217XNes"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 29</head>
+      <p>Higher up than the figures I have already enumerated are Perimedes and Eurylochus, the companions of Odysseus, carrying victims for sacrifice; these are black rams. After them is a man seated, said by the inscription to be Ocnus (Sloth). He is depicted as plaiting a cord, and by him stands a she-ass, eating up the cord as quickly as it is plaited. They say that this Ocnus was a diligent man with an extravagant wife. Everything he earned by working was quickly spent by his wife.</p>
+      <p>So they will have it that Polygnotus has painted a parable about the wife of Ocnus. I know also that the Ionians, whenever they see a man labouring at nothing profitable, say that such an one is plaiting the cord of Ocnus. Ocnus too is the name given to a bird by the seers who observe birds that are ominous. This Ocnus is the largest and most beautiful of the herons, a rare bird if ever there was one.</p>
+      <p>Tityos too is in the picture; he is no longer being punished, but has been reduced to nothing by continuous torture, an indistinct and mutilated phantom. Going on to the next part of the picture, you see very near to the man who is twisting the rope a painting of Ariadne. Seated on a rock she is looking at her sister Phaedra, who is on a swing grasping in either hand the rope on each side. The attitude, though quite gracefully drawn, makes us infer the manner of Phaedra"s death.</p>
+      <p>Ariadne was taken away from Theseus by Dionysus, who sailed against him with superior forces, and either fell in with Ariadne by chance or else set an ambush to catch her. This Dionysus was, in my opinion, none other than he who was the first to invade India, and the first to bridge the river Euphrates. Zeugma (Yoking) was the name given to that part of the country where the Euphrates was bridged, and at the present day the cable is still preserved with which he spanned the river; it is plaited with branches of the vine and ivy.</p>
+      <p>Both the Greeks and the Egyptians have many legends about Dionysus. Underneath Phaedra is Chloris leaning against the knees of Thyia. He will not be mistaken who says that all during the lives of these women they remained friends. For Chloris came from Orchomenus in Boeotia, and the other was a daughter of Castalius from Parnassus. Other authorities have told their history, how that Thyia had connection with Poseidon, and how Chloris wedded Neleus, son of Poseidon.</p>
+      <p>Beside Thyia stands Procris, the daughter of Erechtheus, and after her Clymene, who is turning her back to Chloris. The poem the Returns says that Clymene was a daughter of Minyas, that she married Cephalus the son of Deion, and that a son Iphiclus was born to them. The story of Procris is told by all men, how she had married Cephalus before Clymene, and in what way she was put to death by her husband.</p>
+      <p>Farther within from Clymene you will see Megara from Thebes. This Megara married Heracles, but was divorced by him in course of time, on the ground that he had lost the children he had by her, and so thought that his marriage with her was unlucky. Above the heads of the women I have enumerated is the daughter of Salmoneus sitting on a rock, beside whom is standing Eriphyle, who is holding up the ends of her fingers along her neck through her tunic, and you will conjecture that in the folds of her tunic she is holding in one of her hands the famous necklace.</p>
+      <p>Beyond Eriphyle have been painted Elpenor and Odysseus. The latter is squatting on his feet, and holding his sword over the trench, towards which the seer Teiresias is advancing. After Teiresias is Anticleia, the mother of Odysseus, upon a rock. Elpenor has on instead of clothes a mat, such as is usual for sailors to wear.</p>
+      <p>Lower down than Odysseus are Theseus and Peirithous sitting upon chairs. The former is holding in his hands the sword of Peirithous and his own. Peirithous is looking at the swords, and you might conjecture that he is angry with them for having been useless and of no help in their daring adventures. Panyassis the poet says that Theseus and Peirithous did not sit chained to their chairs, but that the rock grew to their flesh and so served as chains.</p>
+      <p>The proverbial friendship of Theseus and Peirithous has been mentioned by Homer in both his poems. In the Odyssey Odysseus says to the Phaeacians: “And now I should have seen more men of former days, whom I wished very much to see, Theseus and Peirithous, renowned children of gods.” And in the Iliad he has made Nestor give advice to Agamemnon and Achilles, and speaking among others the following verses: “I have never yet seen such men, and I am never likely to see As were Peirithous, Dryas, shepherd of the folk, Caeneus, Exadius, god-like Polyphemus, and Theseus, son of Aegeus, like to the immortals.”</p>
+    </body>
+  </text>
+</TEI>

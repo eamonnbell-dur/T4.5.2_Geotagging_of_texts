@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::43 /TEI[1]/text[1]/body[1]/p[1]::49" xml:id="UID-FAKE-14820">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::70 /TEI[1]/text[1]/body[1]/p[1]::76" xml:id="UID-FAKE-14821">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::222 /TEI[1]/text[1]/body[1]/p[1]::228" xml:id="UID-FAKE-14822">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::31 /TEI[1]/text[1]/body[1]/p[2]::36" xml:id="UID-FAKE-14823">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::358 /TEI[1]/text[1]/body[1]/p[2]::364" xml:id="UID-FAKE-14824">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::15 /TEI[1]/text[1]/body[1]/p[3]::23" xml:id="UID-FAKE-14825">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::113 /TEI[1]/text[1]/body[1]/p[3]::119" xml:id="UID-FAKE-14826">
+        <rs ana="https://topostext.org/place/384222ROzo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::208 /TEI[1]/text[1]/body[1]/p[3]::216" xml:id="UID-FAKE-14827">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::227 /TEI[1]/text[1]/body[1]/p[4]::236" xml:id="UID-FAKE-14828">
+        <rs ana="https://topostext.org/place/385226LPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::15 /TEI[1]/text[1]/body[1]/p[5]::21" xml:id="UID-FAKE-14829">
+        <rs ana="https://topostext.org/place/385226LPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::35 /TEI[1]/text[1]/body[1]/p[5]::41" xml:id="UID-FAKE-14830">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::93 /TEI[1]/text[1]/body[1]/p[5]::101" xml:id="UID-FAKE-14831">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::204 /TEI[1]/text[1]/body[1]/p[5]::213" xml:id="UID-FAKE-14832">
+        <rs ana="https://topostext.org/place/385226LPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::233 /TEI[1]/text[1]/body[1]/p[5]::238" xml:id="UID-FAKE-14833">
+        <rs ana="https://topostext.org/place/490070RKel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::34 /TEI[1]/text[1]/body[1]/p[6]::39" xml:id="UID-FAKE-14834">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::168 /TEI[1]/text[1]/body[1]/p[6]::173" xml:id="UID-FAKE-14835">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::418 /TEI[1]/text[1]/body[1]/p[6]::424" xml:id="UID-FAKE-14836">
+        <rs ana="https://topostext.org/place/367225PLas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::265 /TEI[1]/text[1]/body[1]/p[8]::270" xml:id="UID-FAKE-14837">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::325 /TEI[1]/text[1]/body[1]/p[8]::330" xml:id="UID-FAKE-14838">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::387 /TEI[1]/text[1]/body[1]/p[8]::392" xml:id="UID-FAKE-14839">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::6 /TEI[1]/text[1]/body[1]/p[9]::14" xml:id="UID-FAKE-14840">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::119 /TEI[1]/text[1]/body[1]/p[9]::125" xml:id="UID-FAKE-14841">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::185 /TEI[1]/text[1]/body[1]/p[9]::193" xml:id="UID-FAKE-14842">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::229 /TEI[1]/text[1]/body[1]/p[9]::234" xml:id="UID-FAKE-14843">
+        <rs ana="https://topostext.org/place/490070RKel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::416 /TEI[1]/text[1]/body[1]/p[9]::422" xml:id="UID-FAKE-14844">
+        <rs ana="https://topostext.org/place/450017UUxe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::16 /TEI[1]/text[1]/body[1]/p[10]::22" xml:id="UID-FAKE-14845">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::0 /TEI[1]/text[1]/body[1]/p[11]::8" xml:id="UID-FAKE-14846">
+        <rs ana="https://topostext.org/place/385225BAtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::27 /TEI[1]/text[1]/body[1]/p[11]::33" xml:id="UID-FAKE-14847">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::193 /TEI[1]/text[1]/body[1]/p[11]::202" xml:id="UID-FAKE-14848">
+        <rs ana="https://topostext.org/place/385225BAtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::247 /TEI[1]/text[1]/body[1]/p[11]::254" xml:id="UID-FAKE-14849">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::279 /TEI[1]/text[1]/body[1]/p[11]::288" xml:id="UID-FAKE-14850">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::109 /TEI[1]/text[1]/body[1]/p[12]::118" xml:id="UID-FAKE-14851">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::291 /TEI[1]/text[1]/body[1]/p[12]::300" xml:id="UID-FAKE-14852">
+        <rs ana="https://topostext.org/place/392209PHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::542 /TEI[1]/text[1]/body[1]/p[12]::548" xml:id="UID-FAKE-14853">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::66 /TEI[1]/text[1]/body[1]/p[13]::76" xml:id="UID-FAKE-14854">
+        <rs ana="https://topostext.org/place/389225WSpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::99 /TEI[1]/text[1]/body[1]/p[13]::108" xml:id="UID-FAKE-14855">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::141 /TEI[1]/text[1]/body[1]/p[13]::151" xml:id="UID-FAKE-14856">
+        <rs ana="https://topostext.org/place/389225WSpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::188 /TEI[1]/text[1]/body[1]/p[13]::199" xml:id="UID-FAKE-14857">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::204 /TEI[1]/text[1]/body[1]/p[13]::211" xml:id="UID-FAKE-14858">
+        <rs ana="https://topostext.org/place/388224RMal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[13]::288 /TEI[1]/text[1]/body[1]/p[13]::292" xml:id="UID-FAKE-14859">
+        <rs ana="https://topostext.org/place/437073UNik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::22 /TEI[1]/text[1]/body[1]/p[14]::27" xml:id="UID-FAKE-14860">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::36 /TEI[1]/text[1]/body[1]/p[14]::42" xml:id="UID-FAKE-14861">
+        <rs ana="https://topostext.org/place/388226PAlp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::113 /TEI[1]/text[1]/body[1]/p[14]::116" xml:id="UID-FAKE-14862">
+        <rs ana="https://topostext.org/place/380237FDia"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::121 /TEI[1]/text[1]/body[1]/p[14]::127" xml:id="UID-FAKE-14863">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::180 /TEI[1]/text[1]/body[1]/p[14]::188" xml:id="UID-FAKE-14864">
+        <rs ana="https://topostext.org/place/376216GOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::204 /TEI[1]/text[1]/body[1]/p[14]::210" xml:id="UID-FAKE-14865">
+        <rs ana="https://topostext.org/place/372222PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::294 /TEI[1]/text[1]/body[1]/p[14]::297" xml:id="UID-FAKE-14866">
+        <rs ana="https://topostext.org/place/384234UGli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::302 /TEI[1]/text[1]/body[1]/p[14]::308" xml:id="UID-FAKE-14867">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::314 /TEI[1]/text[1]/body[1]/p[14]::319" xml:id="UID-FAKE-14868">
+        <rs ana="https://topostext.org/place/490070RKel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[14]::342 /TEI[1]/text[1]/body[1]/p[14]::346" xml:id="UID-FAKE-14869">
+        <rs ana="https://topostext.org/place/375433RGor"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 23</head>
+      <p>Brennus and his army were now faced by the Greeks who had mustered at Delphi, and soon portents boding no good to the barbarians were sent by the god, the clearest recorded in history. For the whole ground occupied by the Gallic army was shaken violently most of the day, with continuous thunder and lightning.</p>
+      <p>The thunder both terrified the Gauls and prevented them hearing their orders, while the bolts from heaven set on fire not only those whom they struck but also their neighbors, themselves and their armour alike. Then there were seen by them ghosts of the heroes Hyperochus, Laodocus and Pyrrhus; according to some a fourth appeared, Phylacus, a local hero of Delphi.</p>
+      <p>Among the many Phocians who were killed in the action was Aleximachus, who in this battle excelled all the other Greeks in devoting youth, physical strength, and a stout heart, to slaying the barbarians. The Phocians made a statue of Aleximachus and sent it to Delphi as an offering to Apollo.</p>
+      <p>All the day the barbarians were beset by calamities and terrors of this kind. But the night was to bring upon them experiences far more painful. For there came on a severe frost, and snow with it; and great rocks slipping from Parnassus, and crags breaking away, made the barbarians their target, the crash of which brought destruction, not on one or two at a time, but on thirty or even more, as they chanced to be gathered in groups, keeping guard or taking rest.</p>
+      <p>At sunrise the Greeks came on from Delphi, making a frontal attack with the exception of the Phocians, who, being more familiar with the district, descended through the snow down the precipitous parts of Parnassus, and surprised the Celts in their rear, shooting them down with arrows and javelins without anything to fear from the barbarians.</p>
+      <p>At the beginning of the fight the Gauls offered a spirited resistance, especially the company attached to Brennus, which was composed of the tallest and bravest of the Gauls, and that though they were shot at from all sides, and no less distressed by the frost, especially the wounded men. But when Brennus himself was wounded, he was carried fainting from the battle, and the barbarians, harassed on all sides by the Greeks, fell back reluctantly, putting to the sword those who, disabled by wounds or sickness, could not go with them.</p>
+      <p>They encamped where night overtook them in their retreat, and during the night there fell on them a “panic.” For causeless terrors are said to come from the god Pan. It was when evening was turning to night that the confusion fell on the army, and at first only a few became mad, and these imagined that they heard the trampling of horses at a gallop, and the attack of advancing enemies; but after a little time the delusion spread to all.</p>
+      <p>So rushing to arms they divided into two parties, killing and being killed, neither understanding their mother tongue nor recognizing one another"s forms or the shape of their shields. Both parties alike under the present delusion thought that their opponents were Greek, men and armour, and that the language they spoke was Greek, so that a great mutual slaughter was wrought among the Gauls by the madness sent by the god.</p>
+      <p>Those Phocians who had been left behind in the fields to guard the flocks were the first to perceive and report to the Greeks the panic that had seized the barbarians in the night. The Phocians were thus encouraged to attack the Celts with yet greater spirit, keeping a more careful watch on their encampments, and not letting them take from the country the necessities of life without a struggle, so that the whole Gallic army suffered at once from a pressing shortage of corn and other food.</p>
+      <p>Their losses in Phocis were these: in the battles were killed close on six thousand; those who perished in the wintry storm at night and afterwards in the panic terror amounted to over ten thousand, as likewise did those who were starved to death.</p>
+      <p>Athenian scouts arrived at Delphi to gather information, after which they returned and reported what had happened to the barbarians, and all that the god had inflicted upon them. Whereupon the Athenians took the field, and as they marched through Boeotia they were joined by the Boeotians. Thus the combined armies followed the barbarians, lying in wait and killing those who happened to be the last.</p>
+      <p>Those who fled with Brennus had been joined by the army under Acichorius only on the previous night. For the Aetolians had delayed their march, hurling at them a merciless shower of javelins and anything else they could lay hands on, so that only a small part of them escaped to the camp at Heracleia. There was still a hope of saving the life of Brennus, so far as his wounds were concerned; but, they say, partly because he feared his fellow-countrymen, and still more because he was conscience-stricken at the calamities he had brought on Greece, he took his own life by drinking neat wine.</p>
+      <p>After this the barbarians proceeded with difficulty as far as the Spercheius, pressed hotly by the Aetolians. But after their arrival at the Spercheius, during the rest of the retreat the Thessalians and Malians kept lying in wait for them, and so took their fill of slaughter that not a Gaul returned home in safety.</p>
+      <p>The expedition of the Celts against Greece, and their destruction, took place when Anaxicrates was archon [279/8 BCE] at Athens, in the second year of the hundred and twenty-fifth Olympiad, when Ladas of Aegium was victor in the footrace. In the following year, when Democles was archon [278/7 BCE] at Athens, the Celts crossed back again to Asia.</p>
+    </body>
+  </text>
+</TEI>

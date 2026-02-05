@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::3 /TEI[1]/text[1]/body[1]/p[1]::10" xml:id="UID-FAKE-13374">
+        <rs ana="https://topostext.org/place/384228LHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::253 /TEI[1]/text[1]/body[1]/p[2]::262" xml:id="UID-FAKE-13375">
+        <rs ana="https://topostext.org/place/403267UPit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::3 /TEI[1]/text[1]/body[1]/p[3]::10" xml:id="UID-FAKE-13376">
+        <rs ana="https://topostext.org/place/384228LHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::138 /TEI[1]/text[1]/body[1]/p[3]::145" xml:id="UID-FAKE-13377">
+        <rs ana="https://topostext.org/place/385236PCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::153 /TEI[1]/text[1]/body[1]/p[3]::160" xml:id="UID-FAKE-13378">
+        <rs ana="https://topostext.org/place/385236WEur"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::211 /TEI[1]/text[1]/body[1]/p[3]::220" xml:id="UID-FAKE-13379">
+        <rs ana="https://topostext.org/place/383232PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::269 /TEI[1]/text[1]/body[1]/p[3]::275" xml:id="UID-FAKE-13380">
+        <rs ana="https://topostext.org/place/383230WHip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::302 /TEI[1]/text[1]/body[1]/p[3]::303" xml:id="UID-FAKE-13381">
+        <rs ana="https://topostext.org/place/383230WHip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::473 /TEI[1]/text[1]/body[1]/p[3]::483" xml:id="UID-FAKE-13382">
+        <rs ana="https://topostext.org/place/383230WHip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::4 /TEI[1]/text[1]/body[1]/p[4]::13" xml:id="UID-FAKE-13383">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::30 /TEI[1]/text[1]/body[1]/p[4]::37" xml:id="UID-FAKE-13384">
+        <rs ana="https://topostext.org/place/383230WHip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::91 /TEI[1]/text[1]/body[1]/p[4]::105" xml:id="UID-FAKE-13385">
+        <rs ana="https://topostext.org/place/383231UAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::155 /TEI[1]/text[1]/body[1]/p[4]::160" xml:id="UID-FAKE-13386">
+        <rs ana="https://topostext.org/place/383231SMus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::214 /TEI[1]/text[1]/body[1]/p[4]::221" xml:id="UID-FAKE-13387">
+        <rs ana="https://topostext.org/place/384228LHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::330 /TEI[1]/text[1]/body[1]/p[4]::335" xml:id="UID-FAKE-13388">
+        <rs ana="https://topostext.org/place/382233WGar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::139 /TEI[1]/text[1]/body[1]/p[5]::150" xml:id="UID-FAKE-13389">
+        <rs ana="https://topostext.org/place/383231UAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::156 /TEI[1]/text[1]/body[1]/p[5]::164" xml:id="UID-FAKE-13390">
+        <rs ana="https://topostext.org/place/377235SPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::223 /TEI[1]/text[1]/body[1]/p[5]::228" xml:id="UID-FAKE-13391">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::259 /TEI[1]/text[1]/body[1]/p[5]::277" xml:id="UID-FAKE-13392">
+        <rs ana="https://topostext.org/place/383231UAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::357 /TEI[1]/text[1]/body[1]/p[5]::371" xml:id="UID-FAKE-13393">
+        <rs ana="https://topostext.org/place/383231UAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::384 /TEI[1]/text[1]/body[1]/p[5]::393" xml:id="UID-FAKE-13394">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::436 /TEI[1]/text[1]/body[1]/p[5]::447" xml:id="UID-FAKE-13395">
+        <rs ana="https://topostext.org/place/388210RAka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::484 /TEI[1]/text[1]/body[1]/p[5]::491" xml:id="UID-FAKE-13396">
+        <rs ana="https://topostext.org/place/383231UAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::493 /TEI[1]/text[1]/body[1]/p[5]::502" xml:id="UID-FAKE-13397">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::120 /TEI[1]/text[1]/body[1]/p[6]::129" xml:id="UID-FAKE-13398">
+        <rs ana="https://topostext.org/place/384218UNau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::133 /TEI[1]/text[1]/body[1]/p[6]::141" xml:id="UID-FAKE-13399">
+        <rs ana="https://topostext.org/place/385228UPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::227 /TEI[1]/text[1]/body[1]/p[6]::235" xml:id="UID-FAKE-13400">
+        <rs ana="https://topostext.org/place/383231UAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::17 /TEI[1]/text[1]/body[1]/p[7]::24" xml:id="UID-FAKE-13401">
+        <rs ana="https://topostext.org/place/384228LHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::53 /TEI[1]/text[1]/body[1]/p[7]::58" xml:id="UID-FAKE-13402">
+        <rs ana="https://topostext.org/place/384228LHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::84 /TEI[1]/text[1]/body[1]/p[7]::93" xml:id="UID-FAKE-13403">
+        <rs ana="https://topostext.org/place/383232PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::112 /TEI[1]/text[1]/body[1]/p[7]::119" xml:id="UID-FAKE-13404">
+        <rs ana="https://topostext.org/place/383231UDon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::121 /TEI[1]/text[1]/body[1]/p[7]::129" xml:id="UID-FAKE-13405">
+        <rs ana="https://topostext.org/place/383230WHip"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 31</head>
+      <p>On Helicon there is also a statue of Arsinoe, who married Ptolemy her brother. She is being carried by a bronze ostrich. Ostriches grow wings just like other birds, but their bodies are so heavy and large that the wings cannot lift them into the air.</p>
+      <p>Here too is Telephus, the son of Heracles, represented as a baby being suckled by a deer. By his side is an ox, and an image of Priapus worth seeing. This god is worshipped where goats and sheep pasture or there are swarms of bees; but by the people of Lampsacus he is more revered than any other god, being called by them a son of Dionysus and Aphrodite.</p>
+      <p>On Helicon tripods have been dedicated, of which the oldest is the one which it is said Hesiod received for winning the prize for song at Chalcis on the Euripus. Men too live round about the grove, and here the Thespians celebrate a festival, and also games called the Museia. They celebrate other games in honor of Eros, offering prizes not only for music but also for athletic events. Ascending about twenty stades from this grove is what is called the Horse"s Fountain (Hippocrene). It was made, they say, by the horse of Bellerophon striking the ground with his hoof.</p>
+      <p>The Boeotians dwelling around Helicon hold the tradition that Hesiod wrote nothing but the Works and Days, and even of this they reject the prelude to the Muses, saying that the poem begins with the account of the Strifes. They showed me also a tablet of lead where the spring is, mostly defaced by time, on which is engraved the Works.</p>
+      <p>There is another tradition, very different from the first, that Hesiod wrote a great number of poems; the one on women, the one called the Great Eoeae, the Theogony, the poem on the seer Melampus, the one on the descent to Hades of Theseus and Perithous, the Precepts of Chiron, professing to be for the instruction of Achilles, and other poems besides the Works and Days. These same Boeotians say that Hesiod learnt seercraft from the Acarnanians, and there are extant a poem called Mantica (Seercraft), which I myself have read, and interpretations of portents.</p>
+      <p>Opposite stories are also told of Hesiod"s death. All agree that Ctimenus and Antiphus, the sons of Ganyctor, fled from Naupactus to Molycria because of the murder of Hesiod, that here they sinned against Poseidon, and that in Molycria their punishment was inflicted. The sister of the young men had been ravished; some say the deed was Hesiod"s, and others that Hesiod was wrongly thought guilty of another"s crime. So widely different are the traditions of Hesiod himself and his poems.</p>
+      <p>On the summit of Helicon is a small river called the Lamus. In the territory of the Thespians is a place called Donacon (Reed-bed). Here is the spring of Narcissus. They say that Narcissus looked into this water, and not understanding that he saw his own reflection, unconsciously fell in love with himself, and died of love at the spring. But it is utter stupidity to imagine that a man old enough to fall in love was incapable of distinguishing a man from a man"s reflection.</p>
+      <p>There is another story about Narcissus, less popular indeed than the other, but not without some support. It is said that Narcissus had a twin sister; they were exactly alike in appearance, their hair was the same, they wore similar clothes, and went hunting together. The story goes on that Narcissus fell in love with his sister, and when the girl died, would go to the spring, knowing that it was his reflection that he saw, but in spite of this knowledge finding some relief for his love in imagining that he saw, not his own reflection, but the likeness of his sister.</p>
+      <p>The flower narcissus grew, in my opinion, before this, if we are to judge by the verses of Pamphos. This poet was born many years before Narcissus the Thespian, and he says that Kore, the daughter of Demeter, was carried off when she was playing and gathering flowers, and that the flowers by which she was deceived into being carried off were not violets, but the narcissus.</p>
+    </body>
+  </text>
+</TEI>

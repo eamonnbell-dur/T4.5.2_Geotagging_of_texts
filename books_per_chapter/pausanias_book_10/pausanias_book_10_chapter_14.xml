@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::68 /TEI[1]/text[1]/body[1]/p[1]::75" xml:id="UID-FAKE-14388">
+        <rs ana="https://topostext.org/place/398261ITen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::167 /TEI[1]/text[1]/body[1]/p[1]::174" xml:id="UID-FAKE-14389">
+        <rs ana="https://topostext.org/place/397262UKol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::190 /TEI[1]/text[1]/body[1]/p[1]::195" xml:id="UID-FAKE-14390">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::225 /TEI[1]/text[1]/body[1]/p[1]::236" xml:id="UID-FAKE-14391">
+        <rs ana="https://topostext.org/place/453302ILeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::144 /TEI[1]/text[1]/body[1]/p[2]::149" xml:id="UID-FAKE-14392">
+        <rs ana="https://topostext.org/place/397269UKil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::43 /TEI[1]/text[1]/body[1]/p[3]::54" xml:id="UID-FAKE-14393">
+        <rs ana="https://topostext.org/place/387208ITap"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::140 /TEI[1]/text[1]/body[1]/p[4]::147" xml:id="UID-FAKE-14394">
+        <rs ana="https://topostext.org/place/398261ITen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::154 /TEI[1]/text[1]/body[1]/p[4]::160" xml:id="UID-FAKE-14395">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::287 /TEI[1]/text[1]/body[1]/p[4]::294" xml:id="UID-FAKE-14396">
+        <rs ana="https://topostext.org/place/398261ITen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::324 /TEI[1]/text[1]/body[1]/p[4]::336" xml:id="UID-FAKE-14397">
+        <rs ana="https://topostext.org/place/398262UAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::344 /TEI[1]/text[1]/body[1]/p[4]::349" xml:id="UID-FAKE-14398">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::4 /TEI[1]/text[1]/body[1]/p[5]::10" xml:id="UID-FAKE-14399">
+        <rs ana="https://topostext.org/place/385225BAtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::62 /TEI[1]/text[1]/body[1]/p[5]::69" xml:id="UID-FAKE-14400">
+        <rs ana="https://topostext.org/place/376216SOly"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::113 /TEI[1]/text[1]/body[1]/p[5]::119" xml:id="UID-FAKE-14401">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::163 /TEI[1]/text[1]/body[1]/p[5]::173" xml:id="UID-FAKE-14402">
+        <rs ana="https://topostext.org/place/390232SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::178 /TEI[1]/text[1]/body[1]/p[5]::185" xml:id="UID-FAKE-14403">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::235 /TEI[1]/text[1]/body[1]/p[5]::241" xml:id="UID-FAKE-14404">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::283 /TEI[1]/text[1]/body[1]/p[5]::290" xml:id="UID-FAKE-14405">
+        <rs ana="https://topostext.org/place/385225BAtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::367 /TEI[1]/text[1]/body[1]/p[5]::374" xml:id="UID-FAKE-14406">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::522 /TEI[1]/text[1]/body[1]/p[5]::530" xml:id="UID-FAKE-14407">
+        <rs ana="https://topostext.org/place/385225BAtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::96 /TEI[1]/text[1]/body[1]/p[6]::103" xml:id="UID-FAKE-14408">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::183 /TEI[1]/text[1]/body[1]/p[6]::190" xml:id="UID-FAKE-14409">
+        <rs ana="https://topostext.org/place/385225BAtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::366 /TEI[1]/text[1]/body[1]/p[6]::373" xml:id="UID-FAKE-14410">
+        <rs ana="https://topostext.org/place/385225BAtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::468 /TEI[1]/text[1]/body[1]/p[6]::476" xml:id="UID-FAKE-14411">
+        <rs ana="https://topostext.org/place/385225BAtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::539 /TEI[1]/text[1]/body[1]/p[6]::545" xml:id="UID-FAKE-14412">
+        <rs ana="https://topostext.org/place/384229STro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::58 /TEI[1]/text[1]/body[1]/p[7]::67" xml:id="UID-FAKE-14413">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::189 /TEI[1]/text[1]/body[1]/p[7]::204" xml:id="UID-FAKE-14414">
+        <rs ana="https://topostext.org/place/385226LPar"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 14</head>
+      <p>The axes were dedicated by Periclytus, son of EuthymachYY, a man of Tenedos, and allude to an old story. Cycnus, they say, was a son of Poseidon, and ruled as king in Colonae, a city in the Troad situated opposite the island LeucophryYY.</p>
+      <p>He had a daughter, by name Hemithea, and a son, called Tennes, by Procleia, who was a daughter of Clytius and a sister of Caletor. Homer in the Iliad says that this Caletor, as he was putting the fire under the ship of Protesilaus, was killed by Ajax. Procleia died before Cycnus, and his second wife, Philonome, daughter of Cragasus, fell in love with Tennes. Rejected by him she falsely accused him before her husband, saying that he had made love to her, and she had rejected him. Cycnus was deceived by the trick, placed Tennes with his sister in a chest and launched it out to sea.</p>
+      <p>The young people came safely to the island LeucophryYY, and the island was given its present name from Tennes. Cycnus, however, was not to remain for ever ignorant of the trick, and sailed to his son to confess his ignorance and to ask for pardon for his mistake. He put in at the island and fastened the cables of his ship to something — a rock or a tree — but Tennes in a passion cut them adrift with an axe.</p>
+      <p>For this reason a by-word has arisen, which is used of those who make a stern refusal: “So and so has cut whatever it may be with an axe of Tenedos.” The Greeks say that while Tennes was defending his country he was killed by Achilles. In course of time weakness compelled the people of Tenedos to merge themselves with the Alexandrians on the Troad mainland.</p>
+      <p>The Greeks who fought against the king, besides dedicating at Olympia a bronze Zeus, dedicated also an Apollo at Delphi, from spoils taken in the naval actions at Artemisium and Salamis. There is also a story that Themistocles came to Delphi bringing with him for Apollo some of the Persian spoils. He asked whether he should dedicate them within the temple, but the Pythian priestess bade him carry them from the sanctuary altogether. The part of the oracle referring to this runs as follows: “The splendid beauty of the Persian"s spoils Set not within my temple. Despatch them home speedily.”</p>
+      <p>Now I greatly marveled that it was from Themistocles alone that the priestess refused to accept Persian spoils. Some thought that the god would have rejected alike all offerings from Persian spoils, if like Themistocles the others had inquired of Apollo before making their dedication. Others said that the god knew that Themistocles would become a suppliant of the Persian king, and refused to take the gifts so that Themistocles might not by a dedication render the Persian"s enmity unappeasable. The expedition of the barbarian against Greece we find foretold in the oracles of Bacis, and Euclus wrote his verses about it at an even earlier date.</p>
+      <p>Near the great altar is a bronze wolf, an offering of the Delphians themselves. They say that a fellow robbed the god of some treasure, and kept himself and the gold hidden at the place on Mount Parnassus where the forest is thickest. As he slept a wolf attacked and killed him, and every day went to the city and howled. When the people began to realize that the matter was not without the direction of heaven, they followed the beast and found the sacred gold. So to the god they dedicated a bronze wolf.</p>
+    </body>
+  </text>
+</TEI>

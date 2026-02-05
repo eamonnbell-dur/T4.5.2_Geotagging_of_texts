@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::3 /TEI[1]/text[1]/body[1]/p[1]::18" xml:id="UID-FAKE-12468">
+        <rs ana="https://topostext.org/place/382233LCit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::44 /TEI[1]/text[1]/body[1]/p[1]::51" xml:id="UID-FAKE-12469">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::146 /TEI[1]/text[1]/body[1]/p[1]::152" xml:id="UID-FAKE-12470">
+        <rs ana="https://topostext.org/place/382233PHys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::157 /TEI[1]/text[1]/body[1]/p[1]::165" xml:id="UID-FAKE-12471">
+        <rs ana="https://topostext.org/place/382233PHys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::192 /TEI[1]/text[1]/body[1]/p[1]::199" xml:id="UID-FAKE-12472">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::248 /TEI[1]/text[1]/body[1]/p[1]::254" xml:id="UID-FAKE-12473">
+        <rs ana="https://topostext.org/place/382233PHys"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::328 /TEI[1]/text[1]/body[1]/p[1]::336" xml:id="UID-FAKE-12474">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::380 /TEI[1]/text[1]/body[1]/p[2]::387" xml:id="UID-FAKE-12475">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::19 /TEI[1]/text[1]/body[1]/p[3]::26" xml:id="UID-FAKE-12476">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::32 /TEI[1]/text[1]/body[1]/p[3]::42" xml:id="UID-FAKE-12477">
+        <rs ana="https://topostext.org/place/382234BLRE"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::61 /TEI[1]/text[1]/body[1]/p[3]::67" xml:id="UID-FAKE-12478">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::311 /TEI[1]/text[1]/body[1]/p[3]::317" xml:id="UID-FAKE-12479">
+        <rs ana="https://topostext.org/place/380138PHim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::62 /TEI[1]/text[1]/body[1]/p[4]::69" xml:id="UID-FAKE-12480">
+        <rs ana="https://topostext.org/place/382233LCit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::204 /TEI[1]/text[1]/body[1]/p[4]::213" xml:id="UID-FAKE-12481">
+        <rs ana="https://topostext.org/place/382233LCit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::357 /TEI[1]/text[1]/body[1]/p[4]::367" xml:id="UID-FAKE-12482">
+        <rs ana="https://topostext.org/place/382233LCit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::371 /TEI[1]/text[1]/body[1]/p[4]::377" xml:id="UID-FAKE-12483">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::412 /TEI[1]/text[1]/body[1]/p[4]::427" xml:id="UID-FAKE-12484">
+        <rs ana="https://topostext.org/place/382233LCit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::441 /TEI[1]/text[1]/body[1]/p[4]::453" xml:id="UID-FAKE-12485">
+        <rs ana="https://topostext.org/place/382233LCit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::29 /TEI[1]/text[1]/body[1]/p[5]::36" xml:id="UID-FAKE-12486">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::84 /TEI[1]/text[1]/body[1]/p[5]::92" xml:id="UID-FAKE-12487">
+        <rs ana="https://topostext.org/place/382233LPlB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::101 /TEI[1]/text[1]/body[1]/p[5]::107" xml:id="UID-FAKE-12488">
+        <rs ana="https://topostext.org/place/382233LPlB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::150 /TEI[1]/text[1]/body[1]/p[5]::163" xml:id="UID-FAKE-12489">
+        <rs ana="https://topostext.org/place/380237GLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::168 /TEI[1]/text[1]/body[1]/p[5]::177" xml:id="UID-FAKE-12490">
+        <rs ana="https://topostext.org/place/381239GPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::295 /TEI[1]/text[1]/body[1]/p[5]::301" xml:id="UID-FAKE-12491">
+        <rs ana="https://topostext.org/place/382233LPlB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::64 /TEI[1]/text[1]/body[1]/p[6]::74" xml:id="UID-FAKE-12492">
+        <rs ana="https://topostext.org/place/382233LPlB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::205 /TEI[1]/text[1]/body[1]/p[6]::211" xml:id="UID-FAKE-12493">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::237 /TEI[1]/text[1]/body[1]/p[6]::244" xml:id="UID-FAKE-12494">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::130 /TEI[1]/text[1]/body[1]/p[7]::137" xml:id="UID-FAKE-12495">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::221 /TEI[1]/text[1]/body[1]/p[7]::228" xml:id="UID-FAKE-12496">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::547 /TEI[1]/text[1]/body[1]/p[7]::555" xml:id="UID-FAKE-12497">
+        <rs ana="https://topostext.org/place/380237SAZA"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 2</head>
+      <p>On Mount Cithaeron, within the territory of Plataea, if you turn off to the right for a little way from the straight road, you reach the ruins of Hysiae and Erythrae. Once they were cities of Boeotia, and even at the present day among the ruins of Hysiae are a half-finished temple of Apollo and a sacred well. According to the Boeotian story oracles were obtained of old from the well by drinking of it.</p>
+      <p>Returning to the highway you again see on the right a tomb, said to be that of Mardonius. It is agreed that the body of Mardonius was not seen again after the battle, but there is not a similar agreement as to the person who gave it burial. It is admitted that ArtontesYY, son of Mardonius, gave many gifts to DionysophYY the Ephesian, but also that he gave them to others of the Ionians, in recognition that they too had spent some pains on the burial of Mardonius.</p>
+      <p>This road leads to Plataea from Eleutherae. On the road from Megara there is a spring on the right, and a little farther on a rock. It is called the bed of Actaeon, for it is said that he slept thereon when weary with hunting, and that into this spring he looked while Artemis was bathing in it. Stesichorus of Himera says that the goddess cast a deer-skin round Actaeon to make sure that his hounds would kill him, so as to prevent his taking Semele to wife.</p>
+      <p>My own view is that without divine interference the hounds of Actaeon were smitten with madness, and so they were sure to tear to pieces without distinction everybody they chanced to meet. Whereabouts on Cithaeron the disaster befell Pentheus, the son of Echion, or where Oedipus was exposed at birth, nobody knows with the assurance with which we know the Cleft Road to Phocis, where Oedipus killed his father (Mount Cithaeron is sacred to Cithaeronian Zeus), as I shall tell of at greater length when this place in my story has been reached.</p>
+      <p>Roughly at the entrance into Plataea are the graves of those who fought against the Persians. Of the Greeks generally there is a common tomb, but the Lacedemonians and Athenians who fell have separate graves, on which are written elegiac verses by Simonides. Not far from the common tomb of the Greeks is an altar of Zeus Eleutherios (of freedom). This then is of bronze, but the altar and the statue he made of white marble.</p>
+      <p>Even at the present day they hold every four years games called Eleutheria (of freedom), in which great prizes are offered for running. The competitors run in armour before the altar. The trophy which the Greeks set up for the battle at Plataea stands about fifteen stades from the city.</p>
+      <p>Advancing in the city itself from the altar and the statue which have been made to Zeus Eleutherios, you come to a hero-shrine of Plataea. The legends about her, and my own conjectures, I have already stated. There is at Plataea a temple of Hera, worth seeing for its size and for the beauty of its statues. On entering you see Rhea carrying to Cronus the stone wrapped in swaddling clothes, as though it were the babe to which she had given birth. The Hera they call Teleia (full-grown); it is an upright statue of huge size. Both figures are of Pentelic marble, and the artist was Praxiteles. Here too is another statue of Hera; it is seated, and was made by Callimachus. The goddess they call the Bride (nympheuomene) for the following reason.</p>
+    </body>
+  </text>
+</TEI>

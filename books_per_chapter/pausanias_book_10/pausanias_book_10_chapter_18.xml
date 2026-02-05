@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::63 /TEI[1]/text[1]/body[1]/p[1]::71" xml:id="UID-FAKE-14567">
+        <rs ana="https://topostext.org/place/315275LKal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::171 /TEI[1]/text[1]/body[1]/p[1]::178" xml:id="UID-FAKE-14568">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::188 /TEI[1]/text[1]/body[1]/p[1]::196" xml:id="UID-FAKE-14569">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::219 /TEI[1]/text[1]/body[1]/p[1]::225" xml:id="UID-FAKE-14570">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::271 /TEI[1]/text[1]/body[1]/p[1]::278" xml:id="UID-FAKE-14571">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::302 /TEI[1]/text[1]/body[1]/p[1]::307" xml:id="UID-FAKE-14572">
+        <rs ana="https://topostext.org/place/382259SPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::25 /TEI[1]/text[1]/body[1]/p[2]::31" xml:id="UID-FAKE-14573">
+        <rs ana="https://topostext.org/place/376216SOPe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::39 /TEI[1]/text[1]/body[1]/p[2]::45" xml:id="UID-FAKE-14574">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::54 /TEI[1]/text[1]/body[1]/p[2]::59" xml:id="UID-FAKE-14575">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::237 /TEI[1]/text[1]/body[1]/p[2]::242" xml:id="UID-FAKE-14576">
+        <rs ana="https://topostext.org/place/382259SPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::326 /TEI[1]/text[1]/body[1]/p[3]::334" xml:id="UID-FAKE-14577">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::488 /TEI[1]/text[1]/body[1]/p[3]::496" xml:id="UID-FAKE-14578">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::31 /TEI[1]/text[1]/body[1]/p[4]::39" xml:id="UID-FAKE-14579">
+        <rs ana="https://topostext.org/place/361281SAtL"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::43 /TEI[1]/text[1]/body[1]/p[4]::49" xml:id="UID-FAKE-14580">
+        <rs ana="https://topostext.org/place/361281PLin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::84 /TEI[1]/text[1]/body[1]/p[4]::94" xml:id="UID-FAKE-14581">
+        <rs ana="https://topostext.org/place/392210PAmb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::145 /TEI[1]/text[1]/body[1]/p[4]::155" xml:id="UID-FAKE-14582">
+        <rs ana="https://topostext.org/place/398206RMol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::179 /TEI[1]/text[1]/body[1]/p[4]::189" xml:id="UID-FAKE-14583">
+        <rs ana="https://topostext.org/place/398206RMol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::450 /TEI[1]/text[1]/body[1]/p[4]::459" xml:id="UID-FAKE-14584">
+        <rs ana="https://topostext.org/place/398206RMol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::498 /TEI[1]/text[1]/body[1]/p[4]::508" xml:id="UID-FAKE-14585">
+        <rs ana="https://topostext.org/place/392210PAmb"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::587 /TEI[1]/text[1]/body[1]/p[4]::597" xml:id="UID-FAKE-14586">
+        <rs ana="https://topostext.org/place/398206RMol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::11 /TEI[1]/text[1]/body[1]/p[5]::17" xml:id="UID-FAKE-14587">
+        <rs ana="https://topostext.org/place/377225POrn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::21 /TEI[1]/text[1]/body[1]/p[5]::28" xml:id="UID-FAKE-14588">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::62 /TEI[1]/text[1]/body[1]/p[5]::72" xml:id="UID-FAKE-14589">
+        <rs ana="https://topostext.org/place/380227SSAp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::133 /TEI[1]/text[1]/body[1]/p[5]::143" xml:id="UID-FAKE-14590">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::225 /TEI[1]/text[1]/body[1]/p[5]::231" xml:id="UID-FAKE-14591">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::323 /TEI[1]/text[1]/body[1]/p[5]::333" xml:id="UID-FAKE-14592">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::373 /TEI[1]/text[1]/body[1]/p[6]::381" xml:id="UID-FAKE-14593">
+        <rs ana="https://topostext.org/place/391272PPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::4 /TEI[1]/text[1]/body[1]/p[7]::12" xml:id="UID-FAKE-14594">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::25 /TEI[1]/text[1]/body[1]/p[7]::32" xml:id="UID-FAKE-14595">
+        <rs ana="https://topostext.org/place/386228PEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::90 /TEI[1]/text[1]/body[1]/p[7]::96" xml:id="UID-FAKE-14596">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::144 /TEI[1]/text[1]/body[1]/p[7]::150" xml:id="UID-FAKE-14597">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::222 /TEI[1]/text[1]/body[1]/p[7]::232" xml:id="UID-FAKE-14598">
+        <rs ana="https://topostext.org/place/433054PMas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::280 /TEI[1]/text[1]/body[1]/p[7]::293" xml:id="UID-FAKE-14599">
+        <rs ana="https://topostext.org/place/433054PMas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::299 /TEI[1]/text[1]/body[1]/p[7]::308" xml:id="UID-FAKE-14600">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::383 /TEI[1]/text[1]/body[1]/p[7]::390" xml:id="UID-FAKE-14601">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::420 /TEI[1]/text[1]/body[1]/p[7]::429" xml:id="UID-FAKE-14602">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::457 /TEI[1]/text[1]/body[1]/p[7]::462" xml:id="UID-FAKE-14603">
+        <rs ana="https://topostext.org/place/401330RGal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::488 /TEI[1]/text[1]/body[1]/p[7]::496" xml:id="UID-FAKE-14604">
+        <rs ana="https://topostext.org/place/393223RPht"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::535 /TEI[1]/text[1]/body[1]/p[7]::543" xml:id="UID-FAKE-14605">
+        <rs ana="https://topostext.org/place/373150PLeo"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 10, Chapter 18</head>
+      <p>The horse next to the statue of Sardus was dedicated, says the Athenian Callias son of LysimachiYY, in the inscription, by Callias himself from spoils he had taken in the Persian war. The Achaeans dedicated an image of Athena after reducing by siege one of the cities of Aetolia, the name of which was Phana. They say that the siege was not a short one, and being unable to take the city, they sent envoys to Delphi, to whom was given the following response:</p>
+      <p>“Dwellers in the land of Pelops and in Achaia, who to Pytho Have come to inquire how ye shall take a city, Come, consider what daily ration, Drunk by the folk, saves the city which has so drunk. For so ye may take the towered village of Phana.”</p>
+      <p>So not understanding what was the meaning of the oracle, they were minded to raise the siege and sail away, while the defenders paid no attention to them, one of their women coming from behind the walls to fetch water from the spring just under them. Some of the besiegers ran up and took the woman prisoner, who informed the Achaeans that the scanty water from the spring, that was fetched each night, was rationed among the besieged, who had nothing else to quench their thirst. So the Achaeans, by filling up the spring, captured the town.</p>
+      <p>By the side of this Athena the Rhodians of Lindus set up their image of Apollo. The Ambraciots dedicated also a bronze ass, having conquered the Molossians in a night battle. The Molossians had prepared an ambush for them by night. It chanced that an ass, being driven back from the fields, was chasing a she-ass with harsh braying and wanton gait, while the driver of the ass increased the din by his horrible, inarticulate yells. So the men in the Molossian ambush rushed out affrighted, and the Ambraciots, detecting the trap prepared for them, attacked in the night and overcame the Molossians in battle.</p>
+      <p>The men of Orneae in Argolis, when hard pressed in war by the Sicyonians, vowed to Apollo that, if they should drive the host of the Sicyonians out of their native land, they would organize a daily procession in his honor at Delphi, and sacrifice victims of a certain kind and of a certain number. Well, they conquered the Sicyonians in battle. But finding the daily fulfillment of their vow a great expense and a still greater trouble, they devised the trick of dedicating to the god bronze figures representing a sacrifice and a procession.</p>
+      <p>There is here one of the labours of Heracles, namely, his fight with the Hydra. Tisagoras not only dedicated the offering, but also made it. Both the Hydra and Heracles are of iron. To make images of iron is a very difficult task, involving great labour. So the work of Tisagoras, whoever he was, is marvellous. Very marvellous too are the heads of a lion and wild boar at Pergamus, also of iron, which were made as offerings to Dionysus.</p>
+      <p>The Phocians who live at Elateia, who held their city, with the help of Olympiodorus from Athens, when besieged by Cassander, sent to Apollo at Delphi a bronze lion. The Apollo, very near to the lion, was dedicated by the Massiliots as firstfruits of their naval victory over the Carthaginians. The Aetolians have made a trophy and the image of an armed woman, supposed to represent Aetolia. These were dedicated by the Aetolians when they had punished the Gauls for their cruelty to the Callians. A gilt statue, offered by Gorgias of Leontini, is a portrait of Gorgias himself.</p>
+    </body>
+  </text>
+</TEI>

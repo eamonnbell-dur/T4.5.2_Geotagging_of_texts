@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::17 /TEI[1]/text[1]/body[1]/p[1]::24" xml:id="UID-FAKE-13213">
+        <rs ana="https://topostext.org/place/383233FNei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::33 /TEI[1]/text[1]/body[1]/p[1]::39" xml:id="UID-FAKE-13214">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::208 /TEI[1]/text[1]/body[1]/p[1]::213" xml:id="UID-FAKE-13215">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::411 /TEI[1]/text[1]/body[1]/p[1]::418" xml:id="UID-FAKE-13216">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::237 /TEI[1]/text[1]/body[1]/p[2]::244" xml:id="UID-FAKE-13217">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::364 /TEI[1]/text[1]/body[1]/p[2]::384" xml:id="UID-FAKE-13218">
+        <rs ana="https://topostext.org/place/385228ALoC"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::593 /TEI[1]/text[1]/body[1]/p[2]::601" xml:id="UID-FAKE-13219">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::24 /TEI[1]/text[1]/body[1]/p[3]::29" xml:id="UID-FAKE-13220">
+        <rs ana="https://topostext.org/place/383233WDir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::532 /TEI[1]/text[1]/body[1]/p[3]::540" xml:id="UID-FAKE-13221">
+        <rs ana="https://topostext.org/place/381239LPen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::24 /TEI[1]/text[1]/body[1]/p[4]::31" xml:id="UID-FAKE-13222">
+        <rs ana="https://topostext.org/place/383233FNei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::315 /TEI[1]/text[1]/body[1]/p[4]::321" xml:id="UID-FAKE-13223">
+        <rs ana="https://topostext.org/place/376218GSau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::358 /TEI[1]/text[1]/body[1]/p[4]::365" xml:id="UID-FAKE-13224">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::447 /TEI[1]/text[1]/body[1]/p[4]::457" xml:id="UID-FAKE-13225">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::62 /TEI[1]/text[1]/body[1]/p[5]::71" xml:id="UID-FAKE-13226">
+        <rs ana="https://topostext.org/place/400253SKab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::152 /TEI[1]/text[1]/body[1]/p[5]::159" xml:id="UID-FAKE-13227">
+        <rs ana="https://topostext.org/place/383233SKab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::275 /TEI[1]/text[1]/body[1]/p[5]::282" xml:id="UID-FAKE-13228">
+        <rs ana="https://topostext.org/place/383233SKab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::61 /TEI[1]/text[1]/body[1]/p[6]::68" xml:id="UID-FAKE-13229">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::178 /TEI[1]/text[1]/body[1]/p[6]::185" xml:id="UID-FAKE-13230">
+        <rs ana="https://topostext.org/place/383233SKab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::240 /TEI[1]/text[1]/body[1]/p[6]::247" xml:id="UID-FAKE-13231">
+        <rs ana="https://topostext.org/place/383233SKab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::461 /TEI[1]/text[1]/body[1]/p[6]::472" xml:id="UID-FAKE-13232">
+        <rs ana="https://topostext.org/place/383233SKab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::35 /TEI[1]/text[1]/body[1]/p[7]::42" xml:id="UID-FAKE-13233">
+        <rs ana="https://topostext.org/place/383233SKab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::61 /TEI[1]/text[1]/body[1]/p[7]::67" xml:id="UID-FAKE-13234">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::73 /TEI[1]/text[1]/body[1]/p[7]::84" xml:id="UID-FAKE-13235">
+        <rs ana="https://topostext.org/place/383233SKab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::123 /TEI[1]/text[1]/body[1]/p[7]::130" xml:id="UID-FAKE-13236">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::368 /TEI[1]/text[1]/body[1]/p[7]::377" xml:id="UID-FAKE-13237">
+        <rs ana="https://topostext.org/place/383233SKab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::152 /TEI[1]/text[1]/body[1]/p[8]::161" xml:id="UID-FAKE-13238">
+        <rs ana="https://topostext.org/place/383233SKab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::330 /TEI[1]/text[1]/body[1]/p[8]::337" xml:id="UID-FAKE-13239">
+        <rs ana="https://topostext.org/place/405255SMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::47 /TEI[1]/text[1]/body[1]/p[9]::56" xml:id="UID-FAKE-13240">
+        <rs ana="https://topostext.org/place/384218UNau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::91 /TEI[1]/text[1]/body[1]/p[9]::97" xml:id="UID-FAKE-13241">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::219 /TEI[1]/text[1]/body[1]/p[9]::226" xml:id="UID-FAKE-13242">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::256 /TEI[1]/text[1]/body[1]/p[9]::263" xml:id="UID-FAKE-13243">
+        <rs ana="https://topostext.org/place/383233SKab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::65 /TEI[1]/text[1]/body[1]/p[10]::72" xml:id="UID-FAKE-13244">
+        <rs ana="https://topostext.org/place/383233SKab"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::84 /TEI[1]/text[1]/body[1]/p[10]::90" xml:id="UID-FAKE-13245">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::113 /TEI[1]/text[1]/body[1]/p[10]::122" xml:id="UID-FAKE-13246">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::152 /TEI[1]/text[1]/body[1]/p[10]::159" xml:id="UID-FAKE-13247">
+        <rs ana="https://topostext.org/place/405255SMeg"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 9, Chapter 25</head>
+      <p>Very near to the Neistan gate at Thebes is the tomb of Menoeceus, the son of Creon. He committed suicide in obedience to the oracle from Delphi, at the time when Polyneices and the host with him arrived from Argos. On the tomb of Menoeceus grows a pomegranate-tree. If you break through the outer part of the ripe fruit, you will then find the inside like blood. This pomegranate-tree is still flourishing. The Thebans assert that they were the first men among whom the vine grew, but they have now no memorial of it to show.</p>
+      <p>Not far from the grave of Menoeceus is the place where they say the sons of Oedipus killed each other in a duel. The scene of their fight is marked by a pillar, upon which is a stone shield. There is shown a place where according to the Thebans Hera was deceived by Zeus into giving the breast to Heracles when he was a baby. The whole of this place is called the Dragging of Antigone. For when she found that she had not the strength to lift the body of Polyneices, in spite of her eager efforts, a second plan occurred to her, to drag him. So she dragged him right up to the burning pyre of Eteocles and threw him on it.</p>
+      <p>There is a river called Dirce after the wife of Lycus. The story goes that Antiope was ill-treated by this Dirce, and therefore the children of Antiope put Dirce to death. Crossing the river you reach the ruins of the house of Pindar, and a sanctuary of the Mother Dindymene. Pindar dedicated the image, and Aristomedes and Socrates, sculptors of Thebes, made it. Their custom is to open the sanctuary on one day in each year, and no more. It was my fortune to arrive on that day, and I saw the image, which, like the throne, is of Pentelic marble.</p>
+      <p>Along the road from the Neistan gate are three sanctuaries. There is a sanctuary of Themis, with an image of white marble; adjoining it is a sanctuary of the Fates, while the third is of Zeus Agoraios. Zeus is made of stone; the Fates have no images. A little farther off in the open stands Heracles, surnamed Nose-docker; the reason for the name is, as the Thebans say, that Heracles cut off the noses, as an insult, of the heralds who came from Orchomenus to demand the tribute.</p>
+      <p>Advancing from here twenty-five stades you come to a grove of Cabeirean Demeter and Kore. The initiated are permitted to enter it. The sanctuary of the Cabeiri is some seven stades distant from this grove. I must ask the curious to forgive me if I keep silence as to who the Cabeiri are, and what is the nature of the ritual performed in honor of them and of the Mother.</p>
+      <p>But there is nothing to prevent my declaring to all what the Thebans say was the origin of the ritual. They say that once there was in this place a city, with inhabitants called Cabeiri; and that Demeter came to know Prometheus, one of the Cabeiri, and Aetnaeus his son, and entrusted something to their keeping. What was entrusted to them, and what happened to it, seemed to me a sin to put into writing, but at any rate the rites are a gift of Demeter to the Cabeiraeans.</p>
+      <p>At the time of the invasion of the Epigoni and the taking of Thebes, the Cabeiraeans were expelled from their homes by the Argives and the rites for a while ceased to be performed. But they go on to say that afterwards Pelarge, the daughter of Potnieus, and Isthmiades her husband established the mysteries here to begin with, but transferred them to the place called Alexiarus.</p>
+      <p>But because Pelarge conducted the initiation outside the ancient borders, Telondes and those who were left of the clan of the Cabeiri returned again to Cabeiraea. Various honors were to be established for Pelarge by Telondes in accordance with an oracle from Dodona, one being the sacrifice of a pregnant victim. The wrath of the Cabeiri no man may placate, as has been proved on many occasions.</p>
+      <p>For certain private people dared to perform in Naupactus the ritual just as it was done in Thebes, and soon afterwards justice overtook them. Then, again, certain men of the army of Xerxes left behind with Mardonius in Boeotia entered the sanctuary of the Cabeiri, perhaps in the hope of great wealth, but rather, I suspect, to show their contempt of its gods; all these immediately were struck with madness, and flung themselves to their deaths into the sea or from the tops of precipices.</p>
+      <p>Again, when Alexander after his victory wasted with fire all the Thebaid, including Thebes itself, some men from Macedonia entered the sanctuary of the Cabeiri, as it was in enemy territory, and were destroyed by thunder and lightning from heaven.</p>
+    </body>
+  </text>
+</TEI>
