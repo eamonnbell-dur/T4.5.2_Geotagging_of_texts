@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::154 /TEI[1]/text[1]/body[1]/p[1]::161" xml:id="UID-FAKE-2550">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::198 /TEI[1]/text[1]/body[1]/p[1]::204" xml:id="UID-FAKE-2551">
+        <rs ana="https://topostext.org/place/381253WAeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::195 /TEI[1]/text[1]/body[1]/p[2]::202" xml:id="UID-FAKE-2552">
+        <rs ana="https://topostext.org/place/376227BThA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::274 /TEI[1]/text[1]/body[1]/p[3]::287" xml:id="UID-FAKE-2553">
+        <rs ana="https://topostext.org/place/386275LSip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::365 /TEI[1]/text[1]/body[1]/p[3]::372" xml:id="UID-FAKE-2554">
+        <rs ana="https://topostext.org/place/386275LSip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::42 /TEI[1]/text[1]/body[1]/p[4]::54" xml:id="UID-FAKE-2555">
+        <rs ana="https://topostext.org/place/370221XAko"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::56 /TEI[1]/text[1]/body[1]/p[4]::63" xml:id="UID-FAKE-2556">
+        <rs ana="https://topostext.org/place/370221XAko"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::291 /TEI[1]/text[1]/body[1]/p[4]::298" xml:id="UID-FAKE-2557">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::152 /TEI[1]/text[1]/body[1]/p[5]::160" xml:id="UID-FAKE-2558">
+        <rs ana="https://topostext.org/place/380237SAna"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::187 /TEI[1]/text[1]/body[1]/p[5]::195" xml:id="UID-FAKE-2559">
+        <rs ana="https://topostext.org/place/380237SAna"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::33 /TEI[1]/text[1]/body[1]/p[6]::42" xml:id="UID-FAKE-2560">
+        <rs ana="https://topostext.org/place/371252SEil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::113 /TEI[1]/text[1]/body[1]/p[6]::123" xml:id="UID-FAKE-2561">
+        <rs ana="https://topostext.org/place/394204RThp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::158 /TEI[1]/text[1]/body[1]/p[6]::166" xml:id="UID-FAKE-2562">
+        <rs ana="https://topostext.org/place/380237SAna"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::198 /TEI[1]/text[1]/body[1]/p[6]::207" xml:id="UID-FAKE-2563">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::266 /TEI[1]/text[1]/body[1]/p[6]::271" xml:id="UID-FAKE-2564">
+        <rs ana="https://topostext.org/place/376227SApD"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::308 /TEI[1]/text[1]/body[1]/p[6]::317" xml:id="UID-FAKE-2565">
+        <rs ana="https://topostext.org/place/371252SEil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::42 /TEI[1]/text[1]/body[1]/p[7]::49" xml:id="UID-FAKE-2566">
+        <rs ana="https://topostext.org/place/385236PCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::113 /TEI[1]/text[1]/body[1]/p[7]::119" xml:id="UID-FAKE-2567">
+        <rs ana="https://topostext.org/place/380138PHim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::231 /TEI[1]/text[1]/body[1]/p[7]::240" xml:id="UID-FAKE-2568">
+        <rs ana="https://topostext.org/place/376216SApO"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::256 /TEI[1]/text[1]/body[1]/p[7]::262" xml:id="UID-FAKE-2569">
+        <rs ana="https://topostext.org/place/374280SHie"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::363 /TEI[1]/text[1]/body[1]/p[7]::369" xml:id="UID-FAKE-2570">
+        <rs ana="https://topostext.org/place/374280SHie"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::55 /TEI[1]/text[1]/body[1]/p[8]::64" xml:id="UID-FAKE-2571">
+        <rs ana="https://topostext.org/place/385225BDGy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::264 /TEI[1]/text[1]/body[1]/p[8]::269" xml:id="UID-FAKE-2572">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::314 /TEI[1]/text[1]/body[1]/p[8]::323" xml:id="UID-FAKE-2573">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::409 /TEI[1]/text[1]/body[1]/p[8]::415" xml:id="UID-FAKE-2574">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::420 /TEI[1]/text[1]/body[1]/p[8]::427" xml:id="UID-FAKE-2575">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::149 /TEI[1]/text[1]/body[1]/p[9]::156" xml:id="UID-FAKE-2576">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::346 /TEI[1]/text[1]/body[1]/p[9]::353" xml:id="UID-FAKE-2577">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::374 /TEI[1]/text[1]/body[1]/p[9]::383" xml:id="UID-FAKE-2578">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::395 /TEI[1]/text[1]/body[1]/p[9]::403" xml:id="UID-FAKE-2579">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::408 /TEI[1]/text[1]/body[1]/p[9]::414" xml:id="UID-FAKE-2580">
+        <rs ana="https://topostext.org/place/371153PSyr"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 22</head>
+      <p>The temple of Hera Anthea (Flowery) is on the right of the sanctuary of Leto, and before it is a grave of women. They were killed in a battle against the Argives under Perseus, having come from the Aegean islands to help Dionysus in war; for which reason they are surnamed Haliae (women of the sea). Facing the tomb of the women is a sanctuary of Demeter, surnamed Pelasgian from Pelasgus, son of Triopas, its founder, and not far from the sanctuary is the grave of Pelasgus.</p>
+      <p>Opposite the grave is a small bronze vessel supporting ancient images of Artemis, Zeus, and Athena. Now Lyceas in his poem says that the image is of Zeus Mechaneus (Contriver), and that here the Argives who set out against Troy swore to hold out in the war until they either took Troy or met their end fighting. Others have said that in the bronze vessel lie the bones of Tantalus.</p>
+      <p>Now that the Tantalus is buried here who was the son of Thyestes or Broteas (both accounts are given) and married Clytaemnestra before Agamemnon did, I will not gainsay; but the grave of him [Tantalus who legend says was son of Zeus and Plouton — it is worth seeing — is on Mount Sipylus. I know because I saw it. Moreover, no constraint came upon him to flee from Sipylus, such as afterwards forced Pelops to run away when Ilus the Phrygian launched an army against him. But I must pursue the inquiry no further. The ritual performed at the pit hard by they say was instituted by Nicostratus, a native. Even at the present day they throw into the pit burning torches in honor of Kore who is daughter of Demeter.</p>
+      <p>Here is a sanctuary of Poseidon, surnamed Prosclystius (Flooder), for they say that Poseidon inundated the greater part of the country because Inachus and his assessors decided that the land belonged to Hera and not to him. Now it was Hera who induced Poseidon to send the sea back, but the Argives made a sanctuary to Poseidon Prosclystius at the spot where the tide ebbed.</p>
+      <p>Going on a little further you see the grave of Argus, reputed to be the son of Zeus and Niobe, daughter of Phoroneus. After these comes a temple of the Dioscuri. The images represent the Dioscuri themselves and their sons, Anaxis and Mnasinous, and with them are their mothers, Hilaeira and Phoebe. They are of ebony wood, and were made by Dipoenus and Scyllis. The horses, too, are mostly of ebony, but there is a little ivory also in their construction.</p>
+      <p>Near the Lords is a sanctuary of Eilethyia, dedicated by Helen when, Theseus having gone away with Peirithous to Thesprotia, Aphidna had been captured by the Dioscuri and Helen was being brought to Lacedemon. For it is said that she was with child, was delivered in Argos, and founded there the sanctuary of Eilethyia, giving the daughter she bore to Clytaemnestra, who was already wedded to Agamemnon, while she herself subsequently married Menelaus.</p>
+      <p>And on this matter the poets Euphorion of Chalcis and Alexander of Pleuron, and even before them, Stesichorus of Himera, agree with the Argives in asserting that Iphigenia was the daughter of Theseus. Over against the sanctuary of Eilethyia is a temple of Hecate, and the image is a work of Scopas. This one is of stone, while the bronze images opposite, also of Hecate, were made respectively by Polycleitus and his brother Naucydes, son of Mothon.</p>
+      <p>As you go along a straight road to a gymnasium, called Cylarabis after the son of Sthenelus, you come to the grave of Licymnius, the son of Electryon, who, Homer says, was killed by Tleptolemus, the son of Heracles for which homicide Tleptolemus was banished from Argos. On turning a little aside from the road to Cylarabis and to the gate there, you come to the tomb of Sacadas, who was the first to play at Delphi the Pythian flute-tune;</p>
+      <p>the hostility of Apollo to flute-players, which had lasted ever since the rivalry of Marsyas the Silenus, is supposed to have stayed because of this Sacadas. In the gymnasium of Cylarabes is an Athena called Pania; they show also the graves of Sthenelus and of Cylarabes himself. Not far from the gymnasium has been built a common grave of those Argives who sailed with the Athenians to enslave Syracuse and Sicily.</p>
+    </body>
+  </text>
+</TEI>

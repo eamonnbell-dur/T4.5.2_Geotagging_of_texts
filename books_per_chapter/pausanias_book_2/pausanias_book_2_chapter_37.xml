@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::149 /TEI[1]/text[1]/body[1]/p[1]::157" xml:id="UID-FAKE-3155">
+        <rs ana="https://topostext.org/place/373223WEla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::199 /TEI[1]/text[1]/body[1]/p[1]::206" xml:id="UID-FAKE-3156">
+        <rs ana="https://topostext.org/place/370224SElD"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::238 /TEI[1]/text[1]/body[1]/p[2]::244" xml:id="UID-FAKE-3157">
+        <rs ana="https://topostext.org/place/380237SAtS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::248 /TEI[1]/text[1]/body[1]/p[2]::256" xml:id="UID-FAKE-3158">
+        <rs ana="https://topostext.org/place/376227SApD"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::279 /TEI[1]/text[1]/body[1]/p[2]::288" xml:id="UID-FAKE-3159">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::137 /TEI[1]/text[1]/body[1]/p[3]::145" xml:id="UID-FAKE-3160">
+        <rs ana="https://topostext.org/place/384215UKal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::149 /TEI[1]/text[1]/body[1]/p[3]::158" xml:id="UID-FAKE-3161">
+        <rs ana="https://topostext.org/place/385215PTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::224 /TEI[1]/text[1]/body[1]/p[3]::231" xml:id="UID-FAKE-3162">
+        <rs ana="https://topostext.org/place/365295RLyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::397 /TEI[1]/text[1]/body[1]/p[3]::402" xml:id="UID-FAKE-3163">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::452 /TEI[1]/text[1]/body[1]/p[3]::464" xml:id="UID-FAKE-3164">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::469 /TEI[1]/text[1]/body[1]/p[3]::476" xml:id="UID-FAKE-3165">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::507 /TEI[1]/text[1]/body[1]/p[3]::516" xml:id="UID-FAKE-3166">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::577 /TEI[1]/text[1]/body[1]/p[3]::584" xml:id="UID-FAKE-3167">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::605 /TEI[1]/text[1]/body[1]/p[3]::610" xml:id="UID-FAKE-3168">
+        <rs ana="https://topostext.org/place/379214XEAg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::120 /TEI[1]/text[1]/body[1]/p[4]::125" xml:id="UID-FAKE-3169">
+        <rs ana="https://topostext.org/place/373235IHyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::419 /TEI[1]/text[1]/body[1]/p[4]::426" xml:id="UID-FAKE-3170">
+        <rs ana="https://topostext.org/place/363279PKam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::541 /TEI[1]/text[1]/body[1]/p[4]::546" xml:id="UID-FAKE-3171">
+        <rs ana="https://topostext.org/place/373235IHyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::30 /TEI[1]/text[1]/body[1]/p[5]::50" xml:id="UID-FAKE-3172">
+        <rs ana="https://topostext.org/place/383233WDir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::59 /TEI[1]/text[1]/body[1]/p[5]::73" xml:id="UID-FAKE-3173">
+        <rs ana="https://topostext.org/place/381231WHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::93 /TEI[1]/text[1]/body[1]/p[5]::100" xml:id="UID-FAKE-3174">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::127 /TEI[1]/text[1]/body[1]/p[5]::132" xml:id="UID-FAKE-3175">
+        <rs ana="https://topostext.org/place/000000GHad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::247 /TEI[1]/text[1]/body[1]/p[5]::261" xml:id="UID-FAKE-3176">
+        <rs ana="https://topostext.org/place/384231WCop"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 37</head>
+      <p>At this mountain begins the grove, which consists chiefly of plane trees, and reaches down to the sea. Its boundaries are, on the one side the river Pontinus, on the other side another river, called Amymone, after the daughter of Danaus. Within the grove are statues of Demeter Prosymna and of Dionysus. Of Demeter the seated statue is of no great size.</p>
+      <p>Both are of stone, but elsewhere in a temple is a seated xoanon (wooden image) of Dionysus Saotes, and a stone statue of Aphrodite on the sea. They say that the daughters of Danaus dedicated it, while Danaus himself made the sanctuary of Athena on Pontinus. The mysteries of the Lernaeans were established, they say, by Philammon. Now the words which accompany the ritual are evidently of no antiquity</p>
+      <p>and the inscription also, which I have heard is written on the heart made of orichalcum, was shown not to be Philammon"s by Arriphon, an Aetolian of Triconium by descent, who now enjoys a reputation second to none among the Lycians; excellent at original research, he found the clue to this problem in the following way: the verses, and the prose interspersed among the verses, are all written in Doric. But before the return of the Heracleidae to the Peloponnesus the Argives spoke the same dialect as the Athenians, and in Philammon"s day I do not suppose that even the name Dorians was familiar to all Greek ears.</p>
+      <p>All this was proved in the demonstration. At the source of the Amymone grows a plane tree, beneath which, they say, the Hydra (water-snake) grew. I am ready to believe that this beast was superior in size to other water-snakes, and that its poison had something in it so deadly that Heracles treated the points of his arrows with its gall. It had, however, in my opinion, one head, and not several. It was Peisander of Camirus who, in order that the beast might appear more frightful and his poetry might be more remarkable, represented the Hydra with its many heads.</p>
+      <p>I saw also what is called the Spring of Amphiaraus and the Alcyonian Lake, through which the Argives say Dionysus went down to Hades to bring up Semele, adding that the descent here was shown him by Polymnus. There is no limit to the depth of the Alcyonian Lake, and I know of nobody who by any contrivance has been able to reach the bottom of it since not even Nero, who had ropes made several stades long and fastened them together, tying lead to them, and omitting nothing that might help his experiment, was able to discover any limit to its depth.</p>
+      <p>This, too, I heard. The water of the lake is, to all appearance, calm and quiet but, although it is such to look at, every swimmer who ventures to cross it is dragged down, sucked into the depths, and swept away. The circumference of the lake is not great, being about one-third of a stade. Upon its banks grow grass and rushes. The nocturnal rites performed every year in honor of Dionysus I must not divulge to the world at large.</p>
+    </body>
+  </text>
+</TEI>

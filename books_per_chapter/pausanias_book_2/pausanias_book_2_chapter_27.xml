@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::174 /TEI[1]/text[1]/body[1]/p[1]::179" xml:id="UID-FAKE-2759">
+        <rs ana="https://topostext.org/place/374253PDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::316 /TEI[1]/text[1]/body[1]/p[1]::322" xml:id="UID-FAKE-2760">
+        <rs ana="https://topostext.org/place/379226PTit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::55 /TEI[1]/text[1]/body[1]/p[2]::63" xml:id="UID-FAKE-2761">
+        <rs ana="https://topostext.org/place/376216SOZe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::72 /TEI[1]/text[1]/body[1]/p[2]::78" xml:id="UID-FAKE-2762">
+        <rs ana="https://topostext.org/place/380237SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::170 /TEI[1]/text[1]/body[1]/p[2]::176" xml:id="UID-FAKE-2763">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::404 /TEI[1]/text[1]/body[1]/p[2]::410" xml:id="UID-FAKE-2764">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::64 /TEI[1]/text[1]/body[1]/p[3]::70" xml:id="UID-FAKE-2765">
+        <rs ana="https://topostext.org/place/376231BTho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::288 /TEI[1]/text[1]/body[1]/p[3]::329" xml:id="UID-FAKE-2766">
+        <rs ana="https://topostext.org/place/385225BLKn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::674 /TEI[1]/text[1]/body[1]/p[3]::679" xml:id="UID-FAKE-2767">
+        <rs ana="https://topostext.org/place/385225SAPr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::109 /TEI[1]/text[1]/body[1]/p[4]::117" xml:id="UID-FAKE-2768">
+        <rs ana="https://topostext.org/place/417127UAri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::373 /TEI[1]/text[1]/body[1]/p[4]::381" xml:id="UID-FAKE-2769">
+        <rs ana="https://topostext.org/place/417127UAri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::385 /TEI[1]/text[1]/body[1]/p[4]::390" xml:id="UID-FAKE-2770">
+        <rs ana="https://topostext.org/place/417127UAri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::4 /TEI[1]/text[1]/body[1]/p[5]::15" xml:id="UID-FAKE-2771">
+        <rs ana="https://topostext.org/place/376231SAlA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::105 /TEI[1]/text[1]/body[1]/p[5]::110" xml:id="UID-FAKE-2772">
+        <rs ana="https://topostext.org/place/379229BThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::187 /TEI[1]/text[1]/body[1]/p[5]::195" xml:id="UID-FAKE-2773">
+        <rs ana="https://topostext.org/place/374221BMTh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::207 /TEI[1]/text[1]/body[1]/p[5]::218" xml:id="UID-FAKE-2774">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::529 /TEI[1]/text[1]/body[1]/p[5]::534" xml:id="UID-FAKE-2775">
+        <rs ana="https://topostext.org/place/376231BGTh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::2 /TEI[1]/text[1]/body[1]/p[6]::7" xml:id="UID-FAKE-2776">
+        <rs ana="https://topostext.org/place/376231GBtg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::205 /TEI[1]/text[1]/body[1]/p[6]::213" xml:id="UID-FAKE-2777">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::263 /TEI[1]/text[1]/body[1]/p[6]::280" xml:id="UID-FAKE-2778">
+        <rs ana="https://topostext.org/place/376231BSKo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::403 /TEI[1]/text[1]/body[1]/p[6]::414" xml:id="UID-FAKE-2779">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::20 /TEI[1]/text[1]/body[1]/p[7]::32" xml:id="UID-FAKE-2780">
+        <rs ana="https://topostext.org/place/378218LTyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::34 /TEI[1]/text[1]/body[1]/p[7]::40" xml:id="UID-FAKE-2781">
+        <rs ana="https://topostext.org/place/376225LArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::70 /TEI[1]/text[1]/body[1]/p[7]::79" xml:id="UID-FAKE-2782">
+        <rs ana="https://topostext.org/place/379211LHor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::215 /TEI[1]/text[1]/body[1]/p[7]::226" xml:id="UID-FAKE-2783">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 27</head>
+      <p>The sacred grove of Asclepius is surrounded on all sides by boundary marks. No death or birth takes place within the enclosure the same custom prevails also in the island of Delos. All the offerings, whether the offerer be one of the Epidaurians themselves or a stranger, are entirely consumed within the bounds. At Titane too, I know, there is the same rule.</p>
+      <p>The image of Asclepius is, in size, half as big as the Olympian Zeus at Athens, and is made of ivory and gold. An inscription tells us that the artist was Thrasymedes, a Parian, son of Arignotus. The god is sitting on a seat grasping a staff; the other hand he is holding above the head of the serpent; there is also a figure of a dog lying by his side. On the seat are wrought in relief the exploits of Argive heroes, that of Bellerophontes against the Chimaera, and Perseus, who has cut off the head of Medusa. Over against the temple is the place where the suppliants of the god sleep.</p>
+      <p>Near has been built a circular building of white marble, called Tholos, which is worth seeing. In it is a picture by Pausias representing Eros, who has cast aside his bow and arrows, and is carrying instead of them a lyre that he has taken up. Here there is also another work of Pausias, Drunkenness drinking out of a crystal cup. You can see even in the painting a crystal cup and a woman"s face through it. Within the enclosure stood slabs; in my time six remained, but of old there were more. On them are inscribed the names of both the men and the women who have been healed by Asclepius, the disease also from which each suffered, and the means of cure. The dialect is Doric.</p>
+      <p>Apart from the others is an old slab, which declares that Hippolytus dedicated twenty horses to the god. The Aricians tell a tale that agrees with the inscription on this slab, that when Hippolytus was killed, owing to the curses of Theseus, Asclepius raised him from the dead. On coming to life again he refused to forgive his father rejecting his prayers, he went to the Aricians in Italy. There he became king and devoted a precinct to Artemis, where down to my time the prize for the victor in single combat was the priesthood of the goddess. The contest was open to no freeman, but only to slaves who had run away from their masters.</p>
+      <p>The Epidaurians have a theater within the sanctuary, in my opinion very well worth seeing. For while the Roman theaters are far superior to those anywhere else in their splendor, and the Arcadian theater at Megalopolis is unequalled for size, what architect could seriously rival Polycleitus in symmetry and beauty? For it was Polycleitus who built both this theater and the circular building. Within the grove are a temple of Artemis, an image of Epione, a sanctuary of Aphrodite and Themis, a race-course consisting, like most Greek race-courses, of a bank of earth, and a fountain worth seeing for its roof and general splendour.</p>
+      <p>A Roman senator, Antoninus, made in our own day a bath of Asclepius and a sanctuary of the gods they call Epidotes (Bountiful. He made also a temple to Health, Asclepius, and Apollo, the last two surnamed Egyptian. He moreover restored the portico that was named the Stoa of Cotys, which, as the brick of which it was made had been unburnt, had fallen into utter ruin after it had lost its roof. As the Epidaurians about the sanctuary were in great distress, because their women had no shelter in which to be delivered and the sick breathed their last in the open, he provided a dwelling, so that these grievances also were redressed. Here at last was a place in which without sin a human being could die and a woman be delivered.</p>
+      <p>Above the grove are Mt. Titthion (Nipple) and another mountain called Cynortium; on the latter is a sanctuary of Maleatian Apollo. The sanctuary itself is an ancient one, but among the things Antoninus made for the Epidaurians are various appurtenances for the sanctuary of the Maleatian, including a reservoir into which the rain-water collects for their use.</p>
+    </body>
+  </text>
+</TEI>

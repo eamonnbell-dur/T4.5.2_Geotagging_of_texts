@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::29 /TEI[1]/text[1]/body[1]/p[1]::36" xml:id="UID-FAKE-2435">
+        <rs ana="https://topostext.org/place/377228PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::40 /TEI[1]/text[1]/body[1]/p[1]::45" xml:id="UID-FAKE-2436">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::190 /TEI[1]/text[1]/body[1]/p[1]::198" xml:id="UID-FAKE-2437">
+        <rs ana="https://topostext.org/place/372245PSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::213 /TEI[1]/text[1]/body[1]/p[1]::222" xml:id="UID-FAKE-2438">
+        <rs ana="https://topostext.org/place/380237SEpH"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::368 /TEI[1]/text[1]/body[1]/p[1]::374" xml:id="UID-FAKE-2439">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::362 /TEI[1]/text[1]/body[1]/p[2]::368" xml:id="UID-FAKE-2440">
+        <rs ana="https://topostext.org/place/376216SOPe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::475 /TEI[1]/text[1]/body[1]/p[2]::482" xml:id="UID-FAKE-2441">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::20 /TEI[1]/text[1]/body[1]/p[3]::24" xml:id="UID-FAKE-2442">
+        <rs ana="https://topostext.org/place/377227GToA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::116 /TEI[1]/text[1]/body[1]/p[3]::121" xml:id="UID-FAKE-2443">
+        <rs ana="https://topostext.org/place/403266UPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::141 /TEI[1]/text[1]/body[1]/p[3]::155" xml:id="UID-FAKE-2444">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::197 /TEI[1]/text[1]/body[1]/p[3]::204" xml:id="UID-FAKE-2445">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::408 /TEI[1]/text[1]/body[1]/p[3]::415" xml:id="UID-FAKE-2446">
+        <rs ana="https://topostext.org/place/378228WIna"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::4 /TEI[1]/text[1]/body[1]/p[4]::11" xml:id="UID-FAKE-2447">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::25 /TEI[1]/text[1]/body[1]/p[4]::31" xml:id="UID-FAKE-2448">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::28 /TEI[1]/text[1]/body[1]/p[5]::40" xml:id="UID-FAKE-2449">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::256 /TEI[1]/text[1]/body[1]/p[5]::269" xml:id="UID-FAKE-2450">
+        <rs ana="https://topostext.org/place/390212RAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::548 /TEI[1]/text[1]/body[1]/p[5]::555" xml:id="UID-FAKE-2451">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::591 /TEI[1]/text[1]/body[1]/p[5]::597" xml:id="UID-FAKE-2452">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::627 /TEI[1]/text[1]/body[1]/p[5]::634" xml:id="UID-FAKE-2453">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::32 /TEI[1]/text[1]/body[1]/p[6]::45" xml:id="UID-FAKE-2454">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::47 /TEI[1]/text[1]/body[1]/p[7]::58" xml:id="UID-FAKE-2455">
+        <rs ana="https://topostext.org/place/388224PHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::75 /TEI[1]/text[1]/body[1]/p[7]::87" xml:id="UID-FAKE-2456">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::237 /TEI[1]/text[1]/body[1]/p[7]::242" xml:id="UID-FAKE-2457">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::264 /TEI[1]/text[1]/body[1]/p[7]::269" xml:id="UID-FAKE-2458">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::325 /TEI[1]/text[1]/body[1]/p[7]::332" xml:id="UID-FAKE-2459">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::342 /TEI[1]/text[1]/body[1]/p[7]::353" xml:id="UID-FAKE-2460">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::599 /TEI[1]/text[1]/body[1]/p[7]::607" xml:id="UID-FAKE-2461">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::32 /TEI[1]/text[1]/body[1]/p[8]::41" xml:id="UID-FAKE-2462">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::46 /TEI[1]/text[1]/body[1]/p[8]::51" xml:id="UID-FAKE-2463">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::88 /TEI[1]/text[1]/body[1]/p[8]::96" xml:id="UID-FAKE-2464">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::394 /TEI[1]/text[1]/body[1]/p[8]::400" xml:id="UID-FAKE-2465">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::73 /TEI[1]/text[1]/body[1]/p[9]::81" xml:id="UID-FAKE-2466">
+        <rs ana="https://topostext.org/place/380237SKNB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::90 /TEI[1]/text[1]/body[1]/p[9]::96" xml:id="UID-FAKE-2467">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::119 /TEI[1]/text[1]/body[1]/p[9]::128" xml:id="UID-FAKE-2468">
+        <rs ana="https://topostext.org/place/381237DPai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::140 /TEI[1]/text[1]/body[1]/p[9]::152" xml:id="UID-FAKE-2469">
+        <rs ana="https://topostext.org/place/380237SAmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::283 /TEI[1]/text[1]/body[1]/p[9]::291" xml:id="UID-FAKE-2470">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 18</head>
+      <p>By the side of the road from Mycenae to Argos there is on the left hand a hero-shrine of Perseus. The neighboring folk, then, pay him honors here, but the greatest honors are paid to him in Seriphus and among the Athenians, who have a precinct sacred to Perseus and an altar of Dictys and Clymene, who are called the saviours of Perseus. Advancing a little way in the Argive territory from this hero-shrine one sees on the right the grave of Thyestes. On it is a stone ram, because Thyestes obtained the golden lamb after debauching his brother"s wife. But Atreus was not restrained by prudence from retaliating, but contrived the slaughter of the children of Thyestes and the banquet of which the poets tell us.</p>
+      <p>But as to what followed, I cannot say for certain whether Aegisthus began the sin or whether Agamemnon sinned first in murdering Tantalus, the son of Thyestes. It is said that Tantalus had received Clytaemnestra in marriage from Tyndareus when she was still a virgin. I myself do not wish to condemn them of having been wicked by nature; but if the pollution of Pelops and the avenging spirit of Myrtilus dogged their steps so long, it was after all only consistent that the Pythian priestess said to the Spartiate Glaucus, the son of EpicydesYY, who consulted her about breaking his oath, that the punishment for this also comes upon the descendants of the sinner.</p>
+      <p>A little beyond the Rams — this is the name they give to the tomb of Thyestes — there is on the left a place called Mysia and a sanctuary of Mysian Demeter, so named from a man Mysius who, say the Argives, was one of those who entertained Demeter. Now this sanctuary has no roof, but in it is another temple, built of burnt brick, and wooden images of Kore, Plouton and Demeter. Farther on is a river called Inachus, and on the other side of it an altar of Helius (the Sun). After this you will come to a gate named after the sanctuary near it. This sanctuary belongs to Eileithyia.</p>
+      <p>The Argives are the only Greeks that I know of who have been divided into three kingdoms. For in the reign of Anaxagoras, son of Argeus, son of Megapenthes, the women were smitten with madness, and straying from their homes they roamed about the country, until Melampus the son of Amythaon cured them of the plague on condition that he himself and his brother Bias had a share of the kingdom equal to that of Anaxagoras. Now descended from Bias five men, Neleids on their mother"s side, occupied the throne for four generations down to Cyanippus, son of Aegialeus, and descended from Melampus six men in six generations down to Amphilochus, son of Amphiaraus.</p>
+      <p>But the native house of the Anaxagoridae ruled longer than the other two. For Iphis, son of Alector, son of Anaxagoras, left the throne to Sthenelus, son of Capaneus his brother. After the capture of Troy, Amphilochus migrated to the people now called the Amphilochians, and, Cyanippus having died without issue, Cylarabes, son of Sthenelus, became sole king. However, he too left no offspring, and Argos was seized by Orestes, son of Agamemnon, who was a neighbor. Besides his ancestral dominion, he had extended his rule over the greater part of Arcadia and had succeeded to the throne of Sparta; he also had a contingent of Phocian allies always ready to help him.</p>
+      <p>When Orestes became king of the Lacedemonians, they themselves consented to accept him for they considered that the sons of the daughter of Tyndareus had a claim to the throne prior to that of Nicostratus and Megapenthes, who were sons of Menelaus by a slave woman. On the death of Orestes, there succeeded to the throne Tisamenus, the son of Orestes and of Hermione, the daughter of Menelaus. The mother of Penthilus, the bastard son of Orestes, was, according to the poet Cinaethon, Erigone, the daughter of Aegisthus.</p>
+      <p>It was in the reign of this Tisamenus that the Heracleidae returned to the Peloponnesus; they were Temenus and Cresphontes, the sons of Aristomachus, together with the sons of the third brother, Aristodemus, who had died. Their claim to Argos and to the throne of Argos was, in my opinion, most just, because Tisamenus was a Pelopid, but the Heracleidae were descendants of Perseus. Tyndareus himself, they made out, had been expelled by Hippocoon, and they said that Heracles, having killed Hippocoon and his sons, had given the land in trust to Tyndareus. They gave the same kind of account about Messenia also, that it had been given in trust to Nestor by Heracles after he had taken Pylus.</p>
+      <p>So they expelled Tisamenus from Lacedemon and Argos, and the descendants of Nestor from Messenia, namely Alcmaeon, son of Sillus, son of Thrasymedes, Peisistratus, son of Peisistratus, and the sons of Paeon, son of Antilochus, and with them Melanthus, son of Andropompus, son of Borus, son of Penthilus, son of Periclymenus. So Tisamenus and his sons went with his army to the land that is now Achaia.</p>
+      <p>To what people Peisistratus retreated I do not know, but the rest of the Neleidae went to Athens, and the clans of the Paeonidae and of the Alcmaeonidae were named after them. Melanthus even came to the throne, having deposed Thymoetes the son of Oxyntes; for Thymoetes was the last Athenian king descended from Theseus.</p>
+    </body>
+  </text>
+</TEI>

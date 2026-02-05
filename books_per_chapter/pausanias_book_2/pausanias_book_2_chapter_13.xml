@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::85 /TEI[1]/text[1]/body[1]/p[1]::97" xml:id="UID-FAKE-2289">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::105 /TEI[1]/text[1]/body[1]/p[1]::112" xml:id="UID-FAKE-2290">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::179 /TEI[1]/text[1]/body[1]/p[1]::185" xml:id="UID-FAKE-2291">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::286 /TEI[1]/text[1]/body[1]/p[1]::292" xml:id="UID-FAKE-2292">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::361 /TEI[1]/text[1]/body[1]/p[1]::366" xml:id="UID-FAKE-2293">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::371 /TEI[1]/text[1]/body[1]/p[1]::379" xml:id="UID-FAKE-2294">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::393 /TEI[1]/text[1]/body[1]/p[1]::403" xml:id="UID-FAKE-2295">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::555 /TEI[1]/text[1]/body[1]/p[1]::562" xml:id="UID-FAKE-2296">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::126 /TEI[1]/text[1]/body[1]/p[2]::133" xml:id="UID-FAKE-2297">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::260 /TEI[1]/text[1]/body[1]/p[2]::265" xml:id="UID-FAKE-2298">
+        <rs ana="https://topostext.org/place/377269PSam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::459 /TEI[1]/text[1]/body[1]/p[2]::469" xml:id="UID-FAKE-2299">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::501 /TEI[1]/text[1]/body[1]/p[2]::511" xml:id="UID-FAKE-2300">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::80 /TEI[1]/text[1]/body[1]/p[3]::89" xml:id="UID-FAKE-2301">
+        <rs ana="https://topostext.org/place/379214SCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::219 /TEI[1]/text[1]/body[1]/p[3]::229" xml:id="UID-FAKE-2302">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::486 /TEI[1]/text[1]/body[1]/p[3]::491" xml:id="UID-FAKE-2303">
+        <rs ana="https://topostext.org/place/379238DAix"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::588 /TEI[1]/text[1]/body[1]/p[3]::595" xml:id="UID-FAKE-2304">
+        <rs ana="https://topostext.org/place/390172SLac"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::662 /TEI[1]/text[1]/body[1]/p[3]::672" xml:id="UID-FAKE-2305">
+        <rs ana="https://topostext.org/place/373222UPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::144 /TEI[1]/text[1]/body[1]/p[4]::154" xml:id="UID-FAKE-2306">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::-1 /TEI[1]/text[1]/body[1]/p[4]::11" xml:id="UID-FAKE-2307">
+        <rs ana="https://topostext.org/place/350262UAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::415 /TEI[1]/text[1]/body[1]/p[4]::421" xml:id="UID-FAKE-2308">
+        <rs ana="https://topostext.org/place/371252QLyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::155 /TEI[1]/text[1]/body[1]/p[6]::165" xml:id="UID-FAKE-2309">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::324 /TEI[1]/text[1]/body[1]/p[6]::334" xml:id="UID-FAKE-2310">
+        <rs ana="https://topostext.org/place/373222UPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::41 /TEI[1]/text[1]/body[1]/p[7]::51" xml:id="UID-FAKE-2311">
+        <rs ana="https://topostext.org/place/373222UPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::61 /TEI[1]/text[1]/body[1]/p[7]::80" xml:id="UID-FAKE-2312">
+        <rs ana="https://topostext.org/place/383238SAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::157 /TEI[1]/text[1]/body[1]/p[7]::167" xml:id="UID-FAKE-2313">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::361 /TEI[1]/text[1]/body[1]/p[7]::369" xml:id="UID-FAKE-2314">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::371 /TEI[1]/text[1]/body[1]/p[7]::376" xml:id="UID-FAKE-2315">
+        <rs ana="https://topostext.org/place/419125AOmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::401 /TEI[1]/text[1]/body[1]/p[7]::413" xml:id="UID-FAKE-2316">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::469 /TEI[1]/text[1]/body[1]/p[7]::477" xml:id="UID-FAKE-2317">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::4 /TEI[1]/text[1]/body[1]/p[8]::14" xml:id="UID-FAKE-2318">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::81 /TEI[1]/text[1]/body[1]/p[8]::86" xml:id="UID-FAKE-2319">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::115 /TEI[1]/text[1]/body[1]/p[8]::125" xml:id="UID-FAKE-2320">
+        <rs ana="https://topostext.org/place/376218GSau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::241 /TEI[1]/text[1]/body[1]/p[8]::248" xml:id="UID-FAKE-2321">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::646 /TEI[1]/text[1]/body[1]/p[8]::656" xml:id="UID-FAKE-2322">
+        <rs ana="https://topostext.org/place/381217PPha"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 13</head>
+      <p>On the return of the Heracleidae disturbances took place throughout the whole of the Peloponnesus except Arcadia, so that many of the cities received additional settlers from the Dorian race, and their inhabitants suffered yet more revolutions. The history of Phlius is as follows. The Dorian Rhegnidas, the son of Phalces, the son of Temenus, attacked it from Argos and Sicyonia. Some of the Phliasians were inclined to accept the offer of Rhegnidas, which was that they should remain on their own estates and receive Rhegnidas as their king, giving the Dorians with him a share in the land.</p>
+      <p>Hippasus and his party, on the other hand, urged the citizens to defend themselves, and not to give up many advantages to the Dorians without striking a blow. The people, however, accepted the opposite policy, and so Hippasus and any others who wished fled to Samos. Great-grandson of this Hippasus was Pythagoras, the celebrated sage. For Pythagoras was the son of Mnesarchus, the son of Euphron [or Euphranor?], the son of Hippasus. This is the account the Phliasians give about themselves, and the Sicyonians in general agree with them.</p>
+      <p>I will now add an account of the most remarkable of their famous sights. On the Phliasian acropolis is a grove of cypress trees and a sanctuary which from ancient times has been held to be peculiarly holy. The earliest Phliasians named the goddess to whom the sanctuary belongs Ganymeda; but later authorities call her Hebe, whom Homer mentions in the duel between Menelaus and Alexander, saying that she was the cup-bearer of the gods; and again he says, in the descent of Odysseus to Hades, that she was the wife of Heracles. Olen, in his hymn to Hera, says that Hera was reared by the Seasons, and that her children were Ares and Hebe. Of the honors that the Phliasians pay to this goddess the greatest is the pardoning of suppliants.</p>
+      <p>All those who seek sanctuary here receive full forgiveness, and prisoners, when set free, dedicate their fetters on the trees in the grove. The Phliasians also celebrate a yearly festival which they call Ivy-cutters. There is no image, either kept in secret or openly displayed, and the reason for this is set forth in a sacred legend of theirs though on the left as you go out is a temple of Hera with an image of Parian marble.</p>
+      <p>On the acropolis is another enclosure, which is sacred to Demeter, and in it are a temple and statue of Demeter and her daughter. Here there is also a bronze statue of Artemis, which appeared to me to be ancient. As you go down from the acropolis you see on the right a temple of Asclepius with an image of the god as a beardless youth. Below this temple is built a theater. Not far from it is a sanctuary of Demeter and old, seated images.</p>
+      <p>On the agora is a votive offering, a bronze she-goat for the most part covered with gold. The following is the reason why it has received honors among the Phliasians. The constellation which they call the Goat on its rising causes continual damage to the vines. In order that they may suffer nothing unpleasant from it, the Phliasians pay honors to the bronze goat on the agora and adorn the image with gold. Here also is the tomb of Aristias, the son of Pratinas. This Aristias and his father Pratinas composed satyric plays more popular than any save those of Aeschylus.</p>
+      <p>Behind the agora is a building which the Phliasians name the House of Divination. Into it Amphiaraus entered, slept the night there, and then first, say the Phliasians, began to divine. According to their account Amphiaraus was for a time an ordinary person and no diviner. Ever since that time the building has been shut up. Not far away is what is called the Omphalos (Navel), the center of all the Peloponnesus, if they speak the truth about it. Farther on from the Omphalos they have an old sanctuary of Dionysus, a sanctuary of Apollo, and one of Isis. The image of Dionysus is visible to all, and so also is that of Apollo, but the image of Isis only the priests may behold.</p>
+      <p>The Phliasians tell also the following legend. When Heracles came back safe from Libya, bringing the apples of the Hesperides, as they were called, he visited Phlius on some private matter. While he was staying there Oeneus came to him from Aetolia. He had already allied himself to the family of Heracles, and after his arrival on this occasion either he entertained Heracles or Heracles entertained him. Be this as it may, displeased with the drink given him Heracles struck on the head with one of his fingers the boy Cyathus, the cup-bearer of Oeneus, who died on the spot from the blow. A chapel keeps the memory of the deed fresh among the Phliasians; it is built by the side of the sanctuary of Apollo, and it contains statues made of stone representing Cyathus holding out a cup to Heracles.</p>
+    </body>
+  </text>
+</TEI>

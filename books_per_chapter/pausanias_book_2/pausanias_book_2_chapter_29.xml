@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::53 /TEI[1]/text[1]/body[1]/p[1]::62" xml:id="UID-FAKE-2807">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::243 /TEI[1]/text[1]/body[1]/p[1]::249" xml:id="UID-FAKE-2808">
+        <rs ana="https://topostext.org/place/371252QLyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::4 /TEI[1]/text[1]/body[1]/p[2]::14" xml:id="UID-FAKE-2809">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::48 /TEI[1]/text[1]/body[1]/p[2]::57" xml:id="UID-FAKE-2810">
+        <rs ana="https://topostext.org/place/376229FADe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::219 /TEI[1]/text[1]/body[1]/p[2]::225" xml:id="UID-FAKE-2811">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::229 /TEI[1]/text[1]/body[1]/p[2]::235" xml:id="UID-FAKE-2812">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::590 /TEI[1]/text[1]/body[1]/p[2]::599" xml:id="UID-FAKE-2813">
+        <rs ana="https://topostext.org/place/385226LPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::632 /TEI[1]/text[1]/body[1]/p[2]::638" xml:id="UID-FAKE-2814">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::182 /TEI[1]/text[1]/body[1]/p[3]::190" xml:id="UID-FAKE-2815">
+        <rs ana="https://topostext.org/place/386227UTit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::195 /TEI[1]/text[1]/body[1]/p[3]::204" xml:id="UID-FAKE-2816">
+        <rs ana="https://topostext.org/place/385226LPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::216 /TEI[1]/text[1]/body[1]/p[3]::222" xml:id="UID-FAKE-2817">
+        <rs ana="https://topostext.org/place/386227RPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::297 /TEI[1]/text[1]/body[1]/p[3]::303" xml:id="UID-FAKE-2818">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::307 /TEI[1]/text[1]/body[1]/p[3]::317" xml:id="UID-FAKE-2819">
+        <rs ana="https://topostext.org/place/385230POrc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::321 /TEI[1]/text[1]/body[1]/p[3]::329" xml:id="UID-FAKE-2820">
+        <rs ana="https://topostext.org/place/384222ROzo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::340 /TEI[1]/text[1]/body[1]/p[3]::345" xml:id="UID-FAKE-2821">
+        <rs ana="https://topostext.org/place/384222ROzo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::32 /TEI[1]/text[1]/body[1]/p[4]::39" xml:id="UID-FAKE-2822">
+        <rs ana="https://topostext.org/place/395205REpe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::189 /TEI[1]/text[1]/body[1]/p[4]::198" xml:id="UID-FAKE-2823">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::202 /TEI[1]/text[1]/body[1]/p[4]::210" xml:id="UID-FAKE-2824">
+        <rs ana="https://topostext.org/place/381241LMaB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::322 /TEI[1]/text[1]/body[1]/p[4]::328" xml:id="UID-FAKE-2825">
+        <rs ana="https://topostext.org/place/350330RCyp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::488 /TEI[1]/text[1]/body[1]/p[4]::504" xml:id="UID-FAKE-2826">
+        <rs ana="https://topostext.org/place/399262UAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::31 /TEI[1]/text[1]/body[1]/p[5]::38" xml:id="UID-FAKE-2827">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::73 /TEI[1]/text[1]/body[1]/p[5]::82" xml:id="UID-FAKE-2828">
+        <rs ana="https://topostext.org/place/376232PEpi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::95 /TEI[1]/text[1]/body[1]/p[5]::101" xml:id="UID-FAKE-2829">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::131 /TEI[1]/text[1]/body[1]/p[5]::141" xml:id="UID-FAKE-2830">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::169 /TEI[1]/text[1]/body[1]/p[5]::175" xml:id="UID-FAKE-2831">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::192 /TEI[1]/text[1]/body[1]/p[5]::198" xml:id="UID-FAKE-2832">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::221 /TEI[1]/text[1]/body[1]/p[5]::231" xml:id="UID-FAKE-2833">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::296 /TEI[1]/text[1]/body[1]/p[5]::302" xml:id="UID-FAKE-2834">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::315 /TEI[1]/text[1]/body[1]/p[5]::322" xml:id="UID-FAKE-2835">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::369 /TEI[1]/text[1]/body[1]/p[5]::375" xml:id="UID-FAKE-2836">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::459 /TEI[1]/text[1]/body[1]/p[5]::468" xml:id="UID-FAKE-2837">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::498 /TEI[1]/text[1]/body[1]/p[5]::504" xml:id="UID-FAKE-2838">
+        <rs ana="https://topostext.org/place/374227PThy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::509 /TEI[1]/text[1]/body[1]/p[5]::516" xml:id="UID-FAKE-2839">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::528 /TEI[1]/text[1]/body[1]/p[5]::541" xml:id="UID-FAKE-2840">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::602 /TEI[1]/text[1]/body[1]/p[5]::610" xml:id="UID-FAKE-2841">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::641 /TEI[1]/text[1]/body[1]/p[5]::651" xml:id="UID-FAKE-2842">
+        <rs ana="https://topostext.org/place/402264WHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::7 /TEI[1]/text[1]/body[1]/p[6]::12" xml:id="UID-FAKE-2843">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::22 /TEI[1]/text[1]/body[1]/p[6]::28" xml:id="UID-FAKE-2844">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::416 /TEI[1]/text[1]/body[1]/p[6]::432" xml:id="UID-FAKE-2845">
+        <rs ana="https://topostext.org/place/380237SAia"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::58 /TEI[1]/text[1]/body[1]/p[7]::64" xml:id="UID-FAKE-2846">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::132 /TEI[1]/text[1]/body[1]/p[7]::142" xml:id="UID-FAKE-2847">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::179 /TEI[1]/text[1]/body[1]/p[7]::185" xml:id="UID-FAKE-2848">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::232 /TEI[1]/text[1]/body[1]/p[7]::238" xml:id="UID-FAKE-2849">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::275 /TEI[1]/text[1]/body[1]/p[7]::282" xml:id="UID-FAKE-2850">
+        <rs ana="https://topostext.org/place/379230LIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::293 /TEI[1]/text[1]/body[1]/p[7]::305" xml:id="UID-FAKE-2851">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::420 /TEI[1]/text[1]/body[1]/p[7]::427" xml:id="UID-FAKE-2852">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::117 /TEI[1]/text[1]/body[1]/p[8]::123" xml:id="UID-FAKE-2853">
+        <rs ana="https://topostext.org/place/377235SPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::173 /TEI[1]/text[1]/body[1]/p[8]::183" xml:id="UID-FAKE-2854">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::457 /TEI[1]/text[1]/body[1]/p[9]::463" xml:id="UID-FAKE-2855">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::55 /TEI[1]/text[1]/body[1]/p[10]::61" xml:id="UID-FAKE-2856">
+        <rs ana="https://topostext.org/place/398261ITen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::368 /TEI[1]/text[1]/body[1]/p[10]::374" xml:id="UID-FAKE-2857">
+        <rs ana="https://topostext.org/place/379234HKry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::578 /TEI[1]/text[1]/body[1]/p[10]::585" xml:id="UID-FAKE-2858">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::17 /TEI[1]/text[1]/body[1]/p[11]::30" xml:id="UID-FAKE-2859">
+        <rs ana="https://topostext.org/place/379234HKry"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::91 /TEI[1]/text[1]/body[1]/p[11]::100" xml:id="UID-FAKE-2860">
+        <rs ana="https://topostext.org/place/376231BGTh"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 29</head>
+      <p>The most noteworthy things which I found the city of Epidaurus itself had to show are these. There is, of course, a precinct of Asclepius, with images of the god himself and of Epione. Epione, they say, was the wife of Asclepius. These are of Parian marble, and are set up in the open. There is also in the city a temple of Dionysus and one of Artemis. The figure of Artemis one might take to be the goddess hunting. There is also a sanctuary of Aphrodite, while the one at the harbor, on a height that juts out into the sea, they say is Hera"s. The Athena on the acropolis, a xoanon worth seeing, they surname Cissaea (ivy goddess).</p>
+      <p>The Aeginetans dwell in the island over against Epidauria. It is said that in the beginning there were no men in it; but after Zeus brought to it, when uninhabited, Aegina, daughter of Asopus, its name was changed from Oenone to Aegina; and when Aeacus, on growing up, asked Zeus for settlers, the god, they say, raised up the inhabitants out of the earth. They can mention no king of the island except Aeacus, since we know of none even of the sons of Aeacus who stayed there; for to Peleus and Telamon befell exile for the murder of Phocus, while the sons of Phocus made their home about Parnassus, in the land that is now called Phocis.</p>
+      <p>This name had already been given to the land, at the time when Phocus, son of Ornytion, came to it a generation previously. In the time, then, of this Phocus only the district about Tithorea and Parnassus was called Phocis, but in the time of Aeacus the name spread to all from the borders of the Minyae at Orchomenos to Scarphea among the Locri.</p>
+      <p>From Peleus sprang the kings in Epeirus; but as for the sons of Telamon, the family of Ajax is undistinguished, because he was a man who lived a private life; though Miltiades, who led the Athenians to Marathon, and Cimon, the son of Miltiades, achieved renown; but the family of Teucer continued to be the royal house in Cyprus down to the time of Evagoras. Asius the epic poet says that to Phocus were born Panopeus and Crisus. To Panopeus was born Epeus, who made, according to Homer, the Wooden Horse; and the grandson of Crisus was Pylades, whose father was Strophius, son of Crisus, while his mother was Anaxibia, sister of Agamemnon. Such was the pedigree of the Aeacidae (family of. Aeacus), as they are called, but they departed from the beginning to other lands.</p>
+      <p>Subsequently a division of the Argives who, under Deiphontes, had seized Epidaurus, crossed to Aegina, and, settling among the old Aeginetans, established in the island Dorian manners and the Dorian dialect. Although the Aeginetans rose to great power, so that their navy was superior to that of Athens, and in the Persian war supplied more ships than any state except Athens, yet their prosperity was not permanent but when the island was depopulated by the Athenians, they took up their abode at Thyrea, in Argolis, which the Lacedemonians gave them to dwell in. They recovered their island when the Athenian warships were captured in the Hellespont, yet it was never given them to rise again to their old wealth or power.</p>
+      <p>Of the Greek islands, Aegina is the most difficult of access, for it is surrounded by sunken rocks and reefs which rise up. The story is that Aeacus devised this feature of set purpose, because he feared piratical raids by sea, and wished the approach to be perilous to enemies. Near the harbor in which vessels mostly anchor is a temple of Aphrodite, and in the most conspicuous part of the city what is called the shrine of Aeacus, a quadrangular enclosure of white marble.</p>
+      <p>Wrought in relief at the entrance are the envoys whom the Greeks once dispatched to Aeacus. The reason for the embassy given by the Aeginetans is the same as that which the other Greeks assign. A drought had for some time afflicted Greece, and no rain fell either beyond the Isthmus or in the Peloponnesus, until at last they sent envoys to Delphi to ask what was the cause and to beg for deliverance from the evil. The Pythian priestess bade them propitiate Zeus, saying that he would not listen to them unless the one to supplicate him were Aeacus.</p>
+      <p>And so envoys came with a request to Aeacus from each city. By sacrifice and prayer to Zeus Panhellenios (of all the Greeks), he caused rain to fall upon the earth, and the Aeginetans made these likenesses of those who came to him. Within the enclosure are olive trees that have grown there from of old, and there is an altar which is raised but a little from the ground. That this altar is also the tomb of Aeacus is told as a holy secret.</p>
+      <p>Beside the shrine of Aeacus is the grave of Phocus, a barrow surrounded by a basement, and on it lies a rough stone. When Telamon and Peleus had induced Phocus to compete at the pentathlon, and it was now the turn of Peleus to hurl the stone, which they were using for a quoit, he intentionally hit Phocus. The act was done to please their mother; for, while they were both born of the daughter of Sciron, Phocus was not, being, if indeed the report of the Greeks be true, the son of a sister of Thetis. I believe it was for this reason, and not only out of friendship for Orestes, that Pylades plotted the murder of Neoptolemus.</p>
+      <p>When this blow of the quoit killed Phocus, the sons of Endeis boarded a ship and fled. Afterwards Telamon sent a herald denying that he had plotted the death of Phocus. Aeacus, however, refused to allow him to land on the island, and bade him make his defence standing on board ship, or if he wished, from a mole raised in the sea. So he sailed into the harbor called Secret, and proceeded to make a mole by night. This was finished, and still remains at the present day. But Telamon, being condemned as implicated in the murder of Phocus, sailed away a second time and came to Salamis.</p>
+      <p>Not far from the Secret Harbor is a theater worth seeing; it is very similar to the one at Epidaurus, both in size and in style. Behind it is built one side of a race-course, which not only itself holds up the theater, but also in turn uses it as a support.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::231 /TEI[1]/text[1]/body[1]/p[1]::236" xml:id="UID-FAKE-2381">
+        <rs ana="https://topostext.org/place/271307REgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::298 /TEI[1]/text[1]/body[1]/p[1]::304" xml:id="UID-FAKE-2382">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::415 /TEI[1]/text[1]/body[1]/p[1]::420" xml:id="UID-FAKE-2383">
+        <rs ana="https://topostext.org/place/271307REgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::116 /TEI[1]/text[1]/body[1]/p[2]::121" xml:id="UID-FAKE-2384">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::149 /TEI[1]/text[1]/body[1]/p[2]::156" xml:id="UID-FAKE-2385">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::158 /TEI[1]/text[1]/body[1]/p[2]::163" xml:id="UID-FAKE-2386">
+        <rs ana="https://topostext.org/place/376229UMid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::165 /TEI[1]/text[1]/body[1]/p[2]::171" xml:id="UID-FAKE-2387">
+        <rs ana="https://topostext.org/place/376228PTir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::181 /TEI[1]/text[1]/body[1]/p[2]::193" xml:id="UID-FAKE-2388">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::240 /TEI[1]/text[1]/body[1]/p[2]::246" xml:id="UID-FAKE-2389">
+        <rs ana="https://topostext.org/place/376228PTir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::393 /TEI[1]/text[1]/body[1]/p[2]::399" xml:id="UID-FAKE-2390">
+        <rs ana="https://topostext.org/place/396224PLar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::407 /TEI[1]/text[1]/body[1]/p[2]::413" xml:id="UID-FAKE-2391">
+        <rs ana="https://topostext.org/place/399227WPen"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::540 /TEI[1]/text[1]/body[1]/p[2]::546" xml:id="UID-FAKE-2392">
+        <rs ana="https://topostext.org/place/396224PLar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::221 /TEI[1]/text[1]/body[1]/p[3]::226" xml:id="UID-FAKE-2393">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::353 /TEI[1]/text[1]/body[1]/p[3]::360" xml:id="UID-FAKE-2394">
+        <rs ana="https://topostext.org/place/377228PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::680 /TEI[1]/text[1]/body[1]/p[3]::687" xml:id="UID-FAKE-2395">
+        <rs ana="https://topostext.org/place/377228PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::13 /TEI[1]/text[1]/body[1]/p[4]::20" xml:id="UID-FAKE-2396">
+        <rs ana="https://topostext.org/place/377228PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::217 /TEI[1]/text[1]/body[1]/p[4]::223" xml:id="UID-FAKE-2397">
+        <rs ana="https://topostext.org/place/377228PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::229 /TEI[1]/text[1]/body[1]/p[4]::244" xml:id="UID-FAKE-2398">
+        <rs ana="https://topostext.org/place/377228PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::448 /TEI[1]/text[1]/body[1]/p[4]::461" xml:id="UID-FAKE-2399">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::506 /TEI[1]/text[1]/body[1]/p[4]::519" xml:id="UID-FAKE-2400">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::528 /TEI[1]/text[1]/body[1]/p[4]::535" xml:id="UID-FAKE-2401">
+        <rs ana="https://topostext.org/place/370224UAmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::33 /TEI[1]/text[1]/body[1]/p[5]::40" xml:id="UID-FAKE-2402">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::84 /TEI[1]/text[1]/body[1]/p[5]::91" xml:id="UID-FAKE-2403">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::105 /TEI[1]/text[1]/body[1]/p[5]::112" xml:id="UID-FAKE-2404">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::135 /TEI[1]/text[1]/body[1]/p[5]::145" xml:id="UID-FAKE-2405">
+        <rs ana="https://topostext.org/place/377228PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::165 /TEI[1]/text[1]/body[1]/p[5]::176" xml:id="UID-FAKE-2406">
+        <rs ana="https://topostext.org/place/388225FThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::214 /TEI[1]/text[1]/body[1]/p[5]::227" xml:id="UID-FAKE-2407">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::303 /TEI[1]/text[1]/body[1]/p[5]::310" xml:id="UID-FAKE-2408">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::452 /TEI[1]/text[1]/body[1]/p[5]::460" xml:id="UID-FAKE-2409">
+        <rs ana="https://topostext.org/place/377228BMMB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::495 /TEI[1]/text[1]/body[1]/p[5]::501" xml:id="UID-FAKE-2410">
+        <rs ana="https://topostext.org/place/376228PTir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::16 /TEI[1]/text[1]/body[1]/p[6]::23" xml:id="UID-FAKE-2411">
+        <rs ana="https://topostext.org/place/377228PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::45 /TEI[1]/text[1]/body[1]/p[6]::53" xml:id="UID-FAKE-2412">
+        <rs ana="https://topostext.org/place/377227GToA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::249 /TEI[1]/text[1]/body[1]/p[6]::253" xml:id="UID-FAKE-2413">
+        <rs ana="https://topostext.org/place/400262UIli"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::372 /TEI[1]/text[1]/body[1]/p[6]::385" xml:id="UID-FAKE-2414">
+        <rs ana="https://topostext.org/place/370224UAmy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::403 /TEI[1]/text[1]/body[1]/p[6]::410" xml:id="UID-FAKE-2415">
+        <rs ana="https://topostext.org/place/370224UAmy"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 16</head>
+      <p>Argus, the grandson of Phoroneus, succeeding to the throne after Phoroneus, gave his name to the land. Argus begat Peirasus and Phorbas, Phorbas begat Triopas, and Triopas begat Iasus and Agenor. Io, the daughter of Iasus, went to Egypt, whether the circumstances be as Herodotus records or as the Greeks say. After Iasus, Crotopus, the son of Agenor, came to the throne and begat Sthenelas, but Danaus sailed from Egypt against Gelanor, the son of Sthenelas, and stayed the succession to the kingdom of the descendants of Agenor. What followed is known to all alike: the crime the daughters of Danaus committed against their cousins, and how, on the death of Danaus, Lynceus succeeded him.</p>
+      <p>But the sons of Abas, the son of Lynceus, divided the kingdom between themselves; Acrisius remained where he was at Argos, and Proetus took over the Heraeum, Midea, Tiryns, and the Argive coast region. Traces of the residence of Proetus in Tiryns remain to the present day. Afterwards Acrisius, learning that Perseus himself was not only alive but accomplishing great achievements, retired to Larisa on the Peneus. And Perseus, wishing at all costs to see the father of his mother and to greet him with fair words and deeds, visited him at Larisa. Being in the prime of life and proud of his inventing the quoit, he gave displays before all, and Acrisius, as luck would have it, stepped unnoticed into the path of the quoit.</p>
+      <p>So the prediction of the god to Acrisius found its fulfillment, nor was his fate prevented by his precautions against his daughter and grandson. Perseus, ashamed because of the gossip about the homicide, on his return to Argos induced Megapenthes, the son of Proetus, to make an exchange of kingdoms; taking over himself that of Megapenthes, he founded Mycenae. For on its site the cap (myces) fell from his scabbard, and he regarded this as a sign to found a city. I have also heard the following account. He was thirsty, and the thought occurred to him to pick up a mushroom (myces) from the ground. Drinking with joy water that flowed from it, he gave to the place the name of Mycenae.</p>
+      <p>Homer in the Odyssey mentions a woman Mycene in the following verse: “Tyro and Alcmene and the fair-crowned lady Mycene.” She is said to have been the daughter of Inachus and the wife of Arestor in the poem which the Greeks call the Great Eoeae. So they say that this lady has given her name to the city. But the account which is attributed to Acusilaus, that Myceneus was the son of Sparton, and Sparton of Phoroneus, I cannot accept, because the Lacedemonians themselves do not accept it either. For the Lacedemonians have at Amyclae a portrait statue of a woman named Sparte, but they would be amazed at the mere mention of a Sparton, son of Phoroneus.</p>
+      <p>It was jealousy which caused the Argives to destroy Mycenae. For at the time of the Persian invasion the Argives made no move, but the Mycenaeans sent eighty men to Thermopylae who shared in the achievement of the Lacedemonians. This eagerness for distinction brought ruin upon them by exasperating the Argives. There still remain, however, parts of the city wall, including the gate, upon which stand lions. These, too, are said to be the work of the Cyclopes, who made for Proetus the wall at Tiryns.</p>
+      <p>In the ruins of Mycenae is a fountain called PerseaYY; there are also underground chambers of Atreus and his children, in which were stored their treasures. There is the grave of Atreus, along with the graves of such as returned with Agamemnon from Troy, and were murdered by Aegisthus after he had given them a banquet. As for the tomb of Cassandra, it is claimed by the Lacedemonians who dwell around Amyclae. Agamemnon has his tomb, and so has Eurymedon the charioteer, while another is shared by Teledamus and Pelops, twin sons, they say, of Cassandra,</p>
+      <p>whom while yet babies Aegisthus slew after their parents. Electra has her tomb, for Orestes married her to Pylades. Hellanicus adds that the children of Pylades by Electra were Medon and Strophius. Clytemnestra and Aegisthus were buried at some little distance from the wall. They were thought unworthy of a place within it, where lay Agamemnon himself and those who were murdered with him.</p>
+    </body>
+  </text>
+</TEI>

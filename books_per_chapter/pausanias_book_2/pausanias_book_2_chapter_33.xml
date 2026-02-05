@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::4 /TEI[1]/text[1]/body[1]/p[1]::15" xml:id="UID-FAKE-2993">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::140 /TEI[1]/text[1]/body[1]/p[1]::148" xml:id="UID-FAKE-2994">
+        <rs ana="https://topostext.org/place/375235ISph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::178 /TEI[1]/text[1]/body[1]/p[1]::191" xml:id="UID-FAKE-2995">
+        <rs ana="https://topostext.org/place/375235ISph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::573 /TEI[1]/text[1]/body[1]/p[1]::581" xml:id="UID-FAKE-2996">
+        <rs ana="https://topostext.org/place/375235ISph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::585 /TEI[1]/text[1]/body[1]/p[1]::598" xml:id="UID-FAKE-2997">
+        <rs ana="https://topostext.org/place/375235ISph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::638 /TEI[1]/text[1]/body[1]/p[1]::648" xml:id="UID-FAKE-2998">
+        <rs ana="https://topostext.org/place/375235ISph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::0 /TEI[1]/text[1]/body[1]/p[2]::8" xml:id="UID-FAKE-2999">
+        <rs ana="https://topostext.org/place/371252SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::246 /TEI[1]/text[1]/body[1]/p[2]::251" xml:id="UID-FAKE-3000">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::272 /TEI[1]/text[1]/body[1]/p[2]::280" xml:id="UID-FAKE-3001">
+        <rs ana="https://topostext.org/place/364225STai"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::591 /TEI[1]/text[1]/body[1]/p[3]::595" xml:id="UID-FAKE-3002">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::109 /TEI[1]/text[1]/body[1]/p[4]::115" xml:id="UID-FAKE-3003">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::147 /TEI[1]/text[1]/body[1]/p[4]::152" xml:id="UID-FAKE-3004">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::276 /TEI[1]/text[1]/body[1]/p[4]::286" xml:id="UID-FAKE-3005">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::321 /TEI[1]/text[1]/body[1]/p[4]::327" xml:id="UID-FAKE-3006">
+        <rs ana="https://topostext.org/place/364282SRho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::351 /TEI[1]/text[1]/body[1]/p[4]::361" xml:id="UID-FAKE-3007">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::415 /TEI[1]/text[1]/body[1]/p[4]::424" xml:id="UID-FAKE-3008">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::637 /TEI[1]/text[1]/body[1]/p[4]::643" xml:id="UID-FAKE-3009">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::302 /TEI[1]/text[1]/body[1]/p[5]::308" xml:id="UID-FAKE-3010">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::344 /TEI[1]/text[1]/body[1]/p[5]::352" xml:id="UID-FAKE-3011">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 33</head>
+      <p>The Troezenians possess islands, one of which is near the mainland, and it is possible to wade across the channel. This was formerly called Sphaeria, but its name was changed to Sacred Island for the following reason. In it is the tomb of Sphaerus, who, they say, was charioteer to Pelops. In obedience forsooth to a dream from Athena, Aethra crossed over into the island with libations for Sphaerus. After she had crossed, Poseidon is said to have had intercourse with her here. So for this reason Aethra set up here a temple of Athena Apaturia, and changed the name from Sphaeria to Sacred Island. She also established a custom for the Troezenian maidens of dedicating their girdles before wedlock to Athena Apaturia.</p>
+      <p>Calaurea, they say, was sacred to Apollo of old, at the time when Delphi was sacred to Poseidon. Legend adds that the two gods exchanged the two places. They still say this, and quote an oracle: “Delos and Calaurea alike thou lovest to dwell in, Pytho, too, the holy, and Taenarum swept by the high winds.” At any rate, there is a holy sanctuary of Poseidon here, and it is served by a maiden priestess until she reaches an age fit for marriage.</p>
+      <p>Within the enclosure is also the tomb of Demosthenes. His fate, and that of Homer before him, have, in my opinion, showed most plainly how spiteful the deity is; for Homer, after losing his sight, was, in addition to this great affliction, cursed with a second — a poverty which drove him in beggary to every land; while to Demosthenes it befell to experience exile in his old age and to meet with such a violent end. Now, although concerning him, not only others, but Demosthenes himself, have again and again declared that assuredly he took no part of the money that Harpalus brought from Asia,</p>
+      <p>yet I must relate the circumstances of the statement made subsequently. Shortly after Harpalus ran away from Athens and crossed with a squadron to Crete, he was put to death by the servants who were attending him, though some assert that he was assassinated by PausaniasYY, a Macedonian. The steward of his money fled to Rhodes, and was arrested by a Macedonian, Philoxenus, who also had demanded Harpalus from the Athenians. Having this slave in his power, he proceeded to examine him, until he learned everything about such as had allowed themselves to accept a bribe from Harpalus. On obtaining this information he sent a dispatch to Athens,</p>
+      <p>in which he gave a list of such as had taken a bribe from Harpalus, both their names and the sums each had received. Demosthenes, however, he never mentioned at all, although Alexander held him in bitter hatred, and he himself had a private quarrel with him. So Demosthenes is honored in many parts of Greece, and especially by the dwellers in Calaurea.</p>
+    </body>
+  </text>
+</TEI>

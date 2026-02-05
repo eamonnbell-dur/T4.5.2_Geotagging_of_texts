@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::184 /TEI[1]/text[1]/body[1]/p[1]::191" xml:id="UID-FAKE-2202">
+        <rs ana="https://topostext.org/place/369273SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::392 /TEI[1]/text[1]/body[1]/p[1]::401" xml:id="UID-FAKE-2203">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::602 /TEI[1]/text[1]/body[1]/p[1]::612" xml:id="UID-FAKE-2204">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::860 /TEI[1]/text[1]/body[1]/p[1]::868" xml:id="UID-FAKE-2205">
+        <rs ana="https://topostext.org/place/375275PHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::258 /TEI[1]/text[1]/body[1]/p[2]::265" xml:id="UID-FAKE-2206">
+        <rs ana="https://topostext.org/place/380237SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::175 /TEI[1]/text[1]/body[1]/p[3]::185" xml:id="UID-FAKE-2207">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::353 /TEI[1]/text[1]/body[1]/p[3]::359" xml:id="UID-FAKE-2208">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::199 /TEI[1]/text[1]/body[1]/p[4]::209" xml:id="UID-FAKE-2209">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::235 /TEI[1]/text[1]/body[1]/p[4]::245" xml:id="UID-FAKE-2210">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::-1 /TEI[1]/text[1]/body[1]/p[4]::12" xml:id="UID-FAKE-2211">
+        <rs ana="https://topostext.org/place/376231GBtg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::44 /TEI[1]/text[1]/body[1]/p[5]::53" xml:id="UID-FAKE-2212">
+        <rs ana="https://topostext.org/place/380227SSAp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::87 /TEI[1]/text[1]/body[1]/p[5]::93" xml:id="UID-FAKE-2213">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::97 /TEI[1]/text[1]/body[1]/p[5]::103" xml:id="UID-FAKE-2214">
+        <rs ana="https://topostext.org/place/374273SDid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::111 /TEI[1]/text[1]/body[1]/p[5]::120" xml:id="UID-FAKE-2215">
+        <rs ana="https://topostext.org/place/375273PMil"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::130 /TEI[1]/text[1]/body[1]/p[5]::138" xml:id="UID-FAKE-2216">
+        <rs ana="https://topostext.org/place/383233SIsm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::139 /TEI[1]/text[1]/body[1]/p[5]::145" xml:id="UID-FAKE-2217">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::154 /TEI[1]/text[1]/body[1]/p[5]::161" xml:id="UID-FAKE-2218">
+        <rs ana="https://topostext.org/place/383233SIsm"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::88 /TEI[1]/text[1]/body[1]/p[6]::96" xml:id="UID-FAKE-2219">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::73 /TEI[1]/text[1]/body[1]/p[7]::88" xml:id="UID-FAKE-2220">
+        <rs ana="https://topostext.org/place/380227SALS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::140 /TEI[1]/text[1]/body[1]/p[7]::146" xml:id="UID-FAKE-2221">
+        <rs ana="https://topostext.org/place/380227SALS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::181 /TEI[1]/text[1]/body[1]/p[7]::191" xml:id="UID-FAKE-2222">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::276 /TEI[1]/text[1]/body[1]/p[7]::283" xml:id="UID-FAKE-2223">
+        <rs ana="https://topostext.org/place/379240SBra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::317 /TEI[1]/text[1]/body[1]/p[7]::325" xml:id="UID-FAKE-2224">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::370 /TEI[1]/text[1]/body[1]/p[7]::376" xml:id="UID-FAKE-2225">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 10</head>
+      <p>In the gymnasium not far from the agora is dedicated a stone Heracles made by Scopas. There is also in another place a sanctuary of Heracles. The whole of the enclosure here they name Paedize; in the middle of the enclosure is the sanctuary, and in it is an old wooden figure carved by Laphaes the Phliasian. I will now describe the ritual at the festival. The story is that on coming to the Sicyonian land Phaestus found the people giving offerings to Heracles as to a hero. Phaestus then refused to do anything of the kind, but insisted on sacrificing to him as to a god. Even at the present day the Sicyonians, after slaying a lamb and burning the thighs upon the altar, eat some of the meat as part of a victim given to a god, while the rest they offer as to a hero. The first day of the festival in honor of Heracles they name . . .; the second they call Heraclea.</p>
+      <p>From here is a way to a sanctuary of Asclepius. On passing into the enclosure you see on the left a building with two rooms. In the outer room lies a figure of Hypnos (Sleep), of which nothing remains now except the head. The inner room is given over to the Carnean Apollo; into it none may enter except the priests. In the stoa lies a huge bone of a sea-monster, and after it an image of Oneiros (Dream) and Hypnos, surnamed Epidotes (Bountiful), lulling to sleep a lion. Within the sanctuary on either side of the entrance is an image, on the one hand Pan seated, on the other Artemis standing.</p>
+      <p>When you have entered you see the god, a beardless figure of gold and ivory made by Calamis. He holds a staff in one hand, and a cone of the cultivated pine in the other. The Sicyonians say that the god was carried to them from Epidaurus on a carriage drawn by two mules, that he was in the likeness of a serpent, and that he was brought by Nicagora of Sicyon, the mother of Agasicles and the wife of Echetimus. Here are small figures hanging from the roof. She who is on the serpent they say is Aristodama, the mother of Aratus, whom they hold to be a son of Asclepius.</p>
+      <p>Such are the noteworthy things that this enclosure presented to me, and opposite is another enclosure, sacred to Aphrodite. The first thing inside is a statue of Antiope. They say that her sons were Sicyonians, and because of them the Sicyonians will have it that Antiope herself is related to themselves. After this is the sanctuary of Aphrodite, into which enter only a female neokoros (verger), who after her appointment may not have intercourse with a man, and a virgin, called the Bath-bearer, holding her sacred office for a year. All others are wont to behold the goddess from the entrance, and to pray from that place.</p>
+      <p>The image, which is seated, was made by the Sicyonian Canachus, who also fashioned the Apollo at Didyma of the Milesians, and the Ismenian Apollo for the Thebans. It is made of gold and ivory, having on its head a polos, and carrying in one hand a poppy and in the other an apple. They offer the thighs of the victims, excepting pigs; the other parts they burn for the goddess with juniper wood, but as the thighs are burning they add to the offering a leaf of the paideros.</p>
+      <p>This is a plant in the open parts of the enclosure, and it grows nowhere else either in Sicyonia or in any other land. Its leaves are smaller than those of the esculent oak, but larger than those of the holm; the shape is similar to that of the oak-leaf. One side is of a dark color, the other is white. You might best compare the color to that of white-poplar leaves.</p>
+      <p>Ascending from here to the gymnasium you see in the right a sanctuary of Artemis Pheraea. It is said that the wooden image was brought from Pherae. This gymnasium was built for the Sicyonians by Cleinias, and they still train the youths here. White marble images are here, an Artemis wrought only to the waist, and a Heracles whose lower parts are similar to the square Hermae.</p>
+    </body>
+  </text>
+</TEI>

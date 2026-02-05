@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::143 /TEI[1]/text[1]/body[1]/p[1]::152" xml:id="UID-FAKE-2784">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::226 /TEI[1]/text[1]/body[1]/p[1]::231" xml:id="UID-FAKE-2785">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::300 /TEI[1]/text[1]/body[1]/p[1]::305" xml:id="UID-FAKE-2786">
+        <rs ana="https://topostext.org/place/300740RInd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::435 /TEI[1]/text[1]/body[1]/p[1]::440" xml:id="UID-FAKE-2787">
+        <rs ana="https://topostext.org/place/300740RInd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::448 /TEI[1]/text[1]/body[1]/p[1]::453" xml:id="UID-FAKE-2788">
+        <rs ana="https://topostext.org/place/300070RLib"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::471 /TEI[1]/text[1]/body[1]/p[1]::482" xml:id="UID-FAKE-2789">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::16 /TEI[1]/text[1]/body[1]/p[2]::30" xml:id="UID-FAKE-2790">
+        <rs ana="https://topostext.org/place/378233LKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::72 /TEI[1]/text[1]/body[1]/p[2]::80" xml:id="UID-FAKE-2791">
+        <rs ana="https://topostext.org/place/378233LKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::235 /TEI[1]/text[1]/body[1]/p[2]::244" xml:id="UID-FAKE-2792">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::248 /TEI[1]/text[1]/body[1]/p[2]::255" xml:id="UID-FAKE-2793">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::406 /TEI[1]/text[1]/body[1]/p[2]::413" xml:id="UID-FAKE-2794">
+        <rs ana="https://topostext.org/place/384226SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::414 /TEI[1]/text[1]/body[1]/p[2]::423" xml:id="UID-FAKE-2795">
+        <rs ana="https://topostext.org/place/371224SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::33 /TEI[1]/text[1]/body[1]/p[3]::44" xml:id="UID-FAKE-2796">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::103 /TEI[1]/text[1]/body[1]/p[3]::113" xml:id="UID-FAKE-2797">
+        <rs ana="https://topostext.org/place/376231UHyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::188 /TEI[1]/text[1]/body[1]/p[3]::199" xml:id="UID-FAKE-2798">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::419 /TEI[1]/text[1]/body[1]/p[3]::428" xml:id="UID-FAKE-2799">
+        <rs ana="https://topostext.org/place/376232PEpi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::143 /TEI[1]/text[1]/body[1]/p[4]::148" xml:id="UID-FAKE-2800">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::91 /TEI[1]/text[1]/body[1]/p[5]::101" xml:id="UID-FAKE-2801">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::256 /TEI[1]/text[1]/body[1]/p[5]::267" xml:id="UID-FAKE-2802">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::138 /TEI[1]/text[1]/body[1]/p[6]::149" xml:id="UID-FAKE-2803">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::474 /TEI[1]/text[1]/body[1]/p[6]::484" xml:id="UID-FAKE-2804">
+        <rs ana="https://topostext.org/place/376231UHyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::160 /TEI[1]/text[1]/body[1]/p[8]::169" xml:id="UID-FAKE-2805">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::215 /TEI[1]/text[1]/body[1]/p[8]::222" xml:id="UID-FAKE-2806">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 28</head>
+      <p>The serpents, including a peculiar kind of a yellowish color, are considered sacred to Asclepius, and are tame with men. These are peculiar to Epidauria, and I have noticed that other lands have their peculiar animals. For in Libya only are to be found land crocodiles at least two cubits long; from India alone are brought, among other creatures, parrots. But the big snakes that grow to more than thirty cubits, such as are found in India and in Libya, are said by the Epidaurians not to be serpents, but some other kind of creature.</p>
+      <p>As you go up to Mount Coryphum you see by the road an olive tree called Streptes (twisted). It was Heracles who gave it this shape by bending it round with his hand, but I cannot say whether he set it to be a boundary mark against the Asinaeans in Argolis, since in no land that has been depopulated is it easy to discover the truth about the boundaries. On the top of the mountain there is a sanctuary of Artemis Coryphaea (of the Peak), of which Telesilla made mention in an ode.</p>
+      <p>On going down to the city of the Epidaurians, you come to a place where wild olives grow; they call it Hyrnethium. I will relate the story of it, which is probable enough, as given by the Epidaurians. Ceisus and the other sons of Temenus knew that they would grieve Deiphontes most if they could find a way to part him and Hyrnetho. So Cerynes and Phalces (for Agraeus, the youngest, disapproved of their plan) came to Epidaurus. Staying their chariot under the wall, they sent a herald to their sister, pretending that they wished to parley with her.</p>
+      <p>When she obeyed their summons, the young men began to make many accusations against Deiphontes, and besought her much that she would return to Argos, promising, among other things, to give her to a husband in every respect better than Deiphontes, one who ruled over more subjects and a more prosperous country. But Hyrnetho, pained at their words, gave as good as she had received, retorting that Deiphontes was a dear husband to her, and had shown himself a blameless son-in-law to Temenus; as for them, they ought to be called the murderers of Temenus rather than his sons.</p>
+      <p>Without further reply the youths seized her, placed her in the chariot, and drove away. An Epidaurian told Deiphontes that Cerynes and Phalces had gone, taking with them Hyrnetho against her will; he himself rushed to the rescue with all speed, and as the Epidaurians learned the news they reinforced him. On overtaking the runaways, Deiphontes shot Cerynes and killed him, but he was afraid to shoot at Phalces, who was holding Hyrnetho, lest he should miss him and become the slayer of his wife; so he closed with them and tried to get her away. But Phalces, holding on and dragging her with greater violence, killed her, as she was with child.</p>
+      <p>Realizing what he had done to his sister, he began to drive the chariot more recklessly, as he was anxious to gain a start before all the Epidaurians could gather against him. Deiphontes and his children — for before this children had been born to him, Antimenes, Xanthippus, and Argeus, and a daughter, Orsobia, who, they say, afterwards married Pamphylus, son of Aegimius — took up the dead body of Hyrnetho and carried it to this place, which in course of time was named Hyrnethium.</p>
+      <p>They built for her a hero-shrine, and bestowed upon her various honors; in particular, the custom was established that nobody should carry home, or use for any purpose, the pieces that break off the olive trees, or any other trees, that grow there; these are left there on the spot to be sacred to Hyrnetho.</p>
+      <p>Not far from the city is the tomb of Melissa, who married Periander, the son of Cypselus, and another of Procles, the father of Melissa. He, too, was tyrant of Epidaurus, as Periander, his son-in-law, was tyrant of Corinth.</p>
+    </body>
+  </text>
+</TEI>

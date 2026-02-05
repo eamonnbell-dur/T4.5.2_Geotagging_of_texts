@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::90 /TEI[1]/text[1]/body[1]/p[1]::96" xml:id="UID-FAKE-2170">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::499 /TEI[1]/text[1]/body[1]/p[1]::505" xml:id="UID-FAKE-2171">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::544 /TEI[1]/text[1]/body[1]/p[1]::562" xml:id="UID-FAKE-2172">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::620 /TEI[1]/text[1]/body[1]/p[1]::626" xml:id="UID-FAKE-2173">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::650 /TEI[1]/text[1]/body[1]/p[1]::658" xml:id="UID-FAKE-2174">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::17 /TEI[1]/text[1]/body[1]/p[2]::21" xml:id="UID-FAKE-2175">
+        <rs ana="https://topostext.org/place/381216PDym"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::29 /TEI[1]/text[1]/body[1]/p[2]::35" xml:id="UID-FAKE-2176">
+        <rs ana="https://topostext.org/place/382217PPat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::70 /TEI[1]/text[1]/body[1]/p[2]::78" xml:id="UID-FAKE-2177">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::116 /TEI[1]/text[1]/body[1]/p[2]::124" xml:id="UID-FAKE-2178">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::133 /TEI[1]/text[1]/body[1]/p[2]::139" xml:id="UID-FAKE-2179">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::362 /TEI[1]/text[1]/body[1]/p[2]::373" xml:id="UID-FAKE-2180">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::405 /TEI[1]/text[1]/body[1]/p[2]::417" xml:id="UID-FAKE-2181">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::426 /TEI[1]/text[1]/body[1]/p[2]::434" xml:id="UID-FAKE-2182">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::452 /TEI[1]/text[1]/body[1]/p[2]::460" xml:id="UID-FAKE-2183">
+        <rs ana="https://topostext.org/place/372224PSel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::466 /TEI[1]/text[1]/body[1]/p[2]::474" xml:id="UID-FAKE-2184">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::506 /TEI[1]/text[1]/body[1]/p[2]::514" xml:id="UID-FAKE-2185">
+        <rs ana="https://topostext.org/place/372224PSel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::543 /TEI[1]/text[1]/body[1]/p[2]::552" xml:id="UID-FAKE-2186">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::592 /TEI[1]/text[1]/body[1]/p[2]::600" xml:id="UID-FAKE-2187">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::617 /TEI[1]/text[1]/body[1]/p[2]::630" xml:id="UID-FAKE-2188">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::92 /TEI[1]/text[1]/body[1]/p[3]::97" xml:id="UID-FAKE-2189">
+        <rs ana="https://topostext.org/place/271307REgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::197 /TEI[1]/text[1]/body[1]/p[3]::206" xml:id="UID-FAKE-2190">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::294 /TEI[1]/text[1]/body[1]/p[3]::306" xml:id="UID-FAKE-2191">
+        <rs ana="https://topostext.org/place/312299PAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::369 /TEI[1]/text[1]/body[1]/p[3]::382" xml:id="UID-FAKE-2192">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::267 /TEI[1]/text[1]/body[1]/p[4]::273" xml:id="UID-FAKE-2193">
+        <rs ana="https://topostext.org/place/372222PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::310 /TEI[1]/text[1]/body[1]/p[4]::316" xml:id="UID-FAKE-2194">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::407 /TEI[1]/text[1]/body[1]/p[4]::416" xml:id="UID-FAKE-2195">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::47 /TEI[1]/text[1]/body[1]/p[6]::55" xml:id="UID-FAKE-2196">
+        <rs ana="https://topostext.org/place/379230SIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::401 /TEI[1]/text[1]/body[1]/p[6]::412" xml:id="UID-FAKE-2197">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::427 /TEI[1]/text[1]/body[1]/p[6]::433" xml:id="UID-FAKE-2198">
+        <rs ana="https://topostext.org/place/384225PKir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::494 /TEI[1]/text[1]/body[1]/p[7]::504" xml:id="UID-FAKE-2199">
+        <rs ana="https://topostext.org/place/376227SApD"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::158 /TEI[1]/text[1]/body[1]/p[8]::166" xml:id="UID-FAKE-2200">
+        <rs ana="https://topostext.org/place/369273SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::219 /TEI[1]/text[1]/body[1]/p[8]::225" xml:id="UID-FAKE-2201">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 9</head>
+      <p>Cleomenes, the son of Leonidas, the son of Cleonymus, having succeeded to the kingship at Sparta, resembled Pausanias in being dissatisfied with the established constitution and in aiming at a tyranny. A more fiery man than Pausanias, and no coward, he quickly succeeded by spirit and daring in accomplishing all his ambition. He poisoned Eurydamidas, the king of the other royal house, while yet a boy, raised to the throne by means of the ephors his brother Epicleidas, destroyed the power of the Senate, and appointed in its stead a nominal Council of Fathers. Ambitious for greater things and for supremacy over the Greeks, he first attacked the Achaeans, hoping if successful to have them as allies, and especially wishing that they should not hinder his activities.</p>
+      <p>Engaging them at Dyme beyond Patrae, Aratus being still leader of the Achaeans, he won the victory. In fear for the Achaeans and for Sicyon itself, Aratus was forced by this defeat to bring in Antigonus as an ally. Cleomenes had violated the peace which he had made with Antigonus and had openly acted in many ways contrary to treaty, especially in laying waste Megalopolis. So Antigonus crossed into the Peloponnesus and the Achaeans met Cleomenes at Sellasia. The Achaeans were victorious, the people of Sellasia were sold into slavery, and Lacedemon itself was captured. Antigonus and the Achaeans restored to the Lacedemonians the constitution of their fathers;</p>
+      <p>but of the children of Leonidas, Epicleidas was killed in the battle, and Cleomenes fled to Egypt. Held in the highest honor by Ptolemy, he came to be cast into prison, being convicted of inciting Egyptians to rebel against their king. He made his escape from prison and began a riot among the Alexandrians, but at last, on being captured, he fell by his own hand. The Lacedemonians, glad to be rid of Cleomenes, refused to be ruled by kings any longer, but the rest of their ancient constitution they have kept to the present day. Antigonus remained a constant friend of Aratus, looking upon him as a benefactor who hid helped him to accomplish brilliant deeds.</p>
+      <p>But when Philip succeeded to the throne, since Aratus did not approve of his violent treatment of his subjects, and in some cases even opposed the accomplishment of his purposes, he killed Aratus by giving him secretly a dose of poison. This fate came upon Aratus at Aegium, from which place he was carried to Sicyon and buried, and there is still in that city the hero-shrine of Aratus. Philip treated two Athenians, Eurycleides and Micon, in a similar way. These men also, who were orators enjoying the confidence of the people, he killed by poison.</p>
+      <p>After all, Philip himself in his turn was fated to suffer disaster through the fatal cup. Philip"s son, Demetrius, was poisoned by Perseus, his younger son, and grief at the murder brought the father also to his grave. I mention the incident in passing, with my mind turned to the inspired words of the poet Hesiod, that he who plots mischief against his neighbor directs it first to himself.</p>
+      <p>After the hero-shrine of Aratus is an altar to Isthmian Poseidon, and also a Zeus Meilichius (Gracious) and an Artemis named Patroa (ancestral), both of them very inartistic works. The Meilichius is like a pyramid, the Artemis like a pillar. Here too stand their council-chamber and a stoa called Cleisthenean from the name of him who built it. It was built from spoils by Cleisthenes, who helped the Amphictyons in the war at Cirrha. In the agora under the open sky is a bronze Zeus, a work of Lysippus, and by the side of it a gilded Artemis.</p>
+      <p>Hard by is a sanctuary of Apollo Lycius (Wolf-god), now fallen into ruins and not worth any attention. For wolves once so preyed upon their flocks that there was no longer any profit therefrom, and the god, mentioning a certain place where lay a dry log, gave an oracle that the bark of this log mixed with meat was to be set out for the beasts to eat. As soon as they tasted it the bark killed them, and that log lay in my time in the sanctuary of the Wolf-god, but not even the guides of the Sicyonians knew what kind of tree it was.</p>
+      <p>Next after this are bronze portrait statues, said to be the daughters of Proetus, but the inscription I found referred to other women. Here there is a bronze Heracles, made by Lysippus the Sicyonian, and hard by stands Hermes Agoraeus (of the Market-place).</p>
+    </body>
+  </text>
+</TEI>

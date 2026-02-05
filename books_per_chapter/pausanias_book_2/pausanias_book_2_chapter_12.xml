@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::3 /TEI[1]/text[1]/body[1]/p[1]::9" xml:id="UID-FAKE-2251">
+        <rs ana="https://topostext.org/place/379226PTit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::12 /TEI[1]/text[1]/body[1]/p[2]::18" xml:id="UID-FAKE-2252">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::24 /TEI[1]/text[1]/body[1]/p[2]::30" xml:id="UID-FAKE-2253">
+        <rs ana="https://topostext.org/place/379226PTit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::249 /TEI[1]/text[1]/body[1]/p[2]::259" xml:id="UID-FAKE-2254">
+        <rs ana="https://topostext.org/place/379229HLec"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::279 /TEI[1]/text[1]/body[1]/p[2]::291" xml:id="UID-FAKE-2255">
+        <rs ana="https://topostext.org/place/381226UAri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::297 /TEI[1]/text[1]/body[1]/p[2]::312" xml:id="UID-FAKE-2256">
+        <rs ana="https://topostext.org/place/380225PPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::436 /TEI[1]/text[1]/body[1]/p[2]::444" xml:id="UID-FAKE-2257">
+        <rs ana="https://topostext.org/place/380227WHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::463 /TEI[1]/text[1]/body[1]/p[2]::469" xml:id="UID-FAKE-2258">
+        <rs ana="https://topostext.org/place/383228WSyt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::0 /TEI[1]/text[1]/body[1]/p[3]::8" xml:id="UID-FAKE-2259">
+        <rs ana="https://topostext.org/place/373222UPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::20 /TEI[1]/text[1]/body[1]/p[3]::28" xml:id="UID-FAKE-2260">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::79 /TEI[1]/text[1]/body[1]/p[3]::85" xml:id="UID-FAKE-2261">
+        <rs ana="https://topostext.org/place/379226PTit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::127 /TEI[1]/text[1]/body[1]/p[3]::133" xml:id="UID-FAKE-2262">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::144 /TEI[1]/text[1]/body[1]/p[3]::154" xml:id="UID-FAKE-2263">
+        <rs ana="https://topostext.org/place/373222UPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::184 /TEI[1]/text[1]/body[1]/p[3]::193" xml:id="UID-FAKE-2264">
+        <rs ana="https://topostext.org/place/375222RPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::221 /TEI[1]/text[1]/body[1]/p[3]::226" xml:id="UID-FAKE-2265">
+        <rs ana="https://topostext.org/place/368228UBup"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::259 /TEI[1]/text[1]/body[1]/p[3]::268" xml:id="UID-FAKE-2266">
+        <rs ana="https://topostext.org/place/378221RAza"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::283 /TEI[1]/text[1]/body[1]/p[3]::293" xml:id="UID-FAKE-2267">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::321 /TEI[1]/text[1]/body[1]/p[3]::329" xml:id="UID-FAKE-2268">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::407 /TEI[1]/text[1]/body[1]/p[3]::413" xml:id="UID-FAKE-2269">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::437 /TEI[1]/text[1]/body[1]/p[3]::443" xml:id="UID-FAKE-2270">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::474 /TEI[1]/text[1]/body[1]/p[3]::485" xml:id="UID-FAKE-2271">
+        <rs ana="https://topostext.org/place/377216PHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::493 /TEI[1]/text[1]/body[1]/p[3]::505" xml:id="UID-FAKE-2272">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::557 /TEI[1]/text[1]/body[1]/p[3]::567" xml:id="UID-FAKE-2273">
+        <rs ana="https://topostext.org/place/375222RPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::156 /TEI[1]/text[1]/body[1]/p[4]::169" xml:id="UID-FAKE-2274">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::219 /TEI[1]/text[1]/body[1]/p[4]::229" xml:id="UID-FAKE-2275">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::274 /TEI[1]/text[1]/body[1]/p[4]::278" xml:id="UID-FAKE-2276">
+        <rs ana="https://topostext.org/place/379238DAix"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::381 /TEI[1]/text[1]/body[1]/p[4]::388" xml:id="UID-FAKE-2277">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::595 /TEI[1]/text[1]/body[1]/p[4]::601" xml:id="UID-FAKE-2278">
+        <rs ana="https://topostext.org/place/376227SAsp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::645 /TEI[1]/text[1]/body[1]/p[4]::652" xml:id="UID-FAKE-2279">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::57 /TEI[1]/text[1]/body[1]/p[5]::67" xml:id="UID-FAKE-2280">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::118 /TEI[1]/text[1]/body[1]/p[5]::128" xml:id="UID-FAKE-2281">
+        <rs ana="https://topostext.org/place/378226UAra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::298 /TEI[1]/text[1]/body[1]/p[5]::304" xml:id="UID-FAKE-2282">
+        <rs ana="https://topostext.org/place/377225POrn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::414 /TEI[1]/text[1]/body[1]/p[5]::427" xml:id="UID-FAKE-2283">
+        <rs ana="https://topostext.org/place/377214SArA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::4 /TEI[1]/text[1]/body[1]/p[6]::11" xml:id="UID-FAKE-2284">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::262 /TEI[1]/text[1]/body[1]/p[6]::266" xml:id="UID-FAKE-2285">
+        <rs ana="https://topostext.org/place/376231UHyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::286 /TEI[1]/text[1]/body[1]/p[6]::293" xml:id="UID-FAKE-2286">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::355 /TEI[1]/text[1]/body[1]/p[6]::365" xml:id="UID-FAKE-2287">
+        <rs ana="https://topostext.org/place/378226UAra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::500 /TEI[1]/text[1]/body[1]/p[6]::506" xml:id="UID-FAKE-2288">
+        <rs ana="https://topostext.org/place/383233WAso"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 12</head>
+      <p>In Titane there is also a sanctuary of Athena, into which they bring up the image of Coronis. In it is an old wooden figure of Athena, and I was told that it, too, was struck by lightning. The sanctuary is built upon a hill, at the bottom of which is an Altar of the Winds, and on it the priest sacrifices to the winds one night in every year. He also performs other secret rites at four pits, taming the fierceness of the blasts, and he is said to chant as well charms of Medea.</p>
+      <p>On reaching Sicyon from Titane, as you go down to the shore you see on the left of the road a temple of Hera having now neither image nor roof. They say that its founder was Proetus, the son of Abas. When you have gone down to the harbor called the Sicyonians"and turned towards Aristonautae, the Port of Pellene, you see a little above the road on the left hand a sanctuary of Poseidon. Farther along the highway is a river called the Helisson, and after it the Sythas, both emptying themselves into the sea.</p>
+      <p>Phliasia borders on Sicyonia. The city is just about forty stades distant from Titane, and there is a straight road to it from Sicyon. That the Phliasians are in no way related to the Arcadians is shown by the passage in Homer that deals with the list of the Arcadians, in which the Sicyonians are not included among the Arcadian confederates. As my narrative progresses it will become clear that they were Argive originally, and became Dorian later after the return of the Heracleidae to the Peloponnesus. I know that most of the traditions concerning the Phliasians are contradictory, but I shall make use of those which have been most generally accepted.</p>
+      <p>They say that the first man in this land was Aras, who sprang from the soil. He founded a city around that hillock which even down to our day is called the Arantine Hill, not far distant from a second hill on which the Phliasians have their acropolis and their sanctuary of Hebe. Here, then, he founded a city, and after him in ancient times both the land and the city were called Arantia. While he was king, Asopus, said to be the son of Celusa and Poseidon, discovered for him the water of the river which the present inhabitants call after him Asopus. The tomb of Aras is in the place called Celeae, where they say is also buried Dysaules of Eleusis.</p>
+      <p>Aras had a son Aoris and a daughter Araethyrea, who, the Phliasians say, were experienced hunters and brave warriors. Araethyrea died first, and Aoris, in memory of his sister, changed the name of the land to Araethyrea. This is why Homer, in making a list of Agamemnon"s subjects, has the verse: “Orneae was their home and Araethyrea the delightful.” The graves of the children of Aras are, in my opinion, on the Arantine Hill and not in any other part of the land. On the top of them are far-seen gravestones, and before the celebration of the mysteries of Demeter the people look at these tombs and call Aras and his children to the libations.</p>
+      <p>The Argives say that Phlias, who has given the land its third name, was the son of Ceisus, the son of Temenus. This account I can by no means accept, but I know that he is called a son of Dionysus, and that he is said to have been one of those who sailed on the Argo. The verses of the Rhodian poet confirm me in my opinion: “Came after these Phlias from Araethyrea to the muster; Here did he dwell and prosper, because Dionysus his father Cared for him well, and his home was near to the springs of Asopus.” The account goes on to say that the mother of Phlias was Araethyrea and not Chthonophyle. The latter was his wife and bore him Androdamas.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::14 /TEI[1]/text[1]/body[1]/p[1]::19" xml:id="UID-FAKE-2658">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::23 /TEI[1]/text[1]/body[1]/p[1]::31" xml:id="UID-FAKE-2659">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::59 /TEI[1]/text[1]/body[1]/p[1]::64" xml:id="UID-FAKE-2660">
+        <rs ana="https://topostext.org/place/375224PTeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::94 /TEI[1]/text[1]/body[1]/p[1]::100" xml:id="UID-FAKE-2661">
+        <rs ana="https://topostext.org/place/376227FDei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::358 /TEI[1]/text[1]/body[1]/p[1]::368" xml:id="UID-FAKE-2662">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::380 /TEI[1]/text[1]/body[1]/p[1]::387" xml:id="UID-FAKE-2663">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::48 /TEI[1]/text[1]/body[1]/p[2]::57" xml:id="UID-FAKE-2664">
+        <rs ana="https://topostext.org/place/378228WCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::59 /TEI[1]/text[1]/body[1]/p[2]::64" xml:id="UID-FAKE-2665">
+        <rs ana="https://topostext.org/place/378228WCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::70 /TEI[1]/text[1]/body[1]/p[2]::75" xml:id="UID-FAKE-2666">
+        <rs ana="https://topostext.org/place/376226UOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::88 /TEI[1]/text[1]/body[1]/p[2]::95" xml:id="UID-FAKE-2667">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::157 /TEI[1]/text[1]/body[1]/p[2]::164" xml:id="UID-FAKE-2668">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::250 /TEI[1]/text[1]/body[1]/p[2]::255" xml:id="UID-FAKE-2669">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::293 /TEI[1]/text[1]/body[1]/p[2]::302" xml:id="UID-FAKE-2670">
+        <rs ana="https://topostext.org/place/384215UKal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::400 /TEI[1]/text[1]/body[1]/p[2]::405" xml:id="UID-FAKE-2671">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::544 /TEI[1]/text[1]/body[1]/p[2]::551" xml:id="UID-FAKE-2672">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::567 /TEI[1]/text[1]/body[1]/p[2]::572" xml:id="UID-FAKE-2673">
+        <rs ana="https://topostext.org/place/376226UOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::6 /TEI[1]/text[1]/body[1]/p[3]::11" xml:id="UID-FAKE-2674">
+        <rs ana="https://topostext.org/place/376226UOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::15 /TEI[1]/text[1]/body[1]/p[3]::31" xml:id="UID-FAKE-2675">
+        <rs ana="https://topostext.org/place/376225LArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::124 /TEI[1]/text[1]/body[1]/p[3]::131" xml:id="UID-FAKE-2676">
+        <rs ana="https://topostext.org/place/378228WIna"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::85 /TEI[1]/text[1]/body[1]/p[4]::91" xml:id="UID-FAKE-2677">
+        <rs ana="https://topostext.org/place/376227FLar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::109 /TEI[1]/text[1]/body[1]/p[4]::115" xml:id="UID-FAKE-2678">
+        <rs ana="https://topostext.org/place/376227FDei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::516 /TEI[1]/text[1]/body[1]/p[4]::523" xml:id="UID-FAKE-2679">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::34 /TEI[1]/text[1]/body[1]/p[5]::40" xml:id="UID-FAKE-2680">
+        <rs ana="https://topostext.org/place/377225POrn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::249 /TEI[1]/text[1]/body[1]/p[5]::254" xml:id="UID-FAKE-2681">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::258 /TEI[1]/text[1]/body[1]/p[5]::264" xml:id="UID-FAKE-2682">
+        <rs ana="https://topostext.org/place/377225POrn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::310 /TEI[1]/text[1]/body[1]/p[5]::316" xml:id="UID-FAKE-2683">
+        <rs ana="https://topostext.org/place/377225POrn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::320 /TEI[1]/text[1]/body[1]/p[5]::326" xml:id="UID-FAKE-2684">
+        <rs ana="https://topostext.org/place/377225POrn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::353 /TEI[1]/text[1]/body[1]/p[5]::362" xml:id="UID-FAKE-2685">
+        <rs ana="https://topostext.org/place/377226ULyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::392 /TEI[1]/text[1]/body[1]/p[5]::398" xml:id="UID-FAKE-2686">
+        <rs ana="https://topostext.org/place/377225POrn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::427 /TEI[1]/text[1]/body[1]/p[5]::432" xml:id="UID-FAKE-2687">
+        <rs ana="https://topostext.org/place/377225POrn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::452 /TEI[1]/text[1]/body[1]/p[5]::456" xml:id="UID-FAKE-2688">
+        <rs ana="https://topostext.org/place/377226ULyr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::482 /TEI[1]/text[1]/body[1]/p[5]::488" xml:id="UID-FAKE-2689">
+        <rs ana="https://topostext.org/place/377225POrn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::573 /TEI[1]/text[1]/body[1]/p[5]::579" xml:id="UID-FAKE-2690">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::641 /TEI[1]/text[1]/body[1]/p[5]::647" xml:id="UID-FAKE-2691">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::131 /TEI[1]/text[1]/body[1]/p[6]::140" xml:id="UID-FAKE-2692">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::210 /TEI[1]/text[1]/body[1]/p[6]::216" xml:id="UID-FAKE-2693">
+        <rs ana="https://topostext.org/place/377225POrn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::250 /TEI[1]/text[1]/body[1]/p[6]::257" xml:id="UID-FAKE-2694">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::314 /TEI[1]/text[1]/body[1]/p[6]::319" xml:id="UID-FAKE-2695">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::324 /TEI[1]/text[1]/body[1]/p[6]::330" xml:id="UID-FAKE-2696">
+        <rs ana="https://topostext.org/place/377225POrn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::471 /TEI[1]/text[1]/body[1]/p[6]::477" xml:id="UID-FAKE-2697">
+        <rs ana="https://topostext.org/place/377225POrn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::482 /TEI[1]/text[1]/body[1]/p[6]::490" xml:id="UID-FAKE-2698">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::495 /TEI[1]/text[1]/body[1]/p[6]::503" xml:id="UID-FAKE-2699">
+        <rs ana="https://topostext.org/place/373222UPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::16 /TEI[1]/text[1]/body[1]/p[7]::21" xml:id="UID-FAKE-2700">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::25 /TEI[1]/text[1]/body[1]/p[7]::34" xml:id="UID-FAKE-2701">
+        <rs ana="https://topostext.org/place/376229ULes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::141 /TEI[1]/text[1]/body[1]/p[7]::147" xml:id="UID-FAKE-2702">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::70 /TEI[1]/text[1]/body[1]/p[8]::76" xml:id="UID-FAKE-2703">
+        <rs ana="https://topostext.org/place/376228PTir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::82 /TEI[1]/text[1]/body[1]/p[8]::93" xml:id="UID-FAKE-2704">
+        <rs ana="https://topostext.org/place/376228PTir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::119 /TEI[1]/text[1]/body[1]/p[8]::126" xml:id="UID-FAKE-2705">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::147 /TEI[1]/text[1]/body[1]/p[8]::152" xml:id="UID-FAKE-2706">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::382 /TEI[1]/text[1]/body[1]/p[8]::390" xml:id="UID-FAKE-2707">
+        <rs ana="https://topostext.org/place/376228PTir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::118 /TEI[1]/text[1]/body[1]/p[9]::123" xml:id="UID-FAKE-2708">
+        <rs ana="https://topostext.org/place/365224SDeK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::202 /TEI[1]/text[1]/body[1]/p[9]::207" xml:id="UID-FAKE-2709">
+        <rs ana="https://topostext.org/place/365224SDeK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::24 /TEI[1]/text[1]/body[1]/p[10]::33" xml:id="UID-FAKE-2710">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::47 /TEI[1]/text[1]/body[1]/p[10]::52" xml:id="UID-FAKE-2711">
+        <rs ana="https://topostext.org/place/376229ULes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::143 /TEI[1]/text[1]/body[1]/p[10]::149" xml:id="UID-FAKE-2712">
+        <rs ana="https://topostext.org/place/396224PLar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::157 /TEI[1]/text[1]/body[1]/p[10]::162" xml:id="UID-FAKE-2713">
+        <rs ana="https://topostext.org/place/376229ULes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::166 /TEI[1]/text[1]/body[1]/p[10]::182" xml:id="UID-FAKE-2714">
+        <rs ana="https://topostext.org/place/376230SZeH"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::234 /TEI[1]/text[1]/body[1]/p[10]::245" xml:id="UID-FAKE-2715">
+        <rs ana="https://topostext.org/place/376230SZeH"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 25</head>
+      <p>The road from Argos to Mantinea is not the same as that to Tegea, but begins from the gate at Deirai (the Ridge). On this road is a sanctuary built with two rooms, having an entrance on the west side and another on the east. At the latter is a wooden image of Aphrodite, and at the west entrance one of Ares. They say that the images are votive offerings of Polyneices and of the Argives who joined him in the campaign to redress his wrongs.</p>
+      <p>Farther on from here, across the torrent called Charadrus (Gully), is Oenoe, named, the Argives say, after Oeneus. The story is that Oeneus, who was king in Aetolia, on being driven from his throne by the sons of Agrius, took refuge with Diomedes at Argos, who aided him by an expedition into Calydonia, but said that he could not remain with him, and urged Oeneus to accompany him, if he wished, to Argos. When he came, he gave him all the attention that it was right to give a father"s father, and on his death buried him here. After him the Argives name the place Oenoe.</p>
+      <p>Above Oenoe is Mount Artemisius, with a sanctuary of Artemis on the top. On this mountain are also the springs of the river Inachus. For it really has springs, though the water does not run far.</p>
+      <p>Here I found nothing else that is worth seeing. There is another road, that leads to Lyrcea from the gate at Deirai. The story is that to this place came Lynceus, being the only one of the fifty brothers to escape death, and that on his escape he raised a beacon here. Now to raise the beacon was the signal he had agreed with Hypermestra to give if he should escape Danaus and reach a place of safety. She also, they say, lighted a beacon on Larisa as a sign that she too was now out of danger. For this reason the Argives hold every year a beacon festival.</p>
+      <p>At the first the place was called Lyncea; its present name is derived from Lyrcus, a bastard son of Abas, who afterwards dwelt there. Among the ruins are several things not worth mentioning, besides a figure of Lyrcus upon a slab. The distance from Argos to Lyrcea is about sixty stades, and the distance from Lyrcea to Orneae is the same. Homer in the Catalogue makes no mention of the city Lyrcea, because at the time of the Greek expedition against Troy it already lay deserted; Orneae, however, was inhabited, and in his poem he places it on the list before Phlius and Sicyon, which order corresponds to the position of the towns in the Argive territory.</p>
+      <p>The name is derived from Orneus, the son of Erechtheus. This Orneus begat Peteos, and Peteos begat Menestheus, who, with a body of Athenians, helped Agamemnon to destroy the kingdom of Priam. From him then did Orneae get its name, and afterwards the Argives removed all its citizens, who thereupon came to live at Argos. At Orneae are a sanctuary and an upright wooden image of Artemis; there is besides a temple devoted to all the gods in common. On the further side of Orneae are Sicyonia and Phliasia.</p>
+      <p>On the way from Argos to Epidauria there is on the right a building made very like a pyramid, and on it in relief are wrought shields of the Argive shape. Here took place a fight for the throne between Proetus and Acrisius; the contest, they say, ended in a draw, and a reconciliation resulted afterwards, as neither could gain a decisive victory. The story is that they and their hosts were armed with shields, which were first used in this battle. For those that fell on either side was built here a common tomb, as they were fellow citizens and kinsmen.</p>
+      <p>Going on from here and turning to the right, you come to the ruins of Tiryns. The Tirynthians also were removed by the Argives, who wished to make Argos more powerful by adding to the population. The hero Tiryns, from whom the city derived its name, is said to have been a son of Argus, a son of Zeus. The wall, which is the only part of the ruins still remaining, is a work of the Cyclopes made of unwrought stones, each stone being so big that a pair of mules could not move the smallest from its place to the slightest degree. Long ago small stones were so inserted that each of them binds the large blocks firmly together.</p>
+      <p>Going down seawards, you come to the chambers of the daughters of Proetus. On returning to the highway you will reach Medea on the left hand. They say that Electryon, the father of Alcmena, was king of Medea, but in my time nothing was left of it except the foundations.</p>
+      <p>On the straight road to Epidaurus is a village Lessa, in which is a temple of Athena with a wooden image exactly like the one on the acropolis Larisa. Above Lessa is Mount Arachnaion, which long ago, in the time of Inachus, was named Sapyselaton. On it are altars to Zeus and Hera. When rain is needed they sacrifice to them here.</p>
+    </body>
+  </text>
+</TEI>

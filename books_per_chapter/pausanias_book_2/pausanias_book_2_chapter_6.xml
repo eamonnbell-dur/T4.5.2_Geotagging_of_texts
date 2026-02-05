@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::67 /TEI[1]/text[1]/body[1]/p[1]::75" xml:id="UID-FAKE-2049">
+        <rs ana="https://topostext.org/place/394223RThs"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::290 /TEI[1]/text[1]/body[1]/p[1]::296" xml:id="UID-FAKE-2050">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::373 /TEI[1]/text[1]/body[1]/p[1]::379" xml:id="UID-FAKE-2051">
+        <rs ana="https://topostext.org/place/383233WAso"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::425 /TEI[1]/text[1]/body[1]/p[1]::431" xml:id="UID-FAKE-2052">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::436 /TEI[1]/text[1]/body[1]/p[1]::443" xml:id="UID-FAKE-2053">
+        <rs ana="https://topostext.org/place/382233PPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::130 /TEI[1]/text[1]/body[1]/p[2]::137" xml:id="UID-FAKE-2054">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::279 /TEI[1]/text[1]/body[1]/p[2]::285" xml:id="UID-FAKE-2055">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::345 /TEI[1]/text[1]/body[1]/p[2]::351" xml:id="UID-FAKE-2056">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::566 /TEI[1]/text[1]/body[1]/p[2]::574" xml:id="UID-FAKE-2057">
+        <rs ana="https://topostext.org/place/383235UEte"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::84 /TEI[1]/text[1]/body[1]/p[3]::90" xml:id="UID-FAKE-2058">
+        <rs ana="https://topostext.org/place/376217UMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::499 /TEI[1]/text[1]/body[1]/p[3]::505" xml:id="UID-FAKE-2059">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::126 /TEI[1]/text[1]/body[1]/p[4]::132" xml:id="UID-FAKE-2060">
+        <rs ana="https://topostext.org/place/383233WAso"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::338 /TEI[1]/text[1]/body[1]/p[4]::344" xml:id="UID-FAKE-2061">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::399 /TEI[1]/text[1]/body[1]/p[4]::405" xml:id="UID-FAKE-2062">
+        <rs ana="https://topostext.org/place/383233XCad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::44 /TEI[1]/text[1]/body[1]/p[5]::52" xml:id="UID-FAKE-2063">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::230 /TEI[1]/text[1]/body[1]/p[5]::236" xml:id="UID-FAKE-2064">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::337 /TEI[1]/text[1]/body[1]/p[5]::345" xml:id="UID-FAKE-2065">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::360 /TEI[1]/text[1]/body[1]/p[5]::366" xml:id="UID-FAKE-2066">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::378 /TEI[1]/text[1]/body[1]/p[5]::385" xml:id="UID-FAKE-2067">
+        <rs ana="https://topostext.org/place/369260PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::256 /TEI[1]/text[1]/body[1]/p[6]::263" xml:id="UID-FAKE-2068">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::293 /TEI[1]/text[1]/body[1]/p[6]::298" xml:id="UID-FAKE-2069">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::321 /TEI[1]/text[1]/body[1]/p[6]::327" xml:id="UID-FAKE-2070">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::386 /TEI[1]/text[1]/body[1]/p[6]::392" xml:id="UID-FAKE-2071">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::420 /TEI[1]/text[1]/body[1]/p[6]::425" xml:id="UID-FAKE-2072">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::501 /TEI[1]/text[1]/body[1]/p[6]::507" xml:id="UID-FAKE-2073">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::53 /TEI[1]/text[1]/body[1]/p[7]::58" xml:id="UID-FAKE-2074">
+        <rs ana="https://topostext.org/place/350246ILet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::203 /TEI[1]/text[1]/body[1]/p[7]::209" xml:id="UID-FAKE-2075">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::376 /TEI[1]/text[1]/body[1]/p[7]::386" xml:id="UID-FAKE-2076">
+        <rs ana="https://topostext.org/place/377228PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::471 /TEI[1]/text[1]/body[1]/p[7]::478" xml:id="UID-FAKE-2077">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::565 /TEI[1]/text[1]/body[1]/p[7]::576" xml:id="UID-FAKE-2078">
+        <rs ana="https://topostext.org/place/377216PHer"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 6</head>
+      <p>Corax died without issue, and at about this time came Epopeus from Thessaly and took the kingdom. In his reign the first hostile army is said to have invaded the land, which before this had enjoyed unbroken peace. The reason was this. Antiope, the daughter of Nycteus, had a name among the Greeks for beauty, and there was also a report that her father was not Nycteus but Asopus, the river that separates the territories of Thebes and Plataea.</p>
+      <p>This woman Epopeus carried off but I do not know whether he asked for her hand or adopted a bolder policy from the beginning. The Thebans came against him in arms, and in the battle Nycteus was wounded. Epopeus also was wounded, but won the day. Nycteus they carried back ill to Thebes, and when he was about to die he appointed to be regent of Thebes his brother Lycus for Labdacus, the son of Polydorus, the son of Cadmus, being still a child, was the ward of Nycteus, who on this occasion entrusted the office of guardian to Lycus. He also besought him to attack Aegialea with a larger army and bring vengeance upon Epopeus; Antiope herself, if taken, was to be punished.</p>
+      <p>As to Epopeus, he forthwith offered sacrifice for his victory and began a temple of Athena, and when this was complete he prayed the goddess to make known whether the temple was finished to her liking, and after the prayer they say that olive oil flowed before the temple. Afterwards Epopeus also died of his wound, which he had neglected at first, so that Lycus had now no need to wage war. For Lamedon, the son of Coronus, who became king after Epopeus, gave up Antiope. As she was being taken to Thebes by way of Eleutherae, she was delivered there on the road.</p>
+      <p>On this matter Asius the son of Amphiptolemus says in his poem: “Zethus and Amphion had Antiope for their mother, Daughter of Asopus, the swift, deep-eddying river, Having conceived of Zeus and Epopeus, shepherd of peoples. Homer traces their descent to the more august side of their family, and says that they were the first founders of Thebes, in my opinion distinguishing the lower city from the Cadmea.</p>
+      <p>When Lamedon became king he took to wife an Athenian woman, Pheno, the daughter of Clytius. Afterwards also, when war had arisen between him and Archander and Architeles, the sons of Achaeus, he brought in as his ally Sicyon from Attica, and gave him Zeuxippe his daughter to wife. This man became king, and the land was named after him Sicyonia, and the city Sicyon instead of Aegiale. But they say that Sicyon was not the son of Marathon, the son of Epopeus, but of Metion the son of Erechtheus. Asius confirms their statement, while Hesiod makes Sicyon the son of Erechtheus, and Ibycus says that his father was Pelops.</p>
+      <p>Sicyon had a daughter Chthonophyle, and they say that she and Hermes were the parents of Polybus. Afterwards she married Phlias, the son of Dionysus, and gave birth to Androdamas. Polybus gave his daughter Lysianassa to Talaus the son of Bias, king of the Argives; and when Adrastus fled from Argos he came to Polybus at Sicyon, and afterwards on the death of Polybus he became king at Sicyon. When Adrastus returned to Argos, Ianiscus, a descendant of Clytius the father-in-law of Lamedon, came from Attica and was made king, and when Ianiscus died he was succeeded by Phaestus, said to have been one of the children of Heracles.</p>
+      <p>After Phaestus in obedience to an oracle migrated to Crete, the next king is said to have been Zeuxippus, the son of Apollo and the nymph Syllis. On the death of Zeuxippus, Agamemnon led an army against Sicyon and king Hippolytus, the son of Rhopalus, the son of Phaestus. In terror of the army that was attacking him, Hippolytus agreed to become subject to Agamemnon and the Mycenaeans. This Hippolytus was the father of Lacestades. Phalces the son of Temenus, with the Dorians, surprised Sicyon by night, but did Lacestades no harm, because he too was one of the Heracleidae, and made him partner in the kingdom.</p>
+    </body>
+  </text>
+</TEI>

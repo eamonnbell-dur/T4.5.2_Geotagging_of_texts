@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::28 /TEI[1]/text[1]/body[1]/p[1]::35" xml:id="UID-FAKE-2416">
+        <rs ana="https://topostext.org/place/377228PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::55 /TEI[1]/text[1]/body[1]/p[1]::62" xml:id="UID-FAKE-2417">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::103 /TEI[1]/text[1]/body[1]/p[1]::114" xml:id="UID-FAKE-2418">
+        <rs ana="https://topostext.org/place/380237SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::116 /TEI[1]/text[1]/body[1]/p[1]::121" xml:id="UID-FAKE-2419">
+        <rs ana="https://topostext.org/place/380237WKle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::257 /TEI[1]/text[1]/body[1]/p[1]::265" xml:id="UID-FAKE-2420">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::267 /TEI[1]/text[1]/body[1]/p[1]::275" xml:id="UID-FAKE-2421">
+        <rs ana="https://topostext.org/place/389231UOre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::22 /TEI[1]/text[1]/body[1]/p[2]::29" xml:id="UID-FAKE-2422">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::133 /TEI[1]/text[1]/body[1]/p[2]::140" xml:id="UID-FAKE-2423">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::187 /TEI[1]/text[1]/body[1]/p[2]::194" xml:id="UID-FAKE-2424">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::62 /TEI[1]/text[1]/body[1]/p[3]::68" xml:id="UID-FAKE-2425">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::202 /TEI[1]/text[1]/body[1]/p[3]::212" xml:id="UID-FAKE-2426">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::635 /TEI[1]/text[1]/body[1]/p[3]::639" xml:id="UID-FAKE-2427">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::136 /TEI[1]/text[1]/body[1]/p[4]::154" xml:id="UID-FAKE-2428">
+        <rs ana="https://topostext.org/place/379214SCha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::231 /TEI[1]/text[1]/body[1]/p[5]::237" xml:id="UID-FAKE-2429">
+        <rs ana="https://topostext.org/place/376228PTir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::278 /TEI[1]/text[1]/body[1]/p[5]::285" xml:id="UID-FAKE-2430">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::296 /TEI[1]/text[1]/body[1]/p[5]::302" xml:id="UID-FAKE-2431">
+        <rs ana="https://topostext.org/place/376228PTir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::331 /TEI[1]/text[1]/body[1]/p[5]::338" xml:id="UID-FAKE-2432">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::256 /TEI[1]/text[1]/body[1]/p[7]::261" xml:id="UID-FAKE-2433">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::342 /TEI[1]/text[1]/body[1]/p[7]::349" xml:id="UID-FAKE-2434">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 17</head>
+      <p>Fifteen stades distant from Mycenae is on the left the Heraeum. Beside the road flows the brook called Eleutherion (Water of Freedom). The priestesses use it in purifications and for such sacrifices as are secret. The sanctuary itself is on a lower part of EuboeaYY. EuboeaYY is the name they give to the hill here, saying that Asterion the river had three daughters, Euboea, Prosymna, and Acraea, and that they were nurses of Hera.</p>
+      <p>The hill opposite the Heraeum they name after Acraea, the environs of the sanctuary they name after Euboea, and the land beneath the Heraeum after Prosymna. This Asterion flows above the Heraeum, and falling into a cleft disappears. On its banks grows a plant, which also is called asterion. They offer the plant itself to Hera, and from its leaves weave her garlands.</p>
+      <p>It is said that the architect of the temple was Eupolemus, an Argive. The sculptures carved above the pillars refer either to the birth of Zeus and the battle between the gods and the giants, or to the Trojan War and the capture of Ilium. Before the entrance stand statues of women who have been priestesses to Hera and of various heroes, including Orestes. They say that Orestes is the one with the inscription saying it represents the Emperor Augustus. In the fore-temple are on the one side ancient statues of the Graces, and on the right a couch of Hera and a votive offering, the shield which Menelaus once took from Euphorbus at Troy.</p>
+      <p>The statue of Hera is seated on a throne; it is huge, made of gold and ivory, and is a work of Polycleitus. She is wearing a crown with Graces and Seasons worked upon it, and in one hand she carries a pomegranate and in the other a sceptre. About the pomegranate I must say nothing, for its story is somewhat of a holy mystery. The presence of a cuckoo seated on the sceptre they explain by the story that when Zeus was in love with Hera in her maidenhood he changed himself into this bird, and she caught it to be her pet. This tale and similar legends about the gods I relate without believing them, but I relate them nevertheless.</p>
+      <p>By the side of Hera stands what is said to be an image of Hebe fashioned by Naucydes; it, too, is of ivory and gold. By its side is an old image of Hera on a pillar. The oldest image is made of wild-pear wood, and was dedicated in Tiryns by Peirasus, son of Argus, and when the Argives destroyed Tiryns they carried it away to the Heraeum. I myself saw it, a small, seated image.</p>
+      <p>Of the votive offerings the following are noteworthy. There is an altar upon which is wrought in relief the fabled marriage of Hebe and Heracles. This is of silver, but the peacock dedicated by the Emperor Hadrian is of gold and gleaming stones. He dedicated it because they hold the bird to be sacred to Hera. There lie here a golden crown and a purple robe, offerings of Nero.</p>
+      <p>Above this temple are the foundations of the earlier temple and such parts of it as were spared by the flames. It was burnt down because sleep overpowered Chryseis, the priestess of Hera, when the lamp before the wreaths set fire to them. Chryseis went to Tegea and supplicated Athena Alea. Although so great a disaster had befallen them the Argives did not take down the statue of Chryseis; it is still in position in front of the burnt temple.</p>
+    </body>
+  </text>
+</TEI>

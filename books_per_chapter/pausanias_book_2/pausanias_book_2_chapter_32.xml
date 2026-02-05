@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::203 /TEI[1]/text[1]/body[1]/p[1]::214" xml:id="UID-FAKE-2953">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::143 /TEI[1]/text[1]/body[1]/p[2]::149" xml:id="UID-FAKE-2954">
+        <rs ana="https://topostext.org/place/379229SApT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::178 /TEI[1]/text[1]/body[1]/p[2]::182" xml:id="UID-FAKE-2955">
+        <rs ana="https://topostext.org/place/399263RTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::238 /TEI[1]/text[1]/body[1]/p[2]::245" xml:id="UID-FAKE-2956">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::302 /TEI[1]/text[1]/body[1]/p[2]::313" xml:id="UID-FAKE-2957">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::385 /TEI[1]/text[1]/body[1]/p[2]::396" xml:id="UID-FAKE-2958">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::401 /TEI[1]/text[1]/body[1]/p[2]::411" xml:id="UID-FAKE-2959">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::458 /TEI[1]/text[1]/body[1]/p[2]::463" xml:id="UID-FAKE-2960">
+        <rs ana="https://topostext.org/place/355242PMin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::635 /TEI[1]/text[1]/body[1]/p[2]::645" xml:id="UID-FAKE-2961">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::647 /TEI[1]/text[1]/body[1]/p[2]::654" xml:id="UID-FAKE-2962">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::162 /TEI[1]/text[1]/body[1]/p[4]::173" xml:id="UID-FAKE-2963">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::315 /TEI[1]/text[1]/body[1]/p[4]::335" xml:id="UID-FAKE-2964">
+        <rs ana="https://topostext.org/place/369273SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::359 /TEI[1]/text[1]/body[1]/p[4]::370" xml:id="UID-FAKE-2965">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::47 /TEI[1]/text[1]/body[1]/p[5]::55" xml:id="UID-FAKE-2966">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::113 /TEI[1]/text[1]/body[1]/p[5]::119" xml:id="UID-FAKE-2967">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::203 /TEI[1]/text[1]/body[1]/p[5]::210" xml:id="UID-FAKE-2968">
+        <rs ana="https://topostext.org/place/374253SSan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::65 /TEI[1]/text[1]/body[1]/p[6]::74" xml:id="UID-FAKE-2969">
+        <rs ana="https://topostext.org/place/384223UPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::111 /TEI[1]/text[1]/body[1]/p[6]::121" xml:id="UID-FAKE-2970">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::199 /TEI[1]/text[1]/body[1]/p[6]::208" xml:id="UID-FAKE-2971">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::218 /TEI[1]/text[1]/body[1]/p[6]::227" xml:id="UID-FAKE-2972">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::401 /TEI[1]/text[1]/body[1]/p[6]::416" xml:id="UID-FAKE-2973">
+        <rs ana="https://topostext.org/place/370274PHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::420 /TEI[1]/text[1]/body[1]/p[6]::427" xml:id="UID-FAKE-2974">
+        <rs ana="https://topostext.org/place/375233UEio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::517 /TEI[1]/text[1]/body[1]/p[6]::524" xml:id="UID-FAKE-2975">
+        <rs ana="https://topostext.org/place/375233UEio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::48 /TEI[1]/text[1]/body[1]/p[7]::56" xml:id="UID-FAKE-2976">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::82 /TEI[1]/text[1]/body[1]/p[7]::90" xml:id="UID-FAKE-2977">
+        <rs ana="https://topostext.org/place/383233WDir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::110 /TEI[1]/text[1]/body[1]/p[7]::117" xml:id="UID-FAKE-2978">
+        <rs ana="https://topostext.org/place/380237FLW1"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::149 /TEI[1]/text[1]/body[1]/p[7]::168" xml:id="UID-FAKE-2979">
+        <rs ana="https://topostext.org/place/380237SThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::46 /TEI[1]/text[1]/body[1]/p[9]::56" xml:id="UID-FAKE-2980">
+        <rs ana="https://topostext.org/place/361333UKel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::85 /TEI[1]/text[1]/body[1]/p[9]::95" xml:id="UID-FAKE-2981">
+        <rs ana="https://topostext.org/place/380237AAmz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::97 /TEI[1]/text[1]/body[1]/p[9]::107" xml:id="UID-FAKE-2982">
+        <rs ana="https://topostext.org/place/380237AAmz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::228 /TEI[1]/text[1]/body[1]/p[9]::235" xml:id="UID-FAKE-2983">
+        <rs ana="https://topostext.org/place/380237AAmz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::299 /TEI[1]/text[1]/body[1]/p[9]::305" xml:id="UID-FAKE-2984">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::330 /TEI[1]/text[1]/body[1]/p[9]::339" xml:id="UID-FAKE-2985">
+        <rs ana="https://topostext.org/place/380237AAmz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::28 /TEI[1]/text[1]/body[1]/p[10]::41" xml:id="UID-FAKE-2986">
+        <rs ana="https://topostext.org/place/378233HPog"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::78 /TEI[1]/text[1]/body[1]/p[10]::81" xml:id="UID-FAKE-2987">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::92 /TEI[1]/text[1]/body[1]/p[10]::103" xml:id="UID-FAKE-2988">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::109 /TEI[1]/text[1]/body[1]/p[10]::120" xml:id="UID-FAKE-2989">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::215 /TEI[1]/text[1]/body[1]/p[10]::219" xml:id="UID-FAKE-2990">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::347 /TEI[1]/text[1]/body[1]/p[10]::355" xml:id="UID-FAKE-2991">
+        <rs ana="https://topostext.org/place/379240SBra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::483 /TEI[1]/text[1]/body[1]/p[10]::490" xml:id="UID-FAKE-2992">
+        <rs ana="https://topostext.org/place/371224SAKy"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 32</head>
+      <p>To Hippolytus, the son of Theseus, is devoted a very famous precinct, in which is a temple with an old image. Diomedes, they say, made these, and, moreover, was the first to sacrifice to Hippolytus. The Troezenians have a priest of Hippolytus, who holds his sacred office for life, and annual sacrifices have been established. They also observe the following custom. Every maiden before marriage cuts off a lock for Hippolytus, and, having cut it, she brings it to the temple and dedicates it. They will not have it that he was dragged to death by his horses, and, though they know his grave, they do not show it. But they believe that what is called the Charioteer in the sky is the Hippolytus of the legend, such being the honor he enjoys from the gods.</p>
+      <p>Within this enclosure is a temple of Apollo Epibaterios (Seafaring), an offering of Diomedes for having weathered the storm that came upon the Greeks as they were returning from Troy. They say that Diomedes was also the first to hold the Pythian games in honor of Apollo. Of Damia and Auxesia (for the Troezenians, too, share in their worship) they do not give the same account as the Epidaurians and Aeginetans, but say that they were maidens who came from Crete. A general insurrection having arisen in the city, these too, they say, were stoned to death by the opposite party; and they hold a festival in their honor that they call Lithobolia (Stoning).</p>
+      <p>In the other part of the enclosure is a race-course called that of Hippolytus, and above it a temple of Aphrodite Kataskopia (Spy). For from here, whenever Hippolytus practised his exercises, Phaedra, who was in love with him, used to gaze upon him. Here there still grew the myrtle, with its leaves, as I have described above, pierced with holes. When Phaedra was in despair and could find no relief for her passion, she used to vent her spleen upon the leaves of this myrtle.</p>
+      <p>There is also the grave of Phaedra, not far from the tomb of Hippolytus, which is a barrow near the myrtle. The image of Asclepius was made by Timotheus, but the Troezenians say that it is not Asclepius, but a likeness of Hippolytus. I remember, too, seeing the house of Hippolytus; before it is what is called the Fountain of Heracles, for Heracles, say the Troezenians, discovered the water.</p>
+      <p>On the acropolis is a temple of Athena, called Sthenias. The xoanon itself of the goddess was made by Callon, of Aegina. Callon was a pupil of Tectaeus and Angelion, who made the image of Apollo for the Delians. Angelion and Tectaeus were trained in the school of Dipoenus and Scyllis.</p>
+      <p>On going down from here you come to a sanctuary of Pan Lyterius (Releasing), so named because he showed to the Troezenian magistrates dreams which supplied a cure for the epidemic that had afflicted Troezenia, and the Athenians more than any other people. Having crossed the sanctuary, you can see a temple of Isis, and above it one of Aphrodite Akraia (of the promontory). The temple was made by the Halicarnassians in Troezen, because this is their mother-city, but the image of Isis was dedicated by the people of Troezen.</p>
+      <p>On the road that leads through the mountains to Hermione is a spring of the river Hyllicus, originally called Taurius (Bull-like), and a rock called the Rock of Theseus; when Theseus took up the boots and sword of Aegeus under it, it, too, changed its name, for before it was called the altar of Zeus Sthenius (Strong). Near the rock is a sanctuary of Aphrodite Nymphia (Bridal), made by Theseus when he took Helen to wife.</p>
+      <p>Outside the wall there is also a sanctuary of Poseidon Phytalmios (Nurturer). For they say that, being wroth with them, Poseidon smote the land with barrenness, brine (halme) reaching the seeds and the roots of the plants (phyta), until, appeased by sacrifices and prayers, he ceased to send up the brine upon the earth. Above the temple of Poseidon is Demeter Thesmophoros (Lawbringer), set up, they say, by Althepus.</p>
+      <p>On going down to the harbor at what is called Celenderis, you come to a place called Birthplace (Genethlion), where Theseus is said to have been born. Before this place is a temple of Ares, for here also did Theseus conquer the Amazons in battle. These must have belonged to the army that strove in Attica against Theseus and the Athenians.</p>
+      <p>As you make your way to the Psiphaean Sea you see a wild olive growing, which they call the Bent Rhacos. The Troezenians call rhacos every kind of barren olive — cotinos, phylia, or elaios — and this tree they call Bent because it was when the reins caught in it that the chariot of Hippolytus was upset. Not far from this stands the sanctuary of Saronian Artemis, and I have already given an account of it. I must add that every year they hold in honor of Artemis a festival called Saronia.</p>
+    </body>
+  </text>
+</TEI>

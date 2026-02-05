@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::224 /TEI[1]/text[1]/body[1]/p[1]::233" xml:id="UID-FAKE-3072">
+        <rs ana="https://topostext.org/place/374224SArL"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::187 /TEI[1]/text[1]/body[1]/p[2]::194" xml:id="UID-FAKE-3073">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::244 /TEI[1]/text[1]/body[1]/p[2]::250" xml:id="UID-FAKE-3074">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::40 /TEI[1]/text[1]/body[1]/p[3]::51" xml:id="UID-FAKE-3075">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::98 /TEI[1]/text[1]/body[1]/p[3]::104" xml:id="UID-FAKE-3076">
+        <rs ana="https://topostext.org/place/371252QLyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::384 /TEI[1]/text[1]/body[1]/p[3]::392" xml:id="UID-FAKE-3077">
+        <rs ana="https://topostext.org/place/379281ULei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::63 /TEI[1]/text[1]/body[1]/p[4]::67" xml:id="UID-FAKE-3078">
+        <rs ana="https://topostext.org/place/374232LPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::99 /TEI[1]/text[1]/body[1]/p[4]::110" xml:id="UID-FAKE-3079">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::205 /TEI[1]/text[1]/body[1]/p[4]::211" xml:id="UID-FAKE-3080">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::249 /TEI[1]/text[1]/body[1]/p[4]::256" xml:id="UID-FAKE-3081">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::561 /TEI[1]/text[1]/body[1]/p[4]::568" xml:id="UID-FAKE-3082">
+        <rs ana="https://topostext.org/place/374232SDCh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::612 /TEI[1]/text[1]/body[1]/p[4]::623" xml:id="UID-FAKE-3083">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::62 /TEI[1]/text[1]/body[1]/p[8]::73" xml:id="UID-FAKE-3084">
+        <rs ana="https://topostext.org/place/365224SDeK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::444 /TEI[1]/text[1]/body[1]/p[8]::454" xml:id="UID-FAKE-3085">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::99 /TEI[1]/text[1]/body[1]/p[9]::107" xml:id="UID-FAKE-3086">
+        <rs ana="https://topostext.org/place/374232SDCh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::216 /TEI[1]/text[1]/body[1]/p[9]::222" xml:id="UID-FAKE-3087">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::40 /TEI[1]/text[1]/body[1]/p[10]::44" xml:id="UID-FAKE-3088">
+        <rs ana="https://topostext.org/place/374232SDCh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::114 /TEI[1]/text[1]/body[1]/p[10]::122" xml:id="UID-FAKE-3089">
+        <rs ana="https://topostext.org/place/374232SDCh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::163 /TEI[1]/text[1]/body[1]/p[10]::175" xml:id="UID-FAKE-3090">
+        <rs ana="https://topostext.org/place/376216BOES"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::268 /TEI[1]/text[1]/body[1]/p[10]::276" xml:id="UID-FAKE-3091">
+        <rs ana="https://topostext.org/place/374232SDCh"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::305 /TEI[1]/text[1]/body[1]/p[10]::316" xml:id="UID-FAKE-3092">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::330 /TEI[1]/text[1]/body[1]/p[10]::338" xml:id="UID-FAKE-3093">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::348 /TEI[1]/text[1]/body[1]/p[10]::355" xml:id="UID-FAKE-3094">
+        <rs ana="https://topostext.org/place/398223SPlP"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::365 /TEI[1]/text[1]/body[1]/p[10]::380" xml:id="UID-FAKE-3095">
+        <rs ana="https://topostext.org/place/393208WAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::444 /TEI[1]/text[1]/body[1]/p[10]::452" xml:id="UID-FAKE-3096">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::534 /TEI[1]/text[1]/body[1]/p[10]::545" xml:id="UID-FAKE-3097">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::62 /TEI[1]/text[1]/body[1]/p[11]::67" xml:id="UID-FAKE-3098">
+        <rs ana="https://topostext.org/place/374231UMas"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 35</head>
+      <p>Near the latter is a temple of Dionysus of the Black Goatskin. In his honor every year they hold a competition in music, and they offer prizes for swimming-races and boat-races. There is also a sanctuary of Artemis surnamed Iphigenia, and a bronze Poseidon with one foot upon a dolphin. Passing by this into the sanctuary of Hestia, we see no image, but only an altar, and they sacrifice to Hestia upon it.</p>
+      <p>Of Apollo there are three temples and three images. One has no surname; the second they call Pythaeus, and the third Horios (of the Borders). The name Pythaeus they have learned from the Argives, for Telesilla tells us that they were the first Greeks to whose country came Pythaeus, who was a son of Apollo. I cannot say for certain why they call the third Horios, but I conjecture that they won a victory, either in war or by arbitration, in a dispute concerning the borders (horoi) of their land, and for this reason paid honors to Apollo Horios.</p>
+      <p>The sanctuary of Fortune is said by the Hermionians to be the newest in their city; a colossus of Parian marble stands there. Of their wells, one is very old; nobody can see the water flowing into it, but it would never run dry, even if everybody descended and drew water from it. Another well they made in our own day, and the name of the place from which the water flows into it is LeimonYY (Meadow).</p>
+      <p>The object most worthy of mention is a sanctuary of Demeter on Pron. This sanctuary is said by the Hermionians to have been founded by Clymenus, son of Phoroneus, and Chthonia, sister of Clymenus. But the Argive account is that when Demeter came to Argolis, while Atheras and Mysius afforded hospitality to the goddess, Colontas neither received her into his home nor paid her any other mark of respect. His daughter Chthonia disapproved of this conduct. They say that Colontas was punished by being burnt up along with his house, while Chthonia was brought to Hermion by Demeter, and made the sanctuary for the Hermionians.</p>
+      <p>At any rate, the goddess herself is called Chthonia, and Chthonia is the name of the festival they hold in the summer of every year. The manner of it is this. The procession is headed by the priests of the gods and by all those who hold the annual magistracies; these are followed by both men and women. It is now a custom that some who are still children should honor the goddess in the procession. These are dressed in white, and wear wreaths upon their heads. Their wreaths are woven of the flower called by the natives cosmosandalon, which, from its size and color, seems to me to be an iris; it even has inscribed upon it the same letters of mourning.</p>
+      <p>Those who form the procession are followed by men leading from the herd a full-grown cow, fastened with ropes, and still untamed and frisky. Having driven the cow to the temple, some loose her from the ropes that she may rush into the sanctuary, others, who hitherto have been holding the doors open, when they see the cow within the temple, close the doors.</p>
+      <p>Four old women, left behind inside, are they who dispatch the cow. Whichever gets the chance cuts the throat of the cow with a sickle. Afterwards the doors are opened, and those who are appointed drive up a second cow, and a third after that, and yet a fourth. All are dispatched in the same way by the old women, and the sacrifice has yet another strange feature. On whichever of her sides the first cow falls, all the others must fall on the same.</p>
+      <p>Such is the manner in which the sacrifice is performed by the Hermionians. Before the temple stand a few statues of the women who have served Demeter as her priestess, and on passing inside you see seats on which the old women wait for the cows to be driven in one by one, and images, of no great age, of Athena and Demeter. But the thing itself that they worship more than all else, I never saw, nor yet has any other man, whether stranger or Hermionian. The old women may keep their knowledge of its nature to themselves.</p>
+      <p>There is also another temple, all round which stand statues. This temple is right opposite that of Chthonia, and is called that of Clymenus, and they sacrifice to Clymenus here. I do not believe that Clymenus was an Argive who came to Hermion “Clymenus” is the surname of the god, whoever legend says is king in the underworld.</p>
+      <p>Beside this temple is another; it is of Ares, and has an image of the god, while to the right of the sanctuary of Chthonia is a portico, called by the natives the Stoa of Echo. It is such that if a man speaks it reverberates at least three times. Behind the temple of Chthonia are three places, which the Hermionians call that of Clymenus, that of Plouton, and the Acherusian Lake. All are surrounded by fences of stones, while in the place of Clymenus there is also a chasm in the earth. Through this, according to the legend of the Hermionians, Heracles brought up the hound of Hades.</p>
+      <p>At the gate through which there is a straight road leading to Mases, there is a sanctuary of Eileithyia within the wall. Every day, both with sacrifices and with incense, they magnificently propitiate the goddess, and, moreover, there is a vast number of votive gifts offered to Eileithyia. But the image no one may see, except, perhaps, the priestesses.</p>
+    </body>
+  </text>
+</TEI>

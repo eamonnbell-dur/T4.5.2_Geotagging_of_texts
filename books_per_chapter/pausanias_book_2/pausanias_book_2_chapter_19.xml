@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::32 /TEI[1]/text[1]/body[1]/p[2]::39" xml:id="UID-FAKE-2471">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::40 /TEI[1]/text[1]/body[1]/p[3]::45" xml:id="UID-FAKE-2472">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::125 /TEI[1]/text[1]/body[1]/p[3]::133" xml:id="UID-FAKE-2473">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::280 /TEI[1]/text[1]/body[1]/p[3]::288" xml:id="UID-FAKE-2474">
+        <rs ana="https://topostext.org/place/365224SDeK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::398 /TEI[1]/text[1]/body[1]/p[3]::403" xml:id="UID-FAKE-2475">
+        <rs ana="https://topostext.org/place/376227SApD"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::166 /TEI[1]/text[1]/body[1]/p[4]::173" xml:id="UID-FAKE-2476">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::172 /TEI[1]/text[1]/body[1]/p[5]::179" xml:id="UID-FAKE-2477">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::216 /TEI[1]/text[1]/body[1]/p[5]::221" xml:id="UID-FAKE-2478">
+        <rs ana="https://topostext.org/place/378227SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::492 /TEI[1]/text[1]/body[1]/p[6]::499" xml:id="UID-FAKE-2479">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::329 /TEI[1]/text[1]/body[1]/p[8]::335" xml:id="UID-FAKE-2480">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::675 /TEI[1]/text[1]/body[1]/p[8]::684" xml:id="UID-FAKE-2481">
+        <rs ana="https://topostext.org/place/386231ROpu"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 19</head>
+      <p>It is not to my purpose that I should set forth here the history of Cresphontes and of the sons of Aristodemus. But Temenus openly employed, instead of his sons, Delphontes, son of Antimachus, son of Thrasyanor, son of Ctesippus, son of Heracles, as general in war and as adviser on all occasions. Even before this he had made him his son-in-law, while Hyrnetho was his favorite daughter; he was accordingly suspected of intending to divert the throne to her and Delphontes. For this reason his sons plotted against him, and Ceisus, the eldest of them, seized the kingdom.</p>
+      <p>But from the earliest times the Argives have loved freedom and self-government, and they limited to the utmost the authority of their kings, so that to Medon, the son of Ceisus, and to his descendants was left a kingdom that was such only in name. Meltas, the son of Lacedas, the tenth descendant of Medon, was condemned by the people and deposed altogether from the kingship.</p>
+      <p>The most famous building in the city of Argos is the sanctuary of Apollo Lycius (Wolf-god). The modern image was made by the Athenian Attalus, but the original temple and xoanon (wooden image) were the offering of Danaus. I am of opinion that in those days all images, especially Egyptian images, were made of wood. The reason why Danaus founded a sanctuary of Apollo Lycius was this. On coming to Argos he claimed the kingdom against Gelanor, the son of Sthenelas. Many plausible arguments were brought forward by both parties, and those of Sthenelas were considered as fair as those of his opponent; so the people, who were sitting in judgment, put off, they say, the decision to the following day.</p>
+      <p>At dawn a wolf fell upon a herd of oxen that was pasturing before the wall, and attacked and fought with the bull that was the leader of the herd. It occurred to the Argives that Gelanor was like the bull and Danaus like the wolf, for as the wolf will not live with men, so Danaus up to that time had not lived with them. It was because the wolf overcame the bull that Danaus won the kingdom. Accordingly, believing that Apollo had brought the wolf on the herd, he founded a sanctuary of Apollo Lycius.</p>
+      <p>Here is dedicated the throne of Danaus, and here is placed a statue of Biton, in the form of a man carrying a bull on his shoulders. According to the poet Lyceas, when the Argives were holding a sacrifice to Zeus at Nemea, Biton by sheer physical strength took up a bull and carried it there. Next to this statue is a fire which they keep burning, calling it the fire of Phoroneus. For they do not admit that fire was given to mankind by Prometheus, but insist in assigning the discovery of fire to Phoroneus.</p>
+      <p>As to the wooden images of Aphrodite and Hermes, the one they say was made by Epeus, while the other is a votive offering of Hypermestra. She was the only one of the daughters of Danaus who neglected his command, and was accordingly brought to justice by him, because be considered that his life was in danger so long as Lynceus was at large, and that the refusal to share in the crime of her sisters increased the disgrace of the contriver of the deed. On her trial she was acquitted by the Argives, and to commemorate her escape she dedicated an image of Aphrodite Nikephoros (bringer of victory).</p>
+      <p>Within the temple is a statue of Ladas, the swiftest runner of his time, and one of Hermes with a tortoise which he has caught to make a lyre. Before the temple is a pit with a relief representing a fight between a bull and a wolf, and with them a maiden throwing a rock at the bull. The maiden is thought to be Artemis. Danaus dedicated these, and some pillars hard by and xoana of Zeus and Artemis.</p>
+      <p>Here are graves; one is that of Linus, the son of Apollo by Psamathe, the daughter of Crotopus; the other, they say, is that of Linus the poet. The story of the latter Linus is more appropriate to another part of my narrative, and so I omit it here, while I have already given the history of the son of Psamathe in my account of Megara. After these is an image of Apollo Agyieus (of streets), and an altar of Zeus Hyetios (of Rain), where those who were helping Polyneices in his efforts to be restored to Thebes swore an oath together that they would either capture Thebes or die. As to the tomb of Prometheus, their account seems to me to be less probable than that of the Opuntians, but they hold to it nevertheless.</p>
+    </body>
+  </text>
+</TEI>

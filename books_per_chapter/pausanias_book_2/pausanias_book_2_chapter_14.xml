@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::0 /TEI[1]/text[1]/body[1]/p[1]::6" xml:id="UID-FAKE-2323">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::328 /TEI[1]/text[1]/body[1]/p[1]::335" xml:id="UID-FAKE-2324">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::383 /TEI[1]/text[1]/body[1]/p[1]::393" xml:id="UID-FAKE-2325">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::405 /TEI[1]/text[1]/body[1]/p[1]::415" xml:id="UID-FAKE-2326">
+        <rs ana="https://topostext.org/place/373222UPha"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::469 /TEI[1]/text[1]/body[1]/p[1]::476" xml:id="UID-FAKE-2327">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::143 /TEI[1]/text[1]/body[1]/p[2]::150" xml:id="UID-FAKE-2328">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::206 /TEI[1]/text[1]/body[1]/p[2]::215" xml:id="UID-FAKE-2329">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::248 /TEI[1]/text[1]/body[1]/p[2]::258" xml:id="UID-FAKE-2330">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::301 /TEI[1]/text[1]/body[1]/p[2]::311" xml:id="UID-FAKE-2331">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::333 /TEI[1]/text[1]/body[1]/p[2]::343" xml:id="UID-FAKE-2332">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::490 /TEI[1]/text[1]/body[1]/p[2]::497" xml:id="UID-FAKE-2333">
+        <rs ana="https://topostext.org/place/380235PEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::93 /TEI[1]/text[1]/body[1]/p[3]::103" xml:id="UID-FAKE-2334">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::439 /TEI[1]/text[1]/body[1]/p[3]::449" xml:id="UID-FAKE-2335">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::47 /TEI[1]/text[1]/body[1]/p[4]::57" xml:id="UID-FAKE-2336">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::136 /TEI[1]/text[1]/body[1]/p[4]::142" xml:id="UID-FAKE-2337">
+        <rs ana="https://topostext.org/place/376218SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::274 /TEI[1]/text[1]/body[1]/p[4]::284" xml:id="UID-FAKE-2338">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::502 /TEI[1]/text[1]/body[1]/p[4]::508" xml:id="UID-FAKE-2339">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::556 /TEI[1]/text[1]/body[1]/p[4]::565" xml:id="UID-FAKE-2340">
+        <rs ana="https://topostext.org/place/389208PAna"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 14</head>
+      <p>Celeae is some five stades distant from the city, and here they celebrate the mysteries in honor of Demeter, not every year but every fourth year. The hierophant is not appointed for life, but at each celebration they elect a fresh one, who takes, if he cares to do so, a wife. In this respect their custom differs from that at Eleusis, but the actual celebration is modelled on the Eleusinian rites. The Phliasians themselves admit that they copy the “performance” at Eleusis.</p>
+      <p>They say that it was Dysaules, the brother of Celeus, who came to their land and established the mysteries, and that he had been expelled from Eleusis by Ion, when Ion, the son of Xuthus, was chosen by the Athenians to be commander-in-chief in the Eleusinian war. Now I cannot possibly agree with the Phliasians in supposing that an Eleusinian was conquered in battle and driven away into exile, for the war terminated in a treaty before it was fought out, and Eumolpus himself remained at Eleusis.</p>
+      <p>But it is possible that Dysaules came to Phlius for some other reason than that given by the Phliasians. I do not believe either that he was related to Celeus, or that he was in any way distinguished at Eleusis, otherwise Homer would never have passed him by in his poems. For Homer is one of those who have written in honor of Demeter, and when he is making a list of those to whom the goddess taught the mysteries he knows nothing of an Eleusinian named Dysaules. These are the verses: “She to Triptolemus taught, and to Diocles, driver of horses, Also to mighty Eumolpus, to Celeus, leader of peoples, Cult of the holy rites, to them all her mystery telling.</p>
+      <p>At all events, this Dysaules, according to the Phliasians, established the mysteries here, and he it was who gave to the place the name Celeae. I have already said that the tomb of Dysaules is here. So the grave of Aras was made earlier, for according to the account of the Phliasians Dysaules did not arrive in the reign of Aras, but later. For Aras, they say, was a contemporary of Prometheus, the son of Iapetus, and three generations of men older than Pelasgus the son of Arcas and those called at Athens aboriginals. On the roof of what is called the Anactorum they say is dedicated the chariot of Pelops.</p>
+    </body>
+  </text>
+</TEI>

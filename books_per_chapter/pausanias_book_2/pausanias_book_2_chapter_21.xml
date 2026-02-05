@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::181 /TEI[1]/text[1]/body[1]/p[1]::191" xml:id="UID-FAKE-2519">
+        <rs ana="https://topostext.org/place/379240SBra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::376 /TEI[1]/text[1]/body[1]/p[1]::381" xml:id="UID-FAKE-2520">
+        <rs ana="https://topostext.org/place/376227SApD"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::183 /TEI[1]/text[1]/body[1]/p[3]::189" xml:id="UID-FAKE-2521">
+        <rs ana="https://topostext.org/place/385280RLyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::274 /TEI[1]/text[1]/body[1]/p[3]::281" xml:id="UID-FAKE-2522">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::447 /TEI[1]/text[1]/body[1]/p[3]::453" xml:id="UID-FAKE-2523">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::472 /TEI[1]/text[1]/body[1]/p[3]::485" xml:id="UID-FAKE-2524">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::504 /TEI[1]/text[1]/body[1]/p[3]::513" xml:id="UID-FAKE-2525">
+        <rs ana="https://topostext.org/place/353252PKno"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::615 /TEI[1]/text[1]/body[1]/p[3]::622" xml:id="UID-FAKE-2526">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::88 /TEI[1]/text[1]/body[1]/p[4]::95" xml:id="UID-FAKE-2527">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::481 /TEI[1]/text[1]/body[1]/p[4]::487" xml:id="UID-FAKE-2528">
+        <rs ana="https://topostext.org/place/379239RAtt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::42 /TEI[1]/text[1]/body[1]/p[5]::47" xml:id="UID-FAKE-2529">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::108 /TEI[1]/text[1]/body[1]/p[5]::114" xml:id="UID-FAKE-2530">
+        <rs ana="https://topostext.org/place/376227SAsp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::275 /TEI[1]/text[1]/body[1]/p[5]::288" xml:id="UID-FAKE-2531">
+        <rs ana="https://topostext.org/place/000000WTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::324 /TEI[1]/text[1]/body[1]/p[5]::331" xml:id="UID-FAKE-2532">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::479 /TEI[1]/text[1]/body[1]/p[5]::491" xml:id="UID-FAKE-2533">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::612 /TEI[1]/text[1]/body[1]/p[5]::618" xml:id="UID-FAKE-2534">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::38 /TEI[1]/text[1]/body[1]/p[6]::50" xml:id="UID-FAKE-2535">
+        <rs ana="https://topostext.org/place/371101UUti"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::182 /TEI[1]/text[1]/body[1]/p[6]::188" xml:id="UID-FAKE-2536">
+        <rs ana="https://topostext.org/place/298200RNas"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::299 /TEI[1]/text[1]/body[1]/p[6]::303" xml:id="UID-FAKE-2537">
+        <rs ana="https://topostext.org/place/419125PRom"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::360 /TEI[1]/text[1]/body[1]/p[6]::373" xml:id="UID-FAKE-2538">
+        <rs ana="https://topostext.org/place/000000WTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::519 /TEI[1]/text[1]/body[1]/p[6]::532" xml:id="UID-FAKE-2539">
+        <rs ana="https://topostext.org/place/000000WTri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::3 /TEI[1]/text[1]/body[1]/p[7]::8" xml:id="UID-FAKE-2540">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::46 /TEI[1]/text[1]/body[1]/p[7]::52" xml:id="UID-FAKE-2541">
+        <rs ana="https://topostext.org/place/376227BThA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::82 /TEI[1]/text[1]/body[1]/p[7]::89" xml:id="UID-FAKE-2542">
+        <rs ana="https://topostext.org/place/377228GPrT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::81 /TEI[1]/text[1]/body[1]/p[8]::87" xml:id="UID-FAKE-2543">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::139 /TEI[1]/text[1]/body[1]/p[8]::146" xml:id="UID-FAKE-2544">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::246 /TEI[1]/text[1]/body[1]/p[8]::252" xml:id="UID-FAKE-2545">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::262 /TEI[1]/text[1]/body[1]/p[8]::275" xml:id="UID-FAKE-2546">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::332 /TEI[1]/text[1]/body[1]/p[8]::339" xml:id="UID-FAKE-2547">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::442 /TEI[1]/text[1]/body[1]/p[8]::446" xml:id="UID-FAKE-2548">
+        <rs ana="https://topostext.org/place/362293SLet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::8 /TEI[1]/text[1]/body[1]/p[10]::15" xml:id="UID-FAKE-2549">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 21</head>
+      <p>Having descended thence, and having turned again to the agora, we come to the tomb of Cerdo, the wife of Phoroneus, and to a temple of Asclepius. The sanctuary of Artemis, surnamed Persuasion, is another offering of Hypermestra after winning the trial to which she was brought by her father because of Lynceus. Here there is also a bronze statue of Aeneas, and a place called Delta. I intentionally do not discuss the origin of the name, because I could not accept the traditional accounts.</p>
+      <p>In front of it stands an altar of Zeus Phyxius (God of Flight), and near is the tomb of Hypermestra, the mother of Amphiaraus, the other tomb being that of Hypermestra, the daughter of Danaus, with whom is also buried Lynceus. Opposite these is the grave of Talaus, the son of Bias; the history of Bias and his descendants I have already given.</p>
+      <p>A sanctuary of Athena Salpinx (trumpet) they say was founded by Hegeleos. This Hegeleos, according to the story, was the son of Tyrsenus, and Tyrsenus was the son of Heracles and the Lydian woman; Tyrsenus invented the trumpet, and Hegeleos, the son of Tyrsenus, taught the Dorians with Temenus how to play the instrument, and for this reason gave Athena the surname Salpinx. Before the temple of Athena is, they say, the grave of Epimenides. The Argive story is that the Lacedemonians made war upon the Cnossians and took Epimenides alive; they then put him to death for not prophesying good luck to them, and the Argives taking his body buried it here.</p>
+      <p>The building of white marble in just about the middle of the marketplace is not, as the Argives declare, a trophy in honor of a victory over Pyrrhus of Epeirus, but it can be shown that his body was burnt here, and that this is his monument, on which are carved in relief the elephants and his other instruments of warfare. This building then was set up where the pyre stood, but the bones of Pyrrhus lie in the sanctuary of Demeter, beside which, as I have shown in my account of Attica, his death occurred. At the entrance to this sanctuary of Demeter you can see a bronze shield of Pyrrhus hanging dedicated over the door.</p>
+      <p>Not far from the building in the agora of Argos is a mound of earth, in which they say lies the head of the Gorgon Medusa. I omit the miraculous, but give the rational parts of the story about her. After the death of her father, Phorcus, she reigned over those living around Lake Tritonis, going out hunting and leading the Libyans to battle. On one such occasion, when she was encamped with an army over against the forces of Perseus, who was followed by picked troops from the Peloponnesus, she was assassinated by night. Perseus, admiring her beauty even in death, cut off her head and carried it to show the Greeks.</p>
+      <p>But Procles, the son of EucratesYY, a Carthaginian, thought a different account more plausible than the preceding. It is as follows. Among the incredible monsters to be found in the Libyan desert are wild men and wild women. Procles affirmed that he had seen a man from them who had been brought to Rome. So he guessed that a woman wandered from them, reached Lake Tritonis, and harried the neighbours until Perseus killed her; Athena was supposed to have helped him in this exploit, because the people who live around Lake Tritonis are sacred to her.</p>
+      <p>In Argos, by the side of this monument of the Gorgon, is the grave of Gorgophone (Gorgon-killer), the daughter of Perseus. As soon as you hear the name you can understand the reason why it was given her. On the death of her husband, Perieres, the son of Aeolus, whom she married when a virgin, she married Oebalus, being the first woman, they say, to marry a second time; for before this wives were wont, on the death of their husbands, to live as widows.</p>
+      <p>In front of the grave is a trophy of stone made to commemorate a victory over an Argive Laphaes. When this man was tyrant I write what the Argives themselves say concerning themselves — the people rose up against him and cast him out. He fled to Sparta, and the Lacedemonians tried to restore him to power, but were defeated by the Argives, who killed the greater part of them and Laphaes as well. Not far from the trophy is the sanctuary of Leto; the image is a work of Praxiteles.</p>
+      <p>The statue of the maiden beside the goddess they call Chloris (Pale), saying that she was a daughter of Niobe, and that she was called Meliboea at the first. When the children of Amphion were destroyed by Apollo and Artemis, she alone of her sisters, along with Amyclas, escaped; their escape was due to their prayers to Leto. Meliboea was struck so pale by her fright, not only at the time but also for the rest of her life, that even her name was accordingly changed from Meliboea to Chloris.</p>
+      <p>Now the Argives say that these two built originally the temple to Leto, but I think that none of Niobe"s children survived, for I place more reliance than others on the poetry of Homer, one of whose verses bears out my view: “Though they were only two, yet they gave all to destruction.” So Homer knows that the house of Amphion was utterly overthrown.</p>
+    </body>
+  </text>
+</TEI>

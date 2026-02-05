@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::16 /TEI[1]/text[1]/body[1]/p[1]::23" xml:id="UID-FAKE-2915">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::184 /TEI[1]/text[1]/body[1]/p[1]::189" xml:id="UID-FAKE-2916">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::119 /TEI[1]/text[1]/body[1]/p[2]::124" xml:id="UID-FAKE-2917">
+        <rs ana="https://topostext.org/place/000000GHad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::180 /TEI[1]/text[1]/body[1]/p[2]::185" xml:id="UID-FAKE-2918">
+        <rs ana="https://topostext.org/place/379214STHa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::329 /TEI[1]/text[1]/body[1]/p[2]::334" xml:id="UID-FAKE-2919">
+        <rs ana="https://topostext.org/place/000000GHad"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::507 /TEI[1]/text[1]/body[1]/p[3]::516" xml:id="UID-FAKE-2920">
+        <rs ana="https://topostext.org/place/376231GBtg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::535 /TEI[1]/text[1]/body[1]/p[3]::540" xml:id="UID-FAKE-2921">
+        <rs ana="https://topostext.org/place/383231SMus"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::45 /TEI[1]/text[1]/body[1]/p[4]::52" xml:id="UID-FAKE-2922">
+        <rs ana="https://topostext.org/place/386229SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::228 /TEI[1]/text[1]/body[1]/p[4]::235" xml:id="UID-FAKE-2923">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::291 /TEI[1]/text[1]/body[1]/p[4]::298" xml:id="UID-FAKE-2924">
+        <rs ana="https://topostext.org/place/380237AAmz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::451 /TEI[1]/text[1]/body[1]/p[4]::467" xml:id="UID-FAKE-2925">
+        <rs ana="https://topostext.org/place/371224SAKy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::507 /TEI[1]/text[1]/body[1]/p[4]::514" xml:id="UID-FAKE-2926">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::13 /TEI[1]/text[1]/body[1]/p[5]::27" xml:id="UID-FAKE-2927">
+        <rs ana="https://topostext.org/place/379240SBra"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::426 /TEI[1]/text[1]/body[1]/p[5]::434" xml:id="UID-FAKE-2928">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::26 /TEI[1]/text[1]/body[1]/p[6]::32" xml:id="UID-FAKE-2929">
+        <rs ana="https://topostext.org/place/359233SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::108 /TEI[1]/text[1]/body[1]/p[6]::117" xml:id="UID-FAKE-2930">
+        <rs ana="https://topostext.org/place/387268UPho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::127 /TEI[1]/text[1]/body[1]/p[6]::132" xml:id="UID-FAKE-2931">
+        <rs ana="https://topostext.org/place/375275RIon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::155 /TEI[1]/text[1]/body[1]/p[6]::161" xml:id="UID-FAKE-2932">
+        <rs ana="https://topostext.org/place/380237SOTA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::217 /TEI[1]/text[1]/body[1]/p[6]::224" xml:id="UID-FAKE-2933">
+        <rs ana="https://topostext.org/place/377269PSam"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::325 /TEI[1]/text[1]/body[1]/p[6]::332" xml:id="UID-FAKE-2934">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::128 /TEI[1]/text[1]/body[1]/p[7]::137" xml:id="UID-FAKE-2935">
+        <rs ana="https://topostext.org/place/382240RTet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::150 /TEI[1]/text[1]/body[1]/p[7]::161" xml:id="UID-FAKE-2936">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::214 /TEI[1]/text[1]/body[1]/p[7]::220" xml:id="UID-FAKE-2937">
+        <rs ana="https://topostext.org/place/380237XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::256 /TEI[1]/text[1]/body[1]/p[7]::264" xml:id="UID-FAKE-2938">
+        <rs ana="https://topostext.org/place/295540RPer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::61 /TEI[1]/text[1]/body[1]/p[8]::66" xml:id="UID-FAKE-2939">
+        <rs ana="https://topostext.org/place/376231BSka"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::161 /TEI[1]/text[1]/body[1]/p[8]::168" xml:id="UID-FAKE-2940">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::88 /TEI[1]/text[1]/body[1]/p[9]::98" xml:id="UID-FAKE-2941">
+        <rs ana="https://topostext.org/place/383230WHip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::107 /TEI[1]/text[1]/body[1]/p[9]::118" xml:id="UID-FAKE-2942">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::-1 /TEI[1]/text[1]/body[1]/p[9]::11" xml:id="UID-FAKE-2943">
+        <rs ana="https://topostext.org/place/383230WHip"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::230 /TEI[1]/text[1]/body[1]/p[9]::237" xml:id="UID-FAKE-2944">
+        <rs ana="https://topostext.org/place/384233RBoi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::379 /TEI[1]/text[1]/body[1]/p[9]::386" xml:id="UID-FAKE-2945">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::487 /TEI[1]/text[1]/body[1]/p[9]::494" xml:id="UID-FAKE-2946">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::21 /TEI[1]/text[1]/body[1]/p[10]::27" xml:id="UID-FAKE-2947">
+        <rs ana="https://topostext.org/place/380237AHms"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::294 /TEI[1]/text[1]/body[1]/p[10]::305" xml:id="UID-FAKE-2948">
+        <rs ana="https://topostext.org/place/378237WSar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::370 /TEI[1]/text[1]/body[1]/p[10]::377" xml:id="UID-FAKE-2949">
+        <rs ana="https://topostext.org/place/380237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::483 /TEI[1]/text[1]/body[1]/p[10]::492" xml:id="UID-FAKE-2950">
+        <rs ana="https://topostext.org/place/382217WSSp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::494 /TEI[1]/text[1]/body[1]/p[10]::507" xml:id="UID-FAKE-2951">
+        <rs ana="https://topostext.org/place/371224WOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::650 /TEI[1]/text[1]/body[1]/p[10]::663" xml:id="UID-FAKE-2952">
+        <rs ana="https://topostext.org/place/373223WGar"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 31</head>
+      <p>In the agora of Troezen is a temple of Artemis Saviour, with images of the goddess. It was said that the temple was founded and the name Saviour given by Theseus when he returned from Crete after overcoming Asterion the son of Minos. This victory he considered the most noteworthy of his achievements, not so much, in my opinion, because Asterion was the bravest of those killed by Theseus, but because his success in unravelling the difficult Maze and in escaping unnoticed after the exploit made credible the saying that it was divine providence that brought Theseus and his company back in safety.</p>
+      <p>In this temple are altars to the gods said to rule under the earth. It is here that they say Semele was brought out of Hades by Dionysus, and that Heracles dragged up the hound of Hades. But I cannot bring myself to believe even that Semele died at all, seeing that she was the wife of Zeus; while, as for the so-called hound of Hades, I will give my views in another place.</p>
+      <p>Behind the temple is the tomb of Pittheus, on which are placed three seats of white marble. On them they say that Pittheus and two men with him used to sit in judgment. Not far off is a sanctuary of the Muses, made, they told me, by Ardalus, son of Hephaestus. This Ardalus they hold to have invented the flute, and after him they name the Muses Ardalides. Here, they say, Pittheus taught the art of rhetoric, and I have myself read a book purporting to be a treatise by Pittheus, published by a citizen of Epidaurus. Not far from the Muses"Hall is an old altar, which also, according to report, was dedicated by Ardalus. Upon it they sacrifice to the Muses and to Sleep, saying that Sleep is the god that is dearest to the Muses.</p>
+      <p>Near the theater a temple of Artemis Lyceia (Wolfish) was made by Hippolytus. About this surname I could learn nothing from the local guides, but I gathered that either Hippolytus destroyed wolves that were ravaging the land of Troezen, or else that Lyceia is a surname of Artemis among the Amazons, from whom he was descended through his mother. Perhaps there may be another explanation that I am unaware of. The stone in front of the temple, called the Sacred Stone, they say is that on which nine men of Troezen once purified Orestes from the stain of matricide.</p>
+      <p>Not far from Artemis Lyceia are altars close to one another. The first of them is to Dionysus, surnamed, in accordance with an oracle, Saotes (Saviour); the second is named the altar of the Themides (daughters of Themis), and was dedicated, they say, by Pittheus. They had every reason, it seems to me, for making an altar to Helius Eleutherios (Sun, God of Freedom), seeing that they escaped being enslaved by Xerxes and the Persians.</p>
+      <p>The sanctuary of Thearian Apollo, they told me, was set up by Pittheus; it is the oldest I know of. Now the Phocaeans, too, in Ionia have an old temple of Athena, which was once burnt by Harpagus the Persian, and the Samians also have an old one of Pythian Apollo; these, however, were built much later than the sanctuary at Troezen. The modern image was dedicated by Auliscus, and made by Hermon of Troezen. This Hermon made also the wooden images of the Dioscuri.</p>
+      <p>Under a stoa in the agora are set up women; both they and their children are of stone. They are the women and children whom the Athenians gave to the Troezenians to be kept safe, when they had resolved to evacuate Athens and not to await the attack of the Persians by land. They are said to have dedicated likenesses, not of all the women — for, as a matter of fact, the statues are not many — but only of those who were of high rank.</p>
+      <p>In front of the sanctuary of Apollo is a building called the Skene (booth) of Orestes. For before he was cleansed for shedding his mother"s blood, no citizen of Troezen would receive him into his home; so they lodged him here and gave him entertainment while they cleansed him, until they had finished the purification. Down to the present day the descendants of those who cleansed Orestes dine here on appointed days. A little way from the booth were buried, they say, the means of cleansing, and from them grew up a bay tree, which, indeed, still remains, being the one before this booth.</p>
+      <p>Among the means of cleansing which they say they used to cleanse Orestes was water from Hippocrene for the Troezenians too have a fountain called the Horse"s, and the legend about it does not differ from the one which prevails in Boeotia. For they, too, say that the earth sent up the water when the horse Pegasus struck the ground with his hoof, and that Bellerophontes came to Troezen to ask Pittheus to give him Aethra to wife, but before the marriage took place he was banished from Corinth.</p>
+      <p>Here there is also a Hermes called Polygius. Against this image, they say, Heracles leaned his club. Now this club, which was of wild olive, taking root in the earth (if anyone cares to believe the story), grew up again and is still alive; Heracles, they say, discovering the wild olive by the Saronic Sea, cut a club from it. There is also a sanctuary of Zeus surnamed Saviour, which, they say, was made by Aetius, the son of Anthas, when he was king. To a water they give the name Chrysoroa (River of Gold). They say that when the land was afflicted with a drought for nine years, during which no rain fell, all the other waters dried up, but this River of Gold even then continued to flow as before.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::17 /TEI[1]/text[1]/body[1]/p[2]::27" xml:id="UID-FAKE-2861">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::396 /TEI[1]/text[1]/body[1]/p[2]::405" xml:id="UID-FAKE-2862">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::406 /TEI[1]/text[1]/body[1]/p[2]::417" xml:id="UID-FAKE-2863">
+        <rs ana="https://topostext.org/place/380237SAKa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::3 /TEI[1]/text[1]/body[1]/p[3]::9" xml:id="UID-FAKE-2864">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::45 /TEI[1]/text[1]/body[1]/p[3]::62" xml:id="UID-FAKE-2865">
+        <rs ana="https://topostext.org/place/377235SPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::143 /TEI[1]/text[1]/body[1]/p[3]::153" xml:id="UID-FAKE-2866">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::159 /TEI[1]/text[1]/body[1]/p[3]::166" xml:id="UID-FAKE-2867">
+        <rs ana="https://topostext.org/place/353254SChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::195 /TEI[1]/text[1]/body[1]/p[3]::201" xml:id="UID-FAKE-2868">
+        <rs ana="https://topostext.org/place/353254SChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::676 /TEI[1]/text[1]/body[1]/p[3]::683" xml:id="UID-FAKE-2869">
+        <rs ana="https://topostext.org/place/353254SChe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::701 /TEI[1]/text[1]/body[1]/p[3]::711" xml:id="UID-FAKE-2870">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::791 /TEI[1]/text[1]/body[1]/p[3]::801" xml:id="UID-FAKE-2871">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::816 /TEI[1]/text[1]/body[1]/p[3]::821" xml:id="UID-FAKE-2872">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::4 /TEI[1]/text[1]/body[1]/p[4]::22" xml:id="UID-FAKE-2873">
+        <rs ana="https://topostext.org/place/377235LPan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::196 /TEI[1]/text[1]/body[1]/p[4]::207" xml:id="UID-FAKE-2874">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::337 /TEI[1]/text[1]/body[1]/p[4]::346" xml:id="UID-FAKE-2875">
+        <rs ana="https://topostext.org/place/376231GBtg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::356 /TEI[1]/text[1]/body[1]/p[4]::367" xml:id="UID-FAKE-2876">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::391 /TEI[1]/text[1]/body[1]/p[4]::400" xml:id="UID-FAKE-2877">
+        <rs ana="https://topostext.org/place/380237SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::453 /TEI[1]/text[1]/body[1]/p[4]::463" xml:id="UID-FAKE-2878">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::488 /TEI[1]/text[1]/body[1]/p[4]::497" xml:id="UID-FAKE-2879">
+        <rs ana="https://topostext.org/place/380237SKNB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::527 /TEI[1]/text[1]/body[1]/p[4]::533" xml:id="UID-FAKE-2880">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::807 /TEI[1]/text[1]/body[1]/p[4]::814" xml:id="UID-FAKE-2881">
+        <rs ana="https://topostext.org/place/380235SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::28 /TEI[1]/text[1]/body[1]/p[5]::34" xml:id="UID-FAKE-2882">
+        <rs ana="https://topostext.org/place/378234PAig"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::90 /TEI[1]/text[1]/body[1]/p[5]::99" xml:id="UID-FAKE-2883">
+        <rs ana="https://topostext.org/place/376229ULes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::108 /TEI[1]/text[1]/body[1]/p[5]::119" xml:id="UID-FAKE-2884">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::255 /TEI[1]/text[1]/body[1]/p[5]::263" xml:id="UID-FAKE-2885">
+        <rs ana="https://topostext.org/place/263318UThi"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::284 /TEI[1]/text[1]/body[1]/p[5]::289" xml:id="UID-FAKE-2886">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::363 /TEI[1]/text[1]/body[1]/p[5]::370" xml:id="UID-FAKE-2887">
+        <rs ana="https://topostext.org/place/378218UAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::505 /TEI[1]/text[1]/body[1]/p[5]::513" xml:id="UID-FAKE-2888">
+        <rs ana="https://topostext.org/place/378233HPog"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::179 /TEI[1]/text[1]/body[1]/p[7]::195" xml:id="UID-FAKE-2889">
+        <rs ana="https://topostext.org/place/378237WSar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::572 /TEI[1]/text[1]/body[1]/p[7]::588" xml:id="UID-FAKE-2890">
+        <rs ana="https://topostext.org/place/378237WSar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::690 /TEI[1]/text[1]/body[1]/p[7]::697" xml:id="UID-FAKE-2891">
+        <rs ana="https://topostext.org/place/378237WSar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::713 /TEI[1]/text[1]/body[1]/p[7]::729" xml:id="UID-FAKE-2892">
+        <rs ana="https://topostext.org/place/378237WSar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::195 /TEI[1]/text[1]/body[1]/p[8]::204" xml:id="UID-FAKE-2893">
+        <rs ana="https://topostext.org/place/368228UOic"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::209 /TEI[1]/text[1]/body[1]/p[8]::215" xml:id="UID-FAKE-2894">
+        <rs ana="https://topostext.org/place/383218UAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::336 /TEI[1]/text[1]/body[1]/p[8]::347" xml:id="UID-FAKE-2895">
+        <rs ana="https://topostext.org/place/404150PPos"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::383 /TEI[1]/text[1]/body[1]/p[8]::389" xml:id="UID-FAKE-2896">
+        <rs ana="https://topostext.org/place/404150PPos"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::106 /TEI[1]/text[1]/body[1]/p[9]::115" xml:id="UID-FAKE-2897">
+        <rs ana="https://topostext.org/place/374276UPid"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::120 /TEI[1]/text[1]/body[1]/p[9]::126" xml:id="UID-FAKE-2898">
+        <rs ana="https://topostext.org/place/383218UAnt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::164 /TEI[1]/text[1]/body[1]/p[9]::171" xml:id="UID-FAKE-2899">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::289 /TEI[1]/text[1]/body[1]/p[9]::296" xml:id="UID-FAKE-2900">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::310 /TEI[1]/text[1]/body[1]/p[9]::323" xml:id="UID-FAKE-2901">
+        <rs ana="https://topostext.org/place/370274PHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::328 /TEI[1]/text[1]/body[1]/p[9]::334" xml:id="UID-FAKE-2902">
+        <rs ana="https://topostext.org/place/371272UMyn"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::338 /TEI[1]/text[1]/body[1]/p[9]::343" xml:id="UID-FAKE-2903">
+        <rs ana="https://topostext.org/place/370287RKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::400 /TEI[1]/text[1]/body[1]/p[9]::406" xml:id="UID-FAKE-2904">
+        <rs ana="https://topostext.org/place/377240DAna"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::21 /TEI[1]/text[1]/body[1]/p[10]::32" xml:id="UID-FAKE-2905">
+        <rs ana="https://topostext.org/place/377216PHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::38 /TEI[1]/text[1]/body[1]/p[10]::49" xml:id="UID-FAKE-2906">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::63 /TEI[1]/text[1]/body[1]/p[10]::69" xml:id="UID-FAKE-2907">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::84 /TEI[1]/text[1]/body[1]/p[10]::89" xml:id="UID-FAKE-2908">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::144 /TEI[1]/text[1]/body[1]/p[10]::151" xml:id="UID-FAKE-2909">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::172 /TEI[1]/text[1]/body[1]/p[10]::181" xml:id="UID-FAKE-2910">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::335 /TEI[1]/text[1]/body[1]/p[10]::342" xml:id="UID-FAKE-2911">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::346 /TEI[1]/text[1]/body[1]/p[10]::350" xml:id="UID-FAKE-2912">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::481 /TEI[1]/text[1]/body[1]/p[10]::497" xml:id="UID-FAKE-2913">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::524 /TEI[1]/text[1]/body[1]/p[10]::535" xml:id="UID-FAKE-2914">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 30</head>
+      <p>There are three temples close together, one of Apollo, one of Artemis, and a third of Dionysus. Apollo has a naked xoanon of native workmanship, but Artemis is dressed, and so, too, is Dionysus, who is, moreover, represented with a beard. The sanctuary of Asclepius is not here, but in another place, and his image is of stone, and seated.</p>
+      <p>Of the gods, the Aeginetans worship most Hecate, in whose honor every year they celebrate mystic rites which, they say, Orpheus the Thracian established among them. Within the enclosure is a temple; its xoanon is the work of Myron [doubtful], and it has one face and one body. It was Alcamenes, in my opinion, who first made three images of Hecate attached to one another, a figure called by the Athenians Epipurgidia (on the Tower); it stands beside the temple of the Wingless Victory.</p>
+      <p>In Aegina, as you go towards the mountain of Panhellenion Zeus, you reach a sanctuary of Aphaea, in whose honor Pindar composed an ode for the Aeginetans. The Cretans say (the story of Aphaea is Cretan) that Carmanor, who purified Apollo after he had killed Pytho, was the father of Eubulus, and that the daughter of Zeus and of Carme, the daughter of Eubulus, was Britomartis. She took delight, they say, in running and in the chase, and was very dear to Artemis. Fleeing from Minos, who had fallen in love with her, she threw herself into nets which had been cast (aphemena) for a draught of fishes. She was made a goddess by Artemis, and she is worshipped, not only by the Cretans, but also by the Aeginetans, who say that Britomartis shows herself in their island. Her surname among the Aeginetans is Aphaea; in Crete it is Dictynna (Goddess of Nets).</p>
+      <p>The Panhellenion Mount, except for the Zeus sanctuary, has, I found, nothing else worthy of mention. This sanctuary, they say, was made for Zeus by Aeacus. The story of Auxesia and Damia, how the Epidaurians suffered from drought, how in obedience to an oracle they had these wooden images made of olive wood that they received from the Athenians, how the Epidaurians left off paying to the Athenians what they had agreed to pay, on the ground that the Aeginetans had the images, how the Athenians perished who crossed over to Aegina to fetch them — all this, as Herodotus has described it accurately and in detail, I have no intention of relating, because the story has been well told already; but I will add that I saw the images, and sacrificed to them in the same way as it is customary to sacrifice at Eleusis.</p>
+      <p>So much I must relate about Aegina, for the sake of Aeacus and his exploits. Bordering on Epidauria are the Troezenians, unrivalled glorifiers of their own country. They say that Orus was the first to be born in their land. Now, in my opinion, Orus is an Egyptian name and utterly un-Greek; but they assert that he became their king, and that the land was called OraeaYY after him and that Althepus, the son of Poseidon and of Leis, the daughter of Orus, inheriting the kingdom after Orus, named the land Althepia.</p>
+      <p>During his reign, they say, Athena and Poseidon disputed about the land, and after disputing held it in common, as Zeus commanded them to do. For this reason they worship both Athena, whom they name both Polias (Urban) and Sthenias (Strong), and also Poseidon, under the surname of Basileus (king). And moreover their old coins have as device a trident and a face of Athena.</p>
+      <p>After Althepus, Saron became king. They said that this man built the sanctuary for Artemis Saronis by a sea which is marshy and shallow, so that for this reason it was called the Phoebaean lagoon. Now Saron was very fond of hunting. As he was chasing a doe, it so chanced that it dashed into the sea and he dashed in alter it. The doe swam further and further from the shore, and Saron kept close to his prey, until his ardor brought him to the open ocean. Here his strength failed, and he was drowned in the waves. The body was cast ashore at the grove of Artemis by the Phoebaean lagoon, and they buried it within the sacred enclosure, and after him they named the sea in these parts the Saronic instead of the Phoebaean lagoon.</p>
+      <p>They know nothing of the later kings down to Hyperes and Anthas. These they assert to be sons of Poseidon and of Alcyone, daughter of Atlas, adding that they founded in the country the cities of HypereaYY and Anthea; Aetius, however, the son of Anthas, on inheriting the kingdoms of his father and of his uncle, named one of the cities Poseidonias. When Troezen and Pittheus came to Aetius there were three kings instead of one, but the sons of Pelops enjoyed the balance of power.</p>
+      <p>Here is evidence of it. When Troezen died, Pittheus gathered the inhabitants together, incorporating both HypereaYY and Anthea into the modern city, which he named Troezen after his brother. Many years afterwards the descendants of Aetius, son of Anthas, were dispatched as colonists from Troezen, and founded Halicarnassus and Myndus in Caria. Anaphlystus and Sphettus, sons of Troezen, migrated to Attica, and the demes [Anaphlystus, Sphettus] are named after them. As my readers know it already, I shall not relate the story of Theseus, the grandson of Pittheus. There is, however, one incident that I must add.</p>
+      <p>On the return of the Heracleidae, the Troezenians too received Dorian settlers from Argos. They had been subject at even an earlier date to the Argives; Homer, too, in the Catalogue, says that their commander was Diomedes. For Diomedes and Euryalus, son of Mecisteus, who were guardians of the boy Cyanippus, son of Aegialeus, led the Argives to Troy. Sthenelus, as I have related above, came of a more illustrious family, called the Anaxagoridae, and he had the best claim to the Kingdom of Argos. Such is the story of the Troezenians, with the exception of the cities that claim to be their colonies. I will now proceed to describe the appointments of their sanctuaries and the remarkable sights of their country.</p>
+    </body>
+  </text>
+</TEI>

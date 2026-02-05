@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::104 /TEI[1]/text[1]/body[1]/p[1]::115" xml:id="UID-FAKE-2482">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::283 /TEI[1]/text[1]/body[1]/p[1]::296" xml:id="UID-FAKE-2483">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::324 /TEI[1]/text[1]/body[1]/p[1]::331" xml:id="UID-FAKE-2484">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::497 /TEI[1]/text[1]/body[1]/p[1]::510" xml:id="UID-FAKE-2485">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::557 /TEI[1]/text[1]/body[1]/p[1]::569" xml:id="UID-FAKE-2486">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::615 /TEI[1]/text[1]/body[1]/p[1]::621" xml:id="UID-FAKE-2487">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::711 /TEI[1]/text[1]/body[1]/p[1]::718" xml:id="UID-FAKE-2488">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::53 /TEI[1]/text[1]/body[1]/p[2]::60" xml:id="UID-FAKE-2489">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::147 /TEI[1]/text[1]/body[1]/p[2]::153" xml:id="UID-FAKE-2490">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::177 /TEI[1]/text[1]/body[1]/p[3]::188" xml:id="UID-FAKE-2491">
+        <rs ana="https://topostext.org/place/380237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::394 /TEI[1]/text[1]/body[1]/p[3]::405" xml:id="UID-FAKE-2492">
+        <rs ana="https://topostext.org/place/378227SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::42 /TEI[1]/text[1]/body[1]/p[5]::49" xml:id="UID-FAKE-2493">
+        <rs ana="https://topostext.org/place/383233WDir"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::203 /TEI[1]/text[1]/body[1]/p[5]::209" xml:id="UID-FAKE-2494">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::338 /TEI[1]/text[1]/body[1]/p[5]::343" xml:id="UID-FAKE-2495">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::350 /TEI[1]/text[1]/body[1]/p[5]::357" xml:id="UID-FAKE-2496">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::379 /TEI[1]/text[1]/body[1]/p[5]::386" xml:id="UID-FAKE-2497">
+        <rs ana="https://topostext.org/place/375223RArk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::396 /TEI[1]/text[1]/body[1]/p[5]::403" xml:id="UID-FAKE-2498">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::523 /TEI[1]/text[1]/body[1]/p[5]::529" xml:id="UID-FAKE-2499">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::76 /TEI[1]/text[1]/body[1]/p[6]::83" xml:id="UID-FAKE-2500">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::107 /TEI[1]/text[1]/body[1]/p[6]::111" xml:id="UID-FAKE-2501">
+        <rs ana="https://topostext.org/place/399263SThy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::222 /TEI[1]/text[1]/body[1]/p[6]::228" xml:id="UID-FAKE-2502">
+        <rs ana="https://topostext.org/place/377228SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::299 /TEI[1]/text[1]/body[1]/p[6]::307" xml:id="UID-FAKE-2503">
+        <rs ana="https://topostext.org/place/386225SKep"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::24 /TEI[1]/text[1]/body[1]/p[7]::32" xml:id="UID-FAKE-2504">
+        <rs ana="https://topostext.org/place/380237SPth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::116 /TEI[1]/text[1]/body[1]/p[7]::124" xml:id="UID-FAKE-2505">
+        <rs ana="https://topostext.org/place/377228BMMB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::186 /TEI[1]/text[1]/body[1]/p[7]::195" xml:id="UID-FAKE-2506">
+        <rs ana="https://topostext.org/place/380237BPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::251 /TEI[1]/text[1]/body[1]/p[7]::262" xml:id="UID-FAKE-2507">
+        <rs ana="https://topostext.org/place/380237BPal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::428 /TEI[1]/text[1]/body[1]/p[7]::434" xml:id="UID-FAKE-2508">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::477 /TEI[1]/text[1]/body[1]/p[7]::486" xml:id="UID-FAKE-2509">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::576 /TEI[1]/text[1]/body[1]/p[7]::582" xml:id="UID-FAKE-2510">
+        <rs ana="https://topostext.org/place/378227SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::415 /TEI[1]/text[1]/body[1]/p[8]::422" xml:id="UID-FAKE-2511">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::512 /TEI[1]/text[1]/body[1]/p[8]::525" xml:id="UID-FAKE-2512">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::815 /TEI[1]/text[1]/body[1]/p[8]::820" xml:id="UID-FAKE-2513">
+        <rs ana="https://topostext.org/place/378219SAph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::316 /TEI[1]/text[1]/body[1]/p[9]::329" xml:id="UID-FAKE-2514">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::442 /TEI[1]/text[1]/body[1]/p[9]::455" xml:id="UID-FAKE-2515">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::36 /TEI[1]/text[1]/body[1]/p[10]::43" xml:id="UID-FAKE-2516">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::266 /TEI[1]/text[1]/body[1]/p[10]::271" xml:id="UID-FAKE-2517">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::281 /TEI[1]/text[1]/body[1]/p[10]::287" xml:id="UID-FAKE-2518">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 20</head>
+      <p>Passing over a statue of Creugas, a boxer, and a trophy that was set up to celebrate a victory over the Corinthians, you come to a seated image of Zeus Meilichius (Gracious), made of white marble by Polycleitus. I discovered that it was made for the following reason. Ever since the Lacedemonians began to make war upon the Argives there was no cessation of hostilities until Philip, the son of Amyntas, forced them to stay within the original boundaries of their territories. Before this, if the Lacedemonians were not engaged on some business outside the Peloponnesus, they were always trying to annex a piece of Argive territory; or if they were busied with a war beyond their borders it was the turn of the Argives to retaliate.</p>
+      <p>When the hatred of both sides was at its height, the Argives resolved to maintain a thousand picked men. The commander appointed over them was the Argive Bryas. His general behavior to the men of the people was violent, and a maiden who was being taken to the bridegroom he seized from those who were escorting her and ravished. When night came on, the girl waited until he was asleep and put out his eyes. Detected in the morning, she took refuge as a suppliant with the people. When they did not give her up to the Thousand for punishment both sides took up arms; the people won the day, and in their anger left none of their opponents alive. Subsequently they had recourse to purifications for shedding kindred blood; among other things they dedicated an image of Zeus Meilichius.</p>
+      <p>Hard by are Cleobis and Biton carved in relief on stone, themselves drawing the carriage and taking in it their mother to the sanctuary of Hera. Opposite them is a sanctuary of Nemean Zeus, and an upright bronze statue of the god made by Lysippus. Going forward from this you see on the right the grave of Phoroneus, to whom even in our time they bring offerings as to a hero. Over against the Nemean Zeus is a temple of Fortune, which must be very old if it be the one in which Palamedes dedicated the dice that he had invented.</p>
+      <p>The tomb near this they call that of the maenad Chorea, saying that she was one of the women who joined Dionysus in his expedition against Argos, and that Perseus, being victorious in the battle, put most of the women to the sword. To the rest they gave a common grave, but to Chorea they gave burial apart because of her high rank.</p>
+      <p>A little farther on is a sanctuary of the Seasons. On coming back from here you see statues of Polyneices, the son of Oedipus, and of all the chieftains who with him were killed in battle at the wall of Thebes. These men Aeschylus has reduced to the number of Seven only, although there were more chiefs than this in the expedition, from Argos, from Messene, with some even from Arcadia. But the Argives have adopted the number seven from the drama of Aeschylus, and near to their statues are the statues of those who took Thebes: Aegialeus, son of Adrastus; Promachus, son of Parthenopaeus, son of Talaus; Polydorus, son of Hippomedon; Thersander; Alcmaeon and Amphilochus, the sons of Amphiaraus; Diomedes, and Sthenelus. Among their company were also Euryalus, son of Mecisteus, and Adrastus and Timeas, sons of Polyneices.</p>
+      <p>Not far from the statues are shown the tomb of Danaus and a cenotaph of the Argives who met their death at Troy or on the journey home. Here there is also a sanctuary of Zeus the Saviour. Beyond it is a building where the Argive women bewail Adonis. On the right of the entrance is the sanctuary of Cephisus. It is said that the water of this river was not utterly destroyed by Poseidon, but that just in this place, where the sanctuary is, it can be heard flowing under the earth.</p>
+      <p>Beside the sanctuary of Cephisus is a head of Medusa made of stone, which is said to be another of the works of the Cyclopes. The ground behind it is called even at the present time the Kriterion (place of judgment), because it was here that they say Hypermestra was brought to judgment by Danaus. Not far from this is a theater. In it are some noteworthy sights, including a representation of a man killing another, namely the Argive Perilaus, the son of Alcenor, killing the Spartiate Othryadas. Before this, Perilaus had succeeded in winning the prize for wrestling at the Nemean games.</p>
+      <p>Beyond the theater is a sanctuary of Aphrodite, and before the hedos (sacred image) is a slab with a representation wrought on it in relief of Telesilla, the lyric poetess. Her books lie scattered at her feet, and she herself holds in her hand an helmet, which she is looking at and is about to place on her head. Telesilla was a distinguished woman who was especially renowned for her poetry. It happened that the Argives had suffered an awful defeat at the hands of Cleomenes, the son of Anaxandrides, and the Lacedemonians. Some fell in the actual fighting; others, who had fled to the grove of Argus, also perished. At first they left sanctuary under an agreement, which was treacherously broken, and the survivors, when they realized this, were burnt to death in the grove. So when Cleomenes led his troops to Argos there were no men to defend it.</p>
+      <p>But Telesilla mounted on the wall all the slaves and such as were incapable of bearing arms through youth or old age, and she herself, collecting the arms in the sanctuaries and those that were left in the houses, armed the women of vigorous age, and then posted them where she knew the enemy would attack. When the Lacedemonians came on, the women were not dismayed at their battle-cry, but stood their ground and fought valiantly. Then the Lacedemonians, realizing that to destroy the women would be an invidious success while defeat would mean a shameful disaster, gave way before the women.</p>
+      <p>This fight had been foretold by the Pythian priestess in the oracle quoted by Herodotus, who perhaps understood to what it referred and perhaps did not: “But when the time shall come that the female conquers in battle, Driving away the male, and wins great glory in Argos, Many an Argive woman will tear both cheeks in her sorrow.” Such are the words of the oracle referring to the exploit of the women.</p>
+    </body>
+  </text>
+</TEI>

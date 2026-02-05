@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::37 /TEI[1]/text[1]/body[1]/p[1]::46" xml:id="UID-FAKE-3012">
+        <rs ana="https://topostext.org/place/376234PMet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::123 /TEI[1]/text[1]/body[1]/p[1]::130" xml:id="UID-FAKE-3013">
+        <rs ana="https://topostext.org/place/376234PMet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::356 /TEI[1]/text[1]/body[1]/p[1]::363" xml:id="UID-FAKE-3014">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::46 /TEI[1]/text[1]/body[1]/p[2]::53" xml:id="UID-FAKE-3015">
+        <rs ana="https://topostext.org/place/376234PMet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::71 /TEI[1]/text[1]/body[1]/p[2]::75" xml:id="UID-FAKE-3016">
+        <rs ana="https://topostext.org/place/379236IPsy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::113 /TEI[1]/text[1]/body[1]/p[2]::125" xml:id="UID-FAKE-3017">
+        <rs ana="https://topostext.org/place/378237WSar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::117 /TEI[1]/text[1]/body[1]/p[3]::132" xml:id="UID-FAKE-3018">
+        <rs ana="https://topostext.org/place/368217IOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::254 /TEI[1]/text[1]/body[1]/p[3]::261" xml:id="UID-FAKE-3019">
+        <rs ana="https://topostext.org/place/376234PMet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::0 /TEI[1]/text[1]/body[1]/p[4]::7" xml:id="UID-FAKE-3020">
+        <rs ana="https://topostext.org/place/376234PMet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::37 /TEI[1]/text[1]/body[1]/p[4]::49" xml:id="UID-FAKE-3021">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::87 /TEI[1]/text[1]/body[1]/p[4]::94" xml:id="UID-FAKE-3022">
+        <rs ana="https://topostext.org/place/376234PMet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::99 /TEI[1]/text[1]/body[1]/p[4]::107" xml:id="UID-FAKE-3023">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::142 /TEI[1]/text[1]/body[1]/p[4]::153" xml:id="UID-FAKE-3024">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::255 /TEI[1]/text[1]/body[1]/p[4]::262" xml:id="UID-FAKE-3025">
+        <rs ana="https://topostext.org/place/376234PMet"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::321 /TEI[1]/text[1]/body[1]/p[4]::326" xml:id="UID-FAKE-3026">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::226 /TEI[1]/text[1]/body[1]/p[5]::233" xml:id="UID-FAKE-3027">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::239 /TEI[1]/text[1]/body[1]/p[5]::244" xml:id="UID-FAKE-3028">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::277 /TEI[1]/text[1]/body[1]/p[5]::284" xml:id="UID-FAKE-3029">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::383 /TEI[1]/text[1]/body[1]/p[5]::390" xml:id="UID-FAKE-3030">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::21 /TEI[1]/text[1]/body[1]/p[6]::28" xml:id="UID-FAKE-3031">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::32 /TEI[1]/text[1]/body[1]/p[6]::39" xml:id="UID-FAKE-3032">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::188 /TEI[1]/text[1]/body[1]/p[6]::207" xml:id="UID-FAKE-3033">
+        <rs ana="https://topostext.org/place/380237SThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::307 /TEI[1]/text[1]/body[1]/p[6]::319" xml:id="UID-FAKE-3034">
+        <rs ana="https://topostext.org/place/371224SPla"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::370 /TEI[1]/text[1]/body[1]/p[6]::375" xml:id="UID-FAKE-3035">
+        <rs ana="https://topostext.org/place/378215REle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::471 /TEI[1]/text[1]/body[1]/p[6]::482" xml:id="UID-FAKE-3036">
+        <rs ana="https://topostext.org/place/370224SElD"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::519 /TEI[1]/text[1]/body[1]/p[6]::528" xml:id="UID-FAKE-3037">
+        <rs ana="https://topostext.org/place/374233UThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::44 /TEI[1]/text[1]/body[1]/p[7]::53" xml:id="UID-FAKE-3038">
+        <rs ana="https://topostext.org/place/383157LSky"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::232 /TEI[1]/text[1]/body[1]/p[7]::239" xml:id="UID-FAKE-3039">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::17 /TEI[1]/text[1]/body[1]/p[8]::26" xml:id="UID-FAKE-3040">
+        <rs ana="https://topostext.org/place/374235LSky"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::92 /TEI[1]/text[1]/body[1]/p[8]::101" xml:id="UID-FAKE-3041">
+        <rs ana="https://topostext.org/place/373233LBou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::103 /TEI[1]/text[1]/body[1]/p[8]::110" xml:id="UID-FAKE-3042">
+        <rs ana="https://topostext.org/place/373233LBou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::169 /TEI[1]/text[1]/body[1]/p[8]::177" xml:id="UID-FAKE-3043">
+        <rs ana="https://topostext.org/place/373231PHal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::179 /TEI[1]/text[1]/body[1]/p[8]::190" xml:id="UID-FAKE-3044">
+        <rs ana="https://topostext.org/place/372000IHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::262 /TEI[1]/text[1]/body[1]/p[8]::270" xml:id="UID-FAKE-3045">
+        <rs ana="https://topostext.org/place/373233IPit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::272 /TEI[1]/text[1]/body[1]/p[8]::283" xml:id="UID-FAKE-3046">
+        <rs ana="https://topostext.org/place/362338IPit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::310 /TEI[1]/text[1]/body[1]/p[8]::319" xml:id="UID-FAKE-3047">
+        <rs ana="https://topostext.org/place/372232IAri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::373 /TEI[1]/text[1]/body[1]/p[8]::382" xml:id="UID-FAKE-3048">
+        <rs ana="https://topostext.org/place/373233LKol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::449 /TEI[1]/text[1]/body[1]/p[8]::457" xml:id="UID-FAKE-3049">
+        <rs ana="https://topostext.org/place/373233ITri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::459 /TEI[1]/text[1]/body[1]/p[8]::470" xml:id="UID-FAKE-3050">
+        <rs ana="https://topostext.org/place/373233ITri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::522 /TEI[1]/text[1]/body[1]/p[8]::534" xml:id="UID-FAKE-3051">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::543 /TEI[1]/text[1]/body[1]/p[8]::553" xml:id="UID-FAKE-3052">
+        <rs ana="https://topostext.org/place/373233LBop"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::555 /TEI[1]/text[1]/body[1]/p[8]::562" xml:id="UID-FAKE-3053">
+        <rs ana="https://topostext.org/place/373233LBop"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::568 /TEI[1]/text[1]/body[1]/p[8]::578" xml:id="UID-FAKE-3054">
+        <rs ana="https://topostext.org/place/373233LBop"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::670 /TEI[1]/text[1]/body[1]/p[8]::681" xml:id="UID-FAKE-3055">
+        <rs ana="https://topostext.org/place/373233LBop"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::7 /TEI[1]/text[1]/body[1]/p[9]::17" xml:id="UID-FAKE-3056">
+        <rs ana="https://topostext.org/place/373233LBop"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::40 /TEI[1]/text[1]/body[1]/p[9]::48" xml:id="UID-FAKE-3057">
+        <rs ana="https://topostext.org/place/373233IApe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::88 /TEI[1]/text[1]/body[1]/p[9]::94" xml:id="UID-FAKE-3058">
+        <rs ana="https://topostext.org/place/373235IHyd"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::221 /TEI[1]/text[1]/body[1]/p[9]::229" xml:id="UID-FAKE-3059">
+        <rs ana="https://topostext.org/place/370221XAko"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::9 /TEI[1]/text[1]/body[1]/p[10]::20" xml:id="UID-FAKE-3060">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::32 /TEI[1]/text[1]/body[1]/p[11]::43" xml:id="UID-FAKE-3061">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::271 /TEI[1]/text[1]/body[1]/p[11]::275" xml:id="UID-FAKE-3062">
+        <rs ana="https://topostext.org/place/374232LPro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::333 /TEI[1]/text[1]/body[1]/p[11]::341" xml:id="UID-FAKE-3063">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::504 /TEI[1]/text[1]/body[1]/p[11]::510" xml:id="UID-FAKE-3064">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::519 /TEI[1]/text[1]/body[1]/p[11]::527" xml:id="UID-FAKE-3065">
+        <rs ana="https://topostext.org/place/365224SApK"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::533 /TEI[1]/text[1]/body[1]/p[11]::540" xml:id="UID-FAKE-3066">
+        <rs ana="https://topostext.org/place/352327ULim"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::76 /TEI[1]/text[1]/body[1]/p[12]::87" xml:id="UID-FAKE-3067">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::215 /TEI[1]/text[1]/body[1]/p[12]::232" xml:id="UID-FAKE-3068">
+        <rs ana="https://topostext.org/place/374233UThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::234 /TEI[1]/text[1]/body[1]/p[12]::240" xml:id="UID-FAKE-3069">
+        <rs ana="https://topostext.org/place/374233UThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::269 /TEI[1]/text[1]/body[1]/p[12]::278" xml:id="UID-FAKE-3070">
+        <rs ana="https://topostext.org/place/374233UThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[12]::330 /TEI[1]/text[1]/body[1]/p[12]::338" xml:id="UID-FAKE-3071">
+        <rs ana="https://topostext.org/place/374232UHer"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 34</head>
+      <p>Stretching out far into the sea from Troezenia is a peninsula, on the coast of which has been founded a little town called Methana. Here there is a sanctuary of Isis, and on the agora is an image of Hermes, and also one of Heracles. Some thirty stades distant from the town are hot baths. They say that it was when Antigonus, son of Demetrius, was king of Macedon that the water first appeared, and that what appeared at once was not water, but fire that gushed in great volume from the ground, and when this died down the water flowed; indeed, even at the present day it wells up hot and exceedingly salt. A bather here finds no cold water at hand, and if he dives into the sea his swim is full of danger. For wild creatures live in it, and it swarms with sharks.</p>
+      <p>I will also relate what astonished me most in Methana. The wind called Lips, striking the budding vines from the Saronic Gulf, blights their buds. So while the wind is still rushing on, two men cut in two a cock whose feathers are all white, and run round the vines in opposite directions, each carrying half of the cock. When they meet at their starting place, they bury the pieces there.</p>
+      <p>Such are the means they have devised against the Lips. The islets, nine in number, lying off the land are called the Isles of Pelops, and they say that when it rains one of them is not touched. If this be the case I do not know, though the people around Methana said that it was true, and I have seen before now men trying to keep off hail by sacrifices and spells.</p>
+      <p>Methana, then, is a peninsula of the Peloponnesus. Within it, bordering on the land of Troezen, is Hermione. The founder of the old city, the Hermionians say, was Hermion, the son of Europs. Now Europs, whose father was certainly Phoroneus, Herophanes of Troezen said was an illegitimate child. For surely the kingdom of Argos would never have devolved upon Argus, Niobe"s son, the grandchild of Phoroneus, in the presence of a legitimate son.</p>
+      <p>But even supposing that Europs was a legitimate child who died before Phoroneus, I am quite sure that his son was not likely to stand a fair chance against Niobe"s child, whose father was supposed to be Zeus. Subsequently the Dorians from Argos settled, among other places, at Hermion, but I do not think there was war between the two peoples, or it would have been spoken of by the Argives.</p>
+      <p>There is a road from Troezen to Hermion by way of the rock which aforetime was called the altar of Zeus Sthenius (Strong) but afterwards Theseus took up the tokens, and people now call it the Rock of Theseus. As you go, then, along a mountain road by way of this rock, you reach a temple of Apollo surnamed Platanistius (God of the Plane-tree Grove), and a place called Eilei, where are sanctuaries of Demeter and of her daughter Core (Maid). Seawards, on the borders of HermionisYY, is a sanctuary of Demeter surnamed Thermasia (Warmth).</p>
+      <p>Just about eighty stades away is a headland Scyllaeum, which is named after the daughter of Nisus. For when, owing to her treachery, Minos had taken Nisaea and Megara, he said that now he would not have her to wife, and ordered his Cretans to throw her from the ship. She was drowned, and the waves cast up her body on this headland. They do not show a grave of her, but say that the sea birds were allowed to tear the corpse to pieces.</p>
+      <p>As you sail from Scyllaeum in the direction of the city, you reach another headland, called Bucephala (Ox-head), and, after the headland, islands, the first of which is Haliussa (Salt Island). This provides a harbor where there is good anchorage. After it comes Pityussa (Pine Island), and the third they call Aristerae. On sailing past these you come to another headland, Colyergia, jutting out from the mainland, and after it to an island, called Tricrana (Three Heads), and a mountain, projecting into the sea from the Peloponnesus, called Buporthmus (Ox-ford). On Buporthmus has been built a sanctuary of Demeter and her daughter, as well as one of Athena, surnamed Promachorma (Champion of the Anchorage).</p>
+      <p>Before Buporthmus lies an island called Aperopia, not far from which is another island, Hydrea. After it the mainland is skirted by a crescent-shaped beach and after the beach there is a spit of land up to a sanctuary of Poseidon, beginning at the sea on the east and extending westwards. It possesses harbors, and is some seven stades in length, and not more than three stades in breadth where it is broadest.</p>
+      <p>Here the Hermionians had their former city. They still have sanctuaries here: one of Poseidon at the east end of the spit, and a temple of Athena further inland; by the side of the latter are the foundations of a race-course, in which legend says the sons of Tyndareus contended. There is also another sanctuary of Athena, of no great size, the roof of which has fallen in. There is a temple to Helius (Sun), another to the Graces, and a third to Serapis and Isis. There are also circuits of large unhewn stones, within which they perform mystic ritual to Demeter.</p>
+      <p>Such are the possessions of the Hermionians in these parts. The modern city is just about four stades distant from the headland, upon which is the sanctuary of Poseidon, and it lies on a site which is level at first, gently rising up a slope, which presently merges into Pron, for so they name this mountain. A wall stands all round Hermione, a city which I found afforded much to write about, and among the things which I thought I myself must certainly mention are a temple of Aphrodite, surnamed both Pontia (of the Deep Sea) and Limenia (of the Harbor), and a white-marble image of huge size, and worth seeing for its artistic excellence.</p>
+      <p>There is also another temple of Aphrodite. Among the honors paid her by the Hermionians is this custom: maidens, and widows about to remarry, all sacrifice to her before wedding. Sanctuaries have also been built of Demeter Thermasia (Warmth), one at the border towards Troezenia, as I have stated above, while there is another in Hermione itself.</p>
+    </body>
+  </text>
+</TEI>

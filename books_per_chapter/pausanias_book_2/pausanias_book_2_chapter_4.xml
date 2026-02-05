@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::81 /TEI[1]/text[1]/body[1]/p[2]::88" xml:id="UID-FAKE-1951">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::152 /TEI[1]/text[1]/body[1]/p[2]::159" xml:id="UID-FAKE-1952">
+        <rs ana="https://topostext.org/place/395222UAst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::199 /TEI[1]/text[1]/body[1]/p[2]::204" xml:id="UID-FAKE-1953">
+        <rs ana="https://topostext.org/place/365295RLyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::226 /TEI[1]/text[1]/body[1]/p[2]::237" xml:id="UID-FAKE-1954">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::283 /TEI[1]/text[1]/body[1]/p[2]::288" xml:id="UID-FAKE-1955">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::292 /TEI[1]/text[1]/body[1]/p[2]::299" xml:id="UID-FAKE-1956">
+        <rs ana="https://topostext.org/place/377228PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::422 /TEI[1]/text[1]/body[1]/p[2]::431" xml:id="UID-FAKE-1957">
+        <rs ana="https://topostext.org/place/377228PMyk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::227 /TEI[1]/text[1]/body[1]/p[3]::235" xml:id="UID-FAKE-1958">
+        <rs ana="https://topostext.org/place/386227UTit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::258 /TEI[1]/text[1]/body[1]/p[3]::264" xml:id="UID-FAKE-1959">
+        <rs ana="https://topostext.org/place/386227UTit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::325 /TEI[1]/text[1]/body[1]/p[3]::332" xml:id="UID-FAKE-1960">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::451 /TEI[1]/text[1]/body[1]/p[3]::458" xml:id="UID-FAKE-1961">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::482 /TEI[1]/text[1]/body[1]/p[3]::489" xml:id="UID-FAKE-1962">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::674 /TEI[1]/text[1]/body[1]/p[3]::681" xml:id="UID-FAKE-1963">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::691 /TEI[1]/text[1]/body[1]/p[3]::701" xml:id="UID-FAKE-1964">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::754 /TEI[1]/text[1]/body[1]/p[3]::761" xml:id="UID-FAKE-1965">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::122 /TEI[1]/text[1]/body[1]/p[4]::131" xml:id="UID-FAKE-1966">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::289 /TEI[1]/text[1]/body[1]/p[4]::297" xml:id="UID-FAKE-1967">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::326 /TEI[1]/text[1]/body[1]/p[4]::335" xml:id="UID-FAKE-1968">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::505 /TEI[1]/text[1]/body[1]/p[4]::512" xml:id="UID-FAKE-1969">
+        <rs ana="https://topostext.org/place/379226FGon"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::519 /TEI[1]/text[1]/body[1]/p[4]::525" xml:id="UID-FAKE-1970">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::537 /TEI[1]/text[1]/body[1]/p[4]::544" xml:id="UID-FAKE-1971">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::571 /TEI[1]/text[1]/body[1]/p[4]::578" xml:id="UID-FAKE-1972">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::666 /TEI[1]/text[1]/body[1]/p[4]::672" xml:id="UID-FAKE-1973">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::780 /TEI[1]/text[1]/body[1]/p[4]::790" xml:id="UID-FAKE-1974">
+        <rs ana="https://topostext.org/place/378226PPhl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::321 /TEI[1]/text[1]/body[1]/p[5]::326" xml:id="UID-FAKE-1975">
+        <rs ana="https://topostext.org/place/417129RLat"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::334 /TEI[1]/text[1]/body[1]/p[5]::345" xml:id="UID-FAKE-1976">
+        <rs ana="https://topostext.org/place/380237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::376 /TEI[1]/text[1]/body[1]/p[5]::381" xml:id="UID-FAKE-1977">
+        <rs ana="https://topostext.org/place/376231GBtg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::383 /TEI[1]/text[1]/body[1]/p[5]::393" xml:id="UID-FAKE-1978">
+        <rs ana="https://topostext.org/place/380237SZeu"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::468 /TEI[1]/text[1]/body[1]/p[5]::473" xml:id="UID-FAKE-1979">
+        <rs ana="https://topostext.org/place/375227ULer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::4 /TEI[1]/text[1]/body[1]/p[6]::17" xml:id="UID-FAKE-1980">
+        <rs ana="https://topostext.org/place/379229SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::135 /TEI[1]/text[1]/body[1]/p[6]::146" xml:id="UID-FAKE-1981">
+        <rs ana="https://topostext.org/place/379229SAph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::194 /TEI[1]/text[1]/body[1]/p[6]::207" xml:id="UID-FAKE-1982">
+        <rs ana="https://topostext.org/place/379229SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::233 /TEI[1]/text[1]/body[1]/p[6]::237" xml:id="UID-FAKE-1983">
+        <rs ana="https://topostext.org/place/379229SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::246 /TEI[1]/text[1]/body[1]/p[6]::250" xml:id="UID-FAKE-1984">
+        <rs ana="https://topostext.org/place/381240SEgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::260 /TEI[1]/text[1]/body[1]/p[6]::268" xml:id="UID-FAKE-1985">
+        <rs ana="https://topostext.org/place/381240SEgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::270 /TEI[1]/text[1]/body[1]/p[6]::276" xml:id="UID-FAKE-1986">
+        <rs ana="https://topostext.org/place/381240SEgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::295 /TEI[1]/text[1]/body[1]/p[6]::303" xml:id="UID-FAKE-1987">
+        <rs ana="https://topostext.org/place/381240SEgy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::304 /TEI[1]/text[1]/body[1]/p[6]::308" xml:id="UID-FAKE-1988">
+        <rs ana="https://topostext.org/place/379229SAkr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::321 /TEI[1]/text[1]/body[1]/p[6]::328" xml:id="UID-FAKE-1989">
+        <rs ana="https://topostext.org/place/386229SSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::351 /TEI[1]/text[1]/body[1]/p[6]::358" xml:id="UID-FAKE-1990">
+        <rs ana="https://topostext.org/place/386229SSer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::370 /TEI[1]/text[1]/body[1]/p[6]::377" xml:id="UID-FAKE-1991">
+        <rs ana="https://topostext.org/place/386229SSer"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 4</head>
+      <p>This is the account that I read, and not far from the tomb is the temple of Athena Chalinitis (Bridler). For Athena, they say, was the divinity who gave most help to Bellerophontes, and she delivered to him Pegasus, having herself broken in and bridled him. The image of her is of wood, but face, hands and feet are of white marble.</p>
+      <p>That Bellerophontes was not an absolute king, but was subject to Proetus and the Argives is the belief of myself and of all who have read carefully the Homeric poems. When Bellerophontes migrated to Lycia it is clear that the Corinthians none the less were subject to the despots at Argos or Mycenae. By themselves they provided no leader for the campaign against Troy, but shared in the expedition as part of the forces, Mycenaean and other, led by Agamemnon.</p>
+      <p>Sisyphus had other sons besides Glaucus, the father of Bellerophontes a second was Ornytion, and besides him there were Thersander and Almus. Ornytion had a son Phocus, reputed to have been begotten by Poseidon. He migrated to Tithorea in what is now called Phocis, but Thoas, the younger son of Ornytion, remained behind at Corinth. Thoas begat Damophon, Damophon begat Propodas, and Propodas begat Doridas and Hyanthidas. While these were kings the Dorians took the field against Corinth, their leader being Aletes, the son of Hippotas, the son of Phylas, the son of Antiochus, the son of Heracles. So Doridas and Hyanthidas gave up the kingship to Aletes and remained at Corinth, but the Corinthian people were conquered in battle and expelled by the Dorians.</p>
+      <p>Aletes himself and his descendants reigned for five generations to Bacchis, the son of Prumnis, and, named after him, the Bacchidae reigned for five more generations to Telestes, the son of Aristodemus. Telestes was killed in hate by Arieus and Perantas, and there were no more kings, but Prytanes (Presidents) taken from the Bacchidae and ruling for one year, until Cypselus, the son of Eetion, became tyrant and expelled the Bacchidae. Cypselus was a descendant of Melas, the son of Antasus. Melas from Gonussa above Sicyon joined the Dorians in the expedition against Corinth. When the god expressed disapproval Aletes at first ordered Melas to withdraw to other Greeks, but afterwards, mistaking the oracle, he received him as a settler. Such I found to be the history of the Corinthian kings.</p>
+      <p>Now the sanctuary of Athena Chalinitis is by their theater, and near is a naked wooden image of Heracles, said to be a work of Daedalus. All the works of this artist, although rather uncouth to look at, are nevertheless distinguished by something divine (ἔνθεον). Above the theater is a sanctuary of Zeus surnamed in the Latin tongue Capitolinus, which might be rendered into Greek “Coryphaeos”. Not far from this theater is the ancient gymnasium, and a spring called Lerna. Pillars stand around it, and seats have been made to refresh in summer time those who have entered it. By this gymnasium are temples of Zeus and Asclepius. The images of Asclepius and of Health are of white marble, that of Zeus is of bronze.</p>
+      <p>The Acrocorinthus is a mountain peak above the city, assigned to Helius by Briareos when he acted as adjudicator, and handed over, the Corinthians say, by Helius to Aphrodite. As you go up this Acrocorinthus you see two precincts of Isis, one οf Isis surnamed Pelagian (Marine) and the other of Egyptian Isis, and two of Serapis, one of them being of Serapis called “in Canopus.” After these are altars to Helius, and a sanctuary of Ananke (Necessity) and Bia (Violence), into which it is not customary to enter.</p>
+      <p>Above it are a temple of the Mother of the gods with a stele and a throne; the stele and the throne are made of stone. The temple of the Fates and that of Demeter and Kore have images that are not exposed to view. Here, too, is the temple of Hera Bounaia set up by Bounos the son of Hermes. It is for this reason that the goddess is called Bounaia.</p>
+    </body>
+  </text>
+</TEI>

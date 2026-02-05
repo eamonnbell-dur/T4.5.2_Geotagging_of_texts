@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::19 /TEI[1]/text[1]/body[1]/p[1]::29" xml:id="UID-FAKE-2079">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::37 /TEI[1]/text[1]/body[1]/p[1]::44" xml:id="UID-FAKE-2080">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::74 /TEI[1]/text[1]/body[1]/p[1]::80" xml:id="UID-FAKE-2081">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::271 /TEI[1]/text[1]/body[1]/p[1]::281" xml:id="UID-FAKE-2082">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::623 /TEI[1]/text[1]/body[1]/p[1]::628" xml:id="UID-FAKE-2083">
+        <rs ana="https://topostext.org/place/370287RKar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::633 /TEI[1]/text[1]/body[1]/p[1]::638" xml:id="UID-FAKE-2084">
+        <rs ana="https://topostext.org/place/365295RLyc"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::658 /TEI[1]/text[1]/body[1]/p[1]::664" xml:id="UID-FAKE-2085">
+        <rs ana="https://topostext.org/place/364282IRho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::758 /TEI[1]/text[1]/body[1]/p[1]::764" xml:id="UID-FAKE-2086">
+        <rs ana="https://topostext.org/place/364282SRho"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::28 /TEI[1]/text[1]/body[1]/p[2]::38" xml:id="UID-FAKE-2087">
+        <rs ana="https://topostext.org/place/380227WHel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::46 /TEI[1]/text[1]/body[1]/p[2]::55" xml:id="UID-FAKE-2088">
+        <rs ana="https://topostext.org/place/395222XSyT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::96 /TEI[1]/text[1]/body[1]/p[2]::105" xml:id="UID-FAKE-2089">
+        <rs ana="https://topostext.org/place/372218RMes"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::221 /TEI[1]/text[1]/body[1]/p[2]::228" xml:id="UID-FAKE-2090">
+        <rs ana="https://topostext.org/place/376216GOin"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::269 /TEI[1]/text[1]/body[1]/p[2]::279" xml:id="UID-FAKE-2091">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::54 /TEI[1]/text[1]/body[1]/p[3]::60" xml:id="UID-FAKE-2092">
+        <rs ana="https://topostext.org/place/383233WAso"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::88 /TEI[1]/text[1]/body[1]/p[3]::96" xml:id="UID-FAKE-2093">
+        <rs ana="https://topostext.org/place/378227SNem"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::174 /TEI[1]/text[1]/body[1]/p[3]::182" xml:id="UID-FAKE-2094">
+        <rs ana="https://topostext.org/place/383235UEte"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::41 /TEI[1]/text[1]/body[1]/p[4]::51" xml:id="UID-FAKE-2095">
+        <rs ana="https://topostext.org/place/395222XSyT"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::71 /TEI[1]/text[1]/body[1]/p[4]::78" xml:id="UID-FAKE-2096">
+        <rs ana="https://topostext.org/place/380225PPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::83 /TEI[1]/text[1]/body[1]/p[4]::87" xml:id="UID-FAKE-2097">
+        <rs ana="https://topostext.org/place/381216PDym"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::95 /TEI[1]/text[1]/body[1]/p[4]::103" xml:id="UID-FAKE-2098">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::108 /TEI[1]/text[1]/body[1]/p[4]::119" xml:id="UID-FAKE-2099">
+        <rs ana="https://topostext.org/place/374221PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::127 /TEI[1]/text[1]/body[1]/p[4]::135" xml:id="UID-FAKE-2100">
+        <rs ana="https://topostext.org/place/372224PSel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::353 /TEI[1]/text[1]/body[1]/p[4]::368" xml:id="UID-FAKE-2101">
+        <rs ana="https://topostext.org/place/379229WSSp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::370 /TEI[1]/text[1]/body[1]/p[4]::378" xml:id="UID-FAKE-2102">
+        <rs ana="https://topostext.org/place/374221SZSo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::98 /TEI[1]/text[1]/body[1]/p[5]::106" xml:id="UID-FAKE-2103">
+        <rs ana="https://topostext.org/place/380237SAna"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::489 /TEI[1]/text[1]/body[1]/p[5]::499" xml:id="UID-FAKE-2104">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::592 /TEI[1]/text[1]/body[1]/p[5]::601" xml:id="UID-FAKE-2105">
+        <rs ana="https://topostext.org/place/369273SDio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::626 /TEI[1]/text[1]/body[1]/p[5]::637" xml:id="UID-FAKE-2106">
+        <rs ana="https://topostext.org/place/369273SDio"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::127 /TEI[1]/text[1]/body[1]/p[6]::136" xml:id="UID-FAKE-2107">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::152 /TEI[1]/text[1]/body[1]/p[6]::158" xml:id="UID-FAKE-2108">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::166 /TEI[1]/text[1]/body[1]/p[6]::172" xml:id="UID-FAKE-2109">
+        <rs ana="https://topostext.org/place/383233PThe"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::202 /TEI[1]/text[1]/body[1]/p[6]::209" xml:id="UID-FAKE-2110">
+        <rs ana="https://topostext.org/place/385225SDel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::236 /TEI[1]/text[1]/body[1]/p[6]::242" xml:id="UID-FAKE-2111">
+        <rs ana="https://topostext.org/place/380227SALS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::365 /TEI[1]/text[1]/body[1]/p[6]::377" xml:id="UID-FAKE-2112">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::400 /TEI[1]/text[1]/body[1]/p[6]::409" xml:id="UID-FAKE-2113">
+        <rs ana="https://topostext.org/place/380227SALS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::213 /TEI[1]/text[1]/body[1]/p[7]::221" xml:id="UID-FAKE-2114">
+        <rs ana="https://topostext.org/place/385230SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::292 /TEI[1]/text[1]/body[1]/p[7]::298" xml:id="UID-FAKE-2115">
+        <rs ana="https://topostext.org/place/384227SDik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::300 /TEI[1]/text[1]/body[1]/p[7]::304" xml:id="UID-FAKE-2116">
+        <rs ana="https://topostext.org/place/386229SArt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::328 /TEI[1]/text[1]/body[1]/p[7]::336" xml:id="UID-FAKE-2117">
+        <rs ana="https://topostext.org/place/371224SAKy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::340 /TEI[1]/text[1]/body[1]/p[7]::345" xml:id="UID-FAKE-2118">
+        <rs ana="https://topostext.org/place/352252IKre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::365 /TEI[1]/text[1]/body[1]/p[7]::373" xml:id="UID-FAKE-2119">
+        <rs ana="https://topostext.org/place/371224SAle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::66 /TEI[1]/text[1]/body[1]/p[8]::72" xml:id="UID-FAKE-2120">
+        <rs ana="https://topostext.org/place/380237WEri"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::328 /TEI[1]/text[1]/body[1]/p[8]::334" xml:id="UID-FAKE-2121">
+        <rs ana="https://topostext.org/place/383228WSyt"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::428 /TEI[1]/text[1]/body[1]/p[8]::438" xml:id="UID-FAKE-2122">
+        <rs ana="https://topostext.org/place/380237SEle"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::135 /TEI[1]/text[1]/body[1]/p[9]::142" xml:id="UID-FAKE-2123">
+        <rs ana="https://topostext.org/place/380237SPtr"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::213 /TEI[1]/text[1]/body[1]/p[9]::220" xml:id="UID-FAKE-2124">
+        <rs ana="https://topostext.org/place/385225SApo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::247 /TEI[1]/text[1]/body[1]/p[9]::255" xml:id="UID-FAKE-2125">
+        <rs ana="https://topostext.org/place/376275WMae"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::276 /TEI[1]/text[1]/body[1]/p[9]::282" xml:id="UID-FAKE-2126">
+        <rs ana="https://topostext.org/place/383233WAso"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::312 /TEI[1]/text[1]/body[1]/p[9]::321" xml:id="UID-FAKE-2127">
+        <rs ana="https://topostext.org/place/378228WAso"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 7</head>
+      <p>From that time the Sicyonians became Dorians and their land a part of the Argive territory. The city built by Aegialeus on the plain was destroyed by Demetrius the son of Antigonus, who founded the modern city near what was once the ancient acropolis. The reason why the Sicyonians grew weak it would be wrong to seek; we must be content with Homer"s saying about Zeus: “Many, indeed, are the cities of which he has levelled the strongholds. When they had lost their power there came upon them an earthquake, which almost depopulated their city and took from them many of their famous sights. It damaged also the cities of Caria and Lycia, and the island of Rhodes was very violently shaken, so that it was thought that the Sibyl had had her utterance about Rhodes fulfilled.</p>
+      <p>When you have come from the Corinthian to the Sicyonian territory you see the tomb of Lycus the Messenian, whoever this Lycus may be; for I can discover no Messenian Lycus who practised the pentathlon or won a victory at Olympia. This tomb is a mound of earth, but the Sicyonians themselves usually bury their dead in a uniform manner. They cover the body in the ground, and over it they build a basement of stone upon which they set pillars. Above these they put something very like the pediment of a temple. They add no inscription, except that they give the dead man"s name without that of his father and bid him farewell.</p>
+      <p>After the tomb of Lycus, but on the other side of the Asopus, there is on the right the Olympium, and a little farther on, to the left of the road, the grave of Eupolis, the Athenian comic poet. Farther on, if you turn in the direction of the city, you see the tomb of Xenodice, who died in childbirth. It has not been made after the native fashion, but so as to harmonize best with the painting, which is very well worth seeing.</p>
+      <p>Farther on from here is the grave of the Sicyonians who were killed at Pellene, at Dyme of the Achaeans, in Megalopolis and at Sellasia. Their story I will relate more fully presently. By the gate they have a spring in a cave, the water of which does not rise out of the earth, but flows down from the roof of the cave. For this reason it is called the Dripping Spring (Stazousa).</p>
+      <p>On the modern acropolis is a sanctuary of Fortune Akraia (of the Height), and after it one of the Dioscuri. Their images and that of Fortune are xoana. On the stage of the theater built under the acropolis is a statue of a man with a shield, who they say is Aratus, the son of Cleinias. After the theater is a temple of Dionysus. The god is of gold and ivory, and by his side are Bacchanals of white marble. These women they say are sacred to Dionysus and maddened by his inspiration. The Sicyonians have also some images which are kept secret. These one night in each year they carry to the Dionysion from what they call the Cosmeterium (Tiring-room), and they do so with lighted torches and native hymns.</p>
+      <p>The first is the one named BaccheusYY, set up by Androdamas, the son of Phlias, and this is followed by the one called Lysios (Deliverer), brought from Thebes by the Theban Phanes at the command of the Pythian priestess. Phanes came to Sicyon when Aristomachus, the son of Cleodaeus, failed to understand the oracle given him, and therefore failed to return to the Peloponnesus. As you walk from the Dionysion to the agora you see on the right a temple of Artemis Limnaia (of the lake). A look shows that the roof has fallen in, but the inhabitants cannot tell whether the image has been removed or how it was destroyed on the spot.</p>
+      <p>Within the agora is a sanctuary of Peitho [Persuasion]; this too has no image. The worship of Persuasion was established among them for the following reason. When Apollo and Artemis had killed Python they came to Aegialea to obtain purification. Dread coming upon them at the place now named Phobos [Fear], they turned aside to Carmanor in Crete, and the people of Aegialea were smitten by a plague. When the seers bade them propitiate Apollo and Artemis,</p>
+      <p>they sent seven boys and seven maidens as suppliants to the river Sythas. They say that the deities, persuaded by these, came to what was then the acropolis, and the place that they reached first is the sanctuary of Persuasion. Conformable with this story is the ceremony they perform at the present day; the children go to the Sythas at the feast of Apollo, and having brought, as they pretend, the deities to the sanctuary of Persuasion, they say that they take them back again to the temple of Apollo. The temple stands in the modern agora, and was originally, it is said, made by Proetus, because in this place his daughters recovered from their madness.</p>
+      <p>It is also said that in this temple Meleager dedicated the spear with which he slew the boar. There is also a story that the flutes of Marsyas are dedicated here. When the Silenus met with his disaster, the river Marsyas carried the flutes to the Maeander; reappearing in the Asopus they were cast ashore in the Sicyonian territory and given to Apollo by the shepherd who found them. I found none of these offerings still in existence, for they were destroyed by fire when the temple was burnt. The temple that I saw, and its image, were dedicated by Pythocles.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::35 /TEI[1]/text[1]/body[1]/p[1]::45" xml:id="UID-FAKE-2128">
+        <rs ana="https://topostext.org/place/380227SSNy"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::65 /TEI[1]/text[1]/body[1]/p[1]::70" xml:id="UID-FAKE-2129">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::193 /TEI[1]/text[1]/body[1]/p[1]::203" xml:id="UID-FAKE-2130">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::398 /TEI[1]/text[1]/body[1]/p[1]::404" xml:id="UID-FAKE-2131">
+        <rs ana="https://topostext.org/place/380237SEpH"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::99 /TEI[1]/text[1]/body[1]/p[3]::108" xml:id="UID-FAKE-2132">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::120 /TEI[1]/text[1]/body[1]/p[3]::126" xml:id="UID-FAKE-2133">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::498 /TEI[1]/text[1]/body[1]/p[3]::508" xml:id="UID-FAKE-2134">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::21 /TEI[1]/text[1]/body[1]/p[4]::27" xml:id="UID-FAKE-2135">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::47 /TEI[1]/text[1]/body[1]/p[4]::58" xml:id="UID-FAKE-2136">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::138 /TEI[1]/text[1]/body[1]/p[4]::148" xml:id="UID-FAKE-2137">
+        <rs ana="https://topostext.org/place/380227BGyS"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::159 /TEI[1]/text[1]/body[1]/p[4]::166" xml:id="UID-FAKE-2138">
+        <rs ana="https://topostext.org/place/387224RDor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::180 /TEI[1]/text[1]/body[1]/p[4]::194" xml:id="UID-FAKE-2139">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::238 /TEI[1]/text[1]/body[1]/p[4]::246" xml:id="UID-FAKE-2140">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::277 /TEI[1]/text[1]/body[1]/p[4]::285" xml:id="UID-FAKE-2141">
+        <rs ana="https://topostext.org/place/385224PAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::289 /TEI[1]/text[1]/body[1]/p[4]::297" xml:id="UID-FAKE-2142">
+        <rs ana="https://topostext.org/place/385224PAmp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::323 /TEI[1]/text[1]/body[1]/p[4]::332" xml:id="UID-FAKE-2143">
+        <rs ana="https://topostext.org/place/386215RAit"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::377 /TEI[1]/text[1]/body[1]/p[4]::384" xml:id="UID-FAKE-2144">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::424 /TEI[1]/text[1]/body[1]/p[4]::434" xml:id="UID-FAKE-2145">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::26 /TEI[1]/text[1]/body[1]/p[5]::33" xml:id="UID-FAKE-2146">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::39 /TEI[1]/text[1]/body[1]/p[5]::45" xml:id="UID-FAKE-2147">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::64 /TEI[1]/text[1]/body[1]/p[5]::75" xml:id="UID-FAKE-2148">
+        <rs ana="https://topostext.org/place/376231SAsk"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::80 /TEI[1]/text[1]/body[1]/p[5]::91" xml:id="UID-FAKE-2149">
+        <rs ana="https://topostext.org/place/375234PTro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::103 /TEI[1]/text[1]/body[1]/p[5]::116" xml:id="UID-FAKE-2150">
+        <rs ana="https://topostext.org/place/374229RArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::129 /TEI[1]/text[1]/body[1]/p[5]::138" xml:id="UID-FAKE-2151">
+        <rs ana="https://topostext.org/place/380233PMeg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::162 /TEI[1]/text[1]/body[1]/p[5]::169" xml:id="UID-FAKE-2152">
+        <rs ana="https://topostext.org/place/379230LIst"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::211 /TEI[1]/text[1]/body[1]/p[5]::219" xml:id="UID-FAKE-2153">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::225 /TEI[1]/text[1]/body[1]/p[5]::238" xml:id="UID-FAKE-2154">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::295 /TEI[1]/text[1]/body[1]/p[5]::302" xml:id="UID-FAKE-2155">
+        <rs ana="https://topostext.org/place/380225PPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::410 /TEI[1]/text[1]/body[1]/p[5]::417" xml:id="UID-FAKE-2156">
+        <rs ana="https://topostext.org/place/380225PPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::25 /TEI[1]/text[1]/body[1]/p[6]::37" xml:id="UID-FAKE-2157">
+        <rs ana="https://topostext.org/place/375222RPel"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::78 /TEI[1]/text[1]/body[1]/p[6]::89" xml:id="UID-FAKE-2158">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::111 /TEI[1]/text[1]/body[1]/p[6]::119" xml:id="UID-FAKE-2159">
+        <rs ana="https://topostext.org/place/379236HPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::121 /TEI[1]/text[1]/body[1]/p[6]::129" xml:id="UID-FAKE-2160">
+        <rs ana="https://topostext.org/place/379237HMou"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::131 /TEI[1]/text[1]/body[1]/p[6]::138" xml:id="UID-FAKE-2161">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::144 /TEI[1]/text[1]/body[1]/p[6]::150" xml:id="UID-FAKE-2162">
+        <rs ana="https://topostext.org/place/379235PSal"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::333 /TEI[1]/text[1]/body[1]/p[6]::342" xml:id="UID-FAKE-2163">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::428 /TEI[1]/text[1]/body[1]/p[6]::433" xml:id="UID-FAKE-2164">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::453 /TEI[1]/text[1]/body[1]/p[6]::460" xml:id="UID-FAKE-2165">
+        <rs ana="https://topostext.org/place/376227PArg"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::493 /TEI[1]/text[1]/body[1]/p[6]::507" xml:id="UID-FAKE-2166">
+        <rs ana="https://topostext.org/place/382219RAch"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::521 /TEI[1]/text[1]/body[1]/p[6]::529" xml:id="UID-FAKE-2167">
+        <rs ana="https://topostext.org/place/376224UMan"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::539 /TEI[1]/text[1]/body[1]/p[6]::552" xml:id="UID-FAKE-2168">
+        <rs ana="https://topostext.org/place/371224PSpa"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::686 /TEI[1]/text[1]/body[1]/p[6]::697" xml:id="UID-FAKE-2169">
+        <rs ana="https://topostext.org/place/408225RMak"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 8</head>
+      <p>The precinct near the sanctuary of Persuasion that is devoted to Roman emperors was once the house of the tyrant Cleon. He became tyrant in the modern city; there was another tyranny while the Sicyonians still lived in the lower city, that of Cleisthenes, the son of Aristonymus, the son of Myron. Before this house is a hero-shrine of Aratus, whose achievements eclipsed those of all contemporary Greeks. His history is as follows.</p>
+      <p>After the despotism of Cleon, many of those in authority were seized with such an ungovernable passion for tyranny that two actually became tyrants together, Euthydemus and Timocleidas. These were expelled by the people, who made Cleinias, the father of Aratus, their champion. A few years afterwards Abantidas became tyrant. Before this time Cleinias had met his death, and Aratus went into exile, either of his own accord or because he was compelled to do so by Abantidas. Now Abantidas was killed by some natives, and his father Paseas immediately became tyrant.</p>
+      <p>He was killed by Nicocles, who succeeded him. This Nicocles was attacked by Aratus with a force of Sicyonian exiles and Argive mercenaries. Making his attempt by night, he eluded some of the defenders in the darkness; the others he overcame, and forced his way within the wall. Day was now breaking, and taking the populace with him he hastened to the tyrant"s house. This he easily captured, but Nicocles himself succeeded in making his escape. Aratus restored equality of political rights to the Sicyonians, striking a bargain for those in exile; he restored to them their houses and all their other possessions which had been sold, compensating the buyers out of his own purse.</p>
+      <p>Moreover, as all the Greeks were afraid of the Macedonians and of Antigonus, the guardian of Philip, the son of Demetrius, he induced the Sicyonians, who were Dorians, to join the Achaean League. He was immediately elected general by the Achaeans, and leading them against the Locrians of Amphissa and into the land of the Aetolians, their enemies, he ravaged their territory. Corinth was held by Antigonus, and there was a Macedonian garrison in the city, but he threw them into a panic by the suddenness of his assault, winning a battle and killing among others Persaeus, the commander of the garrison, who had studied philosophy under Zeno, the son of Mnaseas.</p>
+      <p>When Aratus had liberated Corinth, the League was joined by the Epidaurians and Troezenians inhabiting Argolian Acte, and by the Megarians among those beyond the Isthmus, while Ptolemy made an alliance with the Achaeans. The Lacedemonians and king Agis, the son of Eudamidas, surprised and took Pellene by a sudden onslaught, but when Aratus and his army arrived they were defeated in an engagement, evacuated Pellene, and returned home under a truce.</p>
+      <p>After his success in the Peloponnesus, Aratus thought it a shame to allow the Macedonians to hold unchallenged Peiraeus, Munychia, Salamis, and Sunium; but not expecting to be able to take them by force he bribed Diogenes, the commander of the garrisons, to give up the positions for a hundred and fifty talents, himself helping the Athenians by contributing a sixth part of the sum. He induced Aristomachus also, the tyrant of Argos, to restore to the Argives their democracy and to join the Achaean League; he captured Mantinea from the Lacedemonians who held it. But no man finds all his plans turn out according to his liking, and even Aratus was compelled to become an ally of the Macedonians and Antigonus in the following way.</p>
+    </body>
+  </text>
+</TEI>

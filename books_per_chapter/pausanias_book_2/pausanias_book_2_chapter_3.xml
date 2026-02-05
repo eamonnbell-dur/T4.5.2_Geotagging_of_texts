@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+  <standOff type="recogito_studio_annotations">
+    <listAnnotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::39 /TEI[1]/text[1]/body[1]/p[1]::45" xml:id="UID-FAKE-1906">
+        <rs ana="https://topostext.org/place/380237SAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::202 /TEI[1]/text[1]/body[1]/p[1]::208" xml:id="UID-FAKE-1907">
+        <rs ana="https://topostext.org/place/379229SOct"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[1]::249 /TEI[1]/text[1]/body[1]/p[1]::256" xml:id="UID-FAKE-1908">
+        <rs ana="https://topostext.org/place/379229XAgo"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::39 /TEI[1]/text[1]/body[1]/p[2]::47" xml:id="UID-FAKE-1909">
+        <rs ana="https://topostext.org/place/379229XLeR"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::257 /TEI[1]/text[1]/body[1]/p[2]::265" xml:id="UID-FAKE-1910">
+        <rs ana="https://topostext.org/place/380237SHAl"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::310 /TEI[1]/text[1]/body[1]/p[2]::317" xml:id="UID-FAKE-1911">
+        <rs ana="https://topostext.org/place/379229WSSp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[2]::336 /TEI[1]/text[1]/body[1]/p[2]::343" xml:id="UID-FAKE-1912">
+        <rs ana="https://topostext.org/place/379229WSSp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::189 /TEI[1]/text[1]/body[1]/p[3]::199" xml:id="UID-FAKE-1913">
+        <rs ana="https://topostext.org/place/379229WLPF"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::272 /TEI[1]/text[1]/body[1]/p[3]::283" xml:id="UID-FAKE-1914">
+        <rs ana="https://topostext.org/place/379229SPoA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[3]::308 /TEI[1]/text[1]/body[1]/p[3]::315" xml:id="UID-FAKE-1915">
+        <rs ana="https://topostext.org/place/379229SPoA"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::33 /TEI[1]/text[1]/body[1]/p[4]::41" xml:id="UID-FAKE-1916">
+        <rs ana="https://topostext.org/place/379229HLec"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::207 /TEI[1]/text[1]/body[1]/p[4]::212" xml:id="UID-FAKE-1917">
+        <rs ana="https://topostext.org/place/377216GSui"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[4]::253 /TEI[1]/text[1]/body[1]/p[4]::260" xml:id="UID-FAKE-1918">
+        <rs ana="https://topostext.org/place/379224CHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::4 /TEI[1]/text[1]/body[1]/p[5]::15" xml:id="UID-FAKE-1919">
+        <rs ana="https://topostext.org/place/379229BEuB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::152 /TEI[1]/text[1]/body[1]/p[5]::160" xml:id="UID-FAKE-1920">
+        <rs ana="https://topostext.org/place/379229BEuB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::181 /TEI[1]/text[1]/body[1]/p[5]::188" xml:id="UID-FAKE-1921">
+        <rs ana="https://topostext.org/place/379229BEuB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::277 /TEI[1]/text[1]/body[1]/p[5]::284" xml:id="UID-FAKE-1922">
+        <rs ana="https://topostext.org/place/369225UKro"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::288 /TEI[1]/text[1]/body[1]/p[5]::295" xml:id="UID-FAKE-1923">
+        <rs ana="https://topostext.org/place/370225RLak"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::419 /TEI[1]/text[1]/body[1]/p[5]::430" xml:id="UID-FAKE-1924">
+        <rs ana="https://topostext.org/place/379229BEuB"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::528 /TEI[1]/text[1]/body[1]/p[5]::543" xml:id="UID-FAKE-1925">
+        <rs ana="https://topostext.org/place/379229BHAq"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[5]::630 /TEI[1]/text[1]/body[1]/p[5]::644" xml:id="UID-FAKE-1926">
+        <rs ana="https://topostext.org/place/379229WSSp"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::60 /TEI[1]/text[1]/body[1]/p[6]::66" xml:id="UID-FAKE-1927">
+        <rs ana="https://topostext.org/place/380227PSik"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::180 /TEI[1]/text[1]/body[1]/p[6]::198" xml:id="UID-FAKE-1928">
+        <rs ana="https://topostext.org/place/379229BOde"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::356 /TEI[1]/text[1]/body[1]/p[6]::362" xml:id="UID-FAKE-1929">
+        <rs ana="https://topostext.org/place/379229BOde"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[6]::515 /TEI[1]/text[1]/body[1]/p[6]::526" xml:id="UID-FAKE-1930">
+        <rs ana="https://topostext.org/place/379229BOde"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::68 /TEI[1]/text[1]/body[1]/p[7]::79" xml:id="UID-FAKE-1931">
+        <rs ana="https://topostext.org/place/380229RPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::322 /TEI[1]/text[1]/body[1]/p[7]::329" xml:id="UID-FAKE-1932">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::352 /TEI[1]/text[1]/body[1]/p[7]::358" xml:id="UID-FAKE-1933">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[7]::371 /TEI[1]/text[1]/body[1]/p[7]::382" xml:id="UID-FAKE-1934">
+        <rs ana="https://topostext.org/place/380229RPei"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::42 /TEI[1]/text[1]/body[1]/p[8]::48" xml:id="UID-FAKE-1935">
+        <rs ana="https://topostext.org/place/380237PAth"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::142 /TEI[1]/text[1]/body[1]/p[8]::148" xml:id="UID-FAKE-1936">
+        <rs ana="https://topostext.org/place/380237AAmz"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::186 /TEI[1]/text[1]/body[1]/p[8]::190" xml:id="UID-FAKE-1937">
+        <rs ana="https://topostext.org/place/345615RAre"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[8]::303 /TEI[1]/text[1]/body[1]/p[8]::307" xml:id="UID-FAKE-1938">
+        <rs ana="https://topostext.org/place/370585RPar"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::4 /TEI[1]/text[1]/body[1]/p[9]::10" xml:id="UID-FAKE-1939">
+        <rs ana="https://topostext.org/place/384218UNau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::36 /TEI[1]/text[1]/body[1]/p[9]::45" xml:id="UID-FAKE-1940">
+        <rs ana="https://topostext.org/place/384218UNau"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::134 /TEI[1]/text[1]/body[1]/p[9]::140" xml:id="UID-FAKE-1941">
+        <rs ana="https://topostext.org/place/394230UIol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[9]::144 /TEI[1]/text[1]/body[1]/p[9]::151" xml:id="UID-FAKE-1942">
+        <rs ana="https://topostext.org/place/396199PKer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::40 /TEI[1]/text[1]/body[1]/p[10]::47" xml:id="UID-FAKE-1943">
+        <rs ana="https://topostext.org/place/367229UAso"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::117 /TEI[1]/text[1]/body[1]/p[10]::124" xml:id="UID-FAKE-1944">
+        <rs ana="https://topostext.org/place/431423RCol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::272 /TEI[1]/text[1]/body[1]/p[10]::282" xml:id="UID-FAKE-1945">
+        <rs ana="https://topostext.org/place/392205UEph"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::353 /TEI[1]/text[1]/body[1]/p[10]::364" xml:id="UID-FAKE-1946">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[10]::385 /TEI[1]/text[1]/body[1]/p[10]::391" xml:id="UID-FAKE-1947">
+        <rs ana="https://topostext.org/place/394230UIol"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::30 /TEI[1]/text[1]/body[1]/p[11]::37" xml:id="UID-FAKE-1948">
+        <rs ana="https://topostext.org/place/379229PKor"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::110 /TEI[1]/text[1]/body[1]/p[11]::114" xml:id="UID-FAKE-1949">
+        <rs ana="https://topostext.org/place/380229SHer"/>
+      </annotation>
+      <annotation target="/TEI[1]/text[1]/body[1]/p[11]::345 /TEI[1]/text[1]/body[1]/p[11]::351" xml:id="UID-FAKE-1950">
+        <rs ana="https://topostext.org/place/394230UIol"/>
+      </annotation>
+    </listAnnotation>
+  </standOff>
+  <text>
+    <body>
+      <head>Book 2, Chapter 3</head>
+      <p>In the middle of the agora is a bronze Athena, on the pedestal of which are wrought in relief figures of the Muses. Above the agora is a temple of Octavia the sister of Augustus, who was emperor of the Romans after Caesar, the founder of the modern Corinth.</p>
+      <p>On leaving the agora along the road to Lechaeum you come to a gateway, on which are two gilded chariots, one carrying Phaethon the son of Helius (Sun), the other Helius himself. A little farther away from the gateway, on the right as you go in, is a bronze Heracles. After this is the entrance to the water of Peirene. The legend about Peirene is that she was a woman who became a spring because of her tears shed in lamentation for her son Cenchrias, who was unintentionally killed by Artemis.</p>
+      <p>The spring is ornamented with white marble, and there have been made chambers like caves, out of which the water flows into an open-air well. It Is pleasant to drink, and they say that the Corinthian bronze, when red-hot, is tempered by this water, since bronze . . . the Corinthians have not. Moreover near Peirene are an image and a sacred enclosure of Apollo; in the latter is a painting of the exploit of Odysseus against the suitors.</p>
+      <p>Proceeding on the direct road to Lechaeum we see a bronze image of a seated Hermes. By him stands a ram, for Hermes is the god who is thought most to care for and to increase flocks, as Homer puts it in the Iliad: “Son was he of Phorbas, the dearest of Trojans to Hermes, Rich in flocks, for the god vouchsafed him wealth in abundance.” The story told at the mysteries of the Mother about Hermes and the ram I know but do not relate. After the image of Hermes come Poseidon, Leucothea, and Palaemon on a dolphin.</p>
+      <p>The Corinthians have baths in many parts of the city, some put up at the public charge and one by the emperor Hadrian. The most famous bath is near the Poseidon. It was made by the Spartan Eurycles, who beautified it with various kinds of stone, especially the one quarried at Croceae in Laconia. On the left of the entrance stands a Poseidon, and after him Artemis hunting. Throughout the city are many wells, for the Corinthians have a copious supply of flowing water, besides the water which the emperor Hadrian brought from Lake Stymphalus, but the most noteworthy is the one by the side of the image of Artemis. Over it is a Bellerophontes, and the water flows through the hoof of the horse Pegasus.</p>
+      <p>As you go along another road from the agora, which leads to Sicyon, you can see on the right of the road a temple and bronze image of Apollo, and a little farther on a well called the Well of Glauce. Into this they say she threw herself in the belief that the water would be a cure for the drugs of Medea. Above this well has been built what is called the Odeion (music hall), beside which is the tomb of Medea"s children. Their names were Mermerus and Pheres, and they are said to have been stoned to death by the Corinthians owing to the gifts which legend says they brought to Glauce.</p>
+      <p>But as their death was violent and illegal, the young babies of the Corinthians were destroyed by them until, at the command of the oracle, yearly sacrifices were established in their honor and a figure of Deima (terror) was set up. This figure still exists, being the likeness of a woman frightful to look upon but after Corinth was laid waste by the Romans and the old Corinthians were wiped out, the new settlers broke the custom of offering those sacrifices to the sons of Medea, nor do their children cut their hair for them or wear black clothes.</p>
+      <p>On the occasion referred to Medea went to Athens and married Aegeus, but subsequently she was detected plotting against Theseus and fled from Athens also; coming to the land then called Aria she caused its inhabitants to be named after her Medes. The son, whom she brought with her in her flight to the Arii, they say she had by Aegeus, and that his name was Medus. Hellanicus, however, calls him Polyxenus and says that his father was Jason.</p>
+      <p>The Greeks have an epic poem called Naupactia. In this Jason is represented as having removed his home after the death of Pelias from Iolcus to Corcyra, and Mermerus, the elder of his children, to have been killed by a lioness while hunting on the mainland opposite. Of Pheres is recorded nothing. But Cinaethon of Lacedemon, another writer of pedigrees in verse, said that Jason"s children by Medea were a son Medeus and a daughter Eriopis; he too, however, gives no further information about these children.</p>
+      <p>Eumelus said that Helius (Sun) gave the Asopian land to Aloeus and Ephyraea to Aeetes. When Aeetes was departing for Colchis he entrusted his land to Bunus, the son of Hermes and Alcidamea, and when Bunus died Epopeus the son of Aloeus extended his kingdom to include the Ephyraeans. Afterwards, when Corinthus, the son of Marathon, died childless, the Corinthians sent for Medea from Iolcus and bestowed upon her the kingdom.</p>
+      <p>Through her Jason was king in Corinth, and Medea, as her children were born, carried each to the sanctuary of Hera and concealed them, doing so in the belief that so they would be immortal. At last she learned that her hopes were vain, and at the same time she was detected by Jason. When she begged for pardon he refused it, and sailed away to Iolcus. For these reasons Medea too departed, and handed over the kingdom to Sisyphus.</p>
+    </body>
+  </text>
+</TEI>
